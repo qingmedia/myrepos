@@ -1,0 +1,413 @@
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2adc0ba467474d65b0b039bb99c09558", "402881AC4D4188E9014D4188E99D0008", "Olay", "Olay 3旋CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1402/11/c0/spcgroup/31166493_1392109759071_400x400_290x290.jpg", "￥220.0", "含70%高肌能精华——亿万高效水润因子和细胞能量精华（烟酰胺+葡糖胺）保持肌肤持久水润，唤醒细胞能量有效改善肤质，并配合超细微水润修颜颗粒将皮肤自然调整肤色的最佳状态。1．棕色乳液——超细微水润修颜颗粒，细滑修颜：
+应用水包油科技，与传统粉底油包水或者硅包水科技不同的是:
+内层小分子脂质能帮助颗粒易于延展、均匀覆盖；
+外层充沛水分则能承载大量亲水修颜颗粒 ，滋润肌肤同时完美修颜；
+避免传统粉底成分易于浮油和不够滋润的弱点。
+修颜颗粒通过亲水基团稳定于棕色乳液内，当涂抹于皮肤上时能迅速释放，均匀覆盖在肌肤表面，从而形成一层细滑均匀如薄纱般的修颜颗粒层。
+2.  白色乳霜——高效水润因子，长效水润：
+特含亿万高效水润因子，作用于肌肤表层，深层滋润，长效水润。
+3.  透明啫喱——高浓度细胞能量精华（烟酰胺+葡糖胺），自然亮白：
+烟酰胺——经典细胞能量因子，能提升细胞能量生成。
+葡糖胺（ N-乙酰葡糖胺）—源自自天然海洋生物；19道工序精炼提纯：全能成分，提升肌肤细胞在保湿、美白和抗老化各方面的功能
+促进透明质酸生成提升肌肤保湿能力；阻断黑色素生成信号，抑制转运改善斑点和肤色；促进胶原合成，改善皱纹和细纹。产品功效：BB霜 +高肌能精华, 解决BB霜不足，将裸妆提升至裸肌！
+独家三旋科技，专注三重功效。70%护肤精华，奢华立体三重奏结构：
+棕色乳液，细滑修颜。超细微水润修颜颗粒, 作用于肌肤表面，应用水包油科技，细滑修颜，轻盈质地，自然调整到肤色的最佳状态。 
+白色乳霜，持久水润。含亿万水润因子，维持持久水润。
+透明啫喱，自然亮白。高浓度细胞能量精华（烟酰胺+葡糖胺），作用于肌肤深层，自然亮白，改善细纹，水润肌肤。Olay经典细胞能量科技，帮助提升细胞能量，唤醒倦怠肌肤，能有效改善肤质，加速升级前序护肤步骤效果。
+“1抹立现水润裸妆  8周挑战无瑕裸肌”使用说明：
+每日早晚洁面护肤后使用，用掌心或指尖取适量本品，均匀涂抹于面部及颈部。
+霜状丰润质地，丝质柔滑感受；独特水包油配方，极易吸收，不油腻；一年四季均可以使用，适用于任何肤质。
+与Olay 相关产品配合使用，效果更佳。", "均匀肤色 ", "50g", "CC霜系列", "2015-05-25 10:40:17")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("10fbc3fe58104638a3c13c947c91d137", "402881AC4D4188E9014D4188E99D0008", "倩碧", "倩碧 水嫩保湿修颜霜SPF30", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1312/26/c0/spcgroup/30035295_1388072494500_400x400_290x290.jpg", "￥350", "这是一款能完美修正肤色、并具有滋润、防晒功能的修颜霜。一个简单步骤，就能拥有水润、粉嫩的完美好气色。 通过过敏性测试，百分百不含香料。通过眼科医生测试。无油配方，不生暗疮配方。 适合所有肌肤类型。
+粉嫩-
+智慧型光学肤色修正科技 即刻修正泛红、暗沉、蜡黄肤色，
+多款色调，中度遮盖，给予皮肤自然、健康的光泽，让肌肤展现粉嫩好气色。 
+水润-
+王牌水磁场修颜霜。质地轻盈，即刻水润。 
+芦荟活水、玻璃酸钠、海藻多糖和山梨糖醇 提升皮肤吸水和锁水能力，滋润肌肤。 
+全面防护- 
+广谱防晒，全面抵御UVA与UVB侵害，帮助预防衰老。理化防晒。
+温和安全-
+倩碧皮肤学专家指出，香料在阳光下会令肌肤产生过敏， 即：香料+阳光=过敏， 
+所以倩碧始终坚持百分之百不含香料，这是一款市面上最安全的CC霜！使用方法：
+每天早上，用于所有护肤之后。取用适量水磁场CC 霜，用无名指指腹或粉底刷均匀涂抹于全脸，或仅使用在想要修正肤色的部位。 可以单独使用或在粉底之前使用。任何一款倩碧卸妆产品均能轻盈卸除。 
+如需要深度保湿滋润，日常护肤时请于倩碧水磁场或水磁场精华霜之后使用，可用水磁场喷雾随时补水，周护理时可与水磁场晚安面膜一同使用。", "均匀肤色 ", "40ml", "彩妆系列", "2015-05-25 10:40:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c221fae666614f44a7df9e73581370a1", "402881AC4D4188E9014D4188E99D0008", "卡姿兰", "卡姿兰 蜗牛CC霜（蜗牛色彩调控霜）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1402/12/c0/spcgroup/31191984_1392191009701_400x400_290x290.jpg", "￥199", "智能调色，定制专属肤色——
+一瓶调亮6亿女性的不同肤色
+定制级肤色：蕴含魔焕调色微粒，与肌肤轻触间，即刻将每一寸黯哑、瑕疵肌肤调为晶透无瑕美肌，调出立体、无瑕、水润、透亮的质感美妆。 底妆、精华、妆前、隔离、亮白五步合一，轻松打造自然臻美的灵动美肌。 
+8C级定制标准： 创新8C级底妆定制标准：Color色彩、Control调控、 Correct校正、 Concealer无瑕Clarity纯净、Care护肤、Collection集萃、Chic潮流，多方面打造持久水亮妆感。 
+精华级盈养：以精华级的莲花提取液取代传统底妆中的去离子水成分，精养妆容；集萃七白花复合精华与蜗牛修护精华等奢华营养，修护更生，让能量充沛的肌肤绽放丰盈光采。", "遮瑕 ", "30g", "CC家族系列", "2015-05-25 10:40:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7f0364ed171d4c3caa0f7b77a857ff93", "402881AC4D4188E9014D4188E99D0008", "碧欧泉", "碧欧泉 C.C隔离霜（紫色）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1503/18/c0/spcgroup/proportion_290x290/4040695_1426652217464_400x400.jpg", "￥390", "碧欧泉C.C隔离霜SPF30+ /PA++，全新定义C.C霜从Color Correction（色彩修颜）到 Care（色彩护肤）碧欧泉将其逾几十年的护肤经验，从色彩修颜到色彩护肤。5种颜色针对不同的肤色问题，无论是斑点、黯沉、肤色不匀，暗黄或是泛红都可以找寻到针对性的解决方案。Color Correction（色彩修颜）,碧欧泉全新C.C霜，带来全新修正理念，修正肤色同时修正肤质。每款色号为不同肤色问题提供针对性解决。极其轻薄的质地，增强产品修颜持久度，更易涂抹。融合护肤及隔离功效，全新碧欧泉CC霜提供最高级紫外线防护SPF50+, 预防紫外线伤害，及造成的肌肤色素沉淀。预防光老化。协同碧欧泉水光滢亮美白精华核心成分—滢海亮白科技，帮助从源头抑黑，抵御肤色问题的产品。修正肤色，柔滑肌肤，UV防护，保湿水润，由内焕亮·修正肤色：5款色号，针对性解决各种肤色问题·柔滑肌肤：独特配方体系，修正不平滑肌肤，肌肤如丝绸般光滑·UV防护：更广谱隔离防护紫外线，SPF50+, PA++,从最初预防黑斑·由内焕亮：蕴含水光滢亮美白精华核心成分-滢海亮白科技，由内焕亮肌肤，肌肤透现如初白皙光感实验证明，100%的女性表示在使用CC霜后，上妆更加容易，并且留妆时间更加持久。绿：针对泛红肌，修正过度红色，展现健康自然肌肤白：针对“灰纱”肌，即刻提亮肤色，揭开蒙在肌肤上的灰纱粉：针对苍白肌，即刻光亮肌肤，令肌肤透现红润健康。蓝：针对黯黄肌，即刻修正偏黄肤色，令肌肤莹亮健康。", "隔离 均匀肤色 ", "30ml", "修颜隔离系列", "2015-05-25 10:40:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d496819db56243dd899b7d5e3396c989", "402881AC4D4188E9014D4188E99D0008", "雅诗兰黛", "雅诗兰黛 鲜养焕亮修颜霜SPF20/PA+（CC霜）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1404/09/c0/spcgroup/32952518_1397034578492_400x400_290x290.jpg", "￥460", "全新鲜养焕亮修颜霜，保湿、修护、隔离、遮瑕、焕亮多效合一，一抹修正肤色与瑕疵，击退黯黄黯哑，卓效提升肌肤吸水锁水力，肌肤全天候透现盈润红嫩，光彩呼之欲出。
+无须妝容
+牡丹沁红妍 石榴漾鲜活
+全新鲜养焕亮系列鲜活呈献
+
+雅诗兰黛独家甄选天然养肤珍品粉牡丹，凝萃舒活气血，红润肌肤和祛黄提亮的天赋能量，联袂纯鲜红石榴果莓复合精粹创新 Rosy Prism™鲜活润养科技：
+深排浊，力退黯黄，焕亮疲惫倦容；
+促循环，时刻更新，沁现红润气色； 
+加润养，畅饮鲜活，迸发生机盎然！
+
+
+	这款多效合一的CC霜即刻为肌肤带来修正肤色、补水与柔滑的功效，肌肤瞬间完美无瑕，闪耀红润光泽。独特、轻薄而柔软的乳状质地易于叠加，格外剔透的妆效令肤色倍显自然的同时更能最大程度淡化瑕疵、中和黯黄肤色。", "遮瑕 均匀肤色 ", "30ml", "鲜养焕亮系列", "2015-05-25 10:40:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0aff66f843934e13b4ab186f6c47a1fa", "402881AC4D4188E9014D4188E99D0008", "露华浓", "露华浓 明晰净白保湿修颜霜（露华浓CC霜）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1306/19/c0/spcgroup/22307859_1371655265976_400x400_290x290.jpg", "￥168", "富含甘草萃取、桑堪精华和维他命C等美白精华成分，美白肌肤、令肌肤通透柔嫩、散发焕然光彩
+"彩妆亦护肤"：集保湿、美白、修颜与护肤多重功效于一体，有助遮盖淡斑、黑眼圈、眼袋和细纹等瑕疵
+质地轻薄、易贴合肌肤、易上妆；令肌肤匀净剔透、展现清透自然地健康气色
+搭配露华浓美白产品使用，呈现由内而外的美白效果", "遮瑕 均匀肤色 ", "30ml", "彩妆系列", "2015-05-25 10:40:37")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7bb106a019894c66a9e0c62957cf76da", "402881AC4D4188E9014D4188E99D0008", "兰蔻", "兰蔻 奇迹修颜妆前乳（兰蔻CC霜）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1306/20/c0/spcgroup/22347354_1371734128461_400x400_290x290.jpg", "￥450", "兰蔻首款CC霜
+持久保证完美气色
+均衡肤色一抹即现
+肌肤时刻水润健康
+底妆更舒适更持久
+薰衣草紫：修正暗沉偏黄肤色", "均匀肤色 ", "30ml", "彩妆系列", "2015-05-25 10:40:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("90bd7298c34f4a55ad65c4102ffce2e3", "402881AC4D4188E9014D4188E99D0008", "美宝莲", "美宝莲 好气色CC霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/07/c0/spcgroup/proportion_290x290/1574005_1420601487741_400x400.jpg", "￥109", "担心底妆产品阻塞毛孔，痘痘不请自来？不用粉面具，毛孔不堵塞，全新美宝莲好气色CC霜，集清透保湿、粉嫩焕亮为一体，简单一步，完美修正肤色，带你进入底妆CC好气色时代！给中国女性消费者量身定制，初恋般美妙质地，美，就现在！1、无厚粉以护肤乳霜为底，蕴含白睡莲花精粹，温和呵护肌肤；无厚粉色素，不堵塞毛孔，减少肌肤负担的同时，在最大程度上避免毛孔阻塞带来的肌肤问题。2、好气色：
+蕴含粉嫩透亮晶珠，涂抹瞬间释放神奇肤色提亮因子，肌肤瞬间绽现粉嫩光泽，让好气色无时无刻！与BB霜相比，美宝莲好气色CC霜具有三大优势：粉嫩透亮因子让肌肤散发无限光感，自然透现好气色；轻薄质地带来无厚粉的清透妆面，就像你的肌肤本就如此；以乳霜为底，使肌肤美美同时，更能深层修养肌肤，因此更适合敏感肌MM使用。", "均匀肤色 ", "30ml", "彩妆系列", "2015-05-25 10:40:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4187078e1f094cdc80d8ed032ea98bc8", "402881AC4D4188E9014D4188E99D0008", "梦妆", "梦妆 花源水感修颜霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1312/30/c0/spcgroup/30152195_1388417019803_400x400_290x290.jpg", "￥145", "一款将乳液、水分面霜与防护霜，  3种产品功效集于一身的整体护理（Complete Care）修颜霜", "遮瑕 均匀肤色 ", "40ml", "花源滋养系列", "2015-05-25 10:40:47")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("407dfc4c030946bdb0a808eed8bcb32a", "402881AC4D4188E9014D4188E99D0008", "卡婷", "卡婷 气垫CC霜（卡婷气垫智控霜）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/11/c0/spcgroup/proportion_290x290/39527980_1413012248000_400x400.jpg", "￥239", "100%韩国进口原料配方，100万个密集气孔，12小时持久定妆，60%肌肤含水量的强力提升，蕴含多重天然养肤成分，将亮肤、隔离、舒缓、平滑、保湿、润颜、持久7大功效集于一盒，修容养肤，可上妆可补妆可定妆，使用方便快捷，轻松打造无暇、轻透、水嫩韩式裸妆。", "保湿 舒缓肌肤 滋润 提亮肤色 隔离 柔滑 持久 ", "13g*2(内含替换装)", "彩妆系列", "2015-05-25 10:40:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4f6823efda0e4628a52bda60833eaedc", "402881AC4D4188E9014D4188E99D0008", "茹妆", "茹妆 蜂蜜气垫皙皙霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/21/c0/spcgroup/proportion_290x290/39928695_1413861554455_400x400.jpg", "￥159", "新概念气垫皙皙霜，将水润质地皙皙霜置于密集海绵气孔中，配合绵柔粉扑轻轻按压令妆容更服帖平滑，巧妙遮盖面部瑕疵，润饰粗糙纹理；内含蜂蜜、水飞蓟提取物，紧致滋养，随时随地打造轻薄水润的透亮妆容。", "保湿 补水 抗衰老/抗皱 提拉紧致 嫩肤 修颜 均匀肤色 ", "15g", "面部系列", "2015-05-25 10:40:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e55efce21a384460922216182a0a3950", "402881AC4D4188E9014D4188E99D0008", "巧迪尚惠", "巧迪尚惠 蝶恋气垫皙皙霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1409/16/c0/spcgroup/proportion_290x290/38638043_1410839177326_400x400.jpg", "￥169", "集隔离、遮瑕、保湿、提亮、舒缓、紧致、持久七效合一，将矿物水粉存储于密集海绵气垫中，轻松遮盖面部瑕疵，均匀修饰并提亮肤色；内含欧洲越桔果、甜樱桃果提取物及蜗牛分泌物，润养紧致修护，缔造匀净透亮的无瑕裸肌。", "保湿 舒缓肌肤 提拉紧致 遮瑕 提亮肤色 隔离 ", "15g", "彩妆系列", "2015-05-25 10:40:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("496e70103933409f8fb60566384cf7da", "402881AC4D4188E9014D4188E99D0008", "婵真", "婵真 银杏保湿CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1209/20/c0/spcgroup/13969414_1348126026775_400x400_290x290.jpg", "￥240", "美白+改善皱纹+隔离紫外线功效化妆品（SPF30/PA++）修护肚肤纹理、修饰毛孔粗大、隔离、美白保湿、防晒、修饰于一身，让你轻松体验在不经间带给你的自然清爽的亮丽妆容，婵真CC霜集合了BB霜的所有优点，而且在遮瑕修复肌肤的同时还具有超强补水的效果。涂于脸上慢慢打圈圈，就能揉出水滴哟！再拍进皮肤里，超补水的感觉呢！1.呈现裸妆效果：完美地遮盖皮肤的瑕疵和缺点，呈现自然的彩妆效果。2. 三重效果：有效隔离紫外线并且改善皱纹，美白成分令皮肤充满弹性细滑。3. 皮肤保湿以及镇定效果：神经酰胺，鞘氨醇等成分令皮肤保持水润，积雪草成分可以令受伤的皮肤得到舒缓镇定", "保湿 遮瑕 ", "55g", "银杏系列", "2015-05-25 10:41:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5073e6b9fafa48bda825a1299ccbe4ff", "402881AC4D4188E9014D4188E99D0008", "蜜丝佛陀", "蜜丝佛陀 净彩修颜霜CC霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/05/c0/spcgroup/proportion_290x290/1487181_1420427001426_400x400.jpg", "￥158.0", "轻薄透气无负担，不堵塞毛孔，轻盈服帖，亲肤不敏感，调整肤色，告别黯哑焕光彩，持久滋润肌肤，多重功效集一身。", "修颜 均匀肤色 ", "30ml", "面部系列", "2015-05-25 10:41:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("af4795f36f8548a08669ec74b552327d", "402881AC4D4188E9014D4188E99D0008", "玛丽黛佳", "玛丽黛佳 无感大师水域亮肤气垫霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/30/c0/spcgroup/proportion_290x290/40322691_1414598410504_400x400.jpg", "￥169", "1、饱含高肌能水蕴精萃，补水能量一饮而尽，肌肤浴水重生般保湿润泽，迸发鲜活亮采。2、释放非凡补水琐水能力，带来自然通透水凝光泽，“充电”般瞬时点亮肌肤，剔透光采。3、匠心研发如空气般轻盈的立体蜂巢粉体，在任何角度、光线下都能进行光影漫反射作用，自动调节均匀肤色，带来前所未有的会呼吸的质感裸妆。4、创新双重高保鲜容器，轻松拉环设计，启动新鲜水润能量，基底时刻新鲜如初；结合精制气压海绵结构及弹力超柔粉扑，超简易均匀上妆，随时随地缔造至薄至透质感裸肌。5、多效精华护肤美肤的同时，卓越提升隔离防晒力，对外随时隔阻伤害，由内而外即刻净透。", "保湿 补水 防晒 提亮肤色 柔肤 修颜 ", "20g", "无感大师底妆系列", "2015-05-25 10:41:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("31807e45d59b4d48bb10c78269d165b0", "402881AC4D4188E9014D4188E99D0008", "伊蒂之屋", "伊蒂之屋 防晒保湿修颜CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1402/28/c0/spcgroup/31658912_1393579762378_400x400_290x290.jpg", "￥128", "集肤色修正、保湿、弹力、改善皱纹 、软化角质、美白、调节皮脂、防晒、隔离等功效于一体，全面呵护肌肤，展现完美好气色，想要打造超级裸妆，就靠它咯 ... ... ...
+CC霜里有红、黑、黄三色微粒，根据肤色以及温度的不同，自然融合肌肤，适合任何肤色，7种无添加，敏感肌等所有肤质适用。美白、防晒、保湿、祛皱、隔离、提亮多效合一，简化护肤步骤，轻松抹出好肤色。
+产品功效：
+涂抹CC霜之后的最大效果，就是皮肤状态看上去水汪汪，白嫩嫩，但是看不出化过妆，因为完全没有化妆品的厚重感，CC霜之所以能够达到护肤品+彩妆的效果，是因为采用了魔力胶囊技术，就是在CC霜里含有这样的微小胶囊，在涂抹的时候，胶囊就被挤破了，胶囊虽小，但是能够给皮肤带来4层效果
+第一层，也就是最底层的，就是补水层，能给皮肤带来补充效果
+第二层，矿物色彩层，就是能够提高皮肤的亮度
+第三层，魔幻贴合层，就是能够让CC霜更加贴合皮肤
+第四层，也就是最表层，光泽表皮层
+就是能够让皮肤看上去充满水分光彩，CC霜因为有SPF指数，所以不建议在晚上使用，等将来夏天到了，大家涂一层层的化妆品恐怕也会觉得很麻烦，这个时候CC霜就是必备品了，又可以防晒，又可以抵用彩妆。", "保湿 美白 防晒 提亮肤色 均匀肤色 ", "35g", "彩妆系列", "2015-05-25 10:41:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2131c6ffb8f94830b958157bf7b88cee", "402881AC4D4188E9014D4188E99D0008", "悦木之源", "悦木之源 绿茶智慧隔离修颜乳SPF20/PA++", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1504/08/c1/spcgroup/proportion_290x290/5126089_1428503309109_400x400.jpg", "￥300", "集合智能植物防护修颜科技，修颜、隔离、净化、抗氧、防护五大功效一次完成，让肌肤轻松应对十面“霾”伏，立现精致肤色。富含天然植物包裹矿物因子，清透修颜，隔离PM2.5，立现亮泽无瑕好肤色。同时利用绿茶抗氧因子及藻类萃取热能净化科技来对抗肌肤中游离自由基，富含维生素C和维生素E来阻挡环境污染和臭氧对肌肤的侵害；同时富含微胶囊植物（欧洲栗籽+昆布）靓肤因子抚平肌肤表面粗纹，让肌肤更加平滑，让你每寸肌肤都呈现最好状态。", "净化排毒 抗氧化 防晒 隔离 均匀肤色 ", "40ml", "活力焕亮系列", "2015-05-25 10:41:29")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7610322800e747089b93de3e21705133", "402881AC4D4188E9014D4188E99D0008", "兰蔻", "兰蔻 气垫CC霜（兰蔻气垫修颜隔离乳", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/22/c0/spcgroup/proportion_290x290/2187055_1421897981490_400x400.jpg", "￥420", "Lancôme兰蔻气垫CC霜 —— 这一款融合了多重功效的单品，超越品类范畴，结合彩妆与护肤品的双重功效，赋予底妆产品永恒的新意义。轻轻一抹间，奇迹般的气垫CC霜不仅能均匀肤色，留下清新妆感，更具有多重美肤功效，卓越配方汇萃Lancôme兰蔻肌肤研究的所有成果，持久使用，肌肤愈发美丽无瑕。Lancôme兰蔻气垫CC霜富含以祛斑功效闻名的松树萃取物，持久使用，肤色光彩照人，无瑕透白。作为首款含有SymWhite的气垫底妆，抗氧化能力更为出众，并能有效均匀肤色，打造美白透亮的妆容。聚合物的啫喱质地配合色素覆盖，在具有强大遮瑕功效的同时，实现毛孔愈加紧致，肌肤瑕疵减少，肤质显著光滑均匀。防晒指数SPF 20/PA++，保护肌肤不受紫外线伤害，阻止色斑生成，防止肌肤出现日晒引起的肌肤黯沉与光老化。
+首款卓越配方的Lancôme兰蔻气垫底妆品，只需轻轻一按，蕴含无限潜能的气垫CC霜便使女性展现莹亮清爽的好气色。使用后，肤色均匀无瑕、透现净白光彩，毛孔紧致，瑕疵减少。肤质宛如丝缎般光滑，持续4小时水润清爽，仿若涂抹了保湿霜一般。妆感极其细腻却真实可触，肌肤柔滑水润，焕然新生。同时全天候保护肌肤不受紫外线侵袭，同时带来无与伦比的清爽上妆体验。", "保湿 隔离 修颜 均匀肤色 轻薄 ", "1个", "彩妆系列", "2015-05-25 10:41:37")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bc6b9de53eb14210907ddbf6e593731a", "402881AC4D4188E9014D4188E99D0008", "水之蔻", "水之蔻 水漾轻透CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/03/c0/spcgroup/31721860_1393815850068_400x400_290x290.jpg", "￥168", "轻轻一抹，肌肤瞬间光彩立现；日复一日，健康素颜从肌底焕发自然生机，一款护肤型CC霜。
+●智慧调色修护成分，从根本调整肤色，让肌肤即时呈现如天生丽质般的健康好气色。
+●质地水润，轻薄透气，有效隐去干纹、细纹、粗糙，体验清爽无感的舒适触感。
+●深层保湿，提升肌肤保水力，并有效阻隔外界污染，肌肤水水嫩嫩，时刻光彩照人。", "保湿 遮瑕 提亮肤色 ", "30g", "彩妆系列", "2015-05-25 10:41:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7edbbe3528464564ad48bc1ff980573c", "402881AC4D4188E9014D4188E99D0008", "卡姿兰", "卡姿兰 蜗牛气垫调控霜（卡姿兰蜗牛气垫CC霜）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/22/c0/spcgroup/proportion_290x290/40003754_1413985825986_400x400.jpg", "￥249", "水润美肌，透感服帖
+集合高含量莲花提取液及高水分轻盈粉液，储于百万微气孔的海绵粉芯内，形成蜂窝海绵储水库，锁紧水状粉液，触肤瞬间与肌肤无间融合，赋予肌肤薄透服贴的空气感美妆。八效合一，定制轻妆
+保湿、遮瑕、亮肤、修护、持妆、贴肤、轻透、防护八效合一，为不同肌肤调出定制级的美妆；修容养肤，焕亮肤色
+集萃七白花亮肤精华，焕亮源本肤色；蜗牛修护精华养护美肌，让能量充沛的肌肤绽放丰盈光采。", "保湿 补水 提亮肤色 隔离 均匀肤色 ", "14.5g", "CC家族系列", "2015-05-25 10:41:48")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("599f56e73284497281b6624607f89cad", "402881AC4D4188E9014D4188E99D0008", "花皙蔻", "花皙蔻 毛孔隐形裸妆真颜霜（花皙蔻毛孔隐形裸妆CC霜）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1411/10/c0/spcgroup/proportion_290x290/40774421_1415613271464_400x400.jpg", "￥149", "蕴含含羞草决明提取物|北美金缕梅水|透明质酸钠●有助于避免外界环境对肌肤的伤害，犹如给肌肤添加一层天然屏障。●调控提亮肤色，增强肌肤光泽度，使肌肤透出红润粉嫩，打造清透淡妆必备。●可用作日间保养品，轻薄透气易推开。夏季不油、秋冬保湿，一年四季都适用。1、可单独使用，洁面爽肤后，挤出适量本品，轻轻涂抹于脸上拍打均匀。2、彩妆前，可用CC霜作为隔离霜打底，打造焕采妆容。3、配合花皙蔻毛孔隐形丝柔霜之后使用，遮瑕控油更佳，可得自然透明的裸肌妆效。成分：水、环五聚二甲基硅氧烷、PEG/PPG-18/18 聚二甲基硅氧烷、苯基聚三甲基硅氧烷、甘油、矿脂、二氧化钛、氧化铝、三乙氧基辛基硅烷、聚二甲基硅氧烷/乙烯基聚二甲基硅氧烷交联聚合物、山梨坦油酸酯、硬脂酸镁、季铵盐-18 膨润土、氯化钠、蜂蜡、透明质酸钠、一氮化硼、酵母提取物、大豆氨基酸类、葡萄(VITIS VINIFERA)籽提取物*、北美金缕梅（HAMAMELIS VIRGINIANA）水*、含羞草决明（CASSIA MIMOSOIDES）提取物、3-o-乙基抗坏血酸、苯氧乙醇、甲基异噻唑啉酮、香精、CI 77492、CI 77491收细毛孔-含羞草决明提取物：收细粗大毛孔，改善毛孔凹凸不平。水油平衡-德国的金缕梅水：收细毛孔，减少面部泛油保湿鲜亮-德国的葡萄籽提取物：补水保湿，改善干燥引发的暗黄。提亮肤色-光感矿物元素*：改善肌肤光采折射度，均匀亮泽粉嫩肤色。配方中的北美金缕梅水与葡萄籽提取物为欧盟ECOCERT认证机构认证的天然成分。", "保湿 遮瑕 隔离 ", "30g", "含羞草毛孔隐形护理系列", "2015-05-25 10:41:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("332a0f16607c432b8b53ebe458ad780d", "402881AC4D4188E9014D4188E99D0008", "悦诗风吟", "悦诗风吟 莹润调色气垫隔离霜（悦诗风吟气垫CC霜）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1412/12/c0/spcgroup/proportion_290x290/563320_1418374126950_400x400.jpg", "￥159", "水润保湿+肤色调整+隔离效果 打造天生般透润光采肌肤的彩色气垫隔离霜 • 根据肤色缺点选择使用的彩色气垫隔离霜    通过爱茉莉太平洋研究所的“中国女性肌肤肤色研究资料”选出可以自然遮盖中国女性肤色缺陷的3种颜色.根据补色原理----叠加两种颜色得到白色来修正不同肌肤的肤色问题. 紫罗兰色:针对暗沉的肌肤,修饰泛黄肤色，打造光采纯净肌肤 薄荷色: 针对痘印等泛红肌肤,修饰泛红肤色，打造均匀无暇肌肤 蜜桃色:针对一般肤色,自然提升肌肤的光采度 •    即使寒冷冬季也保持肌肤水润的保湿气垫隔离霜    含有40%以上生绿茶水和绿茶籽油成分，在寒冷的冬季也可以保持肌肤的水润状态，并在肌肤表面形成保湿膜，使肌肤水分能够长时间不流失。 •    让肌肤远离有害物质并舒缓肌肤    特有Anti-dust complex（隔尘复合物）保护肌肤远离因外部有害物质导致的肌肤老化问题，并舒缓肌肤。", "保湿 隔离 修颜 均匀肤色 ", "15g", "彩妆系列", "2015-05-25 10:41:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("16564eebe972423c932d750142aa9bf1", "402881AC4D4188E9014D4188E99D0008", "兰瑟", "兰瑟 水缎光感气垫修颜霜（CC霜）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1407/16/c0/spcgroup/36383100_1405505880924_400x400_290x290.jpg", "￥220", "美白修颜，轻薄贴透，以水沁养，丝滑光感，植物力量，持妆清爽。
+能够很好的帮助平衡肤色让肤色看起来干净自然，这款CC霜使用了高密集气孔海绵气垫和密封容器，最大限度的保存了新鲜的CC霜营养和水分，能够为肌肤提供轻盈的修饰与美化效果；使用之后可以使肌肤呈现无瑕清透的自然美感，肤色更均匀与柔嫩。 这款CC霜高保湿温泉水与水解珍珠相融合的技术实现，使得其在修饰肤色、沁养肌肤的时候，能够很好的提升妆容光泽度与水润度，让肌肤能够有如水缎般，沁润丝滑，无瑕光感的感觉。", "均匀肤色 ", "15ml", "彩妆系列", "2015-05-25 10:42:23")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("18370e5b3d634368a2f77dbce6164514", "402881AC4D4188E9014D4188E99D0008", "香奈儿", "香奈儿 保湿隔离修饰乳（香奈儿CC霜）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/08/c0/spcgroup/30404171_1389175811739_400x400_290x290.jpg", "￥620", "美，源于每位女性自身，始于看待自我的方式，因为自信而绽放。以简单而优雅的姿态，活得精彩漂亮……美丽由此开始。
+
+CC霜，一款来自香奈儿的独特创作，兼具护肤保养功效与彩妆的修饰效果，绽现肌肤的自然魅力。2012年一经推出便备受欢迎，如今，CC霜呈献全新色调：更为白皙粉嫩的 #BR12（新色），特别适合亚洲肌肤。
+
+
+
+来自香奈儿研发实验室与彩妆创意工作室的香奈儿保湿隔离修饰乳，结合了香奈儿在保养与彩妆领域的双重专业性，兼具5大功效，透过简单轻松的使用方式，为肌肤提供护肤保养与修饰效果。
+
+1.舒缓  
+富含矢车菊花水，舒缓敏感肌肤。
+ 
+2.保湿  
+蕴含玻尿酸成分，留住肌肤自身水分，赋予深层润泽保湿。
+
+3.隔离  
+矿物性低敏配方，阻隔UVA及UVB对肌肤的伤害。
+
+4.修护  
+海洋萃取物，帮助抵御岁月痕迹，预防初期老化。
+
+5.遮瑕  
+矿物色素因子，修饰瑕疵（泛红、斑点、毛孔粗大），均匀肤色。
+
+CC霜以轻盈无油的质地，赋予肌肤舒适感与持久覆盖力，令肌肤闪耀自然光采。使用后，肌肤立现均匀、光彩，细腻柔滑。清新透亮、恰到好处的天然之美，散发与众不同的优雅魅力。
+
+
+使用建议
+
+彻底清洁、润泽、保养肌肤后，取适量香奈儿保湿隔离修饰乳，从脸部中央往外侧均匀推开。可于底妆前使用，或者单独使用，打造适当的遮盖效果。亦可用作日间补妆。两款色调可选：#B20及#BR12（新色）", "遮瑕 均匀肤色 ", "30ml", "彩妆系列", "2015-05-25 10:42:27")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ed592487a4294d07be1f1571eff03f3a", "402881AC4D4188E9014D4188E99D0008", "奥罗拉", "奥罗拉 萌动女孩多效精华CC霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1408/01/c0/spcgroup/proportion_290x290/36949552_1406876987255_400x400.jpg", "￥118", "成分及功效：
+含积雪草、芦荟、海藻等植物精華和营养成份,有效滋润皮肤，补充肌肤水分；含熊果苷，使肌肤持久细嫩美白；抗皱精华+隔离+遮瑕+粉底+防晒（SPF50 PA+++)5效合1，裸妝一步到位，让您的皮肤柔嫩明亮。
+1、出色的遮瑕
+粉质细腻，清透明亮，有效遮盖脸部的瑕疵和缺陷，令肌肤更加健康、自然。
+2、保湿锁水
+含积雪草、芦荟以及海藻等植物提取精华和营养成分，有效滋养皮肤，在为肌肤补充水分的同时，保湿锁水，滋润一整天。
+3、防紫外线（SPF50 PA+++）
+有效阻隔紫外线，SPF50/PA+++,让肌肤远离污染，自由呼吸。
+
+使用说明：
+基础护肤后，去适量，均匀涂抹于脸上即可。", "", "30ml", "彩妆系列", "2015-05-25 10:42:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e30483c8233241c198a7fb60012bd5f1", "402881AC4D4188E9014D4188E99D0008", "碧欧泉", "碧欧泉 C.C.隔离霜（粉色）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1307/03/c0/spcgroup/22906003_1372862853086_400x400_290x290.jpg", "￥390", "Color Correction（色彩修颜）
+双重修正 肤色+肤质
+碧欧泉全新C.C霜，带来全新修正理念，修正肤色同时修正肤质。每款色号为不同肤色问题提供针对性解决。极其轻薄的质地，增强产品修颜持久度，更易涂抹。
+同时，肤质更为平滑粉嫩。
+Care（色彩护肤）
+更多防护，融合先进“滢海亮白科技”
+融合护肤及隔离功效，全新碧欧泉CC霜提供最高级紫外线防护SPF50+, 预防紫外线伤害，及造成的肌肤色素沉淀。预防光老化。协同碧欧泉水光滢亮美白精华核心成分—滢海亮白科技，帮助从源头抑黑，抵御肤色问题的产品。
+不可思议！使用CC霜后，留妆时间更持久
+实验证明，100%的女性表示在使用CC霜后，上妆更加容易，并且留妆时间更加持久。", "保湿 补水 提亮肤色 隔离 嫩肤 ", "30ml", "修颜隔离系列", "2015-05-25 10:42:38")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("798184edbb614561890a18e2914770a6", "402881AC4D4188E9014D4188E99D0008", "碧欧泉", "碧欧泉 C.C.隔离霜（白色）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1307/03/c0/spcgroup/22906058_1372863006680_400x400_290x290.jpg", "￥390", "Color Correction（色彩修颜）
+双重修正 肤色+肤质
+碧欧泉全新C.C霜，带来全新修正理念，修正肤色同时修正肤质。每款色号为不同肤色问题提供针对性解决。极其轻薄的质地，增强产品修颜持久度，更易涂抹。
+同时，肤质更为平滑粉嫩。
+Care（色彩护肤）
+更多防护，融合先进“滢海亮白科技”
+融合护肤及隔离功效，全新碧欧泉CC霜提供最高级紫外线防护SPF50+, 预防紫外线伤害，及造成的肌肤色素沉淀。预防光老化。协同碧欧泉水光滢亮美白精华核心成分—滢海亮白科技，帮助从源头抑黑，抵御肤色问题的产品。
+不可思议！使用CC霜后，留妆时间更持久
+实验证明，100%的女性表示在使用CC霜后，上妆更加容易，并且留妆时间更加持久。", "保湿 补水 遮瑕 隔离 柔肤 嫩肤 均匀肤色 ", "30ml", "修颜隔离系列", "2015-05-25 10:42:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("68bbef26d0964093a6d3a49a2e497088", "402881AC4D4188E9014D4188E99D0008", "美宝莲", "美宝莲 纯净矿物钻白光透CC霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1408/16/c0/spcgroup/proportion_290x290/37499729_1408175436120_400x400.jpg", "￥80", "即刻亮！
+独特柔白乳液内含「打光师修饰粉体」，一抹就能依肤色进行提亮，调节肤色不均问题，修饰毛孔瑕疵，360゜打造光透裸肌。
+持续白！
+由维他命C、白牡丹及水莲精萃结合的「美白精华乳」，有效美白和保湿肌肤，由内而外，一天比一天看见更钻白光透的肌肤。
+革命性CC双效变色质地！
+挤出后，白色乳霜内含的美白+保湿成分先被肌肤吸收，推开后肤色润色粉体同时释放，完成调节肤色及修饰瑕疵，洗脸后，一瓶聪明搞定保养+底妆!
+轻盈的乳液质地，让肌肤零负担，全天候保湿水嫩，SPF37 PA+++防晒能有效隔离紫外线侵害，防止老化，预防晒黑，洗面乳即可卸！", "柔肤 嫩肤 均匀肤色 ", "30ml", "彩妆系列", "2015-05-25 10:42:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("257a8c3a1ecc4ebe9068a5c14c0828bd", "402881AC4D4188E9014D4188E99D0008", "巧迪尚惠", "巧迪尚惠 蝶恋气垫CC霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/24/c0/spcgroup/proportion_290x290/40098616_1414163408425_400x400.jpg", "￥169", "集隔离、遮瑕、保湿、提亮、舒缓、紧致、持久七效合一，将矿物水粉存储于密集海绵气垫中，轻松遮盖面部瑕疵，均匀修饰并提亮肤色；内含欧洲越桔果、甜樱桃果提取物及蜗牛分泌物，润养紧致修护，缔造匀净透亮的无瑕裸肌。", "保湿 补水 嫩肤 修颜 均匀肤色 ", "15g", "彩妆系列", "2015-05-25 10:42:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("da820964459a42bcbc9f36d1481ee164", "402881AC4D4188E9014D4188E99D0008", "巧迪尚惠", "巧迪尚惠 蝶恋玫瑰CC霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/24/c0/spcgroup/proportion_290x290/40098597_1414163374670_400x400.jpg", "￥99", "轻薄盈透质地，柔和贴紧肌肤。含魅焕变色细微颗粒，触肤抹开后肌肤逐渐焕亮水润，均匀调节并润饰暗哑、粗糙、暗黄肤色；含玫瑰叶提取物、白头翁及须松萝提取物，赋予肌肤精华润泽能量，精养出细腻平滑的光感美肌。", "保湿 补水 嫩肤 均匀肤色 ", "30ml", "彩妆系列", "2015-05-25 10:42:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("626e65bd961849dbbbc9c6c87240211a", "402881AC4D4188E9014D4188E99D0008", "悦诗风吟", "悦诗风吟 保湿亲肤隔离修饰乳", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/06/c0/spcgroup/28363511_1383704022850_400x400_290x290.jpg", "￥160", "光彩照人的皮肤蕴含济州岛山茶花成分，使暗沉的皮肤重新焕发活力，持久保持肌肤光彩照人的状态 水润光泽补给肌肤水分，在肌肤表面形成细密的保护膜，可长时间维持柔滑感，赋予肌肤健康光泽。 使用方法：基础护肤系列最后阶段使用，取适当量涂抹在脸上，轻柔涂抹于脸部，直至亮粉色面霜转变成自然肌肤颜色。", "保湿 隔离 均匀肤色 ", "40ml", "防晒护理", "2015-05-25 10:43:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e39363cb6b2f4f52a6980ffa50a19f4c", "402881AC4D4188E9014D4188E99D0008", "iFiona", "iFiona 水漾CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1407/16/c0/spcgroup/36382815_1405505082315_400x400_290x290.jpg", "￥69.0", "“旷古蓝 iFiona水漾CC霜“，超级细腻能揉出水来的CC霜。运用尖端的水凝转化技术，将来自雪山的纯净矿物水，添加积雪草、白茶、绿茶等多种植物萃取，凝入丝滑膏体，使其质地柔润细腻。天然水分以及矿植物养分充分融入肌肤。还特别采用了素有“肌肤再生因子”之称的EGF，能强效修复改善毛孔粗大、红血丝和痘印等肌肤问题。同时含有的高效抗氧化配方可预防肤色不均，色斑等问题。肌肤在体验自然裸妆的同时，从本质上改善肤质，肌肤新生，由内而外闪耀清透、明亮光彩。", "保湿 ", "35g", "CC霜系列", "2015-05-25 10:43:07")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9957fb6dda6a4156abf832f1e25695c4", "402881AC4D4188E9014D4188E99D0008", "碧欧泉", "碧欧泉 C.C.隔离霜（蓝色）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1307/03/c0/spcgroup/22905058_1372861356128_400x400_290x290.jpg", "￥390", "olor Correction（色彩修颜）
+双重修正 肤色+肤质
+碧欧泉全新C.C霜，带来全新修正理念，修正肤色同时修正肤质。每款色号为不同肤色问题提供针对性解决。极其轻薄的质地，增强产品修颜持久度，更易涂抹。
+同时，肤质更为平滑粉嫩。
+Care（色彩护肤）
+更多防护，融合先进“滢海亮白科技”
+融合护肤及隔离功效，全新碧欧泉CC霜提供最高级紫外线防护SPF50+, 预防紫外线伤害，及造成的肌肤色素沉淀。预防光老化。协同碧欧泉水光滢亮美白精华核心成分—滢海亮白科技，帮助从源头抑黑，抵御肤色问题的产品。
+不可思议！使用CC霜后，留妆时间更持久
+实验证明，100%的女性表示在使用CC霜后，上妆更加容易，并且留妆时间更加持久。", "保湿 补水 隔离 嫩肤 均匀肤色 ", "30ml", "修颜隔离系列", "2015-05-25 10:43:09")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("05bf8e9bffd549e7b475ff1f9aa7ca02", "402881AC4D4188E9014D4188E99D0008", "SK-II", "SK-II 环采臻皙炫亮霜（SK-II超越完美CC霜）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1504/10/c0/spcgroup/proportion_290x290/5215976_1428655364775_400x400.jpg", "￥680", "亚洲顶级护肤专家SK-II历经多年潜心科研，终于将35年来不断创造的美肌奇迹蕴于日常修颜裸妆之中，并革命性发布全新护肤彩妆单品—SK-II环采臻皙炫亮霜，即刻完美遮瑕，4周内在新生!SK-II环采臻皙炫亮霜特别添加最新全日柔白环采复方(Day 
+Soft Aura White 
+Complex)，将精华的有效成分糅于细腻柔滑的cc霜中，有效提升细胞的透明度和光泽感，达到肌肤纯净无暇与自然透亮双重质感的完美平衡。更在经典PITERATM酵母精华深层保湿的基础上，同时提供SPF 
+50/PA++++的高倍防晒，有效对抗日晒、紫外线、外界污染对肌肤的严重损伤，保湿修护持续直至深夜!短短4周，肌肤由内而外层层透出柔白无瑕环采光蕴!", "抗衰老/抗皱 防晒 遮瑕 提亮肤色 ", "30g", "环采臻皙系列", "2015-05-25 10:43:13")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("feb843c5c0fc488d8d4747657977d4de", "402881AC4D4188E9014D4188E99D0008", "欧诗漫", "欧诗漫 珍珠肌透亮修颜霜（象牙色/亮肤色/粉嫩色）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/26/c0/spcgroup/proportion_290x290/3283039_1424958401168_400x400.jpg", "￥176", "自然修饰黯沉及不均肤色，令肌肤展现粉嫩好气色。凝聚亚微米级珍珠粉，改善黯哑，由内提亮。复配北美专利成分，隔离污染，整日透亮。", "保湿 补水 修颜 均匀肤色 ", "40g", "彩妆系列", "2015-05-25 10:43:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("86b718b7608f42d69adbb52a9881548f", "402881AC4D4188E9014D4188E99D0008", "羽西", "羽西 白芍悦晰盈净隔离修颜乳", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1504/23/c0/spcgroup/proportion_290x290/5832589_1429773573336_400x400.jpg", "￥180", "紫色舒润质地，轻抹间均匀肤色，修正暗黄，柔滑肤质。1步实现隔离、遮瑕、防晒、修颜、护肤5重美妆功效，呈现清透裸感美肌;有效淡化色斑，使肌肤更显匀净无暇，盈亮细腻。", "防晒 遮瑕 隔离 嫩肤 修颜 均匀肤色 ", "30ml", "白芍·悦白系列", "2015-05-25 10:43:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c51bd6655b944acfa5d1a4771e5275df", "402881AC4D4188E9014D4188E99D0008", "iFiona", "iFiona 祛痘CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20107/21/spcgroup/proportion_290x290/12797008395973040.jpg", "￥118", "“柔韵紫 祛痘CC霜”，采用多种天然植物精华经现代生物技术萃取而成。奶油般丝滑的温和质地，轻薄的使用感，仅仅一层就能满足肌肤的多种需求，其有效成分可深入肌肤底层，平衡肌肤水油，并为之补充充分的养分，从而达到快速祛痘、防痘印、修复的作用，令肌肤靓白细嫩，体验全新的嫩白健康感受。", "美白 ", "35g", "CC霜系列", "2015-05-25 10:43:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bcc67d890d9349358b7e2d10b4ade186", "402881AC4D4188E9014D4188E99D0008", "莱茵", "莱茵 水漾透白CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/28/spcgroup/proportion_290x290/12856553976374090.gif", "暂无报价", "水漾透白CC霜
+亮丽润白 调护合一　
+
+看得见的补水保湿——　一涂即水
+含珍贵的智利玫瑰果萃取物，一涂肌肤即显水润肤质，融合最新研发的水合锁水技术，具有出色的贮水和锁水功能，温和抗敏，为你带来长时间水润妆感。
+
+看得见的透白无瑕裸妆
+特别添加仙蜜果、花青素、红石榴、蓝莓、棉花蜜的高纯“多重植物高能抗氧因子”，轻易修饰并日渐改善肤色不均、黑眼圈、细纹、痘印、色素印、红色丝等，即使不化妆，肌肤也呈现水嫩水白的完美肤质。
+
+看得见的溶水透气、不溶妆
+溶水透气——本品溶于水。皮肤涂用溶水的霜体，汗水才能透出来，能透汗就更能透气。避免不透气透汗引起的闷皮肤、长粉刺黑头、痘痘等各种皮肤问题。
+不溶妆——本品涂于肌肤后，喷水也不会溶妆，采用含大量负离子的海藻萃取物和超细山药浸粉，经特殊乳化的超微孔负离子膜技术，独具溶水透气、不溶妆的特殊功效，透白透亮轻盈细滑，肤感倍感柔润，并具有非凡丝绸般延展性和贴服性。妆效如空气般轻盈贴服，近看无痕无瑕，令人惊艳。
+多方位隔离保护
+特有的超微孔负离子膜技术，即时为肌肤搭建阻隔有害辐射隐形保护膜，有效隔离电脑辐射等辐射污染，让你时刻拥有健康无瑕肌肤。", "美白 ", "33g", "其他系列", "2015-05-25 10:43:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d53ee89a2b6f4b77a5e49d82aebbb1be", "402881AC4D4188E9014D4188E99D0008", "cyber", "cyber colors", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/16/c0/spcgroup/12955941_1345090516451_400x400_290x290.jpg", "￥187", "Cyber Colors BRIGHTENSE双效亮白修护BB Cream，一泵同时提供BB Cream和美白精华，赋予自然健康脸色，持久不脱妆。用后肌肤感觉像得到缓冲、舒适、洁净。SPF 25 PA++防晒系数和抗氧化成分熊果素，保护肌肤免受紫外线伤害。本品尚含多种护肤成分，起抗敏、帮助肌肤愈合、滋润、修复、抗皱的功效。使用方法
+每天早上完成基本护程序后，倒适量于化妆海绵上，均匀地涂抹全脸。 
+
+成份
+		
+			
+				【二氧化钛】防晒。
+				
+					【熊果素】美白。
+					
+						【马齿苋萃取】抗敏、帮助肌肤愈合。
+						
+							【可溶性胶原】修复、抗皱。
+							
+								【迷迭香萃取、茉莉花萃取、熏衣草萃取】滋润肌肤。", "美白 ", "50ml", "彩妆系列", "2015-05-25 10:43:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7418fec8d6364987994b439792cf06c9", "402881AC4D4188E9014D4188E99D0008", "碧欧泉", "碧欧泉 CC隔离霜海洋花园公益限量版", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/06/c0/spcgroup/proportion_290x290/1543181_1420529931683_400x400.jpg", "￥390", "碧欧泉CC隔离霜，修正肤色同时精华养肤。融合护肤及隔离双重功效，并能提供最高级别紫外线防护SPF50+，预防紫外线伤害及造成的肌肤色素沉淀。其中蕴含的滢海亮白科技，能够帮助肌肤从源头抑黑，解决肤色问题。碧欧泉5色CC隔离霜针对不同的肤色问题，无论是斑点、黯沉、肤色不匀，暗黄或是泛红都可以找寻到针对性的解决方案。并且CC霜中蕴含碧欧泉品牌明星成分——Life Plankton™活源精粹因子，一经涂抹，水润亮彩。搭配明星产品绿活泉使用，效果更佳。碧欧泉此番携手知名设计师YELLENA JAMES，推出海洋花园限量版CC霜，将五彩的珊瑚设计融入CC霜的外壳上，引领你进入一个如梦如幻的海底世界。每售出一支限量版CC霜，碧欧泉会在南太平洋种上一只珊瑚，以此呼吁人们对海洋保护的关注。", "遮瑕 隔离 ", "30ml", "彩妆系列", "2015-05-25 10:43:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f48a9c7d3fdc4a54b28393c36af5b3f2", "402881AC4D4188E9014D4188E99D0008", "婷美", "婷美 植物精华皙白BB霜（自然白）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1402/28/c0/spcgroup/31666847_1393602266957_400x400_290x290.jpg", "￥198", "轻盈质地，一抹即匀，如丝般贴合。特添加植物亮采精华，轻薄一层，肌肤瑕疵即刻隐形，完美闪耀真我般的自然色泽。真空包装，阻隔各种外界污染，完美保存植物精华的活性成分，发挥最佳产品效用。", "保湿 补水 美白 ", "30g", "BB霜系列", "2015-05-25 10:43:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8b7f05528ece461490f65a8929cf02d3", "402881AC4D4188E9014D4188E99D0008", "茚象泉", "茚象泉 3D水晶CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201111/22/spcgroup/proportion_290x290/13219695707791960.gif", "￥69 已退市", "触感丝滑且服帖的质地，积极帮助遮盖瑕疵，均匀修饰肤色，集隔离、防辐射、防水防汗、保湿、修颜、提亮肤色于一体。令肌肤柔嫩，易上妆，塑造透明润泽无暇肌肤，让您轻松体验baby裸妆！", "保湿 美白 ", "35g", "其他系列", "2015-05-25 10:43:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("72e1d794dd1745418e84e01c3da659c5", "402881AC4D4188E9014D4188E99D0008", "肌龄", "肌龄 白蝶贝珍珠嫩白隔离修饰霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1305/18/c0/spcgroup/21073704_1368880512344_400x400_290x290.jpg", "￥95", "智能色彩调控，专为亚洲女性定制色彩，自然均匀肤色。", "美白 遮瑕 隔离 均匀肤色 ", "45g", "白蝶贝珍珠嫩白系列", "2015-05-25 10:43:39")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1e0aff1caf2a4a238d8e099e224ea99f", "402881AC4D4188E9014D4188E99D0008", "花语者", "花语者 30秒焕颜水漾CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/22/spcgroup/proportion_290x290/13245159163833900.jpg", "￥96", "质地轻薄，涂抹于肌肤似有若无，呈现完美透明妆效果，质感舒适，纳米级特微粒，涂抹细腻无颗粒感。水润质感，全天候及时补充肌肤水营养，实现长效保湿", "保湿 美白 ", "40g", "其他系列", "2015-05-25 10:43:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("6cbd6671e56248ae83ecffe458bc7e48", "402881AC4D4188E9014D4188E99D0008", "魔法天空", "魔法天空 高清娃娃脸智能幻色CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/01/c0/spcgroup/30201890_1388578461474_500x500_290x290.jpg", "￥88", "运用彩色粉底晶球的概念及感温油膜分子控制释放原理，能完美贴合于不同肤色。上妆同时激活有效专利成分WONDERLIGHT?、SYN?-COLL,迅速渗透至肌肤里层，有效抑制黑色素沉淀，促进胶原蛋白生成。添加吸油颗粒，吸附多余油份让肌肤保持干爽。改善肌肤黯沈、泛黄现象，赋予肌肤粉雾柔焦光晕，呈现犹如修片般的立体光感美肌。", "控油 提亮肤色 均匀肤色 ", "40g", "彩妆系列", "2015-05-25 10:43:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("663a4412cbec46c69f515b443ff1af81", "402881AC4D4188E9014D4188E99D0008", "富美佳", "富美佳 焕彩多效裸妆CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/19/spcgroup/proportion_290x290/13242784801484100.jpg", "￥128", "产品功效：修护肌肤纹理、修饰毛孔粗大、隔离、遮瑕、美白、保湿补水、防晒。根据亚洲人的肤质特别研制，是一款纯净、天然的美白保湿裸妆霜，让你轻松体验在不经间带给你自然清爽的亮丽妆容。适用肤质：适用各种肤质，特别适用于面部有红血丝、容易缺水、干燥、暗沉、斑点、痘印、毛孔粗大、肤色不均等困扰的肌肤使用使用方法：取适量本品，轻点在额头、双颊、T字部位和下颌，用手指轻拍的方式均匀推开。", "保湿 美白 ", "100g", "其他系列", "2015-05-25 10:43:51")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5c62426278d7496884e728cb5ed7150a", "402881AC4D4188E9014D4188E99D0008", "莱茵", "莱茵 水漾透白CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/28/spcgroup/proportion_290x290/12856459957884110.jpg", "暂无报价", "亮丽润白 调护合一　
+
+看得见的补水保湿——　一涂即水
+含珍贵的智利玫瑰果萃取物，一涂肌肤即显水润肤质，融合最新研发的水合锁水技术，具有出色的贮水和锁水功能，温和抗敏，为你带来长时间水润妆感。
+
+看得见的透白无瑕裸妆
+特别添加仙蜜果、花青素、红石榴、蓝莓、棉花蜜的高纯“多重植物高能抗氧因子”，轻易修饰并日渐改善肤色不均、黑眼圈、细纹、痘印、色素印、红色丝等，即使不化妆，肌肤也呈现水嫩水白的完美肤质。
+
+看得见的溶水透气、不溶妆
+溶水透气——本品溶于水。皮肤涂用溶水的霜体，汗水才能透出来，能透汗就更能透气。避免不透气透汗引起的闷皮肤、长粉刺黑头、痘痘等各种皮肤问题。
+不溶妆——本品涂于肌肤后，喷水也不会溶妆，采用含大量负离子的海藻萃取物和超细山药浸粉，经特殊乳化的超微孔负离子膜技术，独具溶水透气、不溶妆的特殊功效，透白透亮轻盈细滑，肤感倍感柔润，并具有非凡丝绸般延展性和贴服性。妆效如空气般轻盈贴服，近看无痕无瑕，令人惊艳。
+多方位隔离保护
+特有的超微孔负离子膜技术，即时为肌肤搭建阻隔有害辐射隐形保护膜，有效隔离电脑辐射等辐射污染，让你时刻拥有健康无瑕肌肤。", "保湿 美白 ", "33g", "新活透白系列", "2015-05-25 10:43:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d9cb186f188848b6a177fd01ada45c49", "402881AC4D4188E9014D4188E99D0008", "美妍素", "美妍素 智慧变色CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/27/spcgroup/proportion_290x290/12961384056484810.jpg", "暂无报价", "科技带给美丽越来越多的方便和享受，美妍素在不断追求创新的今天，突破性研发出数码智慧变色CC霜，并注入新科技含量，让美妆梦想愈来愈接近完美。采用韩国和日本三种柔焦粉体，突破性配方，加入神奇变色颗粒，可以与肌肤完美贴合，在遮盖瑕疵同事均匀肤色。", "保湿 ", "暂无", "其他系列", "2015-05-25 10:43:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d698a1c687644962a3b2ca43201f9bee", "402881AC4D4188E9014D4188E99D0008", "施露兰", "施露兰 水润修饰焕肤CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/26/spcgroup/proportion_290x290/12880635940694220.jpg", "暂无报价", "产品功效：CC霜的超微晶球体焕肤系统，深层焕肤，修护敏感，平滑肌肤，紧致毛孔，分层释放高效焕肤成分，活化肌肤表层酵素，促进肌肤自行代谢能力，使用后毛孔立即缩小1/4，迅速摆脱粗糙暗沉，肌肤恢复弹性活力。", "保湿 ", "50g", "粉饼-粉底液系列", "2015-05-25 10:44:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4961c4822e0f41a9a09f019e214f4fba", "402881AC4D4188E9014D4188E99D0008", "碧欧泉", "碧欧泉 C.C.隔离霜（绿色）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1307/03/c0/spcgroup/22905754_1372862374720_400x400_290x290.jpg", "￥390", "Color Correction（色彩修颜）
+双重修正 肤色+肤质
+碧欧泉全新C.C霜，带来全新修正理念，修正肤色同时修正肤质。每款色号为不同肤色问题提供针对性解决。极其轻薄的质地，增强产品修颜持久度，更易涂抹。
+同时，肤质更为平滑粉嫩。
+Care（色彩护肤）
+更多防护，融合先进“滢海亮白科技”
+融合护肤及隔离功效，全新碧欧泉CC霜提供最高级紫外线防护SPF50+, 预防紫外线伤害，及造成的肌肤色素沉淀。预防光老化。协同碧欧泉水光滢亮美白精华核心成分—滢海亮白科技，帮助从源头抑黑，抵御肤色问题的产品。
+不可思议！使用CC霜后，留妆时间更持久
+实验证明，100%的女性表示在使用CC霜后，上妆更加容易，并且留妆时间更加持久。", "保湿 晒后修护 防晒 嫩肤 ", "30ml", "修颜隔离系列", "2015-05-25 10:44:02")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c43855a880384b2d9cd9b1100eb36383", "402881AC4D4188E9014D4188E99D0008", "蔚丽莱", "蔚丽莱 幻美肌肤打底霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1312/28/c0/spcgroup/30079169_1388212399238_400x400_290x290.jpg", "￥190", "作为美国时报，中国日报首次报道的CC霜之一，蔚丽莱终于看到不懈努力后的骄人成果，这是我们研发护肤产品道路上的里程碑，无畏挑剔，因为我们相信，好的产品面对再苛刻的女人，也会让其爱不释手。
+光源技术，亲和润肤，强力遮瑕。美妆粉底合为一体，去除暗沉表象，打造健康白皙裸妆肌肤，构建保护膜，阻止外界刺激。
+两色号", "保湿 补水 卸妆 均匀肤色 ", "3*10ml", "护肤系列", "2015-05-25 10:44:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("eb243013135a429f92deed4cbbdf53b0", "402881AC4D4188E9014D4188E99D0008", "上山采药", "上山采药 魔幻全效CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20123/3/spcgroup/proportion_290x290/13307457396310590.jpg", "￥58", "同时妆具隔离霜、粉底液、修饰霜等功能，可同步修饰毛孔，痘疤、黑眼圈等瑕疵，让肌肤告别厚重底妆，拥有无瑕裸妆光彩。", "保湿 美白 防晒 遮瑕 提亮肤色 隔离 ", "50ml", "其他系列", "2015-05-25 10:44:07")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1db9459e30174b30880094f0ddf5d029", "402881AC4D4188E9014D4188E99D0008", "蝶莲娜", "蝶莲娜 深层修复调理CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20122/24/spcgroup/proportion_290x290/13300488599278380.jpg", "￥88", "BB霜的升级版，具备修复肌肤，调理肤色，保湿滋润，美白遮瑕，调理油脂等多效合一，富含维他命成分，营养滋润肌肤，并有效保湿，含有的多重有效成分，有效抗氧化，改善暗沉粗糙，可缓解肌肤敏感问题，恢复肌肤健康活力。", "遮瑕 ", "50g", "其他系列", "2015-05-25 10:44:09")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ab1689099aec48ba8e843a45143d88e6", "402881AC4D4188E9014D4188E99D0008", "iFiona", "iFiona 绝配水柔蚕丝CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20112/22/spcgroup/proportion_290x290/12983566373306150.jpg", "￥159", "绝配水柔蚕丝CC霜，能揉出水来的超级保湿CC霜。其突破性配方，用蚕丝提取出的天然保湿因子与18种氨基酸为肌肤缔造粉嫩娇柔的肌肤质地，是您肌肤的保护伞。高科技丝效塑颜粒子，让您体验丝般顺滑的使用感，以及轻若无物的清新自然妆效。绝配水柔蚕丝CC霜，集保湿、美白、隔离、防晒、修复、妆效于一体，象牙白与亲肤色的双色选择，让您自由享色，每一天随心体验不同的自然美肤妆效。", "保湿 美白 ", "50g", "CC霜系列", "2015-05-25 10:44:11")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("85a2f8c263124943af369f8338d0c519", "402881AC4D4188E9014D4188E99D0008", "温碧泉", "温碧泉 清透水润幻颜CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/29/c0/spcgroup/30941610_1390969116570_400x400_290x290.jpg", "￥69", "超薄透明质地，极具补水、保湿、美白、防晒等功效，收细粗大毛孔、抚平细纹，呈清爽妆容。适合肤质：任何健康肌肤，尤其适合油性和混合型肤质。", "保湿 补水 控油 滋润 ", "15g", "清透水润系列", "2015-05-25 10:44:13")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8d06d354d96246598c06dc8e4e4fad96", "402881AC4D4188E9014D4188E99D0008", "PBA", "PBA CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/08/c0/spcgroup/30410705_1389193767616_400x400_290x290.jpg", "￥89", "主要功效：     
+轻薄的质地，护肤，隔离，修护，修正肤色，使肌肤平滑粉嫩。针对各种肤质修护条理，展现健康自然肌肤。
+适合肤质：     
+普通健康肌肤适用，超敏感肌慎用。
+产品成分：     
+去离子水、甘油、芦荟凝胶、霍霍巴油、太阳花籽油、聚二甲基硅氧烷、维他命E、小黄瓜提取液、水解胶原蛋白、洋甘菊提取液、透明质酸钠、氧化铬绿等。
+使用说明：     
+
+1、基础护肤后，取适量CC霜于手背；
+
+2、依脸面积的大小，将CC霜点在脸上 ；
+
+3、用指腹将CC霜大致推开，均匀的涂抹于整个脸部；
+
+4、轻轻拍打并压匀，至完全吸收。", "保湿 补水 遮瑕 提亮肤色 隔离 ", "50g", "彩妆系列", "2015-05-25 10:44:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("20737512385647febcbbaa0636c53d01", "402881AC4D4188E9014D4188E99D0008", "蜜斯嘉娜", "蜜斯嘉娜 3D水嫩CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1305/09/c0/spcgroup/20733490_1368108151626_400x400_290x290.jpg", "￥101", "是一款隔离防护+美白遮瑕+滋润修护等多种功效的水润裸妆霜。质地比较稀薄好推，颗粒很细腻、清爽不油腻，瞬间即可打造完美妆效。植物花萃取成分，同时添加 了珍珠粉和玫瑰精油成分，即可养白皮肤，改善皱纹，又可平抚情绪、舒缓压力，令肤色透出健康自然的光彩。CC霜可单独直接擦在脸上，又可与其它的BB相搭 配。这样比光擦一种BB持妆的时间长，立体感强，皮肤显的明亮剔透。", "保湿 防晒 遮瑕 提亮肤色 隔离 ", "40ml", "完美底妆系列", "2015-05-25 10:44:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9558ee37e81d4e168caa5b6bfacb7f72", "402881AC4D4188E9014D4188E99D0008", "芙优润", "芙优润 水漾CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1305/16/c0/spcgroup/20988235_1368683466546_400x400_290x290.jpg", "￥55", "独特出水cc霜调整肤色不均，塑造柔滑透亮的肌肤。具有遮瑕膏效果，轻松遮盖面部瑕疵和粗大毛孔，塑造无瑕妆容，超细粉末微粒，隔离彩妆、灰尘及辐射，阻挡外在环境刺激", "防晒 遮瑕 ", "40g", "护肤系列", "2015-05-25 10:44:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d5dc37115e6741bfa0abcc574b65c83d", "402881AC4D4188E9014D4188E99D0008", "莱茵", "莱茵 Q10弹力紧致CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/28/spcgroup/proportion_290x290/12856552738385460.gif", "暂无报价", "紧致亮白 调护合一
+
+看得见的弹力紧致
+蕴含Q10，质感细滑有弹性，有效加强肌肤的修复能力和弹性纤维再生，并增加表皮细胞的增殖能力和更新速度，让肌肤重获青春动力、紧致有弹性。
+
+看得见的亮白无瑕
+特别添加仙蜜果、花青素、红石榴、蓝莓、棉花蜜的高纯“多重植物高能抗氧因子”，温和抗敏，轻易修饰并日渐改善肤色不均、黑眼圈、细纹、痘印、色素印、红色丝等，即使不化妆，肌肤也呈现亮白有弹性的完美肤质。
+
+看得见的溶水透气、不溶妆
+溶水透气——本品溶于水。皮肤涂用溶水的霜体，汗水才能透出来，能透汗就更能透气。避免不透气透汗引起的闷皮肤、长粉刺黑头、痘痘各种皮肤问题。
+不溶妆——本品涂于肌肤后，喷水也不会溶妆，采用含大量负离子的海藻萃取物和超细山药浸粉，经特殊乳化的超微孔负离子膜技术，独具溶水透气、不溶妆的特殊功效，透白透亮轻盈细滑，肤感倍感柔润，并具有非凡丝绸般延展性和贴服性。妆效如空气般轻盈贴服，近看无痕无瑕，令人惊艳。
+
+多方位隔离保护
+全新水基保湿隔离膜技术，即时为肌肤搭建阻隔有害辐射隐形保护膜，有效隔离电脑辐射等辐射污染，让你时刻拥有健康无瑕肌肤。", "保湿 美白 ", "40g", "其他系列", "2015-05-25 10:44:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("080b31825c8b41e8ae90166b2f5ab072", "402881AC4D4188E9014D4188E99D0008", "韩色菲", "韩色菲 炫彩美白补水CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/14/spcgroup/proportion_290x290/13000898822757590.jpg", "暂无报价", "", "保湿 美白 ", "30ml", "其他系列", "2015-05-25 10:44:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("be2463a665ea4cd08f0af488e8c28001", "402881AC4D4188E9014D4188E99D0008", "朵拉朵尚", "朵拉朵尚 莹白隔离出水cc霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201110/16/spcgroup/proportion_290x290/13187715938032950.gif", "￥128", "成分：去离子水、环五聚二甲基硅氧烷、鲸蜡基 PEG/PPG-10/1 聚二甲基硅氧烷、环己硅氧烷、角鲨烷、肉豆蔻酸异丙酯、甘油、二氧化钛、甜菜碱、甲氧基肉桂酸乙基己酯、丁基甲氧基二苯甲酰基甲烷、PCA 钾、β-葡聚糖、氯化钠、茶叶提取物、仙人掌茎提取物、氧化铁类、小白菊花提取物、玉竹提取物、透明质酸钠、羟苯甲酯、羟苯丙酯、香精、双咪唑烷基脲（和）碘代丙炔基丁基甲胺酸酯。
+ 
+ 
+功效：独特出水cc霜调整肤色不均，塑造柔滑透亮的肌肤。具有遮瑕膏效果，轻松遮盖面部瑕疵和粗大毛孔，塑造无暇妆容，超细粉末微粒，隔离彩妆，灰尘及辐射，阻挡外在环境刺激，保护肌肤。多种滋养成份，持续调理肌肤健康，完美提升肤质。塑造颧骨与下巴轮廓，打造令人心动的V型小脸。使用方法：每日肌肤护理后，取适量产品均匀涂抹于面部及颈部。轻拍至吸收。", "保湿 ", "50g", "其他系列", "2015-05-25 10:44:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8988d5f71d354f62825b280baf56f08a", "402881AC4D4188E9014D4188E99D0008", "瓷妆", "瓷妆 蜗牛气垫粉凝霜（自然色）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1505/11/c0/spcgroup/proportion_290x290/6605877_1431274405028_400x400.jpg", "￥218", "蕴含蜗牛分泌物滤液成分及丰富的海洋萃取物，帮助调节肌肤细胞水油平衡，赋予肌肤水润光泽和丰富营养，缔造健康光洁的肌肤。", "保湿 补水 嫩肤 柔滑 ", "15g", "彩妆系列", "2015-05-25 10:44:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e8190e9d30c34230a4d9ba6543ec3ae7", "402881AC4D4188E9014D4188E99D0008", "iFiona", "iFiona 纤颜水润CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20107/21/spcgroup/proportion_290x290/12797011145376190.jpg", "￥118.0", "”乐活橙 iFiona 纤颜CC霜“，超级细腻能揉出水来的CC霜，蕴含南非小果咖啡，南美巴拉圭等多种具有排水及塑形功效的植物成分，活跃新陈代谢，加速脂肪分解和排出，并通过胆固醇生物仿生机制阻止脂肪进入脂肪细胞，消除双下巴和面部浮肿，塑造颧骨和下巴轮廓，打造令人心动的V型小脸，另含有熊果苷等美白淡斑等成分，并长时间保湿，持续使用令肌肤日益白皙。集妆效、保湿、美白、隔离等多功能于一体，让您轻松体验完美自然裸妆。", "保湿 美白 ", "35g", "CC霜系列", "2015-05-25 10:44:38")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("15cf8ba80626470c8e3b94a2f7f8dff5", "402881AC4D4188E9014D4188E99D0008", "iFiona", "iFiona 绝色CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20107/21/spcgroup/proportion_290x290/12796999715581710.jpg", "￥79", "炫世红 绝色CC霜，所含有的独家研制精华，萃取自多种天然植物，能有效去除肌肤表面暗沉，让活性美白精华（蕴含精纯维生素C，大豆精华、维生素B3）渗透到肌肤里层，激发深层透白力量，让肌肤由内而外尽显立体透白。 全新升级保湿因子配方，强大的锁水保湿能力，帮助肌肤牢牢锁住水份，为健康妆容打造最佳水润环境。保湿、美白、隔离、修颜、护肤，一步完成。", "保湿 美白 ", "35g", "CC霜系列", "2015-05-25 10:44:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("194d1a9b0e5d4f0ba95f5a6f8a0a6d3e", "402881AC4D4188E9014D4188E99D0008", "韩洛依", "韩洛依 水漾佳人CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/15/spcgroup/proportion_290x290/13001581119369030.jpg", "暂无报价", "1、修护肌肤纹理、修饰毛孔粗大、隔离、美白保湿、防晒、修饰于一身，让你轻松体验在不经间带给你自然清爽的亮丽妆容。
+2、CC霜主要用于敏感问题肌肤的皮肤修复调色之用，兼备裸妆调色功能的护肤品。和BB霜主打遮瑕、隔离美白相比，CC霜更倾向于敏感问题肌肤、亚健康状态的修复保养，适于长期使用从本质上调整改善肤质肤色。
+3、一次性提供调理肤色功能、改善皱纹功能、阻隔紫外线spf15 pa  /21种营养成分、调节皮脂分泌、保护皮肤、底妆、粉底霜等多种特效护理，是特殊配方的新概念super plus CC霜。
+4、适合于中性偏油，油性肌肤及混合性肌肤使用。吸收迅速清爽不油腻，其收敛控油的效果较好，即使在阳光下也感觉适合自如，妆容清透自然。
+有关更多CC霜功效请参考：韩洛依水漾CC霜功效
+CC霜使用方法：
+1、用CC霜前如果有基础护理要在进行基础保养之后再使用CC霜，保证CC霜在肌肤的外表层。CC霜有修护肌肤纹理、修饰毛孔粗大、隔离、遮瑕、美白保湿、防晒、修饰于一身，功能多样化。
+ 
+2、尽量不要将CC霜与粉底混合在一起涂在脸上，会影响妆效，也降低它对皮肤的护理效果。若希望底妆更明显，可以选择粉饼来定妆。建议每次涂完CC霜后，用蜜粉定妆，妆容会更持久。
+ 
+3、CC霜不需要配合防晒霜一起使用。CC霜全部具有防晒指数，一般的CC霜（有防晒功效的）都能有效抵挡紫外线。
+
+
+
+4、CC霜用后不需要卸妆。CC霜不同于粉底，但是没有进行洗面奶清洗，也有可能会导致堵塞毛孔。所以必须要用洁面乳将脸部CC霜清洁完后再进行基础护肤", "保湿 美白 ", "暂无", "其他系列", "2015-05-25 10:44:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("72ab0783126f427aa178f990f276181b", "402881AC4D4188E9014D4188E99D0008", "韩洛依", "韩洛依 色漾炫彩CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/15/spcgroup/proportion_290x290/13001582008867620.jpg", "暂无报价", "1、修护肌肤纹理、修饰毛孔粗大、隔离、美白保湿、防晒、修饰于一身，让你轻松体验在不经间带给你自然清爽的亮丽妆容。
+2、CC霜主要用于敏感问题肌肤的皮肤修复调色之用，兼备裸妆调色功能的护肤品。和BB霜主打遮瑕、隔离美白相比，CC霜更倾向于敏感问题肌肤、亚健康状态的修复保养，适于长期使用从本质上调整改善肤质肤色。
+3、一次性提供调理肤色功能、改善皱纹功能、阻隔紫外线spf15 pa  /21种营养成分、调节皮脂分泌、保护皮肤、底妆、粉底霜等多种特效护理，是特殊配方的新概念super plus CC霜。
+4、适合于中性偏油，油性肌肤及混合性肌肤使用。吸收迅速清爽不油腻，其收敛控油的效果较好，即使在阳光下也感觉适合自如，妆容清透自然。
+CC霜使用方法：
+1、用CC霜前如果有基础护理要在进行基础保养之后再使用CC霜，保证CC霜在肌肤的外表层。CC霜有修护肌肤纹理、修饰毛孔粗大、隔离、遮瑕、美白保湿、防晒、修饰于一身，功能多样化。
+2、尽量不要将CC霜与粉底混合在一起涂在脸上，会影响妆效，也降低它对皮肤的护理效果。若希望底妆更明显，可以选择粉饼来定妆。建议每次涂完CC霜后，用蜜粉定妆，妆容会更持久。
+3、CC霜不需要配合防晒霜一起使用。CC霜全部具有防晒指数，一般的CC霜（有防晒功效的）都能有效抵挡紫外线。
+4、CC霜用后不需要卸妆。CC霜不同于粉底，但是没有进行洗面奶清洗，也有可能会导致堵塞毛孔。所以必须要用洁面乳将脸部CC霜清洁完后再进行基础护肤", "保湿 美白 ", "暂无", "其他系列", "2015-05-25 10:44:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("44a94fe3bb9341d4ad2e25e3abe14375", "402881AC4D4188E9014D4188E99D0008", "BOB", "BOB 水漾CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/14/spcgroup/proportion_290x290/13159767259342010.jpg", "￥60", "水颜美肌，破茧新生，你也可以！新一代CC霜，给肌肤补充活性EGF，一天24小时每秒都在进行换肤，持续不断生成最大量新生的肌肤细胞，将瑕疵细胞替换出局，健康天然美丽，就是这么简单", "保湿 ", "暂无", "其他系列", "2015-05-25 10:44:48")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7db30f51425943bc8123ef0a0c59492f", "402881AC4D4188E9014D4188E99D0008", "卡姿兰", "卡姿兰 蜗牛裸透调控霜（卡姿兰蜗牛裸透CC霜）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/10/c0/spcgroup/proportion_290x290/39473867_1412914603482_400x400.jpg", "￥139", "卡姿兰以调控各类型皮肤的专属肤色为主，不以底妆产品传统色号作为肤色区分，而是在本身肤色的基础上调控自然肤色，还原皮肤本身的光泽与白皙。卡姿兰蜗牛CC霜采用高能植物精华液取代普通粉底产品的去离子水，将底妆、遮瑕、调色、护肤、精华、妆前、隔离、亮白等8大功效集于一瓶，适用于各种肌肤类型。", "修颜 均匀肤色 ", "30g", "CC家族系列", "2015-05-25 10:44:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0973a82924aa402eaefcfc46389457bf", "402881AC4D4188E9014D4188E99D0008", "尚惠", "尚惠 银杏气垫CC霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/30/c0/spcgroup/proportion_290x290/2551528_1422606205332_400x400.jpg", "￥198", "匠心研制的银杏气垫皙皙霜，集隔离、修颜、水润、焕亮、舒缓、持久6效于一体，缔造莹透如瓷的凝脂底妆；外观时尚雅致易携带，满足女性随时随地随心补妆的美丽心思。", "遮瑕 提亮肤色 隔离 修颜 均匀肤色 持久 ", "15g", "彩妆系列", "2015-05-25 10:44:52")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cf1d738b30d74ed588329969768be9ba", "402881AC4D4188E9014D4188E99D0008", "iFiona", "iFiona 完美无瑕舒敏焕颜CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/15/spcgroup/proportion_290x290/13160690885977560.jpg", "￥79", "", "保湿 美白 ", "暂无", "CC霜系列", "2015-05-25 10:44:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ce3dd113552c499bb43ddde666ff3904", "402881AC4D4188E9014D4188E99D0008", "美妍素", "美妍素 黄金逆时抗衰修复CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/27/spcgroup/proportion_290x290/12961379504243710.jpg", "暂无报价", "运用韩国尖端粉妆技术，加入24K金活性分成，集：抗衰老修复去皱美白滋润修颜于一体", "保湿 ", "暂无", "其他系列", "2015-05-25 10:44:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fc6d4bdf73654c409b279c474f125668", "402881AC4D4188E9014D4188E99D0008", "芭比波朗", "芭比波朗 焕采隔离修颜乳（BOBBI", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/06/c0/spcgroup/proportion_290x290/2835346_1423216567391_400x400.jpg", "￥360", "它是什么？
+美妆大师Bobbi为您带来专业CC霜，终结繁琐美妆，修正肤色、提升光泽、卓效防护一步到位！科学萃取黄瓜、苹果和黄岑，有效修正黯沉、暗黄肤色，均匀提亮；质地轻盈润泽，上妆方便舒适，快速打造无暇底妆；有效抵御紫外线及外界污染的同时镇静舒缓肌肤，预防环境对肌肤造成的老化，带来无与伦比的好气色！
+谁适合用？
+任何肤质，特别是需要清透快捷的多功能底妆产品顾客 
+为何购买？
+1. 灵活的遮盖力和清透柔光妆效，随心打造最自然的底妆
+2.重建天然保湿屏障，令肌肤健康强韧，清新滋养无负担
+3.有效抵抗紫外线及外界侵害，为肌肤竖起隐形的保护伞", "提亮肤色 修颜 ", "40ml", "彩妆系列", "2015-05-25 10:44:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("da61942bd6454448b641bea0bdf83b6f", "402881AC4D4188E9014D4188E99D0008", "莱茵", "莱茵 Q10弹力紧致CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/28/spcgroup/proportion_290x290/12856458191628210.jpg", "暂无报价", "紧致亮白 调护合一
+
+看得见的弹力紧致
+蕴含Q10，质感细滑有弹性，有效加强肌肤的修复能力和弹性纤维再生，并增加表皮细胞的增殖能力和更新速度，让肌肤重获青春动力、紧致有弹性。
+
+看得见的亮白无瑕
+特别添加仙蜜果、花青素、红石榴、蓝莓、棉花蜜的高纯“多重植物高能抗氧因子”，温和抗敏，轻易修饰并日渐改善肤色不均、黑眼圈、细纹、痘印、色素印、红色丝等，即使不化妆，肌肤也呈现亮白有弹性的完美肤质。
+
+看得见的溶水透气、不溶妆
+溶水透气——本品溶于水。皮肤涂用溶水的霜体，汗水才能透出来，能透汗就更能透气。避免不透气透汗引起的闷皮肤、长粉刺黑头、痘痘各种皮肤问题。
+不溶妆——本品涂于肌肤后，喷水也不会溶妆，采用含大量负离子的海藻萃取物和超细山药浸粉，经特殊乳化的超微孔负离子膜技术，独具溶水透气、不溶妆的特殊功效，透白透亮轻盈细滑，肤感倍感柔润，并具有非凡丝绸般延展性和贴服性。妆效如空气般轻盈贴服，近看无痕无瑕，令人惊艳。
+
+多方位隔离保护
+全新水基保湿隔离膜技术，即时为肌肤搭建阻隔有害辐射隐形保护膜，有效隔离电脑辐射等辐射污染，让你时刻拥有健康无瑕肌肤。", "保湿 美白 ", "40g", "新活透白系列", "2015-05-25 10:45:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("48189929fecb4be582d87dd6c6b1a2d5", "402881AC4D4188E9014D4188E99D0008", "美妍素", "美妍素 中草药水凝修护CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/27/spcgroup/proportion_290x290/12961377487573680.jpg", "暂无报价", "MEYOSER（美妍素）中草药水凝修复CC霜，根据亚洲女性（深情悦色）心机妆容理念而特别设计，始终致力于追求自然健康标准同时亦兼顾产品的高效性及安全性，坚持以保养型护肤彩妆引领市场，产品一经推出，即广受亚洲女性高度关注，化有形为无形的心机裸妆概念，必将席卷全亚洲", "保湿 ", "暂无", "其他系列", "2015-05-25 10:45:07")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0d9bdad531cb41deadd47d2d55522958", "402881AC4D4188E9014D4188E99D0008", "彼丽", "彼丽 洋甘菊毛周水漾修复CC霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20124/30/spcgroup/proportion_290x290/13357739301872730.jpg", "￥78", "轻薄柔滑的触感，如冰激淋般慢慢融入肌肤，瞬间摆脱干燥暗哑的窘态，形成滋润保水薄膜阻隔外界辐射及污染物的侵袭，其卓越的延展性更是有助于改善肌肤瑕疵，均匀提亮肤色，保护肌肤纹理", "保湿 美白 防晒 遮瑕 提亮肤色 隔离 ", "50ml", "其他系列", "2015-05-25 10:45:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b6190d543a3445d1991e9f3822c78951", "402881AC4D4188E9014D4188E99D0008", "诺思芙", "诺思芙 粉嫩出水CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1305/19/c0/spcgroup/21097862_1368953895154_400x400_290x290.jpg", "￥99", "特有的水凝转化科技，在涂抹过程汇中会瞬间释放水珠并迅速渗入到肌肤底层，喝饱水的肌肤会从内而外亮起来。", "保湿 美白 遮瑕 提亮肤色 隔离 ", "40ml", "彩妆系列", "2015-05-25 10:45:13")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a579d1aadead45f69c90a787c3030743", "402881AC4D4188E9014D4188E99D0008", "诺思芙", "诺思芙 无暇粉嫩CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1305/19/c0/spcgroup/21098727_1368955178988_400x400_290x290.jpg", "￥129", "采用物理和生物双重先进防护科技，精萃天然美肌精华，由内而外均衡修护痘印、细纹、黯黄等问题肌肤。细腻柔滑的粉质，瞬间呈现悦人的裸妆效果。独特的防水防汗功能，让您的肌肤保持一整天的无暇靓丽。", "保湿 遮瑕 提亮肤色 ", "30ml", "彩妆系列", "2015-05-25 10:45:17")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("17bd8196724147c9aa6af145fe82a171", "402881AC4D4188E9014D4188E99D0008", "艾杜纱", "艾杜纱 亮颜光采CC霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1408/27/c0/spcgroup/proportion_290x290/37944071_1409146144923_400x400.jpg", "￥185", "赋予肌肤「红润感」并提亮、校正肤色！如刚运动完般的自然红润感，使任何肤色都适用。
+高保养含量，添加七大唤顏成分，上妆同时保养。亦能修饰暗沉、肤色不均、毛孔及粗糙纹理。
+红润感
+－嫩Q粉末结合体 — 粉红校正粉末
+抗老、保湿、弹性紧緻、透明感、缩小毛孔、柔嫩
+－七大唤顏成分
+赋予红润感、提亮、校正肤色、修饰暗沉、肤色不均、毛孔及粗糙纹理
+－嫩Q粉末结合体
+高持妆力：强力控油、抗汗以预防脱妆
+－控油矿物粉末
+通过肌肤敏感性测试：
+－添加维他命Ｃ為抗氧化剂、不致痘处方、无香料、不造成肌肤敏感、过敏现象", "保湿 补水 防晒 遮瑕 隔离 ", "35g", "唤颜肌密系列", "2015-05-25 10:45:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ca38e4d8f68d468c87e329658b29786e", "402881AC4D4188E9014D4188E99D0008", "隆力奇", "隆力奇 红豆越橘焕颜CC霜（清爽型）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/08/c0/spcgroup/proportion_290x290/1604221_1420647208166_400x400.jpg", "￥56", "产品功效：质地清爽，提亮遮瑕，细致毛孔，有效改善肤质，清透自然，健康提亮肤色。蕴含的红豆越橘、余甘子果实精华及细胞保护因子，提供肌肤充足的抗氧化成分，抵御外来环境压力，让肌肤呈现自然健康色泽。使用方法：肌肤基础护理后，挤出如黄豆般大小的颗粒状膏体点于脸上，由内而外均匀推开，压匀于脸颊及颈部至吸收。", "保湿 补水 隔离 柔肤 嫩肤 ", "50g", "新生系列", "2015-05-25 10:45:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9f03412641a844df96390c23640d3b14", "402881AC4D4188E9014D4188E99D0008", "隆力奇", "隆力奇 红豆越橘焕颜CC霜（滋润型）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/08/c0/spcgroup/proportion_290x290/1604278_1420647309710_400x400.jpg", "￥56", "产品功效：质地清爽，提亮遮瑕，细致毛孔，有效改善肤质，清透自然，健康提亮肤色。蕴含的红豆越橘、余甘子果实精华及细胞保护因子，提供肌肤充足的抗氧化成分，抵御外来环境压力，让肌肤呈现 自然健康色泽。原料信息：【红豆越橘】：红豆越橘，即北国红豆，色泽嫣红。红豆越橘中的SOD能有效对抗肌肤衰老。丰富的维生素C、E， 帮助女性美容养颜。使用方法：肌肤基础护理后，挤出如黄豆般大小的颗粒状膏体点于脸上，由内而外均匀推开，压匀于脸颊及颈部至吸收。", "保湿 补水 隔离 柔肤 活肤焕采 ", "50g", "新生系列", "2015-05-25 10:45:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b56be57ea84f41f0a6bd25341a8586bb", "402881AC4D4188E9014D4188E99D0008", "卡姿兰", "卡姿兰 蜗牛奢滑调控粉膏（卡姿兰黄金CC粉膏）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/10/c0/spcgroup/proportion_290x290/39474010_1412914820417_400x400.jpg", "￥249", "新型气密粉膏质地，将水分十足的精华霜与薄透丝滑的修颜粉自然融合，把“粉、水、油”以黄金配比的炼造标准，凝炼出水油平衡贴肤、如绒脂般奢滑的顶级粉膏。智能调控肤色，自然遮盖瑕疵，平滑肌肤，持久贴妆。轻抹间，隐匿瑕疵，绽现神采奕奕的缎光肤色，女神级的丝面美妆，非你莫属。蕴含蜗牛修护精华，不一样的护肤级底妆享受，粉膏质地细滑延展，轻松上妆，隔离外界污染与辐射，为肌肤架起城市防护罩。", "修颜 均匀肤色 ", "10.5g", "CC家族系列", "2015-05-25 10:45:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fc1b443fd5a949aabdf38030bdefcc9e", "402881AC4D4188E9014D4188E99D0008", "卡婷", "卡婷 奇迹智控霜(cc霜)", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/14/c0/spcgroup/proportion_290x290/39664176_1413295095933_400x400.jpg", "￥189", "100%韩国进口原料配方，突破性底妆产品，兼具平滑、亮肤、隔离、保湿、遮瑕、滋润、智能调色，质地轻薄透气，涂抹水润不油腻，使肌肤水嫩明亮，轻松打造细腻光滑的年轻美肌！", "保湿 补水 提亮肤色 均匀肤色 柔滑 ", "30g", "彩妆系列", "2015-05-25 10:45:27")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0ecddc035ee04fb7a498911ad438c988", "402881AC4D4188E9014D4188E99D0008", "MIOGGI", "MIOGGI 六角水光感CC霜SPF26", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1404/14/c0/spcgroup/33159158_1397482471472_400x400_290x290.jpg", "￥176.5", "质感轻柔,如空气般透薄,专为亚洲女性肌肤而设,当中蕴含济洲岛六角水凝精华,有效为肌肤持续补湿;「光感基调粒子」能瞬间均匀肤色,修正暗哑、枯黄、灰
+沉色差,令肌肤实时水盈透亮,焕发健康神采。防晒及柔光散射技术于抵抗紫外线侵害同时隐藏毛孔瑕疵及皱纹,一涂一抹,轻易打造出「发亮素肌」。其抗衰老及
+美白护肤功效荣获韩国MFDS认证。", "保湿 补水 美白 遮瑕 提亮肤色 嫩肤 去印 ", "30g", "护肤系列", "2015-05-25 10:45:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8fab2804eceb43afb374c652c091e252", "402881AC4D4188E9014D4188E99D0008", "LotionSPA", "LotionSPA 青瓜舒缓补湿CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/30/c0/spcgroup/32628362_1396183564256_400x400_290x290.jpg", "暂无报价", "一款能揉出水珠的高度保湿CC霜，采用高科技微晶转相释放技术，将纯净矿泉水、青瓜提取精华凝入其中，能长效保湿并锁住肌肤水份能迅速为干
+燥、易敏感肌肤补充水份，质感清爽水润。指尖轻柔即可呈现晶莹水珠，轻拍至吸收，天然水分和其它有效养分就能融入肌肤，并迅速被吸收，使细纹得到明显改
+善，回复柔滑饱满，减少皮肤敏感度。●	
+具有出色遮瑕功能的青瓜舒缓补湿CC霜，拥有轻盈的乳液般清、透、薄、润的质地，只需薄薄一层，即可展现超乎想象的清透、明亮光彩，在面部营造出自然柔光
+裸妆，即使不上彩妆，也自信出门[适合肌肤类型]任何肌肤均可使用。特别推荐给干燥、缺水、脆弱易敏感、有细纹的肌肤使用使用方法；
+肌肤护理后，取适量均匀涂抹于面部，慢慢打圈至出晶莹水珠，轻轻拍打至吸收，裸妆或再进行彩妆即可", "保湿 补水 美白 遮瑕 隔离 均匀肤色 ", "30ml", "青瓜舒缓补湿系列", "2015-05-25 10:45:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4633a9fbdfa34e9997ef25704e3b7825", "402881AC4D4188E9014D4188E99D0008", "伊蒂之屋", "伊蒂之屋 水润透薄裸妆修容霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/31/c0/spcgroup/32645980_1396239815070_400x400_290x290.jpg", "￥118", "7重效果合一兼具保养饰色功能。呈现天生丽质白皙裸妆的隔离霜。有丝滑柔肤、魅力四射两款。", "美白 遮瑕 提亮肤色 隔离 均匀肤色 ", "35g", "2014春夏彩妆系列", "2015-05-25 10:45:38")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("89cef607f65945f288437e993b667a32", "402881AC4D4188E9014D4188E99D0008", "思亲肤", "思亲肤 维他命水透光防晒CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1404/04/c0/spcgroup/32789442_1396585893934_400x400_290x290.jpg", "￥298", "严选多种蔬果复合物，含丰富维生素A、B、C、花青素等营养成分，具抗氧化、抗老化以及强化肌肤天然防御机能的功效，再搭配机能性成分熊果素、腺甘酸，能抵抗外在环境所造成的黯沉肤色、色斑、细纹及老化现象，让肌肤在上妆同时持续净白修护。柔滑水嫩的粉质轻薄透气无厚重感，能赋予肌肤如丝绸般的细致质感，能完美校正不均肤色及瑕疵等肌肤问题，让肌肤更加细致无瑕，可轻松缔造水嫩、透亮且富有光泽感的妆容。", "美白 抗氧化 防晒 提亮肤色 隔离 均匀肤色 ", "30ml", "彩妆系列", "2015-05-25 10:45:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d296f54564374a4cabeb03ba218ffb25", "402881AC4D4188E9014D4188E99D0008", "柏氏", "柏氏 美之印钻光透白CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/17/c0/spcgroup/27627999_1382011310712_400x400_290x290.jpg", "￥107", "修护肌肤纹理、修饰毛孔粗大、隔离、美白保湿、防晒、修饰于一身，让你轻松体验在不经间带给你自然清爽的亮丽妆容CC霜集合了BB霜的所有优点，又特别添加了美白成分，多效维他命C，外在修饰，内在美白，是CC霜的的又一大亮点揉合亮白提升粉末，赋予肌肤内在明净，将美白运用到彩妆上，另结合水凝转化科技技术，全新升级配方，融合了四大保养，四大修饰之功效。", "遮瑕 提亮肤色 活肤焕采 嫩肤 ", "55ml", "彩妆系列", "2015-05-25 10:45:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2ebdc03fdf4f45a3bf6e06ff61962c77", "402881AC4D4188E9014D4188E99D0008", "纯即", "纯即 薰衣草新生活力BB霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1309/28/c0/spcgroup/26577126_1380381397485_400x400_290x290.jpg", "￥69", "薰衣草萃取精华含丰富的保湿美白成分，纳米天然矿物粉质，复配多种植物精华，可遮盖面部瑕疵，色斑，调整改善暗沉肤色，具有持久留妆效果并可抵御紫外线，令肌肤全天保持净白、无暇的迷人光彩。
+成分：薰衣草精华、胶原蛋白、珍珠粉、透明质酸", "保湿 补水 提亮肤色 均匀肤色 ", "45g", "彩妆系列", "2015-05-25 10:45:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("da95b0f88e87405f9adfc932b0011f63", "402881AC4D4188E9014D4188E99D0008", "东方婵妆", "东方婵妆 美肌水嫩CC霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/20/c0/spcgroup/28830709_1384958199937_400x400_290x290.jpg", "￥88", "【功效】全新美肌修颜美容科技，无比细致柔嫩的肌肤触感，保湿润白精华，提
+亮肤色，即可改善肌肤暗沉问题，清透零负担，缔造如丝绸般的细致肌肤,，修饰粗大毛孔，更能均匀肤色、展现净白无瑕；控油保湿科技，瞬间释放水分吸附油
+脂，并融入天然保湿成分，让肌肤高度保湿，使肌肤柔嫩顺滑、舒爽怡人；隔离外界有害物质，让肌肤免受侵害，精心呵护每一寸肌肤，妆容持久肌肤自然，柔润嫩
+白，魅力迷人!
+【适合肌肤】适合任何肌肤，特别是城市肌肤或电脑e族肌肤。", "保湿 补水 遮瑕 隔离 均匀肤色 ", "40g", "护肤系列", "2015-05-25 10:45:45")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("12e99de7f68d4923b72f1170d9d5d77f", "402881AC4D4188E9014D4188E99D0008", "巧迪尚惠", "巧迪尚惠 蝶恋玫瑰皙皙霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/21/c0/spcgroup/proportion_290x290/3188617_1424498032991_400x400.jpg", "￥99", "产品功效：轻薄盈透质地，柔和贴紧肌肤。含魅焕变色细微颗粒，触肤抹开后肌肤逐渐焕亮水润，均匀调节并润饰暗哑、粗糙、暗黄肤色；含玫瑰叶提取物、白头翁及须松萝提取物，赋予肌肤精华润泽能量，精养出细腻平滑的光感美肌。", "保湿 补水 嫩肤 修颜 ", "30ML", "彩妆系列", "2015-05-25 10:45:48")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e412433417c549af86ba8d94b59f3882", "402881AC4D4188E9014D4188E99D0008", "巧迪尚惠", "巧迪尚惠 靓颜色彩调控皙皙霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/21/c0/spcgroup/proportion_290x290/3188567_1424497726529_400x400.jpg", "￥139", "定制明星底妆
+质地轻薄水润，含魅幻变色胶囊颗粒，轻抹后逐层幻化成明亮妆底，匀净提亮，调节修饰暗哑、蜡黄、瑕疵肤色，帮助隔离外界环境刺激，令肌肤光滑、细腻、透亮，轻松实现定制级明星底妆。
+精养莹亮肤色
+将蜗牛分泌物滤液、母菊花及玫瑰叶提取物等精华级营养融入皙皙霜中，集萃多重精华润泽能量，精养妆容，精心呵护，赋予肌肤水嫩平滑光泽，精养出健康莹亮好肤色。 
+蜗牛分泌物滤液：含骨胶原、弹力蛋白、尿囊素等，滋养修护，令肌肤细腻、光滑、柔软；
+玫瑰叶提取物：含有酚树脂饱和物和胺基酸，滋润并改善肌肤弹性，维护年轻光彩；
+母菊花提取物：含有黄酮类和氨基酸，舒缓呵护帮助提升肌肤活力，改善肤质。", "净化排毒 活肤焕采 嫩肤 修颜 ", "30G", "彩妆系列", "2015-05-25 10:45:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("81e82373420048268a8be8d110e34afa", "402881AC4D4188E9014D4188E99D0008", "魅可", "魅可 妆前滋润校色霜(CC霜)", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1503/12/c1/spcgroup/proportion_290x290/3786898_1426162942920_400x400.jpg", "￥350", "ADJUST 蜜桃色(适合所有肤色，提亮暗沉，自然提亮各种暗沉)NEUTRALIZE 象牙色(适合泛红、苍白泛红血丝肤色(黑眼圈)，调和泛红和黑眼圈)ILLUMINATE 薰衣草色(适合亚洲人泛黄肤色，提亮肌肤，匀净色差)RECHARGE 杏桔色(适合橄榄色肌肤，男性深肤色，校正并遮盖泛蓝紫色肌肤、中和橄榄色深肤色，呈现健康光泽)", "遮瑕 嫩肤 均匀肤色 柔滑 ", "30ML", "彩妆系列", "2015-05-25 10:45:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3cc3995f2c834b92972040d2fc760607", "402881AC4D4188E9014D4188E99D0008", "芭妮兰", "芭妮兰 裸透西西霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/25/c3/spcgroup/proportion_290x290/2325190_1422189581793_400x400.jpg", "￥228", "硅护肤与底妆合一  改善暗沉肤色  调整肌肤纹理；
+找回属于自己的健康肤色；
+敏感肌可使用的水溶性CC霜；
+裸透西西霜
+S/W 水包油质地，水感底妆的新技术突破；
+<保湿、提亮、隔离、调整纹理>，改善灰暗肤色，调整肤色不匀及纹理，呈现水润细腻美肌；
+含迷迭香叶水、百花百合花水等草本植物复合水成分，保湿养颜舒缓，能足够提供水分且锁水，令肌肤透亮光泽；", "保湿 补水 提亮肤色 嫩肤 均匀肤色 ", "30ml", "彩妆系列", "2015-05-25 10:45:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ef0d7324b2db4dfdb632a2771636447e", "402881AC4D4188E9014D4188E99D0008", "芭妮兰", "芭妮兰 裸透西西膏", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/25/c3/spcgroup/proportion_290x290/2328609_1422190303484_400x400.jpg", "￥280", "水因子和粉粒子的黄金搭配，令妆面服帖水润持久，演绎水润光感肌肤； 
+恰当的粉质比例，能调节多余油脂，提亮暗沉肤色；圆状&板状粉末，加倍光感折射抚平肌纹，同时自然遮瑕，演绎光感陶瓷肌； 
+多种植物草本精华深层滋润肌肤，补水保湿，令上妆不浮粉； 
+浅肤色:喜欢亮白光感妆人群
+玉瓷色:打造自然光感妆人群", "嫩肤 修颜 均匀肤色 ", "13g", "彩妆系列", "2015-05-25 10:46:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ecfd3b9e52c841aca6ad40f0f9ec1f9f", "402881AC4D4188E9014D4188E99D0008", "悦木之源", "悦木之源 韦博士刺梨焕亮维C隔离霜SPF30+/PA+++", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1504/08/c1/spcgroup/proportion_290x290/5126275_1428503206311_400x400.jpg", "￥390", "轻盈水润、质地不油腻的隔离防晒霜，将防晒，抗氧化，淡斑，亮白，抑制黑色素合成的五大功效合而为一，蕴含天然澄白精萃刺梨，甘草根及白芍药提取，高倍防晒指数长时间有效隔离UVA及UVB，全面防护肌肤，预防肌肤出现色素沉积；高校色斑及肤色不均。色泽适合亚洲人肤色，可帮助提亮暗沉肤色，令肌肤显得明亮饱满，光采焕发。质地很润泽，妆前使用可令妆容更加服帖。使用方法：每日清晨洁面后，于面霜后使用，也可作为妆前隔离乳使用。避开眼周肌肤，取适量均匀涂抹于全脸和颈部。", "保湿 补水 防晒 遮瑕 均匀肤色 ", "40ml", "韦博士刺梨焕亮系列", "2015-05-25 10:46:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e6a085b720d84691a4b10851b8181609", "402881AC4D4188E9014D4188E99D0008", "瓷妆", "瓷妆 蜗牛气垫粉凝霜（亮白色）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1505/11/c0/spcgroup/proportion_290x290/6605876_1431274229589_400x400.jpg", "￥218", "蕴含蜗牛分泌物滤液成分及丰富的海洋萃取物，帮助调节肌肤细胞水油平衡，赋予肌肤水润光泽和丰富营养，缔造健康光洁的肌肤。", "补水 均匀肤色 柔滑 ", "15g", "彩妆系列", "2015-05-25 10:46:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ce869b5a54c34436944929a16e4f3362", "402881AC4D4188E9014D4188E99D0008", "瓷妆", "瓷妆 矿物隔离精纯CC霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1505/11/c0/spcgroup/proportion_290x290/6605878_1431274648259_400x400.jpg", "￥198", "独特水润遮瑕配方，兼具补水保湿、修颜遮瑕、改善肤色等多种强大功能，质地清薄水滑，一抹即开，杜绝厚重、浮粉、上妆不自然等问题，带来丝滑水润，亲肤、细腻的完美裸妆体验。", "保湿 补水 均匀肤色 柔滑 ", "50g", "彩妆系列", "2015-05-25 10:46:12")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b184e63bbe6d4844a0ee3107a9bda757", "402881AC4D4188E9014D4188E99D0008", "纪梵希", "纪梵希 净白焕能隔离修妍乳SPF30+", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1503/28/c0/spcgroup/proportion_290x290/4566349_1427554305162_400x400.jpg", "￥560", "肌肤透白光感，带来“美颜相机”般的匀致光采美肌", "保湿 补水 隔离 嫩肤 ", "30ML", "净白盈采系列", "2015-05-25 10:46:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b4c0108d8efe4f128447130c56bf1726", "402881AC4D4188E9014D4188E99D0008", "伊蒂之屋", "伊蒂之屋 珍珠母亮白多效气垫霜SPF30+/PA+++（防晒升级版）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1504/22/c0/spcgroup/proportion_290x290/5791352_1429694698547.jpg", "￥188", "户外阳光强烈，室内面对电脑屏幕等辐射困扰。在ETUDE HOUSE伊蒂之屋明星产品 —— 亮白多效气垫霜的基础上全新升级：韩国原装进口，增加防晒成分，是一款适合随时带在身边补妆的产品。满足时刻补妆的需要，让肌肤时刻处在最佳状态！
+*玻尿酸：
+蕴含大于自体体重一千倍以上的水分含量，补充并锁住肌肤水分。特别适合秋冬季节使用
+*控油粉末：
+控制肌肤油份，防止肌肤出油， 帮助柔和服贴，打造柔滑肌肤。
+*珍珠粉：
+珍珠矿物粉打造清澈透明肌肤，烟碱酸具有卓越的美白效果。", "补水 控油 美白 滋润 防晒 镇定肌肤 隔离 清洁 ", "15g", "彩妆系列", "2015-05-25 10:46:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8d0735f62ca841b892793cff05da5a9f", "402881AC4D4188E9014D4188E99D0008", "伊夫圣罗兰", "伊夫圣罗兰 明彩CC霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1505/13/c0/spcgroup/proportion_290x290/6739791_1431523973023_400x400.jpg", "￥560", "一次注入三重亮白多糖复合物Glycanactif TW ，三款完美的亮白色泽，除了能够立即修饰三大肤色问题之外，同时持续作用美白效果，让你的妆容一整天持续散发令人心动的白皙透亮光泽。如羽毛般的轻盈质地，清爽不粘腻，带给肌肤极致的舒适感，同时润色肌肤，修正肤色，一整天持久透亮，散发光彩亮泽。持续使用一周，肤质光滑，肌肤呈现透亮光泽，持续使用，肌肤由肌底散发出白净无瑕，并呈现出净透亮的光彩。*圣罗兰臻透亮白修饰乳SPF30+ PA+++薰衣草紫：扫除暗沉和疲惫，减少蜡黄气色不佳的问题，使肌肤一整天持续透出白皙色泽。玫瑰粉：让肌肤由内透出自然粉嫩的光泽，创造清新、亮眼并且红润的好气色。蜜杏米：修正不均肤色，使肤色亮白均匀，散发健康的金色光芒，呈现自然亮采。", "保湿 提亮肤色 隔离 嫩肤 ", "30ml", "彩妆系列", "2015-05-25 10:46:23")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2c727f47e36e46fab673b726c52da882", "402881AC4D4188E9014D4188E99D0008", "倩碧", "倩碧 水嫩保湿粉凝霜SPF30/PA++（倩碧变色龙CC魔妆盒）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1505/19/c0/spcgroup/proportion_290x290/6989432_1432005027401_400x400.jpg", "暂无报价", "倩碧全新水嫩保湿粉凝霜SPF30/PA++，昵称为“变色龙CC魔妆盒”，采用智慧旋转调色设计，汇聚了3种修复光学调色因子, 通过即时调匀融合，可以智慧修正你肌肤所需要的色调，提升肌肤原有的透亮光泽,同时富含倩碧王牌水磁场保湿成分，即刻拥有亮泽、水润的轻盈裸妆。肤色修正：
+本款产品采用全新丝质柔滑配方，融合智慧肤色修正技术，令肌肤自然亮泽，尽显健康美肌。倩碧全新水嫩保湿粉凝霜SPF30/PA++含有肤色修正光学成分，能有效修正一系列肤色问题：提亮暗哑、灰沉肤色，令蜡黄肌肤绽放粉嫩光彩；有效遮盖肌肤红斑，肌肤瑕疵即刻改善，亮泽美肌尽现无暇妆容。水嫩保湿：
+本款产品还富含倩碧王牌水磁场保湿因子，可全天为干燥、缺水肌肤补充水分，舒缓肌肤不适。坚持使用，更可调节并提升肌肤锁水功能。防晒修护：
+本款产品的配方中含有UVA/UVB紫外线防护成分，令肌肤远离环境侵害，保持健康好气色。", "保湿 防晒 嫩肤 均匀肤色 ", "暂无", "彩妆系列", "2015-05-25 10:46:26")

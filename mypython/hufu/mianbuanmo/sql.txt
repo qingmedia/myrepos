@@ -1,0 +1,563 @@
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d77f67554ea249729f3cf51c1357e71a", "402881AC4D411BBA014D411BBAF80018", "阿芙", "阿芙 玫瑰按摩香膏", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1412/03/c0/spcgroup/proportion_290x290/201530_1417617794193_400x400.jpg", "￥148", "添加保加利亚玫瑰萃取精华与玫瑰精油，按摩间层层注入肌肤，为肌肤补充营养物质，令气色红润有光泽，焕发肌肤活力。", "保湿 美白 柔肤 ", "120g", "玫瑰焕白系列", "2015-05-22 20:54:47")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e0962e443ccb4d52ad78b3fc8fecd74b", "402881AC4D411BBA014D411BBAF80018", "雅芳", "雅芳 按摩精油", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/27/spcgroup/proportion_290x290/12933799784481390.jpg", "￥85", "雅芳美容沙龙美体按摩精油
+
+100ML 原价:380元
+
+主要成分:葡萄柚,佛手柑,芜妥,香橙,百里香,菜姆,姜花,鼠尾草,香柏,丁香等复方纯精油及基底油.
+
+功效:纯植物精油提升肌肤能量,透过专业按摩手法让全身肌肤充满活力.
+
+细小精油分子迅速渗透肌肤,使肌肤柔滑细致.
+
+使用方法:当按摩精油:取适量精油,搭配雅芳专业按摩手法直接按摩全身肌肤.
+
+当香熏精油:在香薰器中加入足够的水,滴2-3滴精油在水中.
+
+注意事项:孕妇不可使用.", "", "100g", "新活系列", "2015-05-22 20:54:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fc625a20c94a44e2a599fb78ab7dd0af", "402881AC4D411BBA014D411BBAF80018", "塔莉卡", "塔莉卡 植物活肤精华油", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/19/spcgroup/proportion_290x290/13242702952415290.png", "￥458", "USP：天然植物精油，解决皮肤脱水和抚平细纹，调节人体内分泌，由内而外散发光彩。卖点：天然的植物精油，解决皮肤脱水和抚平细纹，令肌肤充满光泽。成份和功效100%天然成分不含防腐剂；植物精油萃取：自然保湿不会堵塞毛孔；茉莉：柔软皮肤,令肌肤充满光泽。薰衣草：洁净和去除毒素；玫瑰：柔软皮肤，美白补水，抗衰老。
+    
+    适用人群：适合所有人群。使用方法：每晚在清洁后的皮肤上滴2-3滴，涂抹按摩直至吸收。", "活肤焕采 ", "30ml", "面部系列", "2015-05-22 20:54:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e38cf59e3cff44e08cf50f346640d3c3", "402881AC4D411BBA014D411BBAF80018", "苏菲娜", "苏菲娜 润白美肤按摩凝露", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20118/24/spcgroup/proportion_290x290/13141919437773690.gif", "￥420", "蕴含按摩微粒，清除老化角质及污垢，促进肌肤活力，重现细嫩触感。天然植物精华，润白淡斑，令肌肤光感透白，触手可得。她是乳黄色的凝胶状质地,内含些许米色圆形小颗粒，依据官方的按摩手法使用，用了一段时间之后皮肤质量有明显的改善，皮肤不再是那么暗沉疲倦，肌肤起色也明亮了很多，脸蛋感觉滑滑地。可能是因为按摩的作用，肌肤的新陈代谢编号，粉刺和黑头都少了。价格是贵了点，但是物有所值的。", "补水 美白 滋润 ", "100g", "润白美肤系列", "2015-05-22 20:54:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d8eba49b68e247c98a7b9555fb6892ab", "402881AC4D411BBA014D411BBAF80018", "倩碧", "倩碧 水溶性七日按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/11489/spcgroup/11489-1_290x290.jpg", "￥260.0", "适合各种类型肌肤，祛除老化死皮细胞，亮泽肌肤，清洁毛孔，淡化细纹。
+
+
+使肌肤更加光亮，清新，淡化细纹，紧致肌肤，控制油脂分泌。增添肌肤亮泽度，更易于上妆。使保湿层更易吸收水分。不会损伤肌肤。清水洗后不会留有残余物。祛除老化死皮细胞，亮泽肌肤，清洁毛孔。卸妆后，分别挤豌豆大小量的7D/PMT于额头/鼻子/两颊/下巴
+    
+    
+    用手指以打圈的方式按摩1～2 分钟
+    
+    
+    按摩时避开眼部和唇部
+    
+    用温水冲洗干净", "深层清洁 抗衰老/抗皱 ", "100ml", "醒肤活力系列", "2015-05-22 20:54:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3c3c724878d6472cad2df891994970c8", "402881AC4D411BBA014D411BBAF80018", "阿芙", "阿芙 香薰玫瑰面部按摩香膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20106/1/spcgroup/proportion_290x290/1275359091880.jpg", "￥108", "蕴含保加利亚野生玫瑰精华及种子提取液, 性质温和, 可通过按摩调节皮肤干燥、暗哑状态。双重锁水功能, 为皮肤形成自然透气的保护膜, 令肌肤自然滋润, 白皙水嫩有弹性。同时淡淡的玫瑰清香, 能给身心都带来愉悦的享受。", "保湿 补水 美白 滋润 ", "100g", "明星系列", "2015-05-22 20:54:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ad5a904d018746f182c20130c006d50f", "402881AC4D411BBA014D411BBAF80018", "诗婷露雅", "诗婷露雅 皙水柔白滑按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/15/spcgroup/proportion_290x290/13160161901202000.jpg", "￥66", "产品特点：
+滋养焕肤、白滑水嫩
+产品功效：
+促进微循环，排除皮肤深层毒素，激活细胞，增进皮肤对营养的吸收，全方位呵护娇嫩肌肤；深层滋润、补充肌肤充足水份与养份，祛除暗哑，均匀肤色、改善肤色不均、暗黄、老化现象，令肌肤水润柔滑、白皙紧致、富有弹性。
+主要成分：
+氨基酸肽、安定型VC衍生物、水溶性神经酰胺、乳木果油等。
+使用方法：
+洁肤、去角质后，取适量本品均匀涂于面部，轻柔按摩10-15分钟后，再用清水洗净即可。（配合专业手法按摩效果更佳，建议每周1-2次）
+适用对象：
+任何肌肤均可使用。（敏感及红血丝肌肤请在专业美容师指导下使用）。
+温馨提示：
+1、手指是按摩最只能膏药的工具，平常要多注意手部的保养，如果手指干燥，护肤霜就要多涂一些。
+2、顺着肌肉的纹理按摩，也就是“由上而下，由里而外”。
+3、按摩的力度不能太大，以免揉出小皱纹。
+4、同一地方，不要反复来回做同样的动作。
+5、眼睛周围的动作要轻，更不能用力拉扯。
+6、睡觉前是最好的按摩时间。
+7、如果暗疮和粉刺严重，不要进行按摩，以免情况恶化。
+8、敏感及红血丝肌肤请在专业美容师指导下使用。", "深层清洁 保湿 去角质 提亮肤色 嫩肤 ", "100g", "其他系列", "2015-05-22 20:55:02")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("52087911d26a4730a3db6d7fa7d90a15", "402881AC4D411BBA014D411BBAF80018", "茵芙莎", "茵芙莎 黑晶睿迷提拉紧致按摩器", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/15/c0/spcgroup/24524153_1376580395867_400x400_290x290.jpg", "￥310", "1.提供刺激直至肌肤深层
+2.通过按摩促进血液循环
+3.缓解肌肉紧张，揉搓舒缓脂肪，使肌肤放松　　 
+使用方法：
+从脸部中心朝向外侧，
+沿脸部线条缓缓提拉滑动按摩
+（从下颌前端起到脸颊骨下方，
+分成4条线，每边脸做2~3次） 
+从脸部轮廓线起到脸颊骨的下方为止，
+朝上缓缓提拉，滑动按摩
+（从内侧起分4条线，每边脸做2~3次）", "净化排毒 舒缓肌肤 提拉紧致 活肤焕采 ", "暂无", "黑晶睿迷系列", "2015-05-22 20:55:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("efed599019784688966d1261dabcdbe4", "402881AC4D411BBA014D411BBAF80018", "高丝", "高丝 雪肌精纯怡按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1211/21/c0/spcgroup/15949180_1353482589457_400x400_290x290.jpg", "￥400", "这款按摩霜是免洗型的，强烈建议用后马上做一片水敷，就是雪肌精化妆水泡滴纸膜，让之前按摩霜的营养成分更好的渗透吸收，脸部肌肤非常水嫩白皙，记得哦！创造肌肤弹性与明亮的润白按摩霜
+商品特长：
+让独特香气所具有的镇静效果，以及由指间传递而出的
+自然能量，不断环绕于肌肤的润白按摩霜。
+柔滑的触感满布肌肤表面，按摩的同时能够促进肌肤的
+血液循环。集中润白的保养使润泽停留于肌肤，展现拥
+有弹性的明亮肤质。
+按摩霜的润泽薄膜包覆于肌肤表面，使润泽不易流失，
+提高后续使用化妆水的渗透性，维持保湿效果。
+使用方法：
+使用于洗完脸后干净的肌肤。
+取约樱桃般大小的量于手掌心，将两手掌贴合稍加搓揉
+以提高掌温，之后将按摩霜延展于整个脸部并且加以按摩
+之后以面纸仔细的擦拭干净，请注意勿过于用力地擦拭。", "保湿 补水 ", "80g", "雪肌精纯怡系列", "2015-05-22 20:55:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bd8c8d5822414f4db286a233c6de5bf6", "402881AC4D411BBA014D411BBAF80018", "悦木之源", "悦木之源 韦博士夜间按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/17/c0/spcgroup/14463668_1350412249683_400x400_290x290.jpg", "￥340", "彻底放松身心的按摩霜，以「通过临床实验证明能有效提升睡眠质量」的复方植物精油,按摩身体主要穴道,帮助进入充分的休息状态，提升肌肤在晚上黄金睡眠时间的修护效能。有机薰衣草、有机柑橘及纯天然洋甘菊复方植物精油，有效帮助身心彻底放松，完全进入深度睡眠，激励自身修复潜能；
+有机乳木果油、甜杏仁油、椰子油等多种优质的植物油脂，能轻松地在身体肌肤上延展，并加强在主要穴道按压的效果。", "舒缓肌肤 滋润 ", "30ml", "韦博士菇菌健肤系列", "2015-05-22 20:55:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7cd0c10ca4e940df8c9f1e2af73c2e78", "402881AC4D411BBA014D411BBAF80018", "雅芳", "雅芳 保湿按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/26/spcgroup/proportion_290x290/12933730961551280.jpg", "￥68", "产品名称：雅芳美容沙龙系列-保湿按摩霜
+ 
+
+
+特别针对干燥缺水肌肤
+ 
+净含量：200G 单价：￥300
+ 
+ 
+ 
+
+蕴含沙龙专属的”晶致水润”成份，配合专业的按摩手法，犹如活性保湿源泉，可迅速补充肌肤所需水份，由内而外地提升肌肤的润泽度，令肌肤回复盈润饱满，焕发晶莹亮泽", "", "200g", "新活系列", "2015-05-22 20:55:12")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("73f4c46c09274496a680699e4e4d9667", "402881AC4D411BBA014D411BBAF80018", "爱丽莎酷伊", "爱丽莎酷伊 牛奶可可黑糖按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/4/spcgroup/proportion_290x290/12914491947896290.jpg", "￥55", "Elishacoy爱丽莎酷伊牛奶可可黑糖按摩霜
+1. 黑糖中含有丰富的维他命和矿物质。糖份和黑糖颗粒能有效去除毛孔内的黑头和老化角质，可清洁肌肤。
+2. 牛奶中的油脂能使粗糙的肌肤变得光滑，去除老化角质。磨砂刺激小，敏感肌肤也能使用。
+3. 可可中蕴含的多元酚类可达绿茶的两倍、红葡萄酒的三倍、红茶的五倍以上，能使肌肤恢复弹性，清理皮肤内的老废物，同时供应丰富的营养和水分，令肌肤滋润坚实。
+4. 柠檬萃取物中蕴含的枸橼酸能够软化角质，去除堆积的老化角质，维持洁净的皮肤。", "美白 ", "20g", "其他", "2015-05-22 20:55:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("512d3f50a9fe4602b9f7cc0475d21f1f", "402881AC4D411BBA014D411BBAF80018", "爱丽莎酷伊", "爱丽莎酷伊 按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/4/spcgroup/proportion_290x290/12914501776269690.jpg", "￥178", "Elishacoy爱丽莎酷伊牛奶可可黑糖按摩霜，1. 黑糖中含有丰富的维他命和矿物质。糖份和黑糖颗粒能有效去除毛孔内的黑头和老化角质，可清洁肌肤。
+2. 牛奶中的油脂能使粗糙的肌肤变得光滑，去除老化角质。磨砂刺激小，敏感肌肤也能使用。
+3. 可可中蕴含的多元酚类可达绿茶的两倍、红葡萄酒的三倍、红茶的五倍以上，能使肌肤恢复弹性，清理皮肤内的老废物，同时供应丰富的营养和水分，令肌肤滋润坚实。
+4. 柠檬萃取物中蕴含的枸橼酸能够软化角质，去除堆积的老化角质，维持洁净的皮肤。", "滋润 ", "70g", "其他", "2015-05-22 20:55:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d891e7fe418f478181dbe44af501025b", "402881AC4D411BBA014D411BBAF80018", "嫒色", "嫒色 亮颜按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20107/12/spcgroup/proportion_290x290/12789293997328660.jpg", "￥500", "通过按摩促进肌肤微循环，提高肌肤活力，使肤色明亮。这款产品本身也有深层清洁的作用，不用再另外使用清洁产品的。用完之后明显觉得皮肤细嫩、白净、明亮了许多，看起来肤色很舒服，而水润度骤然提升，纹理也变细腻了。摸上去感觉皮肤润润的 、滑滑的。通过按摩促进肌肤微循环，提高肌肤活力，使肤色明亮。这款产品本身也有深层清洁的作用，不用再另外使用清洁产品的。用完之后明显觉得皮肤细嫩、白净、明亮了许多，看起来肤色很舒服，而水润度骤然提升，纹理也变细腻了。摸上去感觉皮肤润润的 、滑滑的。添加了毛孔清洁成分，在促进肌肤微循环的同时，去除老废角质以及毛孔中的污垢使肤色明亮不暗沉。
+细胞间脂质（神经酰胺）可以使肌肤内部机能获得提升，从内部给予肌肤滋润，从而改善肌肤弹性，促进真皮与表皮的结合，使肌肤变得滋润紧致。", "保湿 净化排毒 美白 收缩毛孔 ", "100g", "护肤系列", "2015-05-22 20:55:17")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c4975adb12cc4ae7992eb49cdbdf1588", "402881AC4D411BBA014D411BBAF80018", "雅姿®", "雅姿® 柔润按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/12/c0/spcgroup/24405584_1376303506279_400x400_290x290.jpg", "￥347", "含独特的保湿脂类基质和多种珍贵植物精华，如白茅根提取精华、水解大豆蛋白、醣蛋白、水解燕麦等，及天然荷荷芭油、鳄梨油、道氏池花种子油、乳油木果油等滋润养分，有效改善皮肤血液循环，补充肌肤养分，令肌肤红润、有光泽。
+细腻不油腻，具有良好的滑动感；清爽的水包油配方，不阻塞毛孔。
+多层次淡雅香薰，带来美妙感官享受，令身心放松。将柔润按摩霜涂于彻底清洁的面部，以打圈的方式轻轻按摩，避免直接触及眼睛，然后用水清洗或用面巾纸抹净。", "保湿 补水 控油 滋润 活肤焕采 ", "135ml", "多元修护系列", "2015-05-22 20:55:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("88315e2b6af34aa9b72c24305c2bc740", "402881AC4D411BBA014D411BBAF80018", "真丽斯", "真丽斯 乐颜弹力新生按摩乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/21/spcgroup/proportion_290x290/13244478438361350.jpg", "￥128", "主要成分：喜马拉雅木莓精华、乐颜因子HaberyF(活性酵母细胞精华Biodynes® TRF®、安息香精油)、安息香精油、澳洲坚果油、VE、保湿紧实分子膜Lipomoist。 
+
+成分：去离子水、1,3-丁二醇、烷基磷酸酯、异壬酸异壬酯、澳洲坚果油、聚二甲基硅氧烷、VE醋酸酯、木糖醇、燕麦葡聚糖、透明质酸、马齿苋提取液、喜马拉雅木莓精华、活性酵母细胞衍生物、黄原胶、水解植物蛋白、丝氨酸、脯氨酸、精氨酸、乳酸、乙基己基甘油、香精、安息香精油。 
+
+用途： 
+随着双手的轻柔按摩，有效促进肌肤的代谢和循环，即刻唤醒肌肤活力，软化角质，强化肌肤对养分的吸收，使肌肤充盈弹力，宛如新生； 
+澳洲坚果油，蕴含不饱和脂肪酸，深度滋润肌肤，为肌肤补充营养； 
+喜马拉雅木莓精华促进真皮纤维原细胞的胶原合成，提高皮肤弹性。", "舒缓肌肤 提拉紧致 活肤焕采 ", "100g/ml", "其他系列", "2015-05-22 20:57:52")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cd09566ac21a4155ba5bffa18841b449", "402881AC4D411BBA014D411BBAF80018", "真百代", "真百代 立润保湿活肤按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/21/spcgroup/proportion_290x290/13244457033691200.jpg", "￥66", "乳液/面霜分类: 面霜
+    化妆品规格: 正常规格
+    功效: 补水
+    化妆品成分: 其它成分
+    适合肤质: 中性及干性肤质
+    化妆品容量: 100g/ml
+    品牌: 真百代
+    乳液/面霜单品: 立润保湿活肤按摩霜", "保湿 补水 提拉紧致 滋润 ", "100g/ml", "其他系列", "2015-05-22 20:57:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b8ec6609b50a4061be90bf2acd85fbef", "402881AC4D411BBA014D411BBAF80018", "怡丽丝尔", "怡丽丝尔 优悦活颜弹力美肌按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/12/spcgroup/proportion_290x290/13158370811222540.jpg", "￥350", "通过按摩来促进局部血液循环，回复和提升肌肤原有功能，令肌肤明亮剔透，充满弹性。含胶原蛋白和弹性蛋白精华（保湿成分）。
+
+使用方法：
+使用化妆水后，取适量（约2.5g)于指尖，均匀涂抹于整个面部，按摩，然后用纸巾轻柔擦拭即可。", "舒缓肌肤 活肤焕采 ", "100g", "优悦活颜系列", "2015-05-22 20:57:56")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fb9cdbfabeef4a4495a7fa5e6b0c9722", "402881AC4D411BBA014D411BBAF80018", "蜜葳特", "蜜葳特 摩洛哥坚果仁油", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1504/30/c0/spcgroup/proportion_290x290/6180314_1430377972615_400x400.jpg", "￥255", "摩洛哥坚果仁油拥有优秀的修护、保护及平滑等护肤功效。100%天然来源摩洛哥坚果仁油，每瓶蕴含数百粒坚果仁的精华，由摩洛哥柏柏尔族妇女以冷压法榨取，赋含脂肪酸、植物甾醇等营养成分，深层润泽，平滑肌肤，帮肌肤增加活力，肌肤散发自然健康光泽；
+
+纯净温和，适合于任何肤质及年龄，即使是脆弱敏感肌肤也能放心使用；
+
+Melvita蜜葳特摩洛哥坚果仁油不但有助于全身的健康肤质，还可帮助强健头发及指甲。", "滋润 损伤修复 活肤焕采 嫩肤 ", "50ml", "护肤系列", "2015-05-22 20:57:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("44a71210ac394990a05853d6cdf7ce4e", "402881AC4D411BBA014D411BBAF80018", "奥迪氏", "奥迪氏 平衡舒体按摩霜", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20101/20/spcgroup/1263996405733_290x290.jpg", "￥748", "La Culla为意大利文，尢如 婴儿睡于摇篮中 。此系列产品，利用简单动作，令你完全沉醉全感觉官能的世界中。 带来无限平和、安宁及健康的身心状况。天然植物精华及香熏精华油带来无限平和、安宁及健康的身心状况。促进肌肤血液循环，深层滋养及保护肌肤,平衡肌肤及身心的状态。芝麻油 - 滋養及柔軟大嘛油 - 含豐富維他命，具保濕及保護效能小麥胚芽油 - 滋養及柔軟甜杏仁精華 - 滋養及保護Kawa Kawa (為一種樹產自於澳洲) - 具舒緩作用香橙及天竺葵精華油 - 緩和緊張及壓力", "保湿 滋润 ", "250ml", "护肤系列", "2015-05-22 20:58:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("297aa40ce3a048a28f101ed25a5b48ef", "402881AC4D411BBA014D411BBAF80018", "雅诗兰黛", "雅诗兰黛 晶智焕白莹采按摩膏", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/z3/spcgroup/200905111948385629_s3_290x290.jpg", "￥550", "为肌肤深层补水 揭走晦暗，展现肌肤澄净透亮本质，同时为肌肤注入活性保湿源泉。轻柔如丝的质地为肌肤深层补水，显著唤回肌肤盈润亮采。每周使用2-3次，或在需要时使用。 每周使用2-3次，或在需要时使用。", "美白 ", "75ml", "其他系列", "2015-05-22 20:58:02")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d9c68160ccb74a87a4d43671e5b376cd", "402881AC4D411BBA014D411BBAF80018", "美伊娜多", "美伊娜多 丽茜亚维美亮颜按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/11/spcgroup/proportion_290x290/12920728943550620.jpg", "暂无报价", "柔软、细滑的触感，充分贴合于肌肤，有效促进肌肤的新陈代谢，提高肌肤的活力机能，增强肌肤弹性；草本精华的配合，使按摩效果更为出众，解除肌肤疲劳，消除肌肤的干燥、粗糙、黯淡等现象，令按摩后的肌肤红润，细腻有光彩。配合了丁香、益母草、罗布麻、甘草、银耳、当归、三七人参、川芎、黄柏、月季、杏脯、金银花等12种中药，将汉方草本的神奇力量及温和特性转化为最有效的护肤方式，快速提高肌肤的天然抗氧化功能，强化细胞活力，调理肌肤内部环境，使肌肤健康、明亮、纹理细腻，充满透明的光彩。", "滋润 提亮肤色 ", "80g", "其他系列", "2015-05-22 20:58:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cd92a76def4c486b8d71050ce2bc3dd8", "402881AC4D411BBA014D411BBAF80018", "雅芳", "雅芳 沙龙保湿按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/11/spcgroup/proportion_290x290/12920304475227710.jpg", "暂无报价", "产品名称：雅芳美容沙龙系列-保湿按摩霜
+ 
+
+
+特别针对干燥缺水肌肤
+ 
+净含量：200G  单价：￥300
+ 
+ 
+  
+
+蕴含沙龙专属的”晶致水润”成份，配合专业的按摩手法，犹如活性保湿源泉，可迅速补充肌肤所需水份，由内而外地提升肌肤的润泽度，令肌肤回复盈润饱满，焕发晶莹亮泽", "保湿 ", "暂无", "其他系列", "2015-05-22 20:58:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("917d4059cea64f9f874a7ec0abe7a848", "402881AC4D411BBA014D411BBAF80018", "高丝", "高丝 清肌晶温净按摩啫喱", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/2961/spcgroup/2961-1_290x290.jpg", "￥123.0", "黑色粒子所配合的温感口者喱，能彻底清除含麦拉淋色素的老化角质、黑头与粗糙的颗粒感。肌肤上的水分与口者喱一接触就会产生反应，促使温感基底发生变化以其热力帮助毛孔打开，让毛孔深处的污垢更易获得清除。", "保湿 补水 滋润 ", "80g", "清肌晶系列", "2015-05-22 20:58:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a62338be62f04625a03fa8158124f3b8", "402881AC4D411BBA014D411BBAF80018", "印象之美", "印象之美 按摩膏", "http://i5.3conline.com/images/pclady/brand/brand_logo/20098/4/1249364231714.jpg", "￥700", "针对肌肤紊乱等肌肤烦恼，从根本上改善肌肤质地，使肌肤变得柔软充满弹性呈现完美状态。", "保湿 清洁毛孔 去角质 ", "100g", "护肤系列", "2015-05-22 20:58:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b166776c670c4b7f8e62d54a523a4f11", "402881AC4D411BBA014D411BBAF80018", "自然美", "自然美 复方植物按摩精油", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20127/12/spcgroup/proportion_290x290/13420507467489750.jpg", "￥210", "", "抗衰老/抗皱 ", "100ml", "天然精油系列", "2015-05-22 20:58:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("47feca9d9b944dbbb87c8f1f13773f91", "402881AC4D411BBA014D411BBAF80018", "雅芳", "雅芳 按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/26/spcgroup/proportion_290x290/12933720526332750.jpg", "￥39", "成分与特色：维他命A.B5. C.及芦荟精华.质地柔滑,不油腻.功效:按摩面部,能促进血液循环,加速新陈代谢,营养滋润肌肤,增强肌肤的保湿力及弹力.使用方法:取适量按摩面部,然后用化妆棉擦试干净,再用洗面品洗净即可如果你用撕拉式的面膜前，先用按摩霜打底，不洗掉按摩霜，直接把面膜敷在脸上，当15分钟后面膜干了后，撒下来时，你就不会觉得撕拉式的面膜会那么痛啦，而且做完后的光泽度还超好！！~~~~~~~~~~~~~", "", "200g", "新活系列", "2015-05-22 20:58:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("89551fcac5d740848b48b7232981d46e", "402881AC4D411BBA014D411BBAF80018", "安婷", "安婷 青瓜补水按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/22/spcgroup/proportion_290x290/13244872112638980.jpg", "￥60", "【主要功效】：青瓜含丰富维他命C、氨基酸及黏多醣体，具镇静、纾缓、收敛毛孔、补湿及美白功效。
+
+【产品概述】：胶原蛋白对于皮肤的重要作用显百易见，皮肤的生长、修复和营养都离不开胶原蛋白。胶原蛋白使细胞变得丰满，从而使肌肤充盈，保持皮肤弹性与润泽，维持皮肤细腻光滑。皮肤健康的两大关键抗皱与保湿都与胶原蛋白有关。安婷果酸-蛋白胶原护肤系列是采用法国配方，对东方人的特点而研制，含有丰富维他命，促进新陈代谢，能滋润肌肤，恢复弹性，避免水分流失，达到真正抗老化防皱纹及修护效果，并促进纤维细胞增加。", "", "250g/ml", "其他系列", "2015-05-22 20:58:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2f490b404a7e45d69865797a9b74ae1c", "402881AC4D411BBA014D411BBAF80018", "茵芙莎", "茵芙莎 精纯润肤凝胶", "http://i1.3conline.com/images/pclady/cosme/product/z8/200905112032307544_s3.jpg", "￥340", "呈啫喱状的按摩油，通过按摩促进血液循环，一扫毛孔粗糙、肤色暗沉等烦恼。令肌肤明快而富于弹性，仿佛刚刚享受完专业的美容服务。 简易按摩法1. 从额头中央以向上提升的手法进行按摩，最后在太阳穴停留，按压。沿着鼻梁向下摩擦，在小鼻处上下反复按摩。 2.将面颊分为3部分，从下颚开始以画螺旋的手法向上提升，各按摩3次。 对于有皮脂及粗糙烦恼的部位，请注意用力的轻柔。", "保湿 ", "75 g", "基础护肤", "2015-05-22 20:58:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2924f9c1662446ce950f0c3a9101e64d", "402881AC4D411BBA014D411BBAF80018", "安婕妤", "安婕妤 轻爽按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/20/spcgroup/proportion_290x290/13243145650539770.png", "￥288", "结合润泽配方芦荟与天然排毒成分Vitamin B12衍生物, 能快速中和肌肤里滞留的毒素, 协助排除老废毒素.低油脂高水溶性配方, 使用时触感轻柔顺畅, 清爽自在, 同时促进血液循环, 维持肌肤正常代谢.", "保湿 控油 舒缓肌肤 ", "250g/ml", "其他系列", "2015-05-22 20:58:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8218e6efa16149a7b5317bb440cb92bc", "402881AC4D411BBA014D411BBAF80018", "阿芙", "阿芙 玫瑰面部按摩香膏（刘野活动）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1412/05/c0/spcgroup/proportion_290x290/246517_1417745949529_400x400.jpg", "￥120", "全国各大知名商场热销7年的产品，蕴含珍贵保加利亚玫瑰精油成分和牛油果树果油等，可迅速打开肌肤营养通道，快速帮助皮肤输送营养，每周使用一次可加速营养成分吸收，细致毛孔，使肌肤得到明显改善。", "保湿 滋润 ", "110g", "刘野系列", "2015-05-22 20:58:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bbac62de678b4effa463c564624ea760", "402881AC4D411BBA014D411BBAF80018", "安尚秀", "安尚秀 新活细胞优白活妍按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/15/spcgroup/proportion_290x290/13160929714614600.jpg", "￥92", "产品功效：纯净的活力配方，激发肌肤潜藏能量，通过按摩肌肤，闭塞的毛孔得已打开，肌肤吸收水分和养份的能力不断提高。循环顺畅的肌肤，即将拥有的舒缓不紧绷的肌肤和亮泽弹性且鲜活的肌肤，就在做足这科学简单的几分钟。使用方法：法面后，取适量均匀涂抹于面部，顺着肌肤纹理轻柔按摩5-10分钟，用清水洗净。", "舒缓肌肤 滋润 ", "暂无", "护肤系列", "2015-05-22 20:58:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("558fd1e5751d432f9575da17b2fbe050", "402881AC4D411BBA014D411BBAF80018", "植村秀", "植村秀 净透美白按摩凝胶", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/18/c0/spcgroup/14499732_1350553380520_400x400_290x290.jpg", "￥266.0", "植村秀这款按摩深层清洁的产品可以驱走肌肤粗糙和暗沉，展现明亮肤质 ，是后续的保养品更好的吸收。
+功能： 温和的去除含有黑色素的老化肌肤细胞
+配方： 矿物油甘油 龙胆草精华 樱桃萃取物 海洋深层水 质地： 油性的啫哩质地以及按摩使用方法：在晚间洁面后，干手干脸，将适量凝胶挤出，在脸上分点按摩，一般是额头、两颊、鼻头、下巴这五点。轻轻打圈按摩，大约一分钟左右，然后，将双手沾湿，轻拍面部，此时凝胶将乳化成白色。请继续打圈直到乳化成分基本消失。用清水洗净即可", "去角质 ", "75ml", "净透白萃系列", "2015-05-22 20:58:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d1c56adf6a18459bbd2ead7175c528bf", "402881AC4D411BBA014D411BBAF80018", "宝丽", "宝丽 碧艾臻红按摩膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1309/23/c0/spcgroup/26167260_1379902174522_400x400_290x290.jpg", "￥690", "POLA首次揭开了年轻女性老化的秘密——初期老化症状最初是潜伏在脸部面颊部位，向逐渐脸部外周蔓延。V-ZONE能够呈现紧致上提状态，关键在于双颊沿V字方向提升的“张力胶原蛋白”密度。 
+POLA B.A 臻红系列重点保养女性最初产生老化迹象的Ｖ-ZONE部位，激活胶原蛋白内在顽强的再生力量形成高密度胶原结构，从双颊开始实现提升。动感紧致沿至眼部、唇周，360度全力塑造活力光泽的弹性美肌。 
+产品功效： 
+蕴含独创专利成分“NAO精华”，“刺梨精华”，“CG胶原纤维活化精华”全方位重建真皮内胶原结构： 
+“NAO精华”集合纤维芽母细胞修复受损胶原蛋白 
+“刺梨精华”集中纤维芽母细胞自主生成胶原蛋白 
+“CG胶原纤维活化精华”将每一根胶原蛋白纤维绑紧，重塑真皮内坚实网状结构。 
+同时添加高浓度苦参精华、山金车花精华、黄杞精华、白桦精华，去除肌肤黄气。添加独特弹簧状聚合物，能够紧紧吸附于肌肤且具有提升毛孔肌肤力。彻底清除肌肤纹理内深层污垢，帮助后续营养成分最大渗透。 
+渗透技术 ： 
+POLA独创纳米渗透通道因子，超微纳米粒子结构与细胞间脂质完全相同，涂抹瞬间迅速填补受损角层，并将其修复成健康角质层状态。同时打开肌肤的渗透通道，向肌肤深层输送营养，此时充足的细胞间脂质将水分和养分紧紧锁住。 
+使用方法 ：取一大颗樱桃大小，轻柔涂抹于全脸，约可使用50次。", "抗衰老/抗皱 提拉紧致 ", "100g", "B.A臻红系列", "2015-05-22 20:58:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("047a0bdd17fd463ca4459db311e699ba", "402881AC4D411BBA014D411BBAF80018", "兰嘉丝汀", "兰嘉丝汀 抗皱活肤驻颜露加迷你按摩棒", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/14/spcgroup/1260798473912_290x290.gif", "￥590", "兰嘉丝汀Lancaster抗皱活肤驻颜露加迷你按摩棒(2007年新品)的产品信息：
+皱活肤驻颜露加迷你按摩棒 — 双重抗皱功效极致修复，重整肌肤。抗皱活肤驻颜露轻柔如丝般柔滑的质地，能即刻被肌肤吸收，抗皱功效瞬间激发。单独使用或在抗皱活肤日霜/晚霜之前使用。每次使用只需按压一次，以指尖轻轻打圈，在整个脸部展开。强化修护，有效去处皱纹和细纹。配合特有的迷你按摩棒轻柔按摩，可促进血液微循环，令抗皱效果更明显。", "保湿 补水 抗衰老/抗皱 滋润 ", "30ml", "抗皱活肤系列", "2015-05-22 20:58:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e5023bdf47714d35af7bccfc0c2e0cbd", "402881AC4D411BBA014D411BBAF80018", "日月晶采", "日月晶采 醒肤按摩乳", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200910/22/spcgroup/1256223664389_290x290.jpg", "￥320", "促进早晨较易滞缓的血液循环，消除水肿，并且打开丰润的细胞吸收功能，使之后的化妆水渗透力提高。", "保湿 补水 舒缓肌肤 滋润 ", "50ml", "护理系列", "2015-05-22 20:58:39")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("269fb82459d247e1afa8f053f9fa3fae", "402881AC4D411BBA014D411BBAF80018", "欧珀莱", "欧珀莱 美白快捷按摩露", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1306/04/c0/spcgroup/21655740_1370338300961_400x400_290x290.jpg", "￥160", "渗透到肌肤深层，提高新陈代谢，赋予肌肤丰盈的张力和弹性。", "", "50ml", "时空美白系列", "2015-05-22 20:58:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("015b88f7cf9f4811a8aff62a622446ff", "402881AC4D411BBA014D411BBAF80018", "雅芳", "雅芳 新活再生元气按摩啫喱", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1411/29/c0/spcgroup/proportion_290x290/146683_1417274158593_400x400.jpg", "￥19", "立刻使用新活再生元气按摩啫喱，温热型啫喱面膜，促进肌肤微循环，帮助修复老化问题，全面快速充电，再现活力光采。", "保湿 补水 提拉紧致 镇定肌肤 均匀肤色 ", "100g", "新活系列", "2015-05-22 20:58:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1d60fbe03bc547a29ca513f79d0411e7", "402881AC4D411BBA014D411BBAF80018", "雅芳", "雅芳 美白按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/27/spcgroup/proportion_290x290/12933872611476390.jpg", "￥68", "蕴含沙龙专属的美白成份，萃取自欧亚甘草，可提供肌肤美白能量，有效提亮晦暗肤色，防止肌肤“生锈”，配合专业的按摩手法，赶走暗哑，展现肌肤澄净透亮本质，令您轻松拥有光滑柔润，白皙细腻的亮丽肌肤。", "", "200g", "新活系列", "2015-05-22 20:58:48")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e044b4e0d1aa43fa9861613e174bb61c", "402881AC4D411BBA014D411BBAF80018", "雅芳", "雅芳 抗皱按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/27/spcgroup/proportion_290x290/12933880392968730.jpg", "￥68", "“紧致丝滑”疗程明星产品—抗皱按摩霜
+ 
+ 
+雅芳美容沙龙祛皱按摩霜：特别针对衰老/皱纹肌肤
+ 
+
+
+ 
+ 
+
+  
+
+ 富含沙龙专属的“凝萃祛皱”成份，可有效抵卸自由基，深度滋养肌肤，抚平细纹和皱纹，令肌肤平滑柔软，回复紧致与弹性，抵抗岁月引力，焕发年轻光彩。", "", "200g", "新活系列", "2015-05-22 20:58:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("54f3598a7bc54df09f85324b95ddc710", "402881AC4D411BBA014D411BBAF80018", "雅芳", "雅芳 按摩者哩", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/26/spcgroup/proportion_290x290/12933730279829010.jpg", "￥65", "立刻使用新活再生元气按摩啫喱，温热型啫喱面膜，促进肌肤微循环，帮助修复老化问题，全面快速充电，再现活力光采。 产品成分及作用：温感舒缓因子 轻柔按摩，促进循环，提高吸收力。独特温感舒缓因子，伴以轻柔按摩能缓缓释放温热，帮助肌肤舒缓放松，促进循环，同时层层优化细胞吸收通道，帮助后续保养品的充分吸收。", "", "100g", "新活系列", "2015-05-22 20:58:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c5558c3be08148f2941ea414149528e8", "402881AC4D411BBA014D411BBAF80018", "妮薇雅姿", "妮薇雅姿 美白活肤按摩乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/22/spcgroup/proportion_290x290/12904035689354390.jpg", "暂无报价", "·通过按摩手法提升肌肤的保湿度、光泽度和美白度，活化细胞再生，并修护受损细胞，舒缓肌肤压力，内含的超凡维他命C并能抑制酪氨酸酶的形成，消褪肌肤上的黄气和印痕，逐步重现真正健康的晶白肤色。
+·快速滋养肌肤，有效减少皱纹，抚平粗糙不平滑的肌肤，收紧松弛、老化的肌肤，并激发皮肤内层的骨胶原合成，增强肌肤弹性。
+成份：超凡维他命C、甘草精华、桑叶、牡丹皮、金缕梅等
+用法：洁面后，取适量均匀涂于面部及颈部，轻轻按摩约15-20分钟后以纸巾拭除，或以清水洗净即可。", "保湿 补水 美白 ", "暂无", "美白系列", "2015-05-22 20:58:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("99f92ec1097e4b2d9c1eb7e4586b1dcb", "402881AC4D411BBA014D411BBAF80018", "嫒碧知", "嫒碧知 基础按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/02/c0/spcgroup/16267847_1354380257391_400x400_290x290.jpg", "￥800", "面向出现老化迹象的肌肤。通过按摩促进血液循环是塑造生气、活力的肌肤的基石。●COLLAPLUS 促进产生胶原蛋白和透明质酸。提升肌肤的滋润度和给予张力●ALSAGE 预防糖化伤害，使肌肤保持柔软弹力，没有暗黄的亮丽状态●月见草油 有效分解糖化蛋白质，缓和变硬的肌肤●葡萄籽精华 高效抗氧化，抑制由于氧化引引起的胶原蛋白的劣化●磷脂质聚合物 高效锁水能力，提升肌肤表皮的防御功能，改善肌肤干燥粗糙。〇具有优越保湿效果的醇厚处方，接触肌肤即刻融化，在按摩时能停留在肌肤表面起到保护作用的按摩霜。○使用挑棒取适量于干净的手中，5点分别放置于下巴、两颊、鼻子、额头，均匀眼战后进行按摩。○按摩之后，使用柔软的纸巾等温柔的擦拭后，使用化妆水和乳液，进行基础的护理。○建议一周进行2-3次，根据肌肤的状态也可以每天进行护理。", "抗衰老/抗皱 提拉紧致 ", "130g", "护肤系列", "2015-05-22 20:58:56")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("402a8a137f9f4561a65163ca8831e3a0", "402881AC4D411BBA014D411BBAF80018", "冰美人", "冰美人 保湿按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/23/spcgroup/proportion_290x290/13246157251332120.jpg", "￥95", "", "", "80g/ml", "其他系列", "2015-05-22 20:58:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1564963391044535b72563ddf582b15b", "402881AC4D411BBA014D411BBAF80018", "HOT", "HOT 大米胶原蛋白白肌高效按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/20/spcgroup/proportion_290x290/13165281475413800.png", "￥98", "", "保湿 补水 净化排毒 美白 舒缓肌肤 去角质 ", "100g/ml", "其他系列", "2015-05-22 20:59:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5bf5a0cab123415e8e4b1c9691b9434c", "402881AC4D411BBA014D411BBAF80018", "阿芙", "阿芙 玫瑰按摩香膏(陈漫限定版)", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1412/05/c0/spcgroup/proportion_290x290/239777_1417709427719_400x400.jpg", "￥148", "添加多倍保加利亚玫瑰萃取精华与珍稀小产区玫瑰精油，按摩间层层注入肌底，促进皮下微小循环，缩短肌肤代谢黑色素的周期。令肌肤透白红润有光泽，焕发肌肤新生活力。（1）洁面后，先将爽肤水轻压于面部至完全吸收，再将按摩膏均匀涂抹在脸上。（2）用指肚轻柔地由上至下打圈按摩，不要遗漏任何一处地方。（3）按摩同时，温和的膏体会在肌肤表层形成保护水膜，帮助皮肤营养吸收。", "保湿 清洁毛孔 去角质 嫩肤 ", "120g", "玫瑰系列", "2015-05-22 20:59:02")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a46ee298431d4e1fa363089ea67f1273", "402881AC4D411BBA014D411BBAF80018", "植物工坊", "植物工坊 美白滋润按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/6/spcgroup/proportion_290x290/13020605202203040.jpg", "￥850", "产品功效：白天的肌肤就像上战场一样，时刻与恶劣的环境、紫外线、脏空气做斗争！日间护肤，皮肤最需要隔离这些“敌人”。嫩白粉饰日霜不但保护着您的肌肤，同时让肌肤始终保持健康嫩白！
+滋养、美白粉饰、防护三效合一，内含独特的三种乳化复合剂，质地细腻润滑，能与水融合成精细保护膜，强化肌肤自然防御系统，隔离紫外线直接照射，抵御外界不良环境对皮肤的侵害。舒敏、保湿、修饰肤色，同时促进肌肤新陈代谢，软化角质层，增强肌肤活力与弹性。
+适用皮肤：任何肌肤，尤适弱敏、干性、晦暗肌肤。
+主要成分：没药醇、七叶树素等等。
+没药醇：是从洋甘菊类植物中提取的天然抗过敏剂，有消炎及预防过敏的作用。
+七叶树素：改善微循环,刺激眼周部位排水代谢作用,淡化黑眼圈。
+使用方法：
+彻底清洁后，可根据不同肤质爽肤、润肤同步进行，再使用嫩白粉饰日霜，取适量抹于脸部及颈部，用手轻拍至均匀为止。本产品四季适用，建议每天白天坚持使用，以保持嫩白靓丽的容颜！", "美白 滋润 ", "30g", "其他系列", "2015-05-22 20:59:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9b8768360ac14245a0b2a471361c07b2", "402881AC4D411BBA014D411BBAF80018", "芭比波朗", "芭比波朗 深层滋润脸部按摩精油", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20123/6/spcgroup/proportion_290x290/13310288603961460.jpg", "￥700", "纯植物萃取的护肤油可迅速未肌肤吸收，加强保湿舒缓干燥与缺水的现象。", "保湿 ", "50ml", "护肤系列", "2015-05-22 20:59:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("74d9b73c9e6a4583951cef1ed342e394", "402881AC4D411BBA014D411BBAF80018", "JUST", "JUST BB", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1209/14/c0/spcgroup/13857333_1347624842509_400x400_290x290.jpg", "￥138", "质地温和 亲肤卸妆“0“负担 天然果萃提取，性质温和不伤肌肤，易溶于水，乳化效果好，清爽卸铅华，美肤0负担。", "深层清洁 ", "150g", "护肤系列", "2015-05-22 20:59:09")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("65c1ce7f3867433ab3a65859998b1096", "402881AC4D411BBA014D411BBAF80018", "林清轩", "林清轩 红石榴养护按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20121/10/spcgroup/proportion_290x290/13261641094624530.jpg", "￥190.0", "成分：水、甘油、棕榈酸乙基乙酯、聚二甲基硅氧烷、聚二甲基硅氧烷醇、甜菜碱、鲸蜡硬脂醇、甘油硬脂酸酯、聚山梨醇酯-60、蚕丝提取物、卡波姆、石榴提取物、三乙醇胺、芍药根提取物、羟苯甲酯、牡丹提取物、双（羟甲基）咪唑烷基脲、玉米仁提取物、羟苯丙酯、北美金缕梅提取物、CI 15985、CI 16255。
+
+功效：萃取红石榴精华，深入滋润营养，缓解肌肤干燥感，配合按摩动作，促进净化肌肤，帮助溶解毛孔内污垢，并清洁多余皮脂，补充水分与养分，使肌肤自然净白。", "", "70g", "红石榴系列", "2015-05-22 20:59:12")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("db4542d161f445af92e18fa3b4d6bd9d", "402881AC4D411BBA014D411BBAF80018", "欧珀莱", "欧珀莱 均衡全效按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1306/05/c0/spcgroup/21695913_1370424442420_400x400_290x290.jpg", "￥110", "冻蜜状的按摩霜，具有活化肌肤、消除晦暗的功效，能促进肌肤新陈代谢，使肌肤柔滑亮丽，富有透明感。促进肌肤的血液循环，提高新陈代谢功能，使肌肤柔滑紧致，富有弹性，保持活力。", "", "100g", "均衡保湿系列", "2015-05-22 20:59:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1f4c738a1b8646c991d599d6c82c84d0", "402881AC4D411BBA014D411BBAF80018", "安婷", "安婷 果酸活肤按摩油", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/22/spcgroup/proportion_290x290/13245321242473280.png", "￥50", "安婷果酸-蛋白胶原护肤系列是采用法国配方，对东方人的特点而研制，含有丰富维他命，促进新陈代谢，能滋润肌肤，恢复弹性，避免水分流失，达到真正抗老化防皱纹及修护效果，并促进纤维细胞增加，可以增加肌肤对空气污染侵袭的抵抗力。深层渗透肌肤内，直达皮下细胞，加快细胞代谢，延缓皮肤衰老，使肌肤恢复弹性，嫩白润滑。", "保湿 补水 美白 ", "250g/ml", "其他系列", "2015-05-22 20:59:17")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bd185e925f90449fac33c7e6cdf02e33", "402881AC4D411BBA014D411BBAF80018", "名蔻", "名蔻 细致美白按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/26/spcgroup/proportion_290x290/13248741509008420.jpg", "暂无报价", "成份：芦荟、弹力蛋白、维他命Ｅ、熊果苷、透明质酸、美白精华。功能：全面清除老化角质和枯死细胞，净白肌肤、在排走废物毒素的同时赋予肌肤新生活力，使肌肤迅速白净亮丽，细致光滑，改善色斑、暗疮印痕使皮肤嫩滑充满弹性，修护和增白肌肤，提升肌肤的抗衰老能力，使平涩肌肤重现生机。使用方法：洁肤后，取适量本品涂于面部，以手轻柔按摩时间视需求而定，再用清水洗净即可。", "美白 嫩肤 ", "120ml", "其他系列", "2015-05-22 20:59:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7607bb2a745b455c980962377ea8f4cb", "402881AC4D411BBA014D411BBAF80018", "日月晶采", "日月晶采 醒肤滋养按摩乳", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200910/21/spcgroup/1256125806583_290x290.jpg", "￥450", "通过按摩，温柔唤醒沉睡肌肤，使肌肤呈现理想状态
+完美辉映妆容的晨用按摩啫喱。
+着眼于高保湿性能与舒适使用感。
+丰盈、透明的啫喱状凝乳缓缓渗入睡眠中的肌肤，
+赋予肌肤丰腴水润，并通过按摩促进血液循环，
+焕发肌肤弹性与透明感。清爽、不粘腻。
+如推开窗户，呼吸新鲜空气般，
+在深吸清新香气的", "保湿 滋润 ", "40g", "护理系列", "2015-05-22 20:59:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a30a5bddfa80440f937806c07f62f6f1", "402881AC4D411BBA014D411BBAF80018", "靓邦素", "靓邦素 左旋VC美白补水按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/2/spcgroup/proportion_290x290/13227953090786780.jpg", "￥52", "【产品特点】：左旋维C的四大功效：1.促进血液循环，恢复肌肤光泽；2.隔离紫外线，拒绝黑色素沉积；3.防止肌肤受损老化，给你年轻光彩；4.扫除暗沉、给你白、亮、水般剔透的肌肤。【功效说明】:蕴含多种肌肤所需的活性成分，能有效的抑制自由基活性，修复受损细胞，给肌肤深层滋养，并补充充足的水分，有效缓解肌肤的紧张疲劳，全面调理肌肤，用后令您的肌肤焕发健康光泽。【主要成分】：透明质酸、复合左旋维C、天然角鲨烷、胶原蛋白等。【适合肤质】：任何肌肤,敏感慎用【使用方法】：洁面爽肤后，取适量本品于面部进行按摩，每周一次，最好去美容院按摩。", "保湿 美白 舒缓肌肤 ", "100g", "其他系列", "2015-05-22 20:59:27")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fc62c8d3b752437aa74a1b2d3ca09ce7", "402881AC4D411BBA014D411BBAF80018", "思亲肤", "思亲肤 蜂蜜活颜水分按摩凝胶", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/28/c0/spcgroup/30932408_1390916354270_400x400_290x290.jpg", "￥160", "商品说明
+富含营养丰富的蜂蜜萃取物，为肌肤补充水分，维持肌肤保湿度，通过按摩促进血液循环，是一款睡眠面膜兼用的按摩凝胶。
+使用方法
+取适量本品均匀涂抹于面部，按摩3-5分钟，用水洗净或等待肌肤吸收。", "保湿 补水 去角质 提亮肤色 ", "190g", "蜂蜜活颜系列", "2015-05-22 20:59:29")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0789e5abc0004652b45e687db30b9031", "402881AC4D411BBA014D411BBAF80018", "凡茜", "凡茜 仙人掌水份按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/24/c1/spcgroup/13185071_1345815890557_400x400_290x290.jpg", "￥24", "内含精华颗粒给肌肤温柔呵护，软化表皮角质，有效去除死皮、角质，特别添加滋润成分，水感滋养，使肌肤变得细致嫩滑。使用方法：温润面部颈部，取本品适量，打圈摩整个面部及颈部。以清水洗净即可。每周使用1-2次。适用肌肤：干性肌肤、中性肌肤、混合性肌肤。", "保湿 舒缓肌肤 ", "100g", "其他系列", "2015-05-22 20:59:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("039cdc906a91479d95f0e5de34bee8eb", "402881AC4D411BBA014D411BBAF80018", "伊诺姿", "伊诺姿 持久净透按摩霜", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/4/spcgroup/1259931358509_290x290.jpg", "暂无报价", "持久净透系列。
+  辅酶Q10成份与植物提取物成份为干燥疲累的肌肤供给丰富的营养和水分，营造润泽、富有生机和活力的肌肤。
+  使用方法：
+  清洁面部后，取适量涂于脸部，用手指以打圈方式轻轻按摩，然后用柔软的纸巾擦试或用清水洗净。建议一周使用1～2次。", "保湿 补水 抗衰老/抗皱 滋润 ", "220g", "护肤系列", "2015-05-22 20:59:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1dfbf1aaefb7491693964e8e2c81d2db", "402881AC4D411BBA014D411BBAF80018", "珂诺诗", "珂诺诗 天竺葵西柚按摩油", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/5/spcgroup/1259978332066_290x290.jpg", "￥290", "天竺葵西柚按摩油的精华成分——天竺葵、西柚 天竺葵：别名洋绣球，原产南非，是多年生的草本花卉。叶掌状有长柄，叶缘多锯齿，叶面有较深的环状斑纹。花冠通常五瓣，花序伞状，长在挺直的花梗顶端。由于群花密集如球，故又有洋绣球之称。天竺葵精华可以增强细胞防御功能，适用所有皮肤，有深层净化和收敛效果，平衡皮脂分泌。 西柚：柑橘类水果，柚子甘油是化妆品中常用的一中有益的成分。西柚精华可以有效消解脂肪团，瘦身纤体，更特别的是它能促进淋巴循环和加快毒素的排出。 天竺葵西柚按摩油可以通过精油的活跃混合而减少脂肪团出现，天竺葵、茴香和葡萄柚精油能消灭毒素并且通过刺激淋巴系统排出毒素。经临床检测在2个月之内，100%的临床测试者的皮肤紧致得到了改善，65%的临床测试者的桔皮症状得到了改善。 春天的瘦身战已经打响，别让多余脂肪损坏你的美丽形象。每日涂抹天竺葵西柚按摩油于不满意身体部位，告别毒素，轻盈美体，享“瘦”就是这么简单！", "保湿 补水 抗衰老/抗皱 滋润 ", "100ml", "果木护肤系列", "2015-05-22 20:59:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9e8b72bbfdc54f93a58ae95253e8fa8d", "402881AC4D411BBA014D411BBAF80018", "嫒色", "嫒色 菁华美颜美白按摩霜", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20101/14/spcgroup/1263440693806_290x290.jpg", "￥670", "通过按摩促进血液循环，调整出无暗沉感的明亮肌肤，保持白皙的肌肤。", "补水 美白 滋润 ", "125g", "菁华美颜系列", "2015-05-22 20:59:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f3e20c889d524e66936b21e7ab91653d", "402881AC4D411BBA014D411BBAF80018", "思亲肤", "思亲肤 红参活肤按摩霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1412/30/c0/spcgroup/proportion_290x290/1313676_1419949444800_400x400.jpg", "￥118", "含有红参和蜂王浆提取物，给干燥的皮肤提供水份和养份，使皮肤更具弹性的按摩霜。使用方法：取本品适量，在面颊，下巴，额头，鼻子等部位均匀涂抹，然后从里到外打着圈按摩整个面部。五分钟后用面巾纸擦拭或用温水洗净。", "去角质 抗氧化 活肤焕采 嫩肤 ", "100g", "护肤系列", "2015-05-22 20:59:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("41f5cac20c4743919f0d8b382b80b1bf", "402881AC4D411BBA014D411BBAF80018", "水果之乡", "水果之乡 绿茶按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1207/29/c0/spcgroup/12602614_1343571030315_400x400_290x290.jpg", "￥108", "蕴含丰富的水果提取精华,绿茶萃取之精华,通过按摩能迅速地被肌肤真皮层吸收,补充营养及水分,有交的消除有害氧,防止肌肤老化,具有淡化色素功效,绿茶萃取的黄酮醇成分,对皮肤具有镇静消炎的作用,是天然细胞保护剂.", "保湿 滋润 ", "300g", "护肤系列", "2015-05-22 20:59:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("af59aa12d6da4f22b8bff173b185ea9d", "402881AC4D411BBA014D411BBAF80018", "富思", "富思 有机纾肌按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/4/spcgroup/proportion_290x290/13019287189850920.jpg", "￥368", "使用指导说明：
+将适当份量涂于需要护理的部位。
+
+
+产品介绍：配方集合能促进循环的独特成分，包括辣椒、迷迭香和樟脑，促进疼痛位置的血液循环，主要能减少痛楚及加速复原。山金车花及圣约翰草同样是主要成分：山金车花有助减少组织创伤，而圣约翰草肌有助神经传递，两者结合能减少肌肉紧张，同时支持肌腱内的复原过程。", "保湿 舒缓肌肤 ", "30ml", "其他系列", "2015-05-22 20:59:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e9da51cc86e1452aa5a002c5fcbc3136", "402881AC4D411BBA014D411BBAF80018", "高姿", "高姿 高姿恒妍弹力紧致按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/24/spcgroup/proportion_290x290/13009320529261920.jpg", "暂无报价", "温和软化角质，在按摩中迅速去除表层死皮细胞，排除肌肤中的老化物，消除皮肤产生的毒素和污垢；促进血液循环，增强皮肤代谢，增强细胞的自行修护功能，平滑舒缓皱纹。用后肌肤红润、光滑、白皙，充满活力，更有利于皮肤吸收护肤产品。", "舒缓肌肤 滋润 ", "暂无", "其他系列", "2015-05-22 20:59:47")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("be922a3a0f804516ae2383fb48740b71", "402881AC4D411BBA014D411BBAF80018", "白皙", "白皙 水维他活力按摩乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20107/18/spcgroup/proportion_290x290/12793837839327660.jpg", "￥85", "产品功能：
+蕴含丰富水溶性复合物，深层滋润肌肤，去除暗哑，改善肤色不均、暗黄、老化现象，令肌肤光泽、白皙、紧致、富有弹性。
+产品成份
+超纯去离子水、脂肪酸、脂肪醇、白矿油、丙二醇、单甘酯、二甲基硅油-350、芦芭油、汉生胶、透明质酸钠、氮酮、氨基酸保湿剂、甲酯、丙酯、香精。
+使用方法：洁肤、去角质后，取适量本品均匀涂于面部，轻柔按摩10-15分钟后，再用清水洗净即可。（配合专业手法按摩效果更佳，建议每周1-2次）", "保湿 ", "120ml", "水维他蜕变新生护肤系列", "2015-05-22 20:59:49")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2a29da67190a4bb29f2b364cec5e69e2", "402881AC4D411BBA014D411BBAF80018", "汉芳", "汉芳 Vc精纯美白按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20106/11/spcgroup/proportion_290x290/12761865361041060.jpg", "￥48", "能加速肌肤新陈代谢、加速血液循环，增强皮肤组织弹性。  
+· 深层锁住肌肤水份，用后令肌肤柔软、光滑、晶莹剔透,使肌肤充满活力和生机。", "保湿 ", "100g", "专业美容护肤系列", "2015-05-22 20:59:51")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f176e810495b4ead9ef1abd6daf5a241", "402881AC4D411BBA014D411BBAF80018", "欧诗漫", "欧诗漫 珍珠营养活肤按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/15/spcgroup/proportion_290x290/12897526074393080.jpg", "￥57", "舒缓疲倦肌肤 恢复娇柔弹性
+
+特别添加的单子山楂提取物能增强皮肤抵御有害物质的能力，并且对受损的肤质还有一定的修复作用。
+坚持使用，令肌肤细腻幼滑，赋予肌肤愉悦感受。珍珠粉、小麦胚芽（TRITICUM VULGARE）油、抗坏血酸（维生素C）、生育酚（维生素E）、单子山楂果（CRATAEGUS MONOGINA）提取物、红花（CARTHAMUS TINCTORIUS）籽油洁面后，取适量涂于面部轻轻按摩2分钟，待微囊溶解，再辅以适当手法按摩15-20分钟，然后用湿巾擦净即可。 注意事项：每周使用1-2次，按摩时切勿沾水", "保湿 补水 美白 均匀肤色 ", "150g", "珍珠营养美肤系列", "2015-05-22 20:59:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d53680ae8549497990446961b47b53c4", "402881AC4D411BBA014D411BBAF80018", "金珀莱", "金珀莱 焕彩美白补水按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/9/spcgroup/proportion_290x290/13155780347668640.jpg", "暂无报价", "油、小麦胚芽油、橄榄油、维生素E、胶原蛋白、氨基酸、通草提取液、山梨萃取液、透明质酸 
+
+功效：丰盈柔滑。渗入肌肤深层，促进细胞微循环，软化角质，排除深层毒素，显著激活细胞活力及吸收能力。同时能补给充足水分与养分，保持皮肤湿度平衡，增强皮肤弹性。更能抑制色素沉着，加速活性美白成分吸收。令肌肤持久柔嫩白皙、水润富有弹性。 
+
+适用人群：有美白需求的女性。 
+
+使用方法：洁肤后，取适量本品用指尖均匀涂抹于脸部和颈部（避免涂抹到双眼及嘴唇周围），轻柔按摩约10-15分钟后，以温水洗净即可。 
+
+产品特色：三重按摩 集中调理", "舒缓肌肤 滋润 ", "150g", "智能补水", "2015-05-22 20:59:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("43af23deab7a4d648414bc3533e69451", "402881AC4D411BBA014D411BBAF80018", "安婷", "安婷 果酸活性按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/22/spcgroup/proportion_290x290/13245320284952820.png", "￥75", "安婷果酸—蛋白胶原护肤系列，针对东方人的特点而研制，含有丰富维他命，能滋润肌肤，恢复弹性，避免水份流失，使肌肤常保自然亮丽，充满青春活力。", "保湿 舒缓肌肤 活肤焕采 ", "250g/ml", "其他系列", "2015-05-22 20:59:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("96ce655d2b2f46c9bd0c8408e7af36d2", "402881AC4D411BBA014D411BBAF80018", "参棘", "参棘 嫩白养颜活肤按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/23/spcgroup/proportion_290x290/13246219595030250.jpg", "￥185", "其高渗透配方，能迅速渗透角质细胞，配合简单的按摩手法，即时促进血液及淋巴微循环，唤醒沉睡肌肤吸收美白成份及活肤成份，并能有效溶解老化角质。活化你的皮肤，让你的肌肤在按摩后焕发无限光彩。", "", "100g/ml", "其他系列", "2015-05-22 21:00:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8da440e4917a4b49a49bb8d8b6e73ac5", "402881AC4D411BBA014D411BBAF80018", "丹姿", "丹姿 滢亮皙白按摩精华", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/05/c0/spcgroup/14268737_1349433108378_400x400_290x290.jpg", "￥78", "★净化新生，活力肌肤：能促进肌肤天然净化过程的按摩精华，以按摩的护理促进肌肤新陈代谢，令肌肤宛若新生。 
+★由内而外的剔透皙白：来自天然的美白精萃——雪莲精华、桑椹萃取液、熊果苷，通过按摩更深入渗透肌肤，帮助击退暗哑、黄气等不良肤色，肌肤由内而外剔透皙白、绽放光采。 
+★即效丝滑触感及持久的水感保湿：蕴含透明质酸、橄榄油，滋润保湿，防御外界有害的环境因素。 
+★健康护肤时尚之选——一分钟按摩，显现肌肤亮、透、白的健康美态。适合每天使用。", "保湿 美白 活肤焕采 ", "50g", "水密码系列", "2015-05-22 21:00:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("92d7e8f10d7e45e38b54410b7513484c", "402881AC4D411BBA014D411BBAF80018", "本草堂", "本草堂 活肌抗皱淡纹按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20125/8/spcgroup/proportion_290x290/13364796835376780.jpg", "￥218", "其独特的中草药[活肤驻颜秘方]，富含红景天、灵芝、人参秘制的活肤调理原液及银杏精华，能活化肌肤、补充肌肤所需营养，帮助减淡细纹、皱纹，让肌肤柔滑紧致，富有弹性。帮助促进肌肤的自我更新，有助防止干纹、细纹、松弛，让肌肤迅速重新莹润生机。经常使用，肌肤更加紧致平滑，保持青春活力。", "抗衰老/抗皱 提拉紧致 ", "100g", "活肌抗皱系列", "2015-05-22 21:00:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("abf41b97fda54800bd47c02aff2797b5", "402881AC4D411BBA014D411BBAF80018", "宝丽", "宝丽 BA张力胶原提拉紧致浓厚按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/23/c0/spcgroup/24816173_1377270823607_400x400_290x290.jpg", "暂无报价", "宝丽POLA BA张力胶原提拉紧致浓厚按摩霜", "保湿 补水 抗衰老/抗皱 提拉紧致 ", "100g", "护肤系列", "2015-05-22 21:00:11")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("171f4bfee9fa43c5b4a722773d6408b2", "402881AC4D411BBA014D411BBAF80018", "欧珀莱", "欧珀莱 活肤按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1309/05/c0/spcgroup/25289495_1378362769709_400x400_290x290.jpg", "￥300", "本按摩霜发挥按摩效果，使肌肤更有弹性和透明感并充满健康活力，打造更加紧致有弹性的面部轮廓。
+　　产品特长：
+　　○结合按摩促进血液循环，营养成分渗透肌肤，保护包括干细胞
+　　在内的肌肤细胞，延缓随年龄增加而导致的肌肤弹力减弱。
+　　○结合按摩促进血液循环，使肌肤更有张力和透明感，充满健康活力。
+　　○质地丰润柔滑不油腻。按摩后无需冲洗以及擦拭。
+　　○优雅香味可舒缓身心。
+　　○对肌肤温和的稳定性配方。", "提拉紧致 ", "80g", "臻源新肌系列", "2015-05-22 21:00:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9f5c3dbe97904a4caf4742c1f7cc5edd", "402881AC4D411BBA014D411BBAF80018", "伊丽莎白雅顿", "伊丽莎白雅顿 绿茶活力焕肤去角质霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20123/7/spcgroup/proportion_290x290/13311035248203700.jpg", "￥180", "天然滋润，温和去角质，令肌肤焕然一新。绿茶抗氧复合配方：天然抗氧化，保护肌肤的同时为肌肤提供活力；蜂蜡：温和祛除老废角质以及深层污垢，令肌肤重新散发活力。同时在肌肤表面形成保护膜，保护和滋润肌肤；竹盐：温和去角质，同时促进新陈代谢，令肌肤细致柔嫩，红润有光泽。具有瘦身排毒的功效。", "保湿 去角质 ", "200ml", "绿茶系列", "2015-05-22 21:00:17")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e01d9061a2db489f825999652f92c51d", "402881AC4D411BBA014D411BBAF80018", "露华浓", "露华浓 活C焕颜水润按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20106/8/spcgroup/proportion_290x290/1275967620740.jpg", "￥228", "神奇的霜露转化质地，于轻柔按摩下转换为补湿水珠，给与肌肤如沐甘露的清新体验。瞬间滋润、焕发肌肤水润光采。富含活性维他命C、多种保湿因子、天然春黄菊与人参精华，加速新陈代谢、高效补水、舒缓、镇静肌肤。配合按摩手法使用，促进血液循环，深层补水，肌肤体验清新、透亮、焕然一新的感受。", "保湿 净化排毒 抗衰老/抗皱 美白 提拉紧致 ", "150g", "活C焕颜系列", "2015-05-22 21:00:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7ec4ade701f943fda0477ec4b0257bde", "402881AC4D411BBA014D411BBAF80018", "美谛高丝", "美谛高丝 无限深活按摩霜", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u13/spcgroup/2357_s3_290x290.jpg", "￥500", "消除疲乏，以按摩适度地锻炼肌肤。自肌肤内部舒缓和锻炼肌肤的按摩霜。不止是肌肤表面，而是让肌肤自内部开始得到运动与锻炼。使疲劳、粗糙而有些变硬的肌肤变得柔软，将暗沉的肌肤能焕发更健康明亮的肤色给与明亮，舒缓肌肤疲劳，绽放活力姿采的按摩霜。", "", "140g", "无限深活系列", "2015-05-22 21:00:23")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cea2671682b6433083b22ce52222dd6f", "402881AC4D411BBA014D411BBAF80018", "珀莱雅", "珀莱雅 大S新柔皙按摩乳霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/17/spcgroup/proportion_290x290/12925622030114030.jpg", "暂无报价", "独特的甘草提取液有效舒缓和修护受日照影响的肌肤，持续净化肌肤，改善原有的暗沉肤色。
+
+即时滋润肌肤，在肌肤表面形成保护膜，让肌肤迅速恢复柔嫩光滑。
+
+双效修护维他命C迅速渗透至肌肤底层，深层净白肌肤，有效改善枯黄、暗哑和不均匀肤色。
+给予因日照影响而粗糙的肌肤透明感，使肌肤柔嫩，有弹性。", "保湿 补水 ", "120ml", "新柔皙系列", "2015-05-22 21:00:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("45c72f9b529046f1906a81b638f69739", "402881AC4D411BBA014D411BBAF80018", "丸美", "丸美 巧克力丝滑按摩乳", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/84166/spcgroup/84166-1_290x290.png", "￥15", "【产品功效】：质感细腻，蕴涵丰富的巧克力丝滑精华，顷刻令肌肤丝滑细嫩，巧克力抗氧化耀白物质随按摩过程更深入肌肤，淡化肌肤暗沉，闪耀白晳光采，鲜果本草精华调理肌肤，持续使用，肌肤年轻充满活力。【使用方法】：洁肤后取本品适量，均匀涂于面颈部以按摩手法轻轻按摩8-10分钟，充分吸收后以清水洗净", "美白 提拉紧致 ", "100ml", "其他系列", "2015-05-22 21:00:29")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0fe65e4b5be645feabeec8d39da7b0e3", "402881AC4D411BBA014D411BBAF80018", "SK-II", "SK-II 青春按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20121/19/spcgroup/proportion_290x290/13269676958586470.jpg", "￥620", "SK-II青春按摩霜的Pitera 活性细胞酵素可加强肌肤机能运作正常，保持肌肤青春、健康有活力，它内含的维生素E更能促进肌肤血液循环，具保湿润滑的及改善肤质功能，使干涩的肌肤重现生机，同时水溶性配方，按摩后更容易清洁与擦拭！无香料无色素，不会刺激肌肤，适合各种肌肤性质使用！", "保湿 补水 抗衰老/抗皱 ", "80ml", "其他系列", "2015-05-22 21:00:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("dc99f19ac24b4b058e4588b5fe0781e8", "402881AC4D411BBA014D411BBAF80018", "雅格丽白", "雅格丽白 白茶净颜美白按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20106/14/spcgroup/proportion_290x290/12765025946135830.jpg", "￥78.0", "主要成分：
+茶叶提取物、小麦胚芽油、木瓜果提取物、枸杞果提取物等。
+产品功效：
+舒活、滋养肌肤。白茶精华帮助改善肌肤暗哑、灰黄、干燥无光泽现象；配合按摩，帮助加速肌肤内部的血液循环，令肌肤更水润柔软，细腻有光泽。
+使用方法：
+清洁肌肤后，取适量在面部轻柔按摩8-12分钟后洗去。每周使用2-3次，配合白茶净颜美白面膜使用效果更佳。", "保湿 舒缓肌肤 滋润 ", "100g", "白茶净颜美白系列", "2015-05-22 21:00:33")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9aaaf32664744ca0a50e16c5cc6d297b", "402881AC4D411BBA014D411BBAF80018", "富思", "富思 肌肉按摩软膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/4/spcgroup/proportion_290x290/13019300538093400.jpg", "￥368", "使用指导说明：
+早晚清洁肌肤后，取适量产品涂于面部抹匀，轻轻按摩片刻，待水珠慢慢被皮肤吸收即可。
+
+
+产品介绍：配方集合能促进循环的独特成份，包括辣椒丶迷迭香和樟脑，促进疼痛位置的血液循环，主要能减少痛楚及加速复原。
+山金车花及圣约翰草同样是主要成份:山金车花有助减少组织创伤，而圣约翰草肌有助神经传递，两者结合能减少肌肉紧张，同时支援肌腱内的复原过程。", "舒缓肌肤 滋润 ", "30ml", "其他系列", "2015-05-22 21:00:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3bbfa0f8f81d41f6999d2771dfe2232b", "402881AC4D411BBA014D411BBAF80018", "军献", "军献 粉刺全效按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/6/spcgroup/proportion_290x290/12916497948697760.jpg", "暂无报价", "本品针对青春痘发病机理，采用生化制剂，独创纳米多元修复技术，再配合多种天然名贵中药萃取的菁华成份以及独创的隐形按摩颗粒精制而成。伴随轻柔的按摩，可令毛孔充分打开，更有效排出多余废物与毒素来抵御青春痘及粉刺的产生；恢复受损肌肤的新陈代谢功能及微循环系统，改善油脂分泌过剩，补充肌肤所需水分和氧分；并防止痘痕产生、淡化已形成的痘疤色印。本品性质温和，无刺激，无副作用，使用后可令肌肤光滑有弹性，水莹剔透无瑕疵。
+使用方法: 晚上洁肤后，取适量于额、面颊、鼻尖及下巴，轻轻按摩两分钟，再用清水洗干净即可。", "祛粉刺/祛痘 ", "100克", "益肤霜系列", "2015-05-22 21:00:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4f9850a23db746bf8fd7074af10e487b", "402881AC4D411BBA014D411BBAF80018", "泊美", "泊美 活肤弹力按摩霜", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u18/spcgroup/11122_s3_290x290.jpg", "￥80", "促进新陈代谢，缔造充满活力的健康肌肤的按摩霜，内含维生素E衍生物和氨基酸衍生物，能促进局部血液循环，轻松去除老化角质，令肌肤透明有光泽。", "保湿 去角质 活肤焕采 嫩肤 ", "75g", "活力焕颜", "2015-05-22 21:00:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("639e0c4b70ac4f20a1d6e58e8f35df42", "402881AC4D411BBA014D411BBAF80018", "雅呵雅丝睿", "雅呵雅丝睿 丝睿凝时悦动按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20104/28/spcgroup/proportion_290x290/1272449551650.gif", "￥180", "本按摩霜可以柔化因干燥等外界损伤及生活节奏紊乱造成的疲劳肌肤，通过按摩，调整为健康的肌肤状态，恢复充满活力与张力的肌肤。顺滑醇厚的按摩霜延展于肌肤，可以减轻按摩摩擦带来的肌肤负担，自始至终以轻柔的指部手法进行按摩。通过按摩，在促进血液循环的同时，舒缓肌肤。含橙色颗粒，赋予肌肤表面适度的按摩刺激，在按摩过程中颗粒逐渐消融。水分循环保湿成分促进肌肤中的水通道蛋白「Aquaporin*」的产生，流动的水分令肌肤深层至角质层润泽丰盈。有效调整角质层形成环境，令肌肤表面的质感充满张力和光泽。角质层活性成分在软化肌肤表面“现在”的角质层的同时，调整肌肤内部环境，帮助“未来”的角质层的健全形成。双重维护角质层，由内而外维持充满张力与弹力的肌肤。加配了功能性香气成分「XERESSENCE」，以兰花为主调的优雅香型，使护理时间倍感舒畅愉悦。", "保湿 补水 舒缓肌肤 ", "80g", "凝时系列", "2015-05-22 21:00:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a5c3fb557f7d4615984c572d21114ce6", "402881AC4D411BBA014D411BBAF80018", "梦妆", "梦妆 魔幻活力按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/29636/spcgroup/29636-1_290x290.jpg", "￥109", "具有卓越保湿力的莲花、茉莉、紫薇等鲜花精萃而成的新升级繁花保湿复合体，帮助净化肌肤，赋予肌肤水分与营养，改善黯沉肤色，帮助肌肤回复透明质感。
+蕴含的番木瓜萃取物帮助调理老化角质，为肌肤补充维他命A、β胡萝卜营养成分，天然植物营养令肌肤更有效吸收。
+富含丰富维他命C的葡萄柚萃取物，于外界污染中保护肌肤不受损伤。同时具有清除老化角质与提亮肤色的功效，缔造靓丽且富有生机的肌肤。", "保湿 净化排毒 抗敏感 ", "120ml", "周护理系列", "2015-05-22 21:00:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e320a496da2a45f0ad4ffb6fc3ef2e88", "402881AC4D411BBA014D411BBAF80018", "丸美", "丸美 活肌紧肤按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/13/spcgroup/proportion_290x290/13159186109378780.jpg", "￥70", "促进血液循环，加强新陈代谢，滋润肌肤，通过运动面部，延缓肌肤衰老，增加肌肤弹性，使肌肤产生白里透红的效果。水溶性配方，按摩后易清洗易擦试，其丰富的营养原料，补充肌肤所需营养，延缓肌肤衰老，并避免肌肤松驰无弹性。", "提拉紧致 活肤焕采 ", "75g", "其他系列", "2015-05-22 21:00:49")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e39b2e43e54d4efda22efa8071060f6e", "402881AC4D411BBA014D411BBAF80018", "珀莱雅", "珀莱雅 红葡萄酒美白1号活肤按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/17/spcgroup/proportion_290x290/12925615457746390.jpg", "￥96", "质地温和，唤醒肌肤活力，软化角质，通过对面部的按摩，舒缓肌肤，更好地吸收营养。
+富含钙、锰、锌等促进肌肤活力的成分和橄榄保湿菁华，深层滋润，使肌肤回复光滑柔嫩。
+丰富的红葡萄酒美白菁华、维C、维E、绿茶提取液等营养成分，深层滋润，改善肌肤的暗沉、干燥、晦暗无光的状态。
+配合按摩，本品能有效促进肌肤血液循环，畅通毛孔，柔软肌肤。", "保湿 美白 舒缓肌肤 滋润 活肤焕采 ", "100g", "红葡萄酒美白1号系列", "2015-05-22 21:00:51")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4edada17f9b44e7291ff6a6c84455e7c", "402881AC4D411BBA014D411BBAF80018", "安尚秀", "安尚秀 活妍按摩霜", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20103/10/spcgroup/1268207829072_290x290.jpg", "暂无报价", "主要成份： 荷荷巴油、橄榄油、甜杏仁油、透明质酸、植物蛋白 
+
+产品功效： 纯净的活力配方，激发肌肤潜藏能量，通过按摩肌肤，闭塞的毛孔得已打开，肌肤吸收水分和养份的能力不断提高。循环顺畅的肌肤，即将拥有的舒缓不紧绷的肌肤和亮泽弹性且鲜活的肌肤，就在做足这科学简单的几分钟。", "保湿 舒缓肌肤 滋润 ", "50g", "护肤系列", "2015-05-22 21:01:11")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0ac30aa6a7d44ddda85677ac2ddf078f", "402881AC4D411BBA014D411BBAF80018", "屈臣氏", "屈臣氏 燕窝亮白保湿按摩霜", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20103/14/spcgroup/1268560354905_290x290.jpg", "暂无报价", "燕窝自古至今均是上佳美容珍品,将其特性复合成化妆品美容成分精制成面膜，更是女士美白养颜的护肤新宠。具有柔润净白、收敛毛孔、减退细纹、提升肌肤活力等功效,回复肌肤弹性,倍添光泽。", "保湿 补水 美白 收缩毛孔 舒缓肌肤 ", "暂无", "其他系列", "2015-05-22 21:01:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("748bf5550605429c9138b9e2106fd8ff", "402881AC4D411BBA014D411BBAF80018", "安吉希可儿", "安吉希可儿 VC按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20106/16/spcgroup/proportion_290x290/12766690596309430.jpg", "暂无报价", "产品特性：蕴含多元保湿与滋养成分，可改善肌肤的粗糙、乾燥与缺乏弹性现象，并可促进循环，活泼新陈代谢，达到肌肤减压与防止老化现象，让肌肤更显润泽与充满活力.使用方法：洁肤调理后，取适量涂于脸部，约按摩5~10分钟后，先以化妆纸拭除多余油份，再以清水洗净或温毛巾拭除。", "保湿 滋润 ", "300ml", "生命能量系列", "2015-05-22 21:01:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("494ec8db19b94811b5ed790dbbdf1135", "402881AC4D411BBA014D411BBAF80018", "美伊娜多", "美伊娜多 丽菲亚均衡莹润按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/28/spcgroup/proportion_290x290/12856791467747290.jpg", "暂无报价", "醇厚型按摩霜，触感柔滑，充分亲和于肌肤，通过轻柔的按摩，将营养成分快速输送到肌肤角质层，促进新陈代谢，提高肌肤活力，释放肌肤疲劳，快速消除肌肤的干燥、粗糙、黯淡等现象，令按摩后的肌肤莹润而又充满光泽。", "保湿 控油 ", "暂无", "丽菲亚均衡系列", "2015-05-22 21:01:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("262afef3e7df4c3291cca492f6cf57b0", "402881AC4D411BBA014D411BBAF80018", "一清堂", "一清堂 活肤水份按摩乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/12/spcgroup/proportion_290x290/12815989086939860.jpg", "￥185", "成分：VE、荷荷巴油、角鲨油、尿囊素、芦荟、薰衣草精华、金缕梅精华用法：洁肤后，取适量均匀涂于皮肤上、轻轻按摩10-15分钟，用清水冲洗即可，每周1-2次", "保湿 ", "250ml", "清敏修护系列", "2015-05-22 21:01:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3b362c58e32b4b1e9b87da3e3e19e832", "402881AC4D411BBA014D411BBAF80018", "新面孔", "新面孔 美肌活肤滋养按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/20/spcgroup/proportion_290x290/13243591105452240.jpg", "￥38", "富含多种植物油脂精华，通过按摩改善肌肤血液循环，促进去除老化角质，收紧肌肤，总动平衡油脂，吸收营养，对肌肤全面调理和护理，使肌肤自然白嫩，光滑有弹性。
+主要成分:去离子水、甘油、杏仁油、二甲基硅油、霍霍巴油、大豆蛋白、复合维他命C等。
+使用方法：取本品适量，涂于面部或颈部及其他需要按摩的部位，进行打圆圈式按摩5-10分钟，按摩完后，用毛巾也可擦净。也可用温水洗净。", "", "90G", "其他系列", "2015-05-22 21:01:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0a764e31cdec4ac085e9ff6bd5e41194", "402881AC4D411BBA014D411BBAF80018", "本草堂", "本草堂 红润透白养颜按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20125/8/spcgroup/proportion_290x290/13364680974095170.jpg", "￥123", "其独特的祖传[养颜调理秘方，富含白芍、白茯苓、枸杞、红花秘制的中草药白肤调理原液，配合牛油果油，能帮助活化、调理肌肤，改善肌肤黄气、暗哑及粗糙，肌肤迅速回复红润透白之光采。
+温和质地，配合轻柔按摩肌肤，能软化角质，补充肌肤能量，令肌肤恢复透明白皙感，富有光泽及弹性。", "美白 提拉紧致 去角质 ", "100g", "红润透白系列", "2015-05-22 21:01:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("405e9fdcee054fdaa4bcc530e71c51e1", "402881AC4D411BBA014D411BBAF80018", "蝶翠诗", "蝶翠诗 芳香按摩油（檀香柑橘）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/26/c0/spcgroup/14690738_1351243464867_400x400_290x290.jpg", "￥45", "从西班牙完全有机栽培的果实中提取出橄榄精华油以及天然植物性素材作为基底油，严选20余种天然植物精油调配而成的6种香型。西柚香橙（西柚、柠檬、柑橘）——减肥中、集中注意力、转换心情香柠薄荷（柠檬、佛手柑、薄荷、橙花、苦橙叶、百里香）——缓解压力、振奋低落情绪、提高精神丝柏香草（丝柏、佛手柑、山苍子、薄荷、罗勒、香根草）——提高效率、缓解疲劳、镇静心神薰衣草（薰衣草、黑醋栗、玫瑰、依兰、茉莉、丁香）——提升心情、绽放女人味迷迭香依兰（马郁兰、迷迭香、天竺葵、依兰、橙花、白檀、雪松）——缓解生理痛、温暖全身、安眠、愉悦心情檀香柑橘（蜜柑、佛手柑、柑橘、橙花、雪松、玫瑰木、白檀）——缓解焦虑、消除疲劳使用方法：全身按摩、半身浴、手足按摩、吸入蒸汽、手足浴、湿敷", "保湿 活肤焕采 ", "10ml", "护肤系列", "2015-05-22 21:01:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2128267c191247b99a73de2cd11d5a4a", "402881AC4D411BBA014D411BBAF80018", "柏卡姿", "柏卡姿 蔷薇玫瑰按摩膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/30/c0/spcgroup/25105520_1377877356018_400x400_290x290.jpg", "￥98", "加强肌肤新城代谢，去角质，加强肌肤补水保湿的作用。产品成分：玫瑰提取物、透明质酸钠、假马齿笕提取物、甘草酸二钠 产品用法：均匀涂抹于肌肤，以打圈的方式按摩十分钟后清洗干净即可。使用方法：晚间洁面并使用化妆水调理肌肤后，取适量用双手轻揉温热按摩霜，避开眼周部位，柔和按摩脸部与颈部。最后用纸巾轻轻擦除即可。", "保湿 美白 嫩肤 ", "80g", "护肤系列", "2015-05-22 21:01:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("59d32c1bb09643cc98aff840ae58b338", "402881AC4D411BBA014D411BBAF80018", "高丝艾文莉", "高丝艾文莉 诺珀活力修复按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/19/c0/spcgroup/16725858_1355905889263_400x400_290x290.jpg", "￥135.0", "消除肌肤&ldquo瘀血凝血&rdquo造成的晦暗现象，引导出光泽有弹力肌肤的按摩霜。通过山金车花促进血液循环的作用，消解肌肤凝血，解决细胞循环力不畅。将营养物质和酸素深入输送至肌肤内部，根本改善肌肤的暗沉、晦暗无光的状态。角鲨烯成分，给予肌肤前所未有的滋润感受，在按摩的同时享受丝绸般的摩挲感。", "补水 收缩毛孔 提拉紧致 ", "80g", "诺珀系列", "2015-05-22 21:01:37")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7760548139a74e3daf238f6531e3953b", "402881AC4D411BBA014D411BBAF80018", "白大夫", "白大夫 透白亮润按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20115/22/spcgroup/proportion_290x290/13060525611835330.jpg", "暂无报价", "美白“摩”力，按出婴儿肌！
+        
+    
+
+主要成分：
+
+    
+        
+            蕴含棕榈酸异丙酯、甘草根提取物、甘草酸二钾；
+        
+        
+             
+        
+        
+            产品功效：
+        
+        
+            营养霜型按摩膏，蕴含丰富滋养保温成分，深层补充肌肤所需营养；
+        
+        
+             
+        
+        
+            产品特点：
+        
+        
+            同时活化肌肤细胞，帮助清除表皮老化和毛孔中污垢，令肌肤紧致盈润，光亮透白；
+        
+        
+             
+        
+        
+            使用方法：
+        
+        
+            洁肤及爽肤后，取适量顺肌肤纹理轻轻按摩3—5分钟至肌肤吸收后即可，无需清洗。", "保湿 美白 舒缓肌肤 ", "125g", "其他系列", "2015-05-22 21:01:39")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("50f4232fe1a44092bd62d51234038524", "402881AC4D411BBA014D411BBAF80018", "柏氏", "柏氏 雪妃活能胚胎调肤按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/15/spcgroup/proportion_290x290/13160965748534380.jpg", "￥30", "促进微循环，排除皮肤深层毒素，激活细胞，增进皮肤对营养的吸收，全方位呵护您娇嫩的肌肤；补充肌肤充足的水份和营养，祛除暗哑、晦黄肤色，延缓肌肤衰老，令肌肤柔滑白嫩，富有弹性。", "抗衰老/抗皱 提拉紧致 滋润 ", "103g", "其他系列", "2015-05-22 21:01:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e32d402bf3104d7180b5c5ca84703d24", "402881AC4D411BBA014D411BBAF80018", "曼诗贝丹", "曼诗贝丹 莹白动力按摩霜", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20101/23/spcgroup/1264213330693_290x290.gif", "暂无报价", "采用高效美白水份复合物及毫微胶囊纯维他命C促进皮肤新陈代谢，去附暗哑肤色，更有助加速微微环，增强皮肤吸收力健康肌夫系统得以更生。 
+
+新一代生物科研美白系统：蕴含生物再青春元素G因子和透明质酸，有效淡化色斑，同时令表皮细胞再度注满水份，使肌肤长期处于水嫩状态，重现剔透亮白。", "", "暂无", "护肤系列", "2015-05-22 21:01:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c20940cc570f489788f987fa49060f73", "402881AC4D411BBA014D411BBAF80018", "樱奈儿", "樱奈儿 保湿按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/27/spcgroup/proportion_290x290/12828746399051370.jpg", "暂无报价", "本品含有多种美容营养成份，能为肌肤补充水份，平衡油脂分泌，促进血液循环，改善皮肤肤质，增强肌肤抗衰老能力。", "保湿 ", "100g", "护肤系列", "2015-05-22 21:01:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f37143a8ee1e45a2bd6578d4dd1b6a55", "402881AC4D411BBA014D411BBAF80018", "尹姬", "尹姬 葡萄多酚", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/27/spcgroup/proportion_290x290/12829240767299820.jpg", "￥150", "功效： 充分调动肌肤细胞活性是本品的根本，深入渗透到肌肤基底层，促进肌肤血液循环，活化细胞生长，强化细胞锁水能力，并可形成防止水份流失的保护膜，有效平复细纹，延缓衰老。", "保湿 ", "80g", "护肤系列", "2015-05-22 21:01:47")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bd873ea8dc104511a7be8ad6d1e72e19", "402881AC4D411BBA014D411BBAF80018", "尹姬", "尹姬 葡萄多酚弹力滋养按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/27/spcgroup/proportion_290x290/12829243835331380.jpg", "￥170", "含量： 200g
+成份： 葡萄多酚、蜂胶、VE、神经酰胺
+功效： 充分调动肌肤细胞活性是本品的根本，深入渗透到肌肤基底层，促进肌肤血液循环，活化细胞生长，强化细胞锁水能力，并可形成防止水份流失的保护膜，有效平复细纹，延缓衰老。", "保湿 ", "200g", "护肤系列", "2015-05-22 21:01:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a44b623dd211454a88556ca3dbb3db4b", "402881AC4D411BBA014D411BBAF80018", "尹姬", "尹姬 红珊瑚雅白养肤按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/30/spcgroup/proportion_290x290/12831469393552200.jpg", "￥160", "成分：红珊瑚、珍珠蛋白、太阳花籽油、牡丹精华功效：蕴含的美白营养成份快速渗入肌肤内层，促进肌肤血液循环，代谢沉积的黑色素，减少皱纹，令肌肤质感柔滑呈生理性转白", "保湿 ", "200g", "护肤系列", "2015-05-22 21:01:56")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d8bc73cd907d44ccab9d18b51791c24a", "402881AC4D411BBA014D411BBAF80018", "美伊娜多", "美伊娜多 多明丽晶透亮颜按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/28/spcgroup/proportion_290x290/12856788144403960.jpg", "暂无报价", "", "保湿 ", "暂无", "多明丽晶透系列", "2015-05-22 21:01:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("38a940a7809d428692ba087863ecc3aa", "402881AC4D411BBA014D411BBAF80018", "高姿", "高姿 恒妍弹力紧致按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/3/spcgroup/proportion_290x290/13018314232305270.jpg", "￥78", "通过按摩作用，软化角质，去除表层死皮细胞，并加速排除皮肤产生的代谢物和污垢；按摩有助促进微循环，提升肌肤活力，令肌肤饱满紧实；配合适当按摩手法可排除水肿，并紧致面部轮廓。用后肌肤柔软、细滑、白皙，更有利于皮肤吸收护肤产品。", "保湿 提拉紧致 ", "50g", "恒妍弹力系列", "2015-05-22 21:02:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("dbb8ee8c9a6d4f8fa2e2c8513ae22968", "402881AC4D411BBA014D411BBAF80018", "宝蕴", "宝蕴 水嫩露按摩乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/5/spcgroup/proportion_290x290/12809834164637240.jpg", "暂无报价", "水嫩露按摩乳
+        
+        
+            
+            
+                
+                    
+                        成分： 
+                        聚多糖、橄榄油精华素、美白因子
+                    
+                    
+                        说明： 
+                        具优质延展滋润性。深层滋养，让疲倦干燥肌肤恢复活力，强化肌肤锁水屏障，防止肌肤水分流失。
+                    
+                    
+                        用法：
+                        洁肤爽肤后，取适量于手掌充分匀开，用专业手法按摩面部15-20分钟后，清洗干净即可。", "保湿 补水 美白 ", "420g", "面部护理系列", "2015-05-22 21:02:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b125cc2364a84bbc8d07a8600f30b16c", "402881AC4D411BBA014D411BBAF80018", "韩伊", "韩伊 按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/5/spcgroup/proportion_290x290/12915173298627030.jpg", "￥75", "功效作用：高度滋润,促进皮肤血液循环及新陈代谢,柔润肌肤,防止皮肤松弛、老化而产生皱纹；有效清除皮肤细胞代谢产物、软化角质层，令肌肤新生嫩白。
+使用方法： 每周1次，按摩15-20分钟洗去。（建议由专业人员使用）。", "", "暂无", "其他系列", "2015-05-22 21:02:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("90b0ab55d4154ddd8ee9fea76656a6cb", "402881AC4D411BBA014D411BBAF80018", "丸美", "丸美 活肌紧肤按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1309/22/c0/spcgroup/26126304_1379830969822_400x400_290x290.jpg", "￥110", "功效：通过运动面部，促进血液循环和新陈代谢，延缓肌肤衰老，增加肌肤弹性，使肌肤白里透红。
+用法：洁肤、调理肌肤后，取适量于前额、面颊及下巴，顺肌肤纹理轻柔按摩3分钟，而后以面纸擦去，清水洗净，再进行后续护肤。", "抗衰老/抗皱 收缩毛孔 提拉紧致 ", "75g", "细胞活性肌晶系列", "2015-05-22 21:02:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8a16898f7fad496d825275bddaed48ba", "402881AC4D411BBA014D411BBAF80018", "摩力沱", "摩力沱 眼周清毒按摩乳", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/24/c1/spcgroup/13186703_1345823699982_400x400_290x290.jpg", "￥250", "功效：解决干涩、浮肿、循环不畅和黑眼圈等眼肌问题的好帮手。", "", "40ml", "眼部疲劳系列", "2015-05-22 21:02:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0d2a16e9baf94e8d9bff8cfaedaddfa7", "402881AC4D411BBA014D411BBAF80018", "美之秘语", "美之秘语 蚕丝弹力紧致柔嫩按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/23/spcgroup/proportion_290x290/13246081477164380.jpg", "￥78", "涂于肌肤，利用按摩手法，促进血液循环，抵抗皮肤衰老，活性粒子渗入肌肤增加肌肤弹性，激发细胞活力，补充营养水分，提高肌肤自我保湿功能，令肌肤光滑柔润，富有弹性。", "", "120g", "护肤系列", "2015-05-22 21:02:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4adacce77d3a49a1b934cb14d12fdbcf", "402881AC4D411BBA014D411BBAF80018", "美之秘语", "美之秘语 橙花金萃亮白丝滑嫩肤按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/23/spcgroup/proportion_290x290/13246091330465830.jpg", "￥69", "10种维生素和12种矿物质，能有效地帮助圾暗疮及敏感的性的皮肤无刺激地吸收按摩功效，另含沙鱼卵萃取物，能调节肌肤水分和油脂。", "", "120g", "护肤系列", "2015-05-22 21:02:12")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3e21ffce151646c0bb532d00e8a47c45", "402881AC4D411BBA014D411BBAF80018", "美之秘语", "美之秘语 海洋深层水柔肤保湿按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/23/spcgroup/proportion_290x290/13246126770570790.jpg", "￥59", "按摩膏含有丰富的滋养保湿成分，性质温和细腻，选用独特配方研制而成，适合脸部和身体的按摩，使用后令肌肤轻盈柔软、滋润保湿，润而不腻。", "", "120g", "护肤系列", "2015-05-22 21:02:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ecf04ab07eb44c83a7b9fbea2cb44b9d", "402881AC4D411BBA014D411BBAF80018", "雅呵雅润希", "雅呵雅润希 韵容焕肤按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/15/c0/spcgroup/12935351_1345019934489_400x400_290x290.jpg", "￥170", "彻底解决肌肤暗沉无光的困扰，缔造晶莹剔透的美肌。美白成分有效抑制肌肤黑色素生成，让肌肤由内而外呈现晶莹剔透。配合成分：药蜀葵提取物、桃核仁提取物(植物由来)【舒适滋润】使用感舒适，也可以同时按摩，促进滋润成分渗透配合舒适滋润成分：乙基葡糖苷(植物关联成分)【紧实弹性】按摩效果促进血液循环，保持肌肤水润光泽，丰盈弹力。配合肌肤弹性成分：楔基海带提取物(海藻由来)【绿色花香型】保养肌肤的同时，轻松享受温和绿色花香。", "美白 ", "60g", "韵容焕肤系列", "2015-05-22 21:02:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4e50213c222a48db9a6f3c59c7c0cf41", "402881AC4D411BBA014D411BBAF80018", "莎芭瑞", "莎芭瑞 茉莉活肤按摩油", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20124/7/spcgroup/proportion_290x290/13338065249674030.gif", "￥203", "功效： 
+令肌肤柔软、光滑和亮泽。
+蕴含天然色素和纯素成分。
+不含防腐剂，可生物降解。", "美白 ", "7.7oz", "身体护理系列", "2015-05-22 21:02:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5dcacca9bd4842dfaca3d417f45c2e64", "402881AC4D411BBA014D411BBAF80018", "姬芮", "姬芮 恒润娇养按摩霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/15/c0/spcgroup/proportion_290x290/39693296_1413356651803_400x400.jpg", "￥12.5", "有助于肌肤保湿，留住肌肤水润，赋予肌肤水感弹力的按摩霜。舒适使用感，使肌肤水润柔滑；帮助肌肤按摩，通过亲拍肌肤，持续红润美肌；改善细纹，缓解毛孔粗大，缔造柔滑肌肤；向肌肤补充水润，稳定肌肤平衡，保持健康的肌肤状态；对肌肤温和的稳定性配方。", "保湿 收缩毛孔 ", "80g", "恒润娇养系列", "2015-05-22 21:02:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7c6896d233bd436a8cd3d6bf2cbb6075", "402881AC4D411BBA014D411BBAF80018", "美素", "美素 多维美白按摩霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/25/c0/spcgroup/proportion_290x290/40133919_1414251536809_400x400.jpg", "￥80 已退市", "产品功效：  
+是一种活性美白按摩霜，具有高营养、高保湿功能。按摩时随着循环速度加快，多种植物成分迅速渗入底层，加速新陈代谢，改善皮肤因缺乏营养而造成的干涩、松弛、枯黄等问题，使肌肤长久保持嫩白柔滑状态，恢复明亮光泽，充满动人朝气。 
+  
+使用方法：  
+每周1-2次，洁面后按摩8-12分钟洗去", "美白 活肤焕采 嫩肤 均匀肤色 ", "100g", "护肤系列", "2015-05-22 21:02:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cd6421b362744deaa6874dc8c66157c3", "402881AC4D411BBA014D411BBAF80018", "柏氏", "柏氏 舒缓嫩白按摩乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/16/spcgroup/proportion_290x290/13161345124348200.jpg", "￥68", "蕴含天然舒缓活力因子，能自然调节身体的平衡呼吸，缓解肌肤压力，使心灵静谧轻逸，带来舒适宜人的体验！同时，促进微循环，排除皮肤毒素，卓著激活细胞活力及吸氧能力，全方位呵护您的娇嫩肌肤；按摩的同时补充肌肤充足的水份和养份，改善晦黄、暗哑肤色，减退干纹、延缓衰老，令肌肤持久柔嫩无瑕、水润富有弹性。【成    份】：海洋茴香精华、玫瑰、牡丹精华、辣木精华、VA酸、七叶树、芦荟精华等。【用    法】：取适量本品均匀涂抹于肌肤，以指尖轻柔按摩10-15分钟后，再以清水洗净。（建议每周2-3次，敏感及红血丝肌肤请在专业美容师指导下使用）。【适用对象】：黑黄、晦暗、肤色不均、无光泽、瑕疵、脸部泛油光、毛孔粗大、干燥缺水及想美白的肌肤。", "保湿 美白 滋润 ", "200ml", "其他系列", "2015-05-22 21:02:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("61f26b7905ca41da8cef7807feb2ad4d", "402881AC4D411BBA014D411BBAF80018", "靓妃", "靓妃 按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201111/30/spcgroup/proportion_290x290/13226505903361740.png", "￥20", "本品由芦荟提取液、灵芝、杏仁等多种营养成份精心研制而成，涂于肌肤，利用按摩手法，促进血液循环，抵抗皮肤衰老，活性粒子渗入肌肤增加肌肤弹性，激发细胞活力，补充营养水分，提高肌肤自我保湿功能，令肌肤光滑柔润，富有弹性。", "保湿 补水 滋润 ", "120g", "美白修护系列", "2015-05-22 21:02:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f14f038fba55436aa8f62326657cd59e", "402881AC4D411BBA014D411BBAF80018", "春纪", "春纪 弹力娇嫩按摩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201111/30/spcgroup/proportion_290x290/13226533131353970.jpg", "￥128", "细腻丝柔的质地，带给肌肤以极致享受，蕴含大自然护肤精华之荷花、红芍精华和人参提取液，多种名贵成分凝萃于一身，护肤能是随着轻轻按摩的韵律，循入肌肤之中。培育美肌之元气，肌肤呈现红润健康之光彩。富含质纯弹力蛋白，激发胶原蛋白与弹性纤维的生成，定期使用，肌肤更具紧致和弹性的青春质感。用法：洁肤爽肤后，取适量涂抹脸部，以按摩手法按摩5-10分钟后洗净即可.", "提拉紧致 滋润 ", "50ml", "弹力娇嫩系列", "2015-05-22 21:02:37")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9c0d200171044fbe92413f36c553f093", "402881AC4D411BBA014D411BBAF80018", "LotionSPA", "LotionSPA 接骨木花紧肤嫩滑按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/18/spcgroup/proportion_290x290/13242045151997370.jpg", "￥108", "【产品效果】蕴含接骨木花提取精华及丰富胶原蛋白等有效成分，配合轻柔按摩能快速渗入肌肤底层，增强肌肤对营养的吸收能力，使肌肤焕发怡人光彩，倍感莹润的肤质让您容光焕发，神采奕奕。【使用方法】洁肤后，取适量于面部轻柔按摩8-10分钟，温水清洗。每周使用1-2次，或在肌肤需要时使用。【适合肌肤类型】任何肌肤均可使用。特别针对皮肤松弛、有皱纹的成熟肌肤使用。", "保湿 舒缓肌肤 嫩肤 ", "100g", "其他系列", "2015-05-22 21:02:39")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ae83f06ab10644919c53951bc552f810", "402881AC4D411BBA014D411BBAF80018", "HOT", "HOT 草莓酸奶按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/20/spcgroup/proportion_290x290/13243829389315760.jpg", "￥39", "本产品从草莓里提炼出的按摩霜，可以保持肌肤的细滑、柔软，长期使用可使激活成分作用于肌肤身处，恢复肌肤青春活力。同时能补水加保湿，让面部肌肤嫩起来。主要功效是持久美白，改善干燥、暗淡、色斑等肌肤问题。", "保湿 美白 嫩肤 ", "暂无", "其他系列", "2015-05-22 21:02:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4af28082949d4b71a4c0c82526a29daf", "402881AC4D411BBA014D411BBAF80018", "HOT", "HOT 活性矿泉水高度按摩膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/20/spcgroup/proportion_290x290/13243831382115690.jpg", "￥40", "本产品具有良好的渗透能力，使丰富的营养成分通过按摩更能迅速吸收，深层滋养肌肤，独特的补水锁水功能，更能长久锁住水分，用后肌肤非常柔软，细致动人。适用于所有肤质，即便是孕妇也可以食用。", "补水 滋润 ", "100g", "其他系列", "2015-05-22 21:02:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("dccaac89013f479c88c513e619ae1328", "402881AC4D411BBA014D411BBAF80018", "蝶翠诗", "蝶翠诗 芳香按摩油（丝柏香草）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/26/c0/spcgroup/14690153_1351242343526_400x400_290x290.jpg", "￥45", "从西班牙完全有机栽培的果实中提取出橄榄精华油以及天然植物性素材作为基底油，严选20余种天然植物精油调配而成的6种香型。西柚香橙（西柚、柠檬、柑橘）——减肥中、集中注意力、转换心情香柠薄荷（柠檬、佛手柑、薄荷、橙花、苦橙叶、百里香）——缓解压力、振奋低落情绪、提高精神丝柏香草（丝柏、佛手柑、山苍子、薄荷、罗勒、香根草）——提高效率、缓解疲劳、镇静心神薰衣草（薰衣草、黑醋栗、玫瑰、依兰、茉莉、丁香）——提升心情、绽放女人味迷迭香依兰（马郁兰、迷迭香、天竺葵、依兰、橙花、白檀、雪松）——缓解生理痛、温暖全身、安眠、愉悦心情檀香柑橘（蜜柑、佛手柑、柑橘、橙花、雪松、玫瑰木、白檀）——缓解焦虑、消除疲劳", "深层清洁 保湿 提拉紧致 活肤焕采 ", "10ml", "护肤系列", "2015-05-22 21:02:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("77f9e8fd87d14f058f03e031f4696f4b", "402881AC4D411BBA014D411BBAF80018", "蝶翠诗", "蝶翠诗 芳香按摩油（熏衣草）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/26/c0/spcgroup/14690551_1351243136179_400x400_290x290.jpg", "￥45", "从西班牙完全有机栽培的果实中提取出橄榄精华油以及天然植物性素材作为基底油，严选20余种天然植物精油调配而成的6种香型。西柚香橙（西柚、柠檬、柑橘）——减肥中、集中注意力、转换心情香柠薄荷（柠檬、佛手柑、薄荷、橙花、苦橙叶、百里香）——缓解压力、振奋低落情绪、提高精神丝柏香草（丝柏、佛手柑、山苍子、薄荷、罗勒、香根草）——提高效率、缓解疲劳、镇静心神薰衣草（薰衣草、黑醋栗、玫瑰、依兰、茉莉、丁香）——提升心情、绽放女人味迷迭香依兰（马郁兰、迷迭香、天竺葵、依兰、橙花、白檀、雪松）——缓解生理痛、温暖全身、安眠、愉悦心情檀香柑橘（蜜柑、佛手柑、柑橘、橙花、雪松、玫瑰木、白檀）——缓解焦虑、消除疲劳", "保湿 提拉紧致 活肤焕采 ", "10ml", "护肤系列", "2015-05-22 21:02:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("267ee85724a94d2db6b2d35a11c62eca", "402881AC4D411BBA014D411BBAF80018", "蝶翠诗", "蝶翠诗 芳香按摩油（迷迭香依兰）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/26/c0/spcgroup/14690674_1351243301787_400x400_290x290.jpg", "￥45", "【迷迭香依兰】混合了盛开于地中海的马郁兰和迷迭香，以及温暖气候下培育的橙花、天竺葵等多种香料，散发出温馨的甜香。马郁兰具有安眠作用，能温暖全身，缓解生理痛和头痛等不适。迷迭香能紧致松弛的肌肤，建议害冷、生理期前、荷尔蒙失调和情绪低落时使用。从西班牙完全有机栽培的果实中提取出橄榄精华油以及天然植物性素材作为基底油，严选20余种天然植物精油调配而成的6种香型。西柚香橙（西柚、柠檬、柑橘）——减肥中、集中注意力、转换心情香柠薄荷（柠檬、佛手柑、薄荷、橙花、苦橙叶、百里香）——缓解压力、振奋低落情绪、提高精神丝柏香草（丝柏、佛手柑、山苍子、薄荷、罗勒、香根草）——提高效率、缓解疲劳、镇静心神薰衣草（薰衣草、黑醋栗、玫瑰、依兰、茉莉、丁香）——提升心情、绽放女人味迷迭香依兰（马郁兰、迷迭香、天竺葵、依兰、橙花、白檀、雪松）——缓解生理痛、温暖全身、安眠、愉悦心情檀香柑橘（蜜柑、佛手柑、柑橘、橙花、雪松、玫瑰木、白檀）——缓解焦虑、消除疲劳", "保湿 活肤焕采 ", "10ml", "护肤系列", "2015-05-22 21:02:48")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9a39587166fb46f19179e52954439880", "402881AC4D411BBA014D411BBAF80018", "蝶翠诗", "蝶翠诗 芳香按摩油（西柚香橙）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/26/c0/spcgroup/14689884_1351241899463_400x400_290x290.jpg", "￥45", "从西班牙完全有机栽培的果实中提取出橄榄精华油以及天然植物性素材作为基底油，严选20余种天然植物精油调配而成的6种香型。西柚香橙（西柚、柠檬、柑橘）——减肥中、集中注意力、转换心情香柠薄荷（柠檬、佛手柑、薄荷、橙花、苦橙叶、百里香）——缓解压力、振奋低落情绪、提高精神丝柏香草（丝柏、佛手柑、山苍子、薄荷、罗勒、香根草）——提高效率、缓解疲劳、镇静心神薰衣草（薰衣草、黑醋栗、玫瑰、依兰、茉莉、丁香）——提升心情、绽放女人味迷迭香依兰（马郁兰、迷迭香、天竺葵、依兰、橙花、白檀、雪松）——缓解生理痛、温暖全身、安眠、愉悦心情檀香柑橘（蜜柑、佛手柑、柑橘、橙花、雪松、玫瑰木、白檀）——缓解焦虑、消除疲劳使用方法：全身按摩、半身浴、手足按摩、吸入蒸汽、手足浴、湿敷", "保湿 提拉紧致 活肤焕采 ", "10ml", "护肤系列", "2015-05-22 21:02:49")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("afc95a9d91184595888b84bcf7b4eceb", "402881AC4D411BBA014D411BBAF80018", "蝶翠诗", "蝶翠诗 芳香按摩油（香柠薄荷）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/26/c0/spcgroup/14690043_1351242184485_400x400_290x290.jpg", "￥45", "从西班牙完全有机栽培的果实中提取出橄榄精华油以及天然植物性素材作为基底油，严选20余种天然植物精油调配而成的6种香型。西柚香橙（西柚、柠檬、柑橘）——减肥中、集中注意力、转换心情香柠薄荷（柠檬、佛手柑、薄荷、橙花、苦橙叶、百里香）——缓解压力、振奋低落情绪、提高精神丝柏香草（丝柏、佛手柑、山苍子、薄荷、罗勒、香根草）——提高效率、缓解疲劳、镇静心神薰衣草（薰衣草、黑醋栗、玫瑰、依兰、茉莉、丁香）——提升心情、绽放女人味迷迭香依兰（马郁兰、迷迭香、天竺葵、依兰、橙花、白檀、雪松）——缓解生理痛、温暖全身、安眠、愉悦心情檀香柑橘（蜜柑、佛手柑、柑橘、橙花、雪松、玫瑰木、白檀）——缓解焦虑、消除疲劳", "保湿 提拉紧致 活肤焕采 ", "10ml", "护肤系列", "2015-05-22 21:02:51")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4266db5a1ab949e587193a34ad8e3885", "402881AC4D411BBA014D411BBAF80018", "雅呵雅润希", "雅呵雅润希 凝芬按摩啫喱", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/07/c0/spcgroup/14285593_1349542671903_400x400_290x290.jpg", "￥140", "彻底解决肌肤黯沉无光的困扰，缔造晶莹剔透的美肌。
+【抑制黑色素生成的效果】
+美白成分有效抑制肌肤黑色素生成，让肌肤从里到外呈现晶莹剔透。
+配合有効成分：抗坏血酸葡糖苷【滋润效果】
+滋润因干燥而导致失去透明感的肌肤。
+配合成分：药蜀葵提取物（植物由来）
+【舒适滋润】在按摩肌肤的同时，啫喱的水润成分能充分渗透入肌肤。
+配合舒适滋润成分：乙基葡糖苷（植物关联成分）
+【软化肌肤】通过按摩促进血液循环，调整肌肤至柔嫩状态。
+配合保湿成分：甜橙汁（植物由来）
+配合肌肤弹性成分：乙酰葡糖胺
+【水果花香型】保养肌肤的同时，轻松享受温和水果花香。", "保湿 美白 活肤焕采 ", "60ml", "凝芬系列", "2015-05-22 21:02:52")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("edb51ed442314a569baa587f1b356559", "402881AC4D411BBA014D411BBAF80018", "印象之美", "印象之美 集中护理温感按摩凝胶", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1211/07/c0/spcgroup/15437766_1352281239035_400x400_290x290.jpg", "￥385", "一次护理即可获得按摩和面膜的双重效果。
+打造明亮通透、丰润美丽肌肤的温感按摩面膜。", "", "100g", "集中护理紧致赋活系列", "2015-05-22 21:02:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("55d58cf8f3f4481babe79fff6f880103", "402881AC4D411BBA014D411BBAF80018", "BYTREE‘S", "BYTREE‘S 玫瑰莹白保湿按摩膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/03/c0/spcgroup/24083653_1375501554034_400x400_290x290.jpg", "￥94", "含天然玫瑰精油、HA水凝修复因子、天然柔化因子、霍霍巴油及多种维他命，舒缓肌肤，软化角质，全面激活细胞，增强肌肤的抗氧化能力，有效清除毛孔内的污垢及表层死皮，净化肌肤，提高养分的渗透吸收能力，帮助美白肌肤、恢复肌肤的弹性与健康。
+使用方法：洁面后，取适量于脸上按摩数分钟，以水清洗或用纸巾抹去，再涂上面霜。", "保湿 补水 美白 嫩肤 ", "100g", "花草精油护肤系列", "2015-05-22 21:02:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ebd9286db6e44599a4015c0957725774", "402881AC4D411BBA014D411BBAF80018", "雅芝兰", "雅芝兰 海洋矿物高保湿按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1305/08/c0/spcgroup/20694407_1368024641640_400x400_290x290.jpg", "￥78", "蕴含透明质酸和天然植物萃取成份，缔造洁净、光滑、细腻而富有生机的水润肌肤；通过按摩进行角质护理，帮助洁净毛孔口、毛孔壁等内部的深层污垢；涂抹后立即呈现丝绸般细滑肌肤。功效：缔造洁净、光滑、细腻而富有生机的水润肌肤，帮助洁净毛孔口、毛孔壁等内部的深层污垢", "保湿 清洁毛孔 滋润 去角质 ", "120g", "海洋矿物清透润系列", "2015-05-22 21:02:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a14c2e7cab0c4709af3e27a6cadeb0c7", "402881AC4D411BBA014D411BBAF80018", "芭芭多", "芭芭多 芦荟均衡按摩膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/20/c0/spcgroup/24677003_1377000043778_400x400_290x290.jpg", "暂无报价", "产品功效：纯天然植物配方，质地细腻，能与肌肤良好亲和。借以按摩来加强血液循环，促进皮肤的新陈代谢，深层排毒，清除体内垃圾。同时补充肌肤底层水分与营养，强化真皮组织的韧度，显著改善偏干、老化、皱纹皮肤，调理面部肌肤水油平衡，令肌肤清爽润泽，重现年轻光彩。
+适用肤质：任何肤质        
+使用方法：柔肤后取适量涂于面部和颈部，按摩20分钟后用清水洗净。", "保湿 净化排毒 抗菌消炎 提亮肤色 柔肤 ", "100g", "天然芦荟系列", "2015-05-22 21:03:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a1646ef8765b40859097bf3a5b089156", "402881AC4D411BBA014D411BBAF80018", "肌龄", "肌龄 白蝶贝珍珠嫩白亮肤按摩膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1305/18/c0/spcgroup/21073628_1368880315798_400x400_290x290.jpg", "￥88", "添加白蝶贝珍珠精华及GP4G复合而成的珍珠动能嫩白因子。功效：去角质、清黑头、补营养。适合：任何肌肤，尤其是干燥、黯沉、肤色不均肌肤", "深层清洁 保湿 美白 清洁毛孔 去角质 ", "100g", "白蝶贝珍珠嫩白系列", "2015-05-22 21:03:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("38bfc663198845ca92e14555c6d11c2e", "402881AC4D411BBA014D411BBAF80018", "诺曼姿", "诺曼姿 植物胶原纯透白按摩乳", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1405/01/c0/spcgroup/33759137_1398929396704_400x400_290x290.jpg", "￥78", "主要成份:
+茉莉：滋润调理缺水敏感的肌肤，镇定、消炎、淡疤、美白
+玫瑰精华：美容养颜、美白淡斑，补水保湿、使肤色红润、美丽、富有弹性、延缓衰老
+胶原蛋白：延衰美肤、八效合一，保湿、滋养、亮肤、紧肤、防皱、修复、营养、美白
+透明质酸：是最好的皮肤保湿剂，改善暗沉老化肌肤、抚平细纹
+主要功效:
+水润肌肤、淡化色斑、暗疮印痕，使暗哑、粗糙、缺乏光泽的肌肤回复白净亮丽、肌肤嫩滑充满弹性，有效延缓衰老、防止肌肤松弛；
+有效安抚因环境变化、压力等引起的皮肤疲倦，促进血液循环、加强肌肤含氧量，令肌肤充满活力；
+蕴含丰富的玫瑰精华、有效抑制色素沉着，改善经常熬夜引起的皮肤暗沉、肤色不匀；", "补水 祛斑 提亮肤色 柔肤 活肤焕采 嫩肤 均匀肤色 ", "80g", "植物胶原蛋白保湿系列", "2015-05-22 21:03:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("156ef31aff02442b989cc3c5044fbaf8", "402881AC4D411BBA014D411BBAF80018", "高丝贝缔雅", "高丝贝缔雅 海沁泉海盐按摩膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/07/c0/spcgroup/30381775_1389105219431_400x400_290x290.jpg", "￥480", "拥有神奇海洋&温泉力量的贝缔雅海沁泉，这次又为广大爱美女性带来一款蕴涵了海盐成份的按摩膏。清冽洁净的海盐，采自从南极流向澳大利亚南部的纯
+净海水，借助太阳和风的力量，用由古沿袭至今的盐田制法，经由十余个月精炼而成！奇妙的海盐不仅含有丰富的生物体所需矿物质，更具有卓越的水分代谢和排出
+老化废弃物的效果。
+
+通过指尖轻柔的滑动按摩，促使海盐中有效的美容成份渗透至肌肤深处，帮助促进肌肤内部循环功能，缔造丰盈润泽、绽放生机活力的健康美肌。
+
+使用方法：请使用在清洁后的肌肤。取樱桃粒大小的量，置于下巴、两颊、鼻子、额头五处，延展于整个脸部后按摩肌肤。然后用面巾纸仔细擦净或用清水冲洗干净，请注意擦拭时不要过于用力。", "深层清洁 保湿 补水 清洁 ", "120g", "海沁泉系列", "2015-05-22 21:03:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bca8737cb0be49658404e473a08a013d", "402881AC4D411BBA014D411BBAF80018", "高丝贝缔雅", "高丝贝缔雅 透活美容按摩液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/07/c0/spcgroup/30382021_1389106019068_400x400_290x290.jpg", "￥340", "清凉舒爽的使用感，再配合简单的按摩，帮助疲劳困顿的肌肤缓解压力和疲劳，独特的海藻胶体有效促进肌肤抵抗力的提升，改善肌肤晦暗、浮肿、成人痘等困扰，打造平衡、纯净的健康美肌。
+
+主
+要成分：海洋深层水：纯净\稳定\未经光合作用的深层水资源，富含多种矿物质，易浸透皮肤, 
+提高肌肤保湿力。温泉水：含有肌肤所需要的，具有美容功效的天然碱性温泉水。唤醒肌肤活力、防止水分的流失，保持良好快速的浸透性。使肌肤持续光滑、润
+泽。海藻胶体：海藻胶体是从生长在北欧大西洋海域和中南美海域的三种优良的褐藻（拉丁名称：Vesiculbsus、Cloustoni、
+Nodosum_）中提取。这三种海藻富含大量氨基酸、维他命、矿物质、不饱和脂肪酸，保持了它们的纯天然平衡状态并利用低温技术完全萃取。
+
+海藻胶体的运用可以提升肌肤内部抵抗力，促进肌肤的健康新生，预防成人痘的产生，令肌肤充满盈润、光泽透明。
+
+请于洗颜后化妆水前使用，在手掌中按压喷嘴3次量，涂抹于全脸，用指尖轻轻按摩30秒左右使之与肌肤充分融合。无擦拭和冲洗的必要。", "抗氧化 消除水肿 ", "60ml", "透活系列", "2015-05-22 21:03:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a860fcaf1371446a9c094525026dbf39", "402881AC4D411BBA014D411BBAF80018", "梵家", "梵家 活肤按摩膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/27/c0/spcgroup/28024970_1382869177356_400x400_290x290.jpg", "￥99", "活肤按摩膏具有去除角质、美白保湿、淡化色素、祛皱补水等功效。", "保湿 补水 美白 去角质 嫩肤 ", "100g", "护肤系列", "2015-05-22 21:03:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("aff1d19ce5aa441c925324c67d0ec294", "402881AC4D411BBA014D411BBAF80018", "悦诗风吟", "悦诗风吟 红酒磨砂啫喱膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/28/c0/spcgroup/28073349_1382972842278_400x400_290x290.jpg", "￥90", "玛歌红酒成份温和去角质，打造光滑肌肤的啫喱状磨砂膏", "保湿 补水 美白 去角质 ", "100ml", "红酒系列", "2015-05-22 21:03:09")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0c14ea7c231346aba8275286e6523995", "402881AC4D411BBA014D411BBAF80018", "肌情", "肌情 橄榄三效合一净肤按摩膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/02/c0/spcgroup/28245571_1383377955929_400x400_290x290.jpg", "￥128", "产品说明：牛奶般柔软，丝绸般轻盈，集洁肤、卸妆、按摩三大功效于一体，洁肤、卸妆、按摩一步到位。富含橄榄精华为肌肤解决因氧化而导致的缺水、暗黄、脆弱、提前老化现象。白莲植物精华成分，能与肌肤完美接合，达到洁净养护的效果。60秒按摩后，橄榄精华颗粒缓缓释放活性净颜因子，变为透明精油质地，有效溶解彩妆、净化肌肤；添加适量清水，精油即刻化为白色乳液，滋润修护肌肤，让肌肤尽享轻柔舒适体验。
+主要成份：油橄榄果油、楔基海带提取物、莲花提取物。 
+使用方法：温和卸除彩妆，洁肤爽肤、按摩一步到位。每天早晚取适量于脸部、眼部、唇部等，轻轻按摩1分钟之后，无需再用洁面膏，直接用清水洗净即可。", "深层清洁 美白 清洁毛孔 清洁 活肤焕采 ", "100g", "护肤系列", "2015-05-22 21:03:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("12661a7d0ade4f3eb679331e8a13f3d9", "402881AC4D411BBA014D411BBAF80018", "花皙蔻", "花皙蔻 碧玺石去角质植物磨砂膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/03/c0/spcgroup/28264001_1383451106211_400x400_290x290.jpg", "￥99 已退市", "【温和去角质 肌肤柔软净透】
+活机成分：
+蕴含电气石|银杏叶提取液|核桃粒子
+温和去角质，洗走暗哑、粗糙，有效减少黑头和老废皮脂堆积，同时柔软肌肤，令肌肤重现剥壳鸡蛋般的新生细嫩。
+使用方法：
+挤出适量乳膏涂于湿润的脸部及颈部，轻轻按摩30秒后用清水洗净；出油部位可适量多按摩，并尽量避开眼周肌肤。
+配合使用碧玺石花蕊焕白系列，效果更佳。
+详细介绍:
+蕴含电气石、银杏叶提取液和核桃粒子（核桃壳粉）。
+温和去角质，洗走暗哑、粗糙，有效减少黑头和老废皮脂堆积，同时柔软肌肤，令肌肤重现剥壳鸡蛋般的新生细嫩。
+肌肤柔软净透，触感如丝般幼滑。", "保湿 补水 美白 去角质 抗氧化 提亮肤色 ", "85g", "碧玺石焕白系列", "2015-05-22 21:03:12")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("6eb4d189028947278fe5318781e809ed", "402881AC4D411BBA014D411BBAF80018", "淳美", "淳美 亮肌净白水凝按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1309/28/c0/spcgroup/26568073_1380364839464_400x400_290x290.jpg", "￥69", "主要成分：维他命C、E及角鲨烯（Squalene）配合保湿和更生成分。功效：幼滑的质地能深入滋润肌肤，有效减缓肌肤衰老，净白同时滋润，促进肌肤更生。有效减缓肌肤衰老，独特的柔软顺滑配方能于按摩时促进血液和淋巴系统循环，增强肌肤的吸收能力，柔软细致的肌肤，即使拥有。使用方法：洁面后，均匀地涂抹于面上，并以指尖打圈按摩至完全吸收，无需清洗。", "保湿 美白 嫩肤 ", "30g", "护肤系列", "2015-05-22 21:03:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2a8ea0dd2be74736aa3ff44c5cfe6088", "402881AC4D411BBA014D411BBAF80018", "里海之谜", "里海之谜 唤醒细胞能量按摩膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/15/c0/spcgroup/30597444_1389787604587_400x400_290x290.jpg", "￥620", "透过Tex-Lance使其智能唤醒成份Optimize-X6，产生大量带负电荷的震荡分子，通过细胞输水道Aquaporin※ 作为载体深入细胞底层，从而激活细胞底层的原始记忆。
+内含深海微生物萃取的存活分子随着唤醒按摩渗入肌肤，有助淋巴循环排出毒素。其特有的香氛利用灵感来自联觉的概念，能给您多重的感官享受，更能舒缓紧张的情绪，抚慰疲倦的心灵，让身、心、灵真正做到极致的唤醒。", "舒缓肌肤 损伤修复 ", "120g", "IT全智能美疗系列", "2015-05-22 21:03:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e1a89d2b0aae49fa9279f8f624aa93cf", "402881AC4D411BBA014D411BBAF80018", "美肤宝", "美肤宝 汉方精萃活颜生机按摩膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1402/25/c1/spcgroup/31568646_1393341623369_400x400_290x290.jpg", "￥98", "主要功效：圆润柔滑质地，轻柔地在肌肤表面丝滑延展，让膏体温和融入肌肤，通过按摩的方式促进血液循环，细致呵护、滋润每一寸肌肤，全方位强健肌肤，回复并提升肌肤弹力，唤醒健康明亮肤色，令肌肤细致紧滑，焕发光彩。使用方法： 面部清洁爽肤后，取适量约两颗黄豆粒大小，均匀涂抹于面部及颈部，轻柔按摩10-15分钟，再用清水洗去即可。", "保湿 补水 活肤焕采 ", "100ml", "汉方精萃活颜系列", "2015-05-22 21:03:17")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b77084d4d2e5409c94ff0aa5521f5a23", "402881AC4D411BBA014D411BBAF80018", "蒂思岚", "蒂思岚 时光秘钥紧致蕴白按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/03/c0/spcgroup/31746081_1393860919286_400x400_290x290.jpg", "￥350", "直击肌肤「松弛、浮肿及肤色不均」。
+通过「按揉晕开·疏通」开启肌肤自身活力机能，按摩同时有效美容成分渗透肌肤，提升弹力与透明感，缔造出紧致丰盈的美肌印象。
+每日持续使用，亲眼见证肌肤日趋光润紧致、透亮白皙。仅几分钟的日常护理，配合按压循环美容法，简单步骤，令肌肤充满盎然生机，感受前所未有的美丽蜕变。", "保湿 补水 抗衰老/抗皱 提拉紧致 ", "10g", "时光秘钥系列", "2015-05-22 21:03:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1e417fe167754e9b8228578629c01478", "402881AC4D411BBA014D411BBAF80018", "奥比虹", "奥比虹 活润透白果霜按摩雪泥", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1404/16/c0/spcgroup/33203526_1397577656678_400x400_290x290.jpg", "￥408", "按摩打造清爽并紧致的明亮肌肤，冷冻雪泥基底VS.冰果优格基底，冰冻与常温的2way用法按摩雪泥。
+1.调理肌肤粉嫩透白好气色，紧致并明亮肌肤。
+2.紧致肌肤纹理毛孔，消除干燥，使之水润细致。
+-蜜桃精华能够带动肌肤粉嫩气色，调理出活力与明亮的肌肤；添加葡萄柚果实精华，实现清爽紧致；奇异果精华与柠檬精华更能够打造肌肤的细致毛孔，减少出油；丰富保湿成分，带给肌肤滋润。
+3.藉由光亮角质净白成分，彻底实现光亮白皙，同时强化肌肤的水润供给力、水感活力、湿润保持力。
+4.常温与冷冻的2way用法，双重保养感受。
+使用方法：
+-一个容器为一次用量。于渗透乳后将一次份量(5.0g)少量分次涂抹全脸，轻轻按摩后以面纸拭除，亦可冷冻后使用。冷冻的情况，请用挖勺挖取。解冻一次仍可再度结冻。*随附挖勺请常保清洁。
+-〈冷冻时〉表面朝上放入冷冻库，置于-15度以下冷冻4小时以上。温度不够可能造成无法结冻。", "保湿 补水 美白 提亮肤色 隔离 活肤焕采 均匀肤色 ", "5g*10", "优活润白系列", "2015-05-22 21:03:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("80e244e667ab44819efb18b8db1340b9", "402881AC4D411BBA014D411BBAF80018", "婵真", "婵真 美菁红酒平衡调理霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1404/18/c0/spcgroup/33306256_1397825220630_400x400_290x290.jpg", "￥5", "积极对应皮肤变化：含有红葡萄酒萃取物CRD-1成分，可以积极有效地抵抗皮肤的缺乏弹性，干燥、黑暗等各种变化，使皮肤常保 青春活力。
+形成皮肤保护膜，常保皮肤年轻：CRD-1成分在皮肤的最外层形成坚实的防御体系，防止水分和紫外线刺激，保持皮肤健康。
+供给皮肤能量，常保肌肤充满活力：牡丹皮，芦荟等植物萃取物向疲惫失去活力的皮肤供给嘴角的肌肤恢复弹性和活力。
+持续供给水分，常保皮肤", "保湿 补水 美白 滋润 柔肤 嫩肤 ", "3ml", "美菁系列", "2015-05-22 21:03:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bd91f12eb3974fb0a836e3a722b0f7cc", "402881AC4D411BBA014D411BBAF80018", "樱尚", "樱尚 宛若新生悦活按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1404/21/c0/spcgroup/33387394_1398057837410_400x400_290x290.jpg", "￥78", "轻柔按摩中，达至舒缓、滋养、活肤、净肤、亮肤五重护肤效果。蕴含多种花卉植物精萃成分，调理老化角质，净化肌肤，能改善黯沉肤色，肌肤焕现透明和润泽，特别添加的莲花提取物持续补充天然养分，促进自我更新，增强肌肤活性。让肌肤在按摩后，彻底放松舒缓，令肌肤充满活力，亮丽动人。", "深层清洁 舒缓肌肤 滋润 去角质 提亮肤色 柔肤 活肤焕采 嫩肤 ", "100g", "宛若新生系列", "2015-05-25 09:47:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("027dd90efd224cd4942b556604edb387", "402881AC4D411BBA014D411BBAF80018", "SUQQU", "SUQQU 弹力小脸按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/20/c0/spcgroup/30736540_1390223046651_400x400_290x290.jpg", "￥1,370", "专门为脸部按摩所设计的按摩霜，通过用手对脸进行象增加一定压力的按摩后，舒缓脸部肌肤的紧张，从而促进血液循环，同时用滋润装满皮肤，使皮肤充满弹力。", "保湿 补水 提拉紧致 ", "200g", "护肤系列", "2015-05-25 09:47:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c238988a0724452fb4948a2dfa3ae108", "402881AC4D411BBA014D411BBAF80018", "SUQQU", "SUQQU 颜筋按摩霜(附海绵洁面布)", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/21/c0/spcgroup/30770123_1390319684284_400x400_290x290.jpg", "暂无报价", "「顔筋按摩」的专用按摩霜。
+这款丰润的按摩霜，坚持按摩时提供肌肤适当的力度，让按摩更具效果。不只促进血流循环、锻炼脸部肌肉，更导向具弹力、张力、透明感的美肤效果。
+这款高保湿按摩霜也可作为面膜使用。（旧款按摩霜不能当面膜使用）
+2010年9月日本上市的新款按摩霜。 
+使用方法：
+以附属挖棒取约葡萄大小的量于手掌，均勻涂抹于脸部后施以颜筋按摩。颜筋按摩完后使用附属的海绵巾擦拭，或以温水彻底洗净。当面膜使用时，取适量延展于脸部，2~3分钟后以海绵巾擦拭或以温水洗净。", "保湿 补水 活肤焕采 均匀肤色 ", "200g", "护肤系列", "2015-05-25 09:47:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("34fb23c1b149485c84188365efe99528", "402881AC4D411BBA014D411BBAF80018", "宝丽", "宝丽 BA赋颜晨光按摩膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/23/c0/spcgroup/30803151_1390445345682_400x400_290x290.jpg", "￥1,490", "POLA BA按摩膏，质感柔滑极易推开，在按摩时具有高度的缓冲性，兼具这两个特性而不伤害柔嫩的肌肤，适合各种皮肤人群。在彻底排除肌肤深层的老废物质后， 按摩膏富含的三大美容成分：黄金洋甘菊精华、六胜肽精华、抗糖化精华（YAC成分，EG净化精华）配合POLA最尖端的抗老化成分（龙胆精华、丁香精华、积雪草精华、NAO精华），只需简单涂抹按摩膏，即刻彻底排出多余脂肪、恢复弹性紧实立体小脸，同时清除肌肤深处堆积老化物，如同使用美颜器，轻松达到媲美微整形的美肤效果，实现饱满有张力的透明美肌。
+　　　同时，肌肤残留的糖分因子会使胶原蛋白纤维断裂变黄，从而导致肤色泛黄、松弛，黯淡无光。POLA BA按摩膏富含的YAC精华作用于真皮层，有效清除真皮层的糖化物，恢复真皮层中胶原蛋白弹性，按摩后24小时内基本完全清除角质层的糖化物。从根源处解决肌老化烦恼，使肌肤富有张力，弹力，带来美丽紧实肌肤的真实感受。
+　　　POLA BA赋颜晨光按摩膏特含媲美脸部整形级别的精华成分，不仅要让局部肌肤更加美丽，更着力于整个面部肌肤轮廓的塑造，仅使用一次，即可排出老废物质和多余脂肪，整个脸部更加紧致，轮廓更加清晰。
+
+　　　POLA BA赋颜晨光按摩膏配合了美容营养成分能够排出肌肤内老废物和改善表情肌带来的皱纹，肌肤内部积蓄的老废物会产生肌肤暗沉等老化问题。通过BA 独特的按摩从根源处解决肌老化问题，致力于真皮层与角质层抗糖化，排出AGES等糖化老废，重现美丽肌肤。", "净化排毒 提拉紧致 ", "120g", "碧艾系列", "2015-05-25 09:47:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("331a92fd831b43ba849771a7daa57e46", "402881AC4D411BBA014D411BBAF80018", "奥比虹", "奥比虹 妃思雅光灿恒白按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/21/c0/spcgroup/32325485_1395403717061_400x400_290x290.jpg", "￥772", "肌肤沉浸无尽奢华、臻至极致柔软紧致
+[使用方法] 
+渗透乳之后，以所附挖杓取樱桃大约(约5g)的量均匀涂抹于整脸。等待约3~5分钟后以面纸轻拭，再将多余之美容成份推开于全脸", "保湿 补水 美白 柔肤 ", "80g", "雅光璨恒白系列", "2015-05-25 09:47:48")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("429a694fb6724a91a0228217626f2404", "402881AC4D411BBA014D411BBAF80018", "自然奇迹", "自然奇迹 雪玫瑰晶皙柔珠缓释按摩面膜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/26/c0/spcgroup/32500740_1395847982009_400x400_290x290.jpg", "￥75", "活性成分：玫瑰基底核心配方含量：80.7%，植物活性精粹含量：8.3%，合理添加物含量：1%前所未有的面膜品种，按摩缓释而出“三维疗肤方程式”的新面膜。仅需一次，改变亲眼可见、如雪美肌，触手可及，喜出望外。玫瑰花水复配稻米甄萃调配而成滋补“玫瑰米浆”基底，软化角质开启输养通道。蕴含“玫瑰核“与珍品雪天鹅玫瑰精粹的玫瑰甄萃活能“三维疗肤方程式“，密集深入渗透肌肤，持续盛放润白能量，缓释按摩而出：中国虎杖根萃取的白藜芦醇，百花百合花，甘草萃取物植物养白尚品精准配比的焕白珠，全面锁定击溃面部暗哑，郁黄，印痕，瑕疵，色素5大肤色问题，对抗肌肤氧化，促进细胞再生，成就你无懈可击的纯净花颜。持续7天密集臻白疗程，还原肌肤如新生般无暇光洁，由内而外透出纯净亮白，婉若天成。", "保湿 补水 美白 舒缓肌肤 隔离 嫩肤 ", "15gx5", "奇迹雪玫瑰系列", "2015-05-25 09:47:51")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d403f7bb20024740949ead73a3875abc", "402881AC4D411BBA014D411BBAF80018", "白芙素", "白芙素 雪靓白胶原按摩啫喱", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/27/c0/spcgroup/24932060_1377536667586_400x400_290x290.jpg", "￥108", "主要成分：海洋浓缩美白胶原、椰子油、玫瑰果油、橙花精华
+产品特点：啫喱质地清爽不油腻，促进体内毒素代谢。在按摩之中给肌肤补充缺失的水分，提高肌肤保湿能力，舒缓紧张状态，从而淡化色素干纹，对眼袋、黑眼圈也有改善作用，令面部轮廓更紧致年轻，气色更红润。", "补水 提拉紧致 活肤焕采 ", "100g", "护肤系列", "2015-05-25 09:47:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("09708f0c0a0041a59ef064dbefa7e301", "402881AC4D411BBA014D411BBAF80018", "彩丰行", "彩丰行 玫瑰美白凝肌按摩膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/20/c0/spcgroup/27732370_1382246599309_400x400_290x290.jpg", "￥84", "肤质：适合任何肌肤
+其有效的美白成份，能有效淡化及预防色斑增生，其微份子迅速穿透角质层，直入基底层发挥淡斑及阻止色素沉淀。", "保湿 补水 美白 去角质 ", "480ml", "护肤系列", "2015-05-25 09:47:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cd87093ac8024b1d9e67b94e98d340a8", "402881AC4D411BBA014D411BBAF80018", "Cellbone", "Cellbone 胶原活肤米酿磨砂霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1309/30/c0/spcgroup/26680579_1380550387825_400x400_290x290.jpg", "￥250", "产品描述
+为肌肤温和地清除堆积在表面的角质，同时清洁毛孔、更新细胞、及缔造光洁亮滑肌肤，有助其后涂用的保养品更容易被吸收
+主要成分
+●	5% Alpha Hydroxy Acid (果酸)
+●	Collagen (胶原蛋白)
+●	Green Tea Extract (绿茶素)
+  功效
+●	为肌肤温和地清除堆积在表面的角质，同时清洁毛孔、更新细胞、及缔造光洁亮滑肌肤，有助其后涂用的保养品更容易被吸收
+●	果酸去除角质死皮，并刺激胶原蛋白增生、收紧毛孔、及使肌肤表面光致幼滑
+●	胶原蛋白令肌肤回复弹性滋润
+●	深层洗涤毛孔，改善暗疮及减退敏感
+●	去除肌肤毒素，改善肤色暗哑，令其回复健康、青春光采
+  	适合
+中性 / 油性 / 干性肌肤 (不适合敏感肌肤)", "保湿 清洁 ", "120g", "护肤系列", "2015-05-25 09:47:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ae9389ee2c034d39af5c6131f4fd3370", "402881AC4D411BBA014D411BBAF80018", "尚惠", "尚惠 晶璨臻白亮肌按摩乳", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1312/29/c0/spcgroup/30105306_1388301611446_400x400_290x290.jpg", "￥128", "成分：水、矿油、丙二醇、肉豆蔻酸异丙酯、聚山梨醇酯-60、甘油硬脂酸酯、硬脂酸、聚二甲基硅氧烷、三乙醇胺、卡波姆、羟苯丁酯、羟苯甲酯、咪唑烷基
+脲、(日用)香精、马齿苋提取物、咖啡因、丁二醇、EDTA 
+二钠、山梨(糖)醇、母菊花提取物、苯氧乙醇、羟苯乙酯、羟苯异丁酯、羟苯丙酯、甜菜碱、尿囊素、海水、甘油、蔗糖二月桂酸酯、白花百合花提取物、变色鸢
+尾提取物、高山火绒草提取物、莲花提取物、豌豆提取物、蔷薇提取物、素方花提取物、小苍兰提取物、黄水仙花提取物、聚山梨醇酯-20、迷迭香、海百合、樱
+桃、水飞蓟功效：创新研发PT.IMP-SKINC.™植物导入科技，结合多种植物成分，柔软净化皮肤，促进肌肤营养吸收，提升肌肤净透度，有效改善肌肤暗黄，按摩同时激活肌肤光泽活力，令肌肤瞬间透显水晶透白，璀璨夺目。", "保湿 补水 美白 ", "120ml", "护肤系列", "2015-05-25 09:48:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ae15429b45c042308c196d42911a50a6", "402881AC4D411BBA014D411BBAF80018", "奥比虹", "奥比虹 清新晶致按摩膏", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/23/c0/spcgroup/proportion_290x290/2216818_1421943208774_400x400.jpg", "￥478", "柔滑触感，滋润成分渗透至肌肤的每个角落，引导水灵、富有张力、光滑的肌肤 。
+商品特色
+1. 活氧胶囊，强力促进氧气循环，即效促使表皮细胞活化，实现由肌肤内层透出活力的明亮感。
+2. 丰厚水润油脂，让肌肤柔软并补给丰厚的滋润，使肌肤呈现柔嫩。
+3. 绵密柔滑的基底，像溶化于肌肤一般延展开来，恰到好处的质感，指尖持续的感受滑顺，可以舒适的进行按摩，让肌肤立即感觉滋润以及透明感。
+4. 强化「基水供给力」、「基水循环力」、「湿润保持力」，达成青年肌。
+使用方法:
+洁面，乳液后，用挑棒取大拇指第一关节左右的量（约3.5g），分五点点开（两颊、额头、鼻子、下巴），用手指在全脸推开。由内向外轻轻按摩约3分钟。按摩之后，用纸巾轻轻擦试干净即可。", "保湿 补水 清洁毛孔 ", "75ml", "清新莹润系列", "2015-05-25 09:48:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3fac65bf53ea46ada14cb6b75c6095a9", "402881AC4D411BBA014D411BBAF80018", "蔚丽莱", "蔚丽莱 百花精华护肤油", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/15/c0/spcgroup/proportion_290x290/3112476_1423996814888_400x400.jpg", "￥420", "蔚丽莱百花精华护肤油，质地如水轻薄，于肌表形成保护膜，抗污防霾。融合薰衣草油、霍霍巴油等多种天然花卉植物，能有效舒缓紧张压力肌肤，滋养修护暗淡发黄，平纹淡瑕，一滴多效可见，一瓶随心百搭，为您定格零瑕疵逆龄肌肤。", "抗衰老/抗皱 舒缓肌肤 提亮肤色 ", "30ml", "护肤系列", "2015-05-25 09:48:07")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a7455088cf3c4338a0685297855ad6ba", "402881AC4D411BBA014D411BBAF80018", "谜尚", "谜尚 水漾亲肤紧致塑颜调和按摩霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/27/c0/spcgroup/24946913_1377576700005_400x400_290x290.jpg", "￥218", "具有去角质作用的弹性胶囊和缩氨酸, 在为肌肤做按摩的同时可增强肌肤弹力;活性聚合物(Active Polymer)可有效吸附、清洁污垢;通过双重护理来增强肌肤的弹力,从而强化皮肤维持正常角化周期等原有的能力.", "深层清洁 去角质 ", "200ml", "其他系列", "2015-05-25 09:48:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("6ec95cf57255413fbcacf2cd4e2f72ee", "402881AC4D411BBA014D411BBAF80018", "珊娜", "珊娜 脸部紧致按摩凝胶", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1412/28/c0/spcgroup/proportion_290x290/1226380_1419778697287_400x400.jpg", "￥118", "产品功效:紧致肌肤，效果持久，超强保湿效果
+使用方法:洗脸后擦干水分，取适量（樱桃大小）涂抹于脸部按摩2-3分钟，用水清洗干净
+使用说明:请避免用在伤口 湿疹等部位 防止产品不要进入眼部 如果进入眼部后请用水及时冲洗
+使用部位:脸部
+适用人群:各种肤质
+产地:日本", "保湿 补水 提拉紧致 ", "160g", "护肤系列", "2015-05-25 09:48:11")

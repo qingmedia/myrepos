@@ -1,0 +1,184 @@
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("97b1bee98ee841cc86de39726316c86c", "402881AC4D4188E9014D4188E99D0022", "彼得罗夫", "彼得罗夫 晚间睫毛丰盈修护液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/43434/spcgroup/43434-1_290x290.jpg", "￥1,090", "一款具有专利配方的睫毛生长液。能在使用后的4-8周时间里，令睫毛自然地生长，从而变得纤长、浓密和丰盈。
+每晚临睡前使用，每天仅限使用一次。等睫毛在完全干的情况下使用，使用时沿着上眼线的根部，细细地刷整条眼线的位置。每次只需使用很少的量就足够，一支本产品可供持续使用三个月。也可在每晚使用于清洁过的眉毛部位，有助眉毛的生长。", "", "5.9g", "护肤系列", "2015-05-25 14:52:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("15cfb57c8ed54bbba746dcce1791af38", "402881AC4D4188E9014D4188E99D0022", "娥佩兰", "娥佩兰 调量睫毛液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/8/spcgroup/1260246625864_290x290.jpg", "￥69.0", "独特的10级液量调节，随心所欲打造美丽睫毛，不会形成熊猫眼，温水卸妆，简单方便。睫毛护理成分，维生素B5.绢丝蛋白。采用独特的旋钮形式，可分10级调节睫毛液量，自由打造从浓密粗长至纤细高雅的各种睫毛。采用了划时代的全新[定装膜技术]1、耐汗耐泪，不会形成熊猫眼。2、温水弄湿后，定妆膜即变软化开，睫毛量呈絮状脱落，不用卸妆液，就能简单洗掉，且不伤睫毛。3、若不慎沾到眼睛周围，待干后轻轻一擦，就能抹掉，修补简单。4、能记忆形状长，时间保持睫毛的优美卷翘.特殊设计的睫毛刷从睫毛根细致地梳开每根睫毛，即使涂刷足量睫毛液，也不会黏结成块，令睫毛根根分明优美。", "卷翘 浓密 纤长 ", "12g", "彩妆系列", "2015-05-25 14:52:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("75307ba621134a40a338c5f960e57b5d", "402881AC4D4188E9014D4188E99D0022", "巴黎欧莱雅", "巴黎欧莱雅 睫毛焕活精华液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/71576/spcgroup/71576-1_290x290.jpg", "￥119", "睫毛焕活精华液，巴黎欧莱雅睫毛专属保养品，持续使用，让你的睫毛强韧，伸展，浓密，效果量得到！焕活氨酸：
+为睫毛提供生长必需的能量，唤醒处于85％休眠状态的睫毛，令睫毛更长、更密。积雪草精华：
+防止睫毛掉落、延长睫毛生长周期。令睫毛更强韧", "", "7.5ml", "其他系列", "2015-05-25 14:52:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0d4740eb18b14ee6b5eaeb0f72e6d233", "402881AC4D4188E9014D4188E99D0022", "蝶翠诗", "蝶翠诗 睫毛增生修护液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/6330/spcgroup/6330-1_290x290.jpg", "￥120", "曾对法国女性作过这样的调查，“如果去无人岛，只允许带一件彩妆，你会选择什么？”结果很多人选择了“睫毛膏”，而非粉底或唇膏等。如今，眼部的彩妆越来越受到人们的关注。“象芭比娃娃一样纤长浓密的睫毛”是每个女孩子的向往。 睫毛的标准长度应为10mm左右，上睫毛的数量违100-150根，下睫毛的数量为50-75根。睫毛平均每天都要掉落几根，却不像头发能不断长出新毛。中国人的睫毛与外国人相比较短，而且特点是睫毛向下生长。 睫毛的长度与数量跟遗传因素密不可分，如今假睫毛、睫毛膏、睫毛膏底液等眼妆产品大受女孩子的宠爱，但事实上，这些彩妆都会给睫毛增加负担。DHC睫毛修护液，可以用作睫毛底液的睫毛专用营养剂，轻轻一涂，立现“澜蕖保?■养护美丽睫毛的专用修护液 网络极具人气的一款美睫修护产品，多次荣登DHC网络销售排行榜的月冠军位置！同时也荣获了各大杂志颁发的各类美容大奖！ 内含促进血液循环及育毛功效的聚合草叶精华，以及具有滋养作用的豆瓣菜精华等天然植物成分，能直接作用于毛母细胞，赋予睫毛滋润与弹力，令睫毛变得浓密。延长睫毛的生长期，调整育毛", "浓密 纤长 ", "6.5ml", "彩妆系列", "2015-05-25 14:52:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("91ee9e35b1714e4d8e36f670a1428d6c", "402881AC4D4188E9014D4188E99D0022", "蝶恋花", "蝶恋花 睛灵魅惑美睫液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/04/c0/spcgroup/28295130_1383537624198_400x400_290x290.jpg", "￥260", "肉豆蔻酰基六肽-16: 可有效刺激毛发重要组成成分角蛋白的合成泛醇：具有保湿、抗炎效果，保护皮肤免受刺激，增强睫毛的强韧度本品采用超温和配方，与肌肤细胞同源，对眼部肌肤与睫毛无刺激赋予细胞新活力，打破睫毛休眠期，修护受损睫毛，强化睫毛强韧度。特有的生物成分，能及时改善睫毛生长环境，调节毛囊部位的微循环系统，让睫毛变得纤长而整齐，让你双眼楚楚动人深入睫毛根部滋养，赋予睫毛滋润弹性与光泽，睫毛更浓密、更纤长，而且富有层次感，让你散发动人神采。1、 适用于正常睫毛的护理，特别适合睫毛短、疏稀、枯黄干燥的人群。2、任何想让睫毛更纤长，更浓密、更强韧的人群。1、 每天早晚使用，注意用量适当，只需用刷头在上下睫毛的根部轻轻的扫匀，如果涂抹的过程中，不小心沾到眼皮或眼睑上，需用纸巾擦去。如不慎入眼睛，请及时清洗。2、配戴隐形眼镜者应先卸下隐形眼镜后使用，待产品完全吸收后再配戴。3、达到改善睫毛外观后，仍可继续使用，可护理完美睫毛。", "卷翘 浓密 纤长 ", "8ml", "彩妆系列", "2015-05-25 14:52:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ad10daa3022b4df3a9755712af69d899", "402881AC4D4188E9014D4188E99D0022", "彼丽", "彼丽 睫毛滋养液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20125/4/spcgroup/proportion_290x290/13361439711555630.jpg", "￥14.8", "基础滋养功能之外，添加专业纤长与抗敏能力，零油脂、零负担。舒缓睫毛，保护睫毛，防止水分的散失，形成保护膜，控制水油平衡", "纤长 ", "15ml", "彩妆系列", "2015-05-25 14:52:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("858c548f868f4f2bbb0d03cf08da307f", "402881AC4D4188E9014D4188E99D0022", "玛丽黛佳", "玛丽黛佳 晶璨炫色睫毛闪亮液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/4/spcgroup/proportion_290x290/12940706500147540.jpg", "￥26", "细致闪亮、无颗粒感、防水均匀、妆效持久、灵活多用、极至超炫、涂抹简单、轻松卸妆。 
+
+使用方法： 
+在睫毛尖部涂刷，上下睫毛尖部均可点涂，达到至炫闪烁的媚眼效果;
+大面积涂刷，从睫毛根部由下往上轻轻刷拭一层闪亮液，如需达到更为璀璨闪亮的妆效，可重复刷拭;
+亦可在使用其他睫毛膏后，刷覆其上;
+也可在锁骨，手臂等地方使用。", "", "6.5ml", "其他系列", "2015-05-25 14:52:47")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b56e6751cbed4ede946559bab96fadde", "402881AC4D4188E9014D4188E99D0022", "丰添", "丰添 睫毛增长修护精华液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20127/6/spcgroup/proportion_290x290/13415649612292780.jpg", "￥280", "全面修护滋养睫毛/眉毛，促进毛发更迅速及健康地生长，早晚使用一星期后，您会开始发现睫毛/眉毛脱落减少，相比之前更富弹性，更加浓密！成分天然温和，测试证明敏感眼睛也可适用。特别设计的毛刷可以将修护精华简单地由根部至尾端均匀涂抹于每根睫毛及眉毛上。[主要成分] 海藻多糖生长素，水解DNA，金缕梅精华等[使用方法] 早上在化妆前使用，夜晚在卸妆后使用。也可使用于稀疏脆弱的眉毛。", "", "10ml", "其他系列", "2015-05-25 14:52:51")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1ff96c5eecf545cd8434960aa355c3ab", "402881AC4D4188E9014D4188E99D0022", "倩碧", "倩碧 睫毛增长滋养液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20102/24/spcgroup/1266995316924_290x290.jpg", "￥200", "多功能睫毛修护佳品，令了无生气的睫毛，回复健美亮泽！先进滋润配方，一方面高度修护睫毛；另一方面犹如磁石吸引睫毛液，将睫毛结聚一起，全面发挥睫毛液美睫效果。睫毛再现柔美，涂上睫毛液後更显纤长浓密，卷翘迷人。", "", "4.8", "彩妆系列", "2015-05-25 14:52:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4d9f6a762c4843d09809356ee86f0ce0", "402881AC4D4188E9014D4188E99D0022", "迪奥", "迪奥 惊艳美睫精华底液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/81532/spcgroup/81532-1_290x290.jpg", "￥320", "宠护加倍 惊艳加倍
+
+	前所未有的睫毛精华底液，卓效养护睫毛的同时，亦能升级美睫妆效，是Dior迪奥首款全方位促进睫毛生长的精华底液。
+
+
+	持续使用，美睫奢享精华宠护，卓效纤长浓密……
+
+
+	柔软舒适的质地，为每根睫毛轻盈包覆一层加倍丰盈却“轻如薄翼”无色外衣，睫毛无瑕柔滑，无尽浓密，闪耀惊艳光采。
+
+
+	睫毛立显卷翘、丰盈、纤长，令后续睫毛膏的美睫功效加倍显现，长效持妆。
+
+
+	日胜一日，卓效精华成分为睫毛持续注入新生能量。融合了具有极致提升功效的透明质酸分子，与独家活性成分睫毛丰盈纤长™配方（Lash Maximizer™），促进睫毛生长**，重拾新生能量，美睫更显纤长、强韧、闪耀美丽健康光采。
+
+
+	测试鉴证！
+
+
+	自然营造惊艳美睫……
+
+
+	睫毛立显丰盈：加浓52%
+
+
+	睫毛愈加纤长：加长38%
+
+
+	睫毛瞬时卷翘：变卷73%***
+
+
+	睫毛更显强韧：84%
+
+
+	睫毛倍受呵护：94%
+
+
+	睫毛重焕新生：87%
+
+
+	睫毛减少脱落：87%****", "其他功效 纤长 ", "10ml", "2011圣诞妆容系列", "2015-05-25 14:52:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bc89c84470384955bae04121b276b08f", "402881AC4D4188E9014D4188E99D0022", "伊蒂之屋", "伊蒂之屋 睫毛滋养精华液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/13/c0/spcgroup/32041442_1394680532120_400x400_290x290.jpg", "￥58", "", "其他功效 ", "9g", "彩妆系列", "2015-05-25 14:54:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("74a3042ce5d545d4b70b08da95ebb174", "402881AC4D4188E9014D4188E99D0022", "菲诗小铺", "菲诗小铺 睫毛增长液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/16/spcgroup/proportion_290x290/13161049080468220.jpg", "￥88", "在上睫毛膏前用这款刷一下睫毛，能让睫毛更加坚的感觉。豆蔻油精华能防护睫毛和给睫毛滋润，使睫毛增长增密。不要忘记睫毛也需要护理,经常对眼部进行美化的同时也会造成睫毛的损伤,这款睫毛精华液可以滋养睫毛,作为睫毛膏的底液!还有增长作用 采用纯植物精华导入系统，滋养每一根睫毛，可以修复受损睫毛，充分滋养，可以使睫毛增长增密，再用睫毛膏之前刷一层更加可以防止睫毛受损！！还有一个用法，就是加在快要干和干掉的睫毛膏里！韩国ＴＦＳ网站上的feedback里对发现这款的评价很高，星数很多，彩妆里面销售排名第一位。", "", "7ml", "其他系列", "2015-05-25 14:54:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b328e6e616f543248c26bcf6d797b447", "402881AC4D4188E9014D4188E99D0022", "娥佩兰", "娥佩兰 浓密随心控睫毛液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/5/spcgroup/proportion_290x290/12915450128340470.jpg", "￥69", "", "", "暂无", "其他系列", "2015-05-25 14:54:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d1704888a15a4717abde6d282e605b6e", "402881AC4D4188E9014D4188E99D0022", "玫琳凯", "玫琳凯 美睫滋养精华露", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/95315/spcgroup/95315-1_290x290.jpg", "￥208", "滋养睫毛，使拥有更丰盈浓密，更纤长的睫毛。强韧睫毛，减少睫毛（眉毛）掉落
+配方：红车轴草花：抗氧化功效 氨基酸和肽的复合物能营养睫毛，防止睫毛应为脆弱而断裂，稀少
+包装：独特的细小软刷，操作灵活，易于照顾到每根睫毛（眉毛）", "浓密 ", "4.5ml", "眼部系列", "2015-05-25 14:55:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("299f8568d9294d648a9180aae89e2290", "402881AC4D4188E9014D4188E99D0022", "雅蔻", "雅蔻 纤长浓密打底液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20102/6/spcgroup/1265452378238_290x290.jpg", "￥170", "含维他命E成分，高效滋养，柔软、柔顺睫毛同时，促进睫毛浓密增长。单独使用，可作为睫毛滋养剂；在涂抹睫毛膏之前使用，可软化睫毛，更可使睫毛浓密纤长的效果增加数倍，立现美艳动人效果。", "", "10ml", "彩妆系列", "2015-05-25 14:55:09")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("64d56e658d9441b4b4e813cd66e57317", "402881AC4D4188E9014D4188E99D0022", "多多", "多多 营养睫毛膏", "http://i2.3conline.com/images/pclady/brand/brand_logo/200912/7/1260157431090.jpg", "暂无报价", "基础膏体蕴含由植物中提炼的自然纤维素成份，有效增长睫毛，轻盈覆盖粘连于睫毛的顶端，加倍延长睫毛。", "", "暂无", "彩妆系列", "2015-05-25 14:55:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7d73600c8318424d9126cbab44792a71", "402881AC4D4188E9014D4188E99D0022", "心机彩妆", "心机彩妆 睫毛增长底膏", "http://i4.3conline.com/images/pclady/brand/brand_logo/200911/21/1258794224644.jpg", "￥200", "在睫毛膏前打底，可令上下睫毛同样浓密、纤长、卷翘，立体。使睫毛膏易于上色，提升睫毛根部的卷翘程度，打造深邃双眼。浓密的睫毛根部、清晰分明的睫毛末梢，多次重复刷拭即可达到立体美睫效果。睫毛底膏干后无色透明，掩盖睫毛膏上色不均的缺陷。", "", "6g", "基础彩妆", "2015-05-25 14:55:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("37a72ab8e0e941758f7b7e1d9d3d89c4", "402881AC4D4188E9014D4188E99D0022", "欧珀莱", "欧珀莱 完美提升睫毛底液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20099/7/spcgroup/1252319231151_290x290.gif", "￥140", "啫哩状睫毛底液，能使睫毛膏易于涂抹，并提升卷翘、浓密效果，即使未涂到的部分也不会显眼。
+l         提升卷翘＆浓密度透明啫喱状的睫毛底液
+l         提高睫毛卷翘、浓密度。配合睫毛膏使用达到惊艳效果。
+— 配合顺滑微纤维成分
+l         配合卷翘聚合物成分
+l         啫喱状基剂
+l         有效保护睫毛不受伤害，滋养睫毛。
+—睫毛顺滑镀膜  
+—澳洲坚果籽油
+l         透明啫喱状膏体令涂抹瑕疵不明显
+使用方法:
+l         请在涂抹睫毛膏之前使用。
+l         取出刷子，涂抹适量于睫毛上。液体完全干透之前，涂抹好您所使用的睫毛膏。
+l         卸除睫毛膏时，请使用另售的欧珀莱净美清肌卸妆液（眼唇部）。", "", "6g", "彩妆系列", "2015-05-25 14:55:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("39a1a8a8590c4663b90bb98ea8447118", "402881AC4D4188E9014D4188E99D0022", "巴黎欧莱雅", "巴黎欧莱雅 惊艳特长美睫膜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/67654/spcgroup/67654-1_290x290.jpg", "￥135", "白色基础膏体滋养睫毛，瞬间纤长睫毛的同时赋予睫毛健康能量，促进睫毛新生。日复一日，睫毛更加强韧纤长。颠覆性的管状膜技术，涂抹的瞬间包裹睫毛，同时向上拉伸，在睫毛表面形成超长美睫“膜”。睫毛根根分明，带给你媲美专业睫毛接长技术的惊喜体验，缔造无与伦比的惊艳纤长。温水卸妆：无需揉搓和卸妆液，只需淋浴时，足量温水冲洗！美睫膜便逐渐脱落，轻松卸除。或用化妆棉浸透温水，敷在睫毛处三十秒，无需揉搓，管状美睫膜即刻脱落，就像卸下一副假睫毛，全新卸妆体验，澄澈洁净看得到。", "防水 浓密 纤长 ", "7ml*2", "彩妆系列", "2015-05-25 14:55:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7e8f7dca57f749578b4dadea7f0a9be1", "402881AC4D4188E9014D4188E99D0022", "蝶妆", "蝶妆 凝彩双用睫毛膏", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200911/25/spcgroup/1259159077369_290x290.jpg", "暂无报价", "白色：增长修护液，富含维他命成份，深度滋养，增加睫毛的韧性并神奇拉长睫毛，加倍增效。
+
+黑色：拥有全新护色配方，延长睫毛，妆效持久。", "", "暂无", "彩妆系列", "2015-05-25 14:55:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a9dd2fd6478041779d2e89afaa333426", "402881AC4D4188E9014D4188E99D0022", "雅蔻", "雅蔻 睫毛夜间修护增长凝露", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20102/6/spcgroup/1265452265828_290x290.jpg", "￥290", "一款高效滋养、修护、增长的睫毛膏。透明凝胶质地，并含有激活睫毛增长配方的一款营养型睫毛膏。含有多种营养复合成分，多肽，橄榄叶萃取物和柑橘萃取物，高效滋养，柔顺修护睫毛的同时，促进睫毛浓密增长。不含香料。", "", "8ml", "彩妆系列", "2015-05-25 14:56:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("6903d6b0455b4de59691d919eed0a535", "402881AC4D4188E9014D4188E99D0022", "查名", "查名 睫毛膏组合", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/21/spcgroup/proportion_290x290/12928924406067280.jpg", "￥32", "丰盈嫁接液：独特聚合物配方无比贴合、柔顺舒适，能从根部至尖端均匀包裹整根睫毛，令睫毛细致分明，轻松塑造自然浓密毫无瑕疵的无限纤长睫毛!其配方中融合了具有神奇附着力的聚合物，令你拥有完美妆效一整天!主要成分：水、天然蜂蜡、巴西棕榈蜡、小烛树蜡、二氧化硅、炭黑、尼龙12、乳化剂。天然纤维：独特的天然纤维100%天然，能与睫毛完美结合自然贴合于一体宛如自然生产的睫毛，不会对眼部产生任何刺激，轻易塑造出超凡浓密的动人美睫。", "纤长 ", "8ml*2", "彩妆系列", "2015-05-25 14:56:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("be5126be0c7a442eaa11ab74f9ecd8c2", "402881AC4D4188E9014D4188E99D0022", "雅而顿", "雅而顿 睫毛生长液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20104/25/spcgroup/proportion_290x290/1272177118240.jpg", "￥18", "本品蕴含多种植物精华因子，能够加速睫毛/眉毛的生长，且减少皮脂分泌，对毛囊的伤害，防止睫毛脱落，本品安全性好，无刺激。产品成份：VPP毛细血管修复剂、谷酰氨酞、生长因子、甘草精华、芦荟胶。 
+使用方法：用棉签浸透本品，轻轻涂抹在睫毛/眉毛根部即可，7—10天可以见效果!", "", "10ml", "其他系列", "2015-05-25 14:56:23")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e7a38dec26524301939221be307b54eb", "402881AC4D4188E9014D4188E99D0022", "赫拉", "赫拉 睫毛增长液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/15/spcgroup/proportion_290x290/13001981929677960.jpg", "暂无报价", "促进皮肤循环，给毛孔补充所需的营养，使睫毛快速增长。和正常画眼线的方法一致，方便使用。使用方法：一天一次，睡前使用。左侧的产品使用时，和眼线液的使用方法一致。注意不要滴到眼睛里。右侧的产品使用时，涂抹于睫毛上。建议在基础妆前使用。", "", "暂无", "其他系列", "2015-05-25 14:56:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c0d0a749ec434b19ba61123e27984abe", "402881AC4D4188E9014D4188E99D0022", "爱娜丝", "爱娜丝 芭比松蓝美睫液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/26/c0/spcgroup/13200126_1345910618433_400x400_290x290.jpg", "￥79", "规格：8ml
+成份：水/VE骨胶原/聚氨酸盐/焦谷氨酸/月桂氮酮/透明质酸/菘蓝萃取液/雏菊萃取液/天然花水/羟苯甲酯/羟苯乙酯产品特点：采用植物精华导入系统，由菘蓝萃取精华、大豆精华及小麦胚芽等萃取而成，协同维他命D，能在夜间睡眠时能自动调理并修护睫毛，显著增加其长度，并给予强化和滋润", "", "8ml", "其他系列", "2015-05-25 14:56:48")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a30ea018a5854a5ba6caa9d1f1f41ae1", "402881AC4D4188E9014D4188E99D0022", "爱目", "爱目 睫毛滋养液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/18/spcgroup/proportion_290x290/13030954121706860.jpg", "暂无报价", "爱目睫毛滋养液，让美睫体验“新生”滋养、强韧、纤密、净化一次实现爱目睫毛膏的独特之处：卖点一：高耐受性，与眼泪相同PH值，温和不刺激，敏感性眼睛和隐形眼镜佩戴者可放心使用卖点二：植物活性剂和蜂胶，洁净、舒缓睫毛及其根部，净化睫毛的生长环境。", "", "暂无", "其他系列", "2015-05-25 14:56:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("76ec92116ba2433f89fa0570a15f5c1d", "402881AC4D4188E9014D4188E99D0022", "虞文萱", "虞文萱 中药植物浓密睫毛滋养液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/23/spcgroup/proportion_290x290/13245713620279420.jpg", "￥42", "睫毛产品分类: 睫毛增长液
+    睫毛膏功效: 纤长
+    是否防水: 是
+    彩妆规格: 正常规格
+    品牌: 虞文萱
+    睫毛膏单品: 中药植物浓密睫毛滋养液", "卷翘 纤长 ", "暂无", "其他系列", "2015-05-25 14:57:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5104d97c6df74ed99ee4201329fb9d41", "402881AC4D4188E9014D4188E99D0022", "蝶翠诗", "蝶翠诗 睫毛修护液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/27/c0/spcgroup/14707312_1351317771704_400x400_290x290.jpg", "￥168", "内含植物精华，为睫毛补充营养，使睫毛丰盈强韧、不易脱落，增加睫毛的数量和长度，且变得更有弹性。天然的植物性成分荷兰芥精华，促进血液循环，加速睫毛生长速度。另外，当药、雏菊等植物精华能滋润睫毛，补充养分。可作为透明睫毛膏使用。", "浓密 纤长 ", "6.5ml", "彩妆系列", "2015-05-25 14:57:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7e129ff46b1047cbb4292a1d38faaeba", "402881AC4D4188E9014D4188E99D0022", "姬芮", "姬芮 睫毛倍浓滋养底液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20127/5/spcgroup/proportion_290x290/13414593068528870.jpg", "￥88", "配合睫毛纤长极细纤维成分，同时使用睫毛膏，使睫毛加倍浓密纤长。
+配合睫毛滋养呵护成分。
+加入睫毛卷翘成分，防水配方，长时间不晕染。", "防水 浓密 纤长 ", "6.5g", "彩妆系列", "2015-05-25 14:57:12")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2e0291e349d64f2a9c571d0d4ab935a5", "402881AC4D4188E9014D4188E99D0022", "香奈儿", "香奈儿 睫毛滋养底膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/17/c0/spcgroup/12990813_1345193717170_400x400_290x290.jpg", "￥330", "香奈儿睫毛滋养底膏，专业睫毛护肤产品，亦是你不可或缺的美妆拍档。透明的质地，含滋养与强化配方，每日持续呵护睫毛，促进其修复与新生。单独使用，呵护睫毛；在睫毛膏之前使用，令妆效深邃浓盈，更持久亮丽。日复一日，亲眼见证美睫闪耀强韧光彩。", "", "5ml", "彩妆系列", "2015-05-25 14:57:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("938349601bdb49b7bfc4d1c215a1dcb3", "402881AC4D4188E9014D4188E99D0022", "伊丽莎白雅顿", "伊丽莎白雅顿 迷情睫毛底膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20123/14/spcgroup/proportion_290x290/13317065284655170.jpg", "￥200", "能够映衬睫毛膏的效果，使睫毛看起来增长、浓密。", "浓密 纤长 ", "6.5ml", "彩妆系列", "2015-05-25 14:57:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("6f5f177d5f614293ab11de8e28725f94", "402881AC4D4188E9014D4188E99D0022", "卡姿兰", "卡姿兰 滋养增长睫毛修护液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20102/3/spcgroup/1265205257735_290x290.jpg", "￥89", "养护定型睫毛修护液
+内含天然植物精华，为睫毛提供滋养、保护等美睫营养，使用后增长睫毛达30%，使睫毛纤长浓密，健康亮泽。深层修护，同时改善睫毛的生长环境，赋予睫毛持久而超凡的弹性和柔韧。也可作为睫毛膏底液使用，具有定型效果，营造清晰自然妆效。", "纤长 ", "8ml", "彩妆系列", "2015-05-25 14:57:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d69981ce768a4bcbb72a6d231c6ed983", "402881AC4D4188E9014D4188E99D0022", "美华丽", "美华丽 睫毛生长液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20101/25/spcgroup/1264404566000_290x290.jpg", "￥228", "美华丽睫毛生长液蕴涵丰富的蛋白质及天然营养素，可令睫毛生长得更快，更加浓密，更加有光泽。特有的内弯形状设计的睫毛刷，令扫上睫毛时候更加方便，同时能够增强保护睫毛，令睫毛柔软光滑，散发动人色彩。一经使用，眼睫毛会更加健康，更加浓密。", "", "10ml", "其他系列", "2015-05-25 14:57:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1d7c78de1208471090e1d1df310248f8", "402881AC4D4188E9014D4188E99D0022", "玛贝拉", "玛贝拉 乐多旺睫毛生长液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20101/24/spcgroup/1264316007103_290x290.jpg", "￥198", "针对睫毛过短、过细、易断、脱落等。使用后可立竿见影，使睫毛增长30%。飞扬卷翘。长期使用，睫毛的弹性及柔韧性明显提高，而且粗黑光亮，自然上翘。成份安全无刺激，符合美国FDA检验标准及欧洲EEG标准。", "", "8ml", "其他系列", "2015-05-25 14:57:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("980cc4503661464d8e2220f0d7c2a0a9", "402881AC4D4188E9014D4188E99D0022", "奶奶的百草堂", "奶奶的百草堂 纯中药眉毛生长液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/18/spcgroup/proportion_290x290/12900837850726060.gif", "暂无报价", "[产品介绍]:【规格】：5ML【成份】：芥末，半夏，生姜等【功效】：使眉毛再生浓密【用法】：每天一次或多次,刷眉毛上[温馨提醒]:较之睫毛液，见效稍慢，一般一管可以见效.促进眉毛生长,变黑变浓密.跟睫毛生长液不一样，只是有些成分是一样的，还有其他不同的成分", "浓密 ", "暂无", "其他系列", "2015-05-25 14:58:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("29e01499f12c4ae48d4faec393d5c6af", "402881AC4D4188E9014D4188E99D0022", "美芙乐", "美芙乐 睫毛增长液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/20/spcgroup/proportion_290x290/13243609712632630.jpg", "￥120", "促进睫毛生长增长、改善睫毛稀疏易断，使睫毛浓密卷翘，一般连续使用7天就可以看到效果", "卷翘 纤长 ", "5ml", "其他系列", "2015-05-25 14:58:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0a483268524f42629e5a0801a03d6073", "402881AC4D4188E9014D4188E99D0022", "卡姿兰", "卡姿兰 滋养增长睫毛修护液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/11/c0/spcgroup/14377143_1349957930374_400x400_290x290.jpg", "￥89", "养护定型睫毛修护液
+内含天然植物精华，为睫毛提供滋养、保护等美睫营养，使用后增长睫毛达30%，使睫毛纤长浓密，健康亮泽。
+深层修护，同时改善睫毛的生长环境，赋予睫毛持久而超凡的弹性和柔韧。
+也可作为睫毛膏底液使用，具有定型效果，营造清晰自然妆效。", "浓密 纤长 ", "8ml", "彩妆系列", "2015-05-25 14:58:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8f0b1629b97348aca1076fc6ca05a903", "402881AC4D4188E9014D4188E99D0022", "伊蒂之屋", "伊蒂之屋 魔幻营养睫毛增长液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/13/spcgroup/proportion_290x290/13026779999940310.jpg", "暂无报价", "", "", "暂无", "其他系列", "2015-05-25 14:58:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a7b6892f67b14f7cae59eb0744215dff", "402881AC4D4188E9014D4188E99D0022", "悠莱", "悠莱 营养定型睫毛底液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200911/25/spcgroup/1259137432376_290x290.jpg", "￥85", "保护睫毛健康，提升并长久保持卷翘效果
+            
+        
+        
+            
+            配合使用悠莱熠彩卷翘毛膏（浓密），更能打造纤长卷翘的魅力美睫
+        
+        
+            
+            含植物提取成分赤鲜醇
+             
+        
+        
+            
+            含植物性护理成分澳洲坚果油
+        
+        
+            
+            含维生素E衍生物", "", "6g", "彩妆系列", "2015-05-25 14:58:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c2704de44e66456b8579923cc3483c82", "402881AC4D4188E9014D4188E99D0022", "珂珂", "珂珂 睫毛滋养增长液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/7/spcgroup/1260169155150_290x290.jpg", "￥38", "蕴含丰富蛋白质及营养素，有效地令眼睫毛生长速度加快，使用3-4兴起后，即可发现睫毛会较浓密而健康。", "", "暂无", "睫毛膏系列", "2015-05-25 14:58:45")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f34439d29424416cb07b307d57cb357c", "402881AC4D4188E9014D4188E99D0022", "恋爱魔镜", "恋爱魔镜 增长睫毛液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/30/spcgroup/1262155113640_290x290.jpg", "￥130", "采用资生堂特殊延展效果的配方，拥有惊人的延展性，能令睫毛增长伸长120%。此外，它更有防水的功效，令效果更加持久", "", "7.5 g", "其他系列", "2015-05-25 14:58:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("212d5d2f423142c0a5a99725be04fd9b", "402881AC4D4188E9014D4188E99D0022", "艾杜纱", "艾杜纱 魔力捲翘亮睫彩EX(纤长)", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20101/19/spcgroup/1263832280138_290x290.jpg", "￥600", "睫毛大大增长的变化，已到了让妳惊讶的程度！就像装了假睫毛一样美丽！强力防水、防汗、防油的配方。先使用睫毛夹把睫毛夹翘后，再仔细刷上睫毛膏。", "", "8g", "彩妆系列", "2015-05-25 14:59:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("32f57e9079614f6a8703aa0b0bc0748e", "402881AC4D4188E9014D4188E99D0022", "Paul", "Paul &", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1412/24/c0/spcgroup/proportion_290x290/1057775_1419406100474_400x400.jpg", "￥250", "柔软有弹性，又能做到全日不脱妆。特强卷曲效果，令睫毛翘出优美弧度。防水配方，却又柔软而有弹性。发挥持久卷曲及浓密作用，完全无需出动假睫毛。睫毛扫刷毛表面附有凹槽，全面提高卷曲度及浓密度。由于刷毛表面高低不平，因此能抓住每根睫毛，连短小睫毛亦不会遗漏，确保所有睫毛统统稳固地向上卷起。 [类型] 梳开卷曲睫毛膏 / 防水配方 [使用方法] 以睫毛扫沾取适量睫毛液，采用向上梳扫的方式，由睫根至睫尖均匀涂上睫毛液。涂下眼睫毛时，由睫根向下扫至睫尖，或以睫毛扫的尖端上妆。卸妆时，以 Eye Makeup Remov", "防水 ", "6.2ml", "彩妆系列", "2015-05-25 14:59:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("85f20c4971094ea8bccf27ddf07adae4", "402881AC4D4188E9014D4188E99D0022", "Tarte", "Tarte 4", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/25/spcgroup/proportion_290x290/12827241978541560.jpg", "暂无报价", "让睫毛四天四夜都保持着充足的营养哦，独特Polyflex技术可以帮助睫毛营养并且持久浓黑！新PolyFlex技术独特矿物颜料，能够延长附着时间，同时也让睫毛更加柔软有弹性，同时具有防水功能，让睫毛长时间浓黑性感哦！", "", "暂无", "彩妆系列", "2015-05-25 14:59:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9550c25b35a6461da94a2239e24e1b56", "402881AC4D4188E9014D4188E99D0022", "伊莎珂丝", "伊莎珂丝 睫毛增长液生", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/13/c0/spcgroup/32044009_1394684061630_400x400_290x290.gif", "￥298", "这款睫毛增长液分日夜双效 日用的油性 刷于整个睫毛 用于滋养保护睫毛 夜用的刷于睫毛根部 用于滋养修复毛囊 促进睫毛再生增长", "其他功效 纤长 ", "69", "彩妆系列", "2015-05-25 14:59:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3ab3d3af8bd643c89be13bbaf8a003d3", "402881AC4D4188E9014D4188E99D0022", "珍爱", "珍爱 睫毛滋养刷", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/27/spcgroup/proportion_290x290/12961045591948340.jpg", "暂无报价", "睫毛滋养刷含多种保湿滋养成分，其中白芒花子油是化学结构链最长最安定之脂质保剂，为日本保养品界之最爱，因睫毛就那么几根应该好好的加以爱护与保养，使其健康强壮有光泽，更能增添几许妩媚。滋养膏油滋养保湿作用，可以单刷也可以刷在睫毛膏之前，会使睫毛便浓密等干了之后再刷睫毛膏。", "", "暂无", "其他系列", "2015-05-25 14:59:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8ba2ddf7391b47dfa4bb2127671d06ff", "402881AC4D4188E9014D4188E99D0022", "Revitalash", "Revitalash 睫毛增长液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/12/spcgroup/proportion_290x290/12868823843752160.jpg", "￥1,480", "Revitalash（睫毛增长液）促进睫毛快速增长，使精短、纤细、稀疏、脆弱的睫毛变得强韧、柔长而卷翘。能让你的睫毛再次生长，使由化学及药物因素而造成脱落的睫毛再次生长，让睫毛增多、变得均匀、缜密、浓黑。", "", "4ml", "其他系列", "2015-05-25 14:59:48")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("52059e74857046ed840841f3dd5fa41d", "402881AC4D4188E9014D4188E99D0022", "Revitalash", "Revitalash 睫毛滋养液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/12/spcgroup/proportion_290x290/12868823143052600.jpg", "￥1,040", "蕴含丰富蛋白质及营养素，有效地令眼睫毛长速度加快。使用3-4星期后，即可发现睫毛会软浓密而健康，并且像蝴蝶飞舞的翅膀一般优美而动人。 睫毛增长液亦可用来帮助眉毛生长，效果一样显著，临睡前使用，更能发现惊人效果", "", "4ml", "其他系列", "2015-05-25 14:59:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("51308baaefa644558abad33aab8b4aa1", "402881AC4D4188E9014D4188E99D0022", "奶奶的百草堂", "奶奶的百草堂 纯中药睫毛生长液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/18/spcgroup/proportion_290x290/12900842778013250.gif", "暂无报价", "成份：芥末，半夏，生姜等。功效：使睫毛再生，增长，浓密，卷翘。用法：每天至少一次,均匀的刷在睫毛上，不接触皮肤，建议每天多次使用，效果更佳。", "", "暂无", "其他系列", "2015-05-25 15:00:12")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f1432fa341d34bc98bfcad4d458d0c52", "402881AC4D4188E9014D4188E99D0022", "ENIN", "ENIN 美睫毛精华", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/17/spcgroup/proportion_290x290/13030073477466280.jpg", "暂无报价", "来自澳洲的美睫精华，成份为100%保加利亚玫瑰花蕾精华提取液和杏仁萃取液，使用后能每周增长睫毛1毫米，无论你睫毛原来的长短如何，都能有效增长。使用五六个月后，睫毛长度和浓密度都能得到显著改善。", "", "暂无", "其他系列", "2015-05-25 15:00:33")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("717b7f6908244ce79882fc5e3c1df75d", "402881AC4D4188E9014D4188E99D0022", "DEJAVU", "DEJAVU FIBERWIG", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20115/15/spcgroup/proportion_290x290/13054240253239680.jpg", "￥118", "全新配方的睫毛液蕴含fiber 及βfiber，能将纤维持久紧贴于每根睫毛上，纤维含量比一般睫毛液多出一倍，能紧贴于每根睫毛上，塑造出持久超长迷人睫毛效果，加上设计独特的刷头能创造出完美立体的卷曲及丰盈效果，睫毛挺立分明。除此之外，其独有的超薄纤维膜，能完全隔绝汗水及油脂，绝不会出现睫毛液溶化、凝结或脱落的情况，只需使用一般卸妆产品均可彻底清除。
+
+最适合下班后要修饰化妆晚宴使用，因为睫毛液往往经过长时后，便容易出现熊猫眼，一扫再扫后，更出现粘在一起的现象，纠缠不清！但使用这支睫毛液重复涂抹，每涂一层都会令睫毛更长更卷曲，而完全不会纠结，越涂越漂亮。
+
+使用方法 :
+
+只涂一层效果未必会太明显，如要达到完美效果，必须待睫毛液干后，重复涂上至妳理想的长度，再简单使用棉花棒于眼部周围清除多余的睫毛液。绝不影响你完美妆容，方便快捷！", "", "暂无", "其他系列", "2015-05-25 15:00:38")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e743cc02f4274203a06dac9ecb95dc26", "402881AC4D4188E9014D4188E99D0022", "玻儿", "玻儿 睫毛宝贝液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/8/spcgroup/proportion_290x290/13022722291422850.jpg", "暂无报价", "规格：5.5g  参考价：79 元 
+ 
+它是睫毛的守护小精灵，含多重维生素以及植物萃取成分，于夜间睡眠时滋养修护睫毛，为你宠爱美睫提供充分营养。成分与功效：维生素B5：强化睫毛，防止睫毛的断裂洋甘菊萃取：安抚、舒缓，保护睫毛。向日葵籽油：富含滋养柔顺睫毛之配方成分，使睫毛强韧有弹性，同时赋予睫毛柔顺活力。", "", "暂无", "其他系列", "2015-05-25 15:00:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("af49390bbed447408cbc604dc1b07ef3", "402881AC4D4188E9014D4188E99D0022", "植村秀", "植村秀 睫毛增长修护凝露", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20118/28/spcgroup/proportion_290x290/13145031837157260.gif", "￥250", "植村秀推出了全新睫毛增长修护凝露，它的极致睫毛增生乳清可促进睫毛的自然生长，具有强力的睫毛增生效果，使睫毛看上去更纤长、更浓密、更丰满。而且，睫毛增长修护凝露可修复、增强、保护睫毛，打造更健康更美丽的睫毛。作为睫毛化妆专家、假睫毛时尚的引领者，以及优质睫毛夹的最权威生产商，一直以来，植村秀积累了关于女士睫毛问题、睫毛健康状态的丰富研究经验。由于过度使用睫毛膏、睫毛夹、假睫毛和睫毛延长技术，自身的天然眼睫毛很容易受到各种损伤。迄今为止的研究显示，越来越多的女士们已经开始关心她们的睫毛长度、浓密度、形状和健康状态*。 对应其品牌哲学“美丽妆容始于完美肌肤”，植村秀始终在提倡将睫毛化妆程序从睫毛护理开始，自2002年以来，其睫毛养护精华即睫毛修护凝露长时间畅销，旨在打造理想的睫毛妆容。全新的睫毛美妆步骤，从使用睫毛增长修护凝露开始。每天，打造您所渴望的美睫妆容，亲眼见证天然睫毛的迅速生长。
+极致滋养的睫毛增生乳清,可使您的睫毛看上去更纤长、更浓密、更丰满 ,打造完美睫毛妆容的第一步睫毛增长修护凝露包含先进科技和创新技术，满足了如今对睫毛问题日益增加的关注，打造出了每位女士希望的完美睫毛。  突破性的三大举措，打造完美睫毛：1.促进眼睫毛的自然生长，防止睫毛脱落，并使其更纤长、更浓密、更丰满2.修复、增强和呵护眼睫毛，打造更健康亮丽的美睫妆容3.平整睫毛表面，从而最大程度地提高后续睫毛膏妆效 1.促进眼睫毛的自然生长，防止睫毛脱落                                                           睫毛增长修护凝露包含革命性Culticilia Complex：由数种主要活性成分精氨酸（Arginine）、羟基积雪草苷（Madecassocide）、柠檬酸（CitricAcid）和透明质酸（Hyaluronic Acid）组成，可促进睫毛生长，防止睫毛脱落，使您的睫毛看上去更纤长、更浓密、更丰满。创新的Culticilia Complex旨在增强自然睫毛的生长周期，为您的眼眸带来奢华自然的风情。", "", "暂无", "彩妆系列", "2015-05-25 15:00:47")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bd0be312f5f64f129ad7aad663cb236e", "402881AC4D4188E9014D4188E99D0022", "植村秀", "植村秀 睫毛增长修护凝露", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/25/c0/spcgroup/14656665_1351150900644_400x400_290x290.jpg", "￥250", "全新睫毛增长修护凝露，可促进睫毛的自然生长，具有强力的睫毛增生效果，使睫毛看上去更纤长、更浓密、更丰满。而且，睫毛增长修护凝露可有效修复、增强、保护睫毛，打造出更美丽的妆容，更健康的
+睫毛。", "", "暂无", "其他系列", "2015-05-25 15:00:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3149640e545d4260a0f995d9c99ddd4d", "402881AC4D4188E9014D4188E99D0022", "魅可", "魅可 妆前纤长睫毛精华露", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1209/18/c0/spcgroup/13926051_1347947749894_400x400_290x290.jpg", "￥230", "新型专利配方，根源促进睫毛自然增长，8周见证更长、更浓密、更健康强韧的睫毛。每天早晚使用，在洁净及干爽的上下睫毛根部轻薄涂抹此精华露，待完全吸收后涂抹后续护肤品及彩妆。蜕变从此刻开始！该产品无致痘性，无香精。", "纤长 ", "暂无", "彩妆系列", "2015-05-25 15:00:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("070e944c37ae4cb292bb8dd0942a2ce2", "402881AC4D4188E9014D4188E99D0022", "悠莱", "悠莱 滋养定型睫毛底液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1211/08/c0/spcgroup/15471480_1352368927108_400x400_290x290.jpg", "￥85", "深入根部滋养并修护睫毛，赋予睫毛健康强韧，并持久塑定睫毛卷翘度。", "", "6g", "彩妆系列", "2015-05-25 15:01:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("da53820a349946d9a74b14a971ad5b94", "402881AC4D4188E9014D4188E99D0022", "欧珀莱", "欧珀莱 睫毛滋养美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1312/30/c0/spcgroup/30152411_1388417486767_400x400_290x290.jpg", "￥140", "本睫毛滋养美容液可养护睫毛,实现柔韧纤长的美丽睫毛. 产品特点 1 含有促进睫毛增长成分 大枣果实萃取精华(枣果提取物)欧珀莱发现有效滋养睫毛成分! 2 含有使睫毛坚韧光泽,更富弹性的修护成分L-精氨酸 3 赋予睫毛根部肌肤滋润与弹性,实现健康睫毛保湿成分", "浓密 ", "5.2g", "彩妆系列", "2015-05-25 15:01:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8f32211e34bb4fdb9ea717ddd1f3a348", "402881AC4D4188E9014D4188E99D0022", "迪士尼", "迪士尼 冰妍睫毛色彩液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/17/c0/spcgroup/28704648_1384618840604_400x400_290x290.jpg", "￥58", "色号：BC2203-01、蓝色 BC2203-02
+迪斯尼彩妆Disney彩妆系列冰妍睫毛色彩液", "纤长 ", "8g", "其他系列", "2015-05-25 15:01:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cd29cfa54af842689fa7fa112fc7a901", "402881AC4D4188E9014D4188E99D0022", "塔莉卡", "塔莉卡 丰盈卷曲睫毛滋润液", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/25/c0/spcgroup/proportion_290x290/3235757_1424796689145_400x400.jpg", "暂无报价", "令睫毛自然增长，卷曲和色泽提升
+化妆品并无药用功效，安全，有效
+安全无副作用，无需处方
+全新改良配方
+更纤长 +30% 至少4.4mm
+色泽提升 +50%
+卷曲 +50%
+如何使用：
+每天使用两次(早／晚)
+可单独使用或在使用睫毛膏前使用。
+活性成分：
+荨麻(Nettle)：刺激睫毛生长。
+抗衰老肽(Anti-ageing peptides)：改善睫毛的强度和长度。
+猴面包树叶提取物及酸橙提取物(Baobab leaves extract & sour orange extract)：有助于减少由紫外线引起的损伤和抵御太阳辐射。
+毛喉鞘蕊花(Coleus forskohlii)：有助令睫毛色泽加深。", "浓密 纤长 ", "10ml", "彩妆系列", "2015-05-25 15:02:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0f471e807043488082ea6dc3cb4c5f63", "402881AC4D4188E9014D4188E99D0022", "芭妮兰", "芭妮兰 爱眼纤长浓密睫毛修护乳", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/27/c1/spcgroup/proportion_290x290/2426851_1422370680823_400x400.jpg", "￥110", "助睫毛增长的植物性胶原蛋白成分 让短少的睫毛二度生长。芦荟成分供给给睫毛营养成分防止睫毛脱落结合了柔软的刷头，降低了对睫毛的刺激。", "卷翘 浓密 ", "4g", "彩妆系列", "2015-05-25 15:02:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("6c272cff64d74153ba475c4da51e650f", "402881AC4D4188E9014D4188E99D0022", "芭妮兰", "芭妮兰 爱眼纤长浓密睫毛精华素", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/27/c1/spcgroup/proportion_290x290/2427863_1422368705401_400x400.jpg", "￥100", "助睫毛增长的植物性胶原蛋白成分 让短少的睫毛二度生长。芦荟成分供给给睫毛营养成分防止睫毛脱落结合了柔软的刷头，降低了对睫毛的刺激。", "其他功效 纤长 ", "5g", "彩妆系列", "2015-05-25 15:02:11")

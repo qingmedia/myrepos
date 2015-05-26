@@ -1,0 +1,123 @@
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d4e5e0dae42a47f2aeb8beb424fb18b5", "402881AC4D411BBA014D411BBAF80015", "Pro-X", "Pro-X 净透焕肤洁面仪", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/82190/spcgroup/82190-5_290x290.jpg", "￥280", "效果4倍于普通清洁方式；媲美200美金专业洁面仪，风靡欧美；光滑细腻，提亮肤色，令肌肤光鲜亮丽；温和去角质，直击污垢油脂，老化角质；促进后续专业护肤成分渗透，有效放大护肤产品功效；使用安全不刺激肌肤。", "清洁 ", "套装", "Pro-X专业美容仪器", "2015-05-22 20:39:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2ad8e26f0c3340d6b218d465c1141210", "402881AC4D411BBA014D411BBAF80015", "科莱丽", "科莱丽 深层清洁刷头（适合毛孔粗大肌肤）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/14/c0/spcgroup/27479955_1381733812471_400x400_290x290.jpg", "￥210", "Clarisonic刷头基质由聚丙烯制成，可抗多种有机溶剂和酸碱腐蚀。Clarisonic刷毛由杜邦专业无孔刷毛制成，不具肌肤刺激性或敏感性，更具抗菌及抗真菌特性。我们独一无二的联动刷头设计，可清洁脸部死角一如鼻子周围区域。
+适合毛孔粗大，需要深层清洁肌肤的顾客的周护理。", "清洁 ", "适用于PLUS/Mia2", "其他系列", "2015-05-22 20:39:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a68c24d65b204e5daba3901f53d2ff12", "402881AC4D411BBA014D411BBAF80015", "可伶可俐", "可伶可俐 Clean", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/20/spcgroup/1261296179884_290x290.jpg", "￥20", "可伶可俐魔力吸油蓝膜，独有三大魔法，有效去除油光，让肌肤随时随地干净清爽。 
+魔法一：立即吸收油脂，去除油光。 
+魔法二：吸油后，独特的天蓝色吸油蓝膜即转为透明，效果迅速可见。 
+魔法三：创新材料，轻盈柔韧，吸油同时保留肌肤必需的水分 
+适合的肌肤种类：油性或混合性肌肤", "清洁 ", "60张", "其他系列", "2015-05-22 20:39:37")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2bb95b0340fe4240baec8b7f96800d78", "402881AC4D411BBA014D411BBAF80015", "水芝澳", "水芝澳 海洋净痘洁肤棉", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/09/c0/spcgroup/14334757_1349777967567_400x400_290x290.jpg", "￥300", "独有“纤柔凹凸洁肤网”，融合天然海洋植物和草本植物精萃，温和洁肤，带走老废角质，使痘痘迅速消退并预防再生。每次一片，每日新鲜。 
+消炎净痘
+ 草本净痘因子迅速收敛暗疮，促进痘痘成熟消退，消炎去肿 
+洁肤防痘
+ 植物净化成分去除老废角质，深度洁肤，疏通毛孔，预防痘痘再生。
+修复淡印
+ 活效修护维他命，有效修复细胞损伤，加速痘痘愈合，淡化痘印 
+平衡水油
+ 海洋植物控油精萃调理肤质，回复肌肤水油平衡。
+ 
+    
+  适用人群： 针对暗疮性、易生痘痘的肌肤、油性肌肤。 
+    
+  使用方法： 每日早晚，于卸妆后，取一片洁肤棉擦拭清洁全脸，如有需要可再以清水冲洗，之后可配合~H2O+海洋净痘系列产品。（可针对手臂、背部等有痘痘的部位局部使用）", "", "50片/瓶", "海洋净痘系列", "2015-05-22 20:39:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ba27c1c5733249ccbdd15049e6432aca", "402881AC4D411BBA014D411BBAF80015", "科莱丽", "科莱丽 正常型刷头（适合正常肌肤）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/14/c0/spcgroup/27479700_1381733411426_400x400_290x290.jpg", "￥210", "Clarisonic刷头基质由聚丙烯制成，可抗多种有机溶剂和酸碱腐蚀。Clarisonic刷毛由杜邦专业无孔刷毛制成，不具肌肤刺激性或敏感性，更具抗菌及抗真菌特性。正常型刷头适合普通肤质及男士肌肤的刷头。", "清洁 ", "一个", "其他系列", "2015-05-22 20:39:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("575f7a3b116749788d151e6ef1b444e1", "402881AC4D411BBA014D411BBAF80015", "科莱丽", "科莱丽 身体刷头", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/14/c0/spcgroup/27480062_1381733960632_400x400_290x290.jpg", "￥210", "Clarisonic刷头基质由聚丙烯制成，可抗多种有机溶剂和酸碱腐蚀。Clarisonic刷毛由杜邦专业无孔刷毛制成，不具肌肤刺激性或敏感性，更具抗菌及抗真菌特性。身体刷头是专适于身体肌肤使用的刷头，不适于面部使用。
+有两种清洁模式（连续清洁模式 & 按摩清洁模式） 
+用于软化、平滑身体肌肤，特别适合肘部、膝部和背部肌肤。", "清洁 ", "1个", "其他系列", "2015-05-22 20:39:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bc9ed8c80d854372afe73c5e70159476", "402881AC4D411BBA014D411BBAF80015", "科莱丽", "科莱丽 敏感型刷头（适合敏感肌肤）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/14/c0/spcgroup/27479793_1381733533620_400x400_290x290.jpg", "￥210", "Clarisonic刷头基质由聚丙烯制成，可抗多种有机溶剂和酸碱腐蚀。Clarisonic刷毛由杜邦专业无孔刷毛制成，不具肌肤刺激性或敏感性，更具抗菌及抗真菌特性。敏感型刷头专为敏感皮肤和首次使用洗脸刷的用户特别设计的超柔刷头。", "清洁 ", "1个", "其他系列", "2015-05-22 20:39:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("222e86193c024899b5bbdc99152333c8", "402881AC4D411BBA014D411BBAF80015", "科莱丽", "科莱丽 轻柔型刷头（适合娇嫩肌肤）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/14/c0/spcgroup/27479872_1381733679277_400x400_290x290.jpg", "￥210", "Clarisonic刷头基质由聚丙烯制成，可抗多种有机溶剂和酸碱腐蚀。Clarisonic刷毛由杜邦专业无孔刷毛制成，不具肌肤刺激性或敏感性，更具抗菌及抗真菌特性。轻柔型刷头（娇嫩刷头）专为极细腻的皮肤和术后严重敏感的肌肤设计的灵敏刷头。 
+刷毛最长，为您带来极温和的洁肤体验。", "", "适用于PLUS/Mia2", "其他系列", "2015-05-22 20:39:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("57e06031e3eb4499b91b141966191154", "402881AC4D411BBA014D411BBAF80015", "露得清", "露得清 Wave按摩洁肤仪", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/45132/spcgroup/45132-1_290x290.jpg", "￥158", "Neutrogena首部推出的的电动洁面，能释放轻柔而频密的微震，把深层洁面棉的洁净成份按摩入毛孔深处，能更有效清除毛孔内的顽固污垢，油脂及残妆。研究显示其深层洁净效能比一般洁面产品优胜10倍之多，第一次用完肌肤即时更细致幼滑。使用方法:防水机身, 可於洗脸及洗澡时使用。
+3个简单使用步骤:
+1. 将深层洁面棉贴於机身前方位置
+2. 手握电动洁面器并放置於流水下令洁净棉产生丰富幼细的泡沫 （洁肤棉本身含有洁面乳液 遇水即振动条件下可产生洁面泡沫）
+3. 开启按钮後用轻柔方式按摩脸部。请小心避免接触眼睛敏感部位
+套装包含：
+1、电动洁面器 1部
+2、深层洁净棉 14片", "", "暂无", "深层净化系列", "2015-05-22 20:39:52")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1d65e56e2d24492ba45c6f27ac98598d", "402881AC4D411BBA014D411BBAF80015", "科莱丽", "科莱丽 深彻声波净颜仪Mia2（便携型）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/14/c0/spcgroup/27480334_1381734293782_400x400_290x290.jpg", "￥1,250", "包装简洁，功能强大的Mia 2代在保留了Clarisonic科莱丽独有的清洁功效同时实现了更加小巧时尚的外形，易于旅行或健身携带，将方便性与高效清洁性能完美结合。Mia 2，RMB 1250元，全国丝芙兰有售l 1分钟脉冲定时器，指导使用者顺利完成清洁过程", "", "2档（低速+普通）", "其他系列", "2015-05-22 20:39:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f0f559aebe29414b9b5010ab74cf54ac", "402881AC4D411BBA014D411BBAF80015", "科莱丽", "科莱丽 声波深彻净颜仪PLUS（全能型）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/10/c0/spcgroup/27291794_1381395464942_400x400_290x290.jpg", "￥1,850", "PLUS是全能型产品，有身体按摩模式，更适合在家中使用，是日常肌肤护理的必备之选。PLUS，RMB 1850元，全国丝芙兰有售", "", "3档（低速+普通+高速）", "其他系列", "2015-05-22 20:39:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("738cb6b2b7cc4aab8cd39305d20a664d", "402881AC4D411BBA014D411BBAF80015", "伊奈美", "伊奈美 清莹细肤按摩棉", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/z9/spcgroup/200905112050318459_s3_290x290.jpg", "￥180", "突破性功效： 简单方便的洁面新概念。 产品成分： 特有的柔软透气布质，洁面按摩一气呵成。 加水搓揉后即可产生大量丰富的幼细洁面泡，帮助有效去除皮肤表面和毛孔内的老旧角质、化妆残余和污垢等。 丰富的护肤滋润成分，清洁同时帮助细致滋润肌肤，不会感觉紧绷。 建议用法： 加上适量的水搓揉形成丰富的泡沫，用按摩棉和泡沫轻轻按摩清洁脸部，最后用清水或温水洗净。", "", "30片/盒", "其他系列", "2015-05-22 20:39:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a7af9db1e280455194832666e8837f3d", "402881AC4D411BBA014D411BBAF80015", "蝶翠诗", "蝶翠诗 洁面刷(软)", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u28/spcgroup/2984_s3_290x290.jpg", "￥130", "使用清香桧木制作的洁面刷，能帮助洁面品产生丰富的泡沫，适度刺激肌肤。", "", "--", "其他系列", "2015-05-22 20:40:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("31795687d1764c4482aa5c5f7511a180", "402881AC4D411BBA014D411BBAF80015", "兰芝", "兰芝 二合一净肤棉", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/02/c0/spcgroup/12670084_1343903668995_400x400_290x290.jpg", "￥120", "有弹性的压花棉，同时具有清洁(清除彩妆-洁面)和调理角质功能的2合1产品。平滑而柔和的一面可以清除彩妆和皮肤污垢。 压花处理的一面可以轻柔地擦除皮肤表面堆积的沉积角质，缔造嫩滑而细致的肌肤。", "清洁 ", "40片", "彩妆系列", "2015-05-22 20:40:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("255ba91009684927ab1b8faed35330df", "402881AC4D411BBA014D411BBAF80015", "蝶翠诗", "蝶翠诗 皂盒", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/26/c0/spcgroup/14696742_1351260229776_400x400_290x290.jpg", "￥30", "适用于纯榄芦荟皂（L）、纯榄滋养皂、纯榄修护皂等的万能皂盒。", "", "正常规格", "其他系列", "2015-05-22 20:40:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("60b69824bfee4bf2a670790f1d69b420", "402881AC4D411BBA014D411BBAF80015", "日月晶采", "日月晶采 蕴润粉底液专用粉扑", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u6/spcgroup/6214_s3_290x290.jpg", "￥35", "针对粉底液、粉底霜开发的专用海绵。可将海绵前端贴压到指尖上，随心所欲地调节遮盖力度。
+触肤面轻柔，能均匀上妆。", "清洁 ", "一份", "底妆系列", "2015-05-22 20:43:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7c391e274fe44c9bb8fa02716a8d3f4e", "402881AC4D411BBA014D411BBAF80015", "丝芙兰", "丝芙兰 沐浴球", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/11/c0/spcgroup/12826512_1344615733343_400x400_290x290.jpg", "￥19", "当水花飞溅而下，只需一点点沐浴乳，就可以帮您打出细腻丰富的泡沫，沐浴从此乐趣多多！", "", "正常规格", "Sephora丝芙兰", "2015-05-22 20:44:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("71acecbc4ada41dfbec086eeda6f3a75", "402881AC4D411BBA014D411BBAF80015", "芳珂", "芳珂 洁面朴", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1304/11/c0/spcgroup/19741820_1365651317054_400x400_290x290.jpg", "￥25", "纤维柔软细密，每日使用可帮助去除死皮、黑头，肌肤回复柔滑爽洁。", "", "暂无", "水润基础护肤系列", "2015-05-22 20:44:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3538110ac16d4398ab18dec786436e21", "402881AC4D411BBA014D411BBAF80015", "蝶翠诗", "蝶翠诗 橄榄皂盒", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201111/30/spcgroup/proportion_290x290/13226602530360620.jpg", "￥20", "主要功效: 基础款，方便使用的万能皂盒；产品特点:方便实用；适合人群:所有人群； 使用方法:将橄榄皂放入", "", "90", "其他系列", "2015-05-22 20:44:07")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b9f5bbe0ad2b473abed21638437ceaae", "402881AC4D411BBA014D411BBAF80015", "蝶翠诗", "蝶翠诗 DHC蓝彩双层皂盒", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201111/30/spcgroup/proportion_290x290/13226586790733170.jpg", "￥25", "附中层滤水皿。适用于纯榄芦荟皂（L）、纯榄滋养皂、纯榄修护皂等的万能皂盒。
+                        
+                        
+                    
+                
+            
+            
+        
+    
+
+
+    
+        
+            基础款，方便使用的万能皂盒
+        
+        
+             
+        
+        
+            适用于橄榄芦荟皂、橄榄滋养皂、橄榄叶修护皂等的万能皂盒。
+        
+    
+
+
+    
+        
+            
+            精致又漂亮的盒子", "", "80mm 5mm", "其他系列", "2015-05-22 20:44:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a7111f6e05534095bf9086dfcffb57ef", "402881AC4D411BBA014D411BBAF80015", "曼秀雷敦", "曼秀雷敦 乐肤洁抗痘洁肤棉", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20099/28/spcgroup/1254117721437_290x290.jpg", "￥10.9", "含AC NET抗痘成分, 纾缓青春痘肌肤的不适；•添加清爽粉末, 吸收皮肤表面多余油脂，清爽保湿。 
+•草本精华： 
+•含有金雀花、金盏花、积雪草、七叶树等多种植物提取物, 能舒缓青春痘肌肤之不适； 
+•添加芦荟精华, 修复青春痘肌肤； 
+•方便携带，可以随时随地使用。", "", "12pic", "乐肤洁抗痘护理系列", "2015-05-22 20:44:11")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5f1e975e295b4c27a854e0bceb48b8a7", "402881AC4D411BBA014D411BBAF80015", "悦诗风吟", "悦诗风吟 济州岛火山岩泥魔芋洁肤海绵", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/28/c0/spcgroup/28064335_1382955123028_400x400_290x290.jpg", "￥35", "含有纯净济州岛的火山岩成分的纯植物性魔芋清洁海绵", "", "暂无", "济州岛火山岩泥系列", "2015-05-22 20:44:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7c8b579eb7044367bf2b19a378b11847", "402881AC4D411BBA014D411BBAF80015", "芳珂", "芳珂 无添加洁面扑", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/21/spcgroup/proportion_290x290/12929077720424460.jpg", "￥25", "产品特点：
+    粉状氨基酸去芜存菁 FANCL研究室发现，氨基酸洁净成分能够选择性洗去污垢、皮脂。保留肌肤必要的角质层水分、脂质与天然保湿因子。然而，氨基酸系洁净成分若与水分一起长期放置，会大大被削减洁净功能，唯有以粉状的状态，洁净成分才得以保持最佳状态让您获得最佳洁净效果。呵护敏感脆弱肌肤之弱酸性洁肤产品。与牛奶蛋白纤维洁颜海绵搭配洗脸．可达到美容按摩法的功效。连续洁颜2次可达到清洁脸上淡妆效果。1.幼细粉粒加水后能搓出细密丰富的泡沫，深入清洁毛孔。具感应洁净机能，有效地去除污垢及多余油脂，同时保留肌肤所需的补湿因子和脂质，用后肌肤湿润柔滑。2.洁面后肌肤达至水油平衡的健康状态，带动涂搽的护肤品有更佳的渗透效果，提升整体肌肤吸引力。3.不含有害的化学起泡剂，属与肌肤pH值相同的弱酸性 (p H 4.5 - 6.5)，促进皮肤健康。4.配合洁面朴每日使用，洁面同时按摩，有助清除粗糙死皮、消除暗哑，肌肤倍添光滑爽洁
+氨基酸系洁净成份（棕榈氨基酸、月桂氨基酸）、丝氨酸2.将保湿洁面粉洒于洁面扑上(约1/2-1茶匙)3.将流出之泡沫以另一只手接住再放回洁面扑上。4.依脸颊→额头→眉毛→鼻→下巴→眼睛周围的顺序，由脸的中心往外侧，顺着脸部肌肉的方向各3-5次轻柔地按摩。", "", "个", "其他系列", "2015-05-22 20:44:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e8a4a4e31c934e408127b7fb0fc2800c", "402881AC4D411BBA014D411BBAF80015", "旁氏", "旁氏 魔力洁面仪", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/96144/spcgroup/96144-1_290x290.jpg", "￥30", "集多种功能于一体的魔力洁面五件套，功能全面，时尚小巧，方便携带，打造全新的，美容概念。配按摩轮，乳胶软海绵等优质材料，揉软，不损伤又软的肌肤。", "", "暂无", "无瑕透白系列", "2015-05-22 20:44:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fb563a70fe8d4adb9af227407a378836", "402881AC4D411BBA014D411BBAF80015", "蝶翠诗", "蝶翠诗 洗颜海绵", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/26/c0/spcgroup/14696448_1351259291795_400x400_290x290.jpg", "￥55", "天然多糖类甲壳质、几丁质是因保湿性优良而备受瞩目的素材。DHC洗颜海绵是把这些素材纤维化，再经特殊加工而成的，即使清洗多次也不会改变其温和性，能使洁面品迅速、充分起泡。不易产生细菌，非常卫生。搭配DHC柔嫩洗颜粉使用，效果佳。", "", "正常规格", "彩妆系列", "2015-05-22 20:44:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9b1de9224d28495d8cf14ec7e91c4d8b", "402881AC4D411BBA014D411BBAF80015", "艾杜纱", "艾杜纱 洁容皂盒", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20101/19/spcgroup/1263831174917_290x290.jpg", "￥180", "", "", "暂无", "彩妆系列", "2015-05-22 20:44:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("84669ac2cafb4aefa7697935bd3599ee", "402881AC4D411BBA014D411BBAF80015", "C.P.Company", "C.P.Company 洗颜海绵", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20103/18/spcgroup/1268891247842_290x290.jpg", "￥45", "由甲壳质、脱乙酰纤维制成的海绵，具有与洗净成分易于融合的特点。经过抗菌处理，长久保持清洁，可长期使用。", "", "暂无", "彩妆系列", "2015-05-22 20:44:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3ccf800e0078459798be173b681da6e4", "402881AC4D411BBA014D411BBAF80015", "妙思乐", "妙思乐 贝贝加厚洁肤湿巾", "http://i5.3conline.com/images/pclady/brand/brand_logo/20103/19/1268967568957.jpg", "￥140", "加厚湿巾专为宝宝尿片更换时的清洁设计。湿巾柔韧湿润，温和有效地清洁宝宝的臀部。同时具有舒缓作用，对于宝宝的皮肤非常安全。使用后宝宝的皮肤干净清新，非常柔软。特殊配方能最大程度地降低敏感可能性。 使用方法：开启顶盖，揭去保护膜，取出一张湿巾轻轻擦拭宝宝的肌肤，用后盖严。在每次换尿片的时候使用本产品清洁舒缓宝宝的皮肤；使用后再涂抹贝贝维生素护臀隔离霜，然后换上干净的尿片.", "", "70片", "其他系列", "2015-05-22 20:44:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e15f1bf8b86d44c1a06e9ae98d2ae6f5", "402881AC4D411BBA014D411BBAF80015", "柏凡琪", "柏凡琪 PVA手套型洗面扑", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/5/spcgroup/proportion_290x290/12809750027756460.jpg", "暂无报价", "", "", "暂无", "美容工具品牌系列", "2015-05-22 20:44:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5eb7fe28f8d24674a05e574f062124c1", "402881AC4D411BBA014D411BBAF80015", "可丽扶", "可丽扶 洁面专用起泡网", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/11/spcgroup/proportion_290x290/13024966221328080.jpg", "暂无报价", "洁面专用起泡网的细小密度,使打出的泡沫细腻有弹性。", "", "暂无", "其他系列", "2015-05-22 20:44:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1ba9adeb8b7644bb84831301be950ab1", "402881AC4D411BBA014D411BBAF80015", "V.ROSE", "V.ROSE 天然海藻绵S40", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/18/c0/spcgroup/12998790_1345220822049_400x400_290x290.jpg", "￥280", "v.rose天然海绵采摘自地中海的温海水域，生长年限在三年以上。海绵是一种古老的海洋生活，在每一寸海绵之中，都有数以亿计的微孔。生长在温海中的海绵，含有很多对人体有益的矿物质。用其沐浴时，可对皮肤表面的微血管进行良性的刺激，其矿物成分也会被部分吸收。由于其多孔的特性，使用天然海绵洁面时，只需要很少的润颜皂或沐浴乳酪，便会产生极为丰富的泡沫，非常适合用于卸妆。天然海绵还非常适合小朋友使用，柔软的海绵不会伤害到儿童的皮肤。", "", "正常规格", "身体系列", "2015-05-25 09:43:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("aec169e0876a4e168330bbe999fd1181", "402881AC4D411BBA014D411BBAF80015", "V.ROSE", "V.ROSE 天然海藻绵S50", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/18/c0/spcgroup/12998821_1345220913329_400x400_290x290.jpg", "￥480", "v.rose天然海绵采摘自地中海的温海水域，生长年限在三年以上。海绵是一种古老的海洋生活，在每一寸海绵之中，都有数以亿计的微孔。生长在温海中的海绵，含有很多对人体有益的矿物质。用其沐浴时，可对皮肤表面的微血管进行良性的刺激，其矿物成分也会被部分吸收。由于其多孔的特性，使用天然海绵洁面时，只需要很少的润颜皂或沐浴乳酪，便会产生极为丰富的泡沫，非常适合用于卸妆。天然海绵还非常适合小朋友使用，柔软的海绵不会伤害到儿童的皮肤。", "", "正常规格", "身体系列", "2015-05-25 09:43:09")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("6e230088538f46c891a5e28c6768a8e4", "402881AC4D411BBA014D411BBAF80015", "V.ROSE", "V.ROSE 原木皂托", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/18/c0/spcgroup/12999004_1345221494127_400x400_290x290.jpg", "￥128", "按摩巾等V.ROSE 按摩巾使用天然亚麻制作，适合于成年人使用，可对皮肤起到按摩，加强皮肤新陈代谢的作用。", "", "正常规格", "身体系列", "2015-05-25 09:43:13")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("657df0667132469c9df7b0cd6f4e812b", "402881AC4D411BBA014D411BBAF80015", "安娜苏", "安娜苏 皂盒", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1305/28/c0/spcgroup/21386677_1369735941707_400x400_290x290.jpg", "￥135", "皂盒 精致的皂盒，让你即使在洁面时也能有不一般的感觉。", "", "1个", "美容工具", "2015-05-25 09:43:15")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9641cd7656624c9f8d7719798a91918d", "402881AC4D411BBA014D411BBAF80015", "欧敏肤", "欧敏肤 婴儿洁肤湿巾", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1411/09/c0/spcgroup/proportion_290x290/10008_1415502979177_400x400.jpg", "￥40", "柔韧纤维，有效清洁并温和舒缓婴儿娇嫩肌肤。本品为宝宝的柔嫩肌肤而设计。富含芦荟水和棉花籽提取物，清洁和滋润肌肤，无需水洗。有效清洁宝宝臀部肌肤，温和舒缓不刺激。
+使用方法： 全天任何时候都可使用。使用完毕后注意封闭包装，至于宝宝接触范围之外。可用于清洁面部，身体（包括臀部），手脚等部位。避免接触眼周。", "清洁 ", "70抽", "新生宝宝系列", "2015-05-25 09:43:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("87174d3c564d49009ac5fd3dc2a08f99", "402881AC4D411BBA014D411BBAF80015", "科莱丽", "科莱丽 奢华面部刷头", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1402/10/c0/spcgroup/31146688_1392043513312_400x400_290x290.jpg", "￥230", "创新设计的的双层刷毛深彻且温和地清洁面部肌肤，为干燥、缺水、敏感肌肤以及熟龄肌肤提升保湿效果。羊绒质感的超长刷毛为肌肤带来6倍于传统手洗卸妆洁肤功效的同时带给您奢华护肤享受。", "", "暂无", "奢华系列刷头", "2015-05-25 09:43:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d93caea52e114d9396415362e8adb0c5", "402881AC4D411BBA014D411BBAF80015", "科莱丽", "科莱丽 奢华局部刷头", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1402/10/c0/spcgroup/31146721_1392043667492_400x400_290x290.jpg", "￥230", "创新设计的双层刷毛，小巧玲珑专为清洁眼周，鼻翼以及唇部肌肤而设计，具备更灵活多角度的特性。绸缎质感的超长刷毛为肌肤带来6倍于传统手洗卸妆洁肤功效的同时带给您奢华护肤享受。", "", "暂无", "奢华系列刷头", "2015-05-25 09:43:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2487b2d5d92f4d9196410c27794862ec", "402881AC4D411BBA014D411BBAF80015", "悦诗风吟", "悦诗风吟 济州岛火山岩泥蒸汽式面巾", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/28/c0/spcgroup/28064622_1382955884912_400x400_290x290.jpg", "￥45", "帮助打开闭塞毛孔，有效深层清洁的热敷用精织3D面巾", "", "暂无", "济州岛火山岩泥系列", "2015-05-25 09:43:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("425f01fca92b4cf4a04833cefec72832", "402881AC4D411BBA014D411BBAF80015", "PBA", "PBA 面膜棒", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/13/c0/spcgroup/30540621_1389628499340_400x400_290x290.jpg", "￥5", "", "", "暂无", "其他系列", "2015-05-25 09:43:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ead6727c203c41e29a12b61992c5fb1f", "402881AC4D411BBA014D411BBAF80015", "玫琳凯", "玫琳凯 Skinvigorate洁面仪", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/03/c0/spcgroup/31720107_1393813841759_400x400_290x290.jpg", "￥379", "先把洁面产品挤在手心，用双手轻轻揉搓后涂抹在脸上，这时候轮到洁肤仪上场。根据自己的肤质状况调到适合的档位，轻按于面部。1、 常规使用高速挡，从上向下30秒，鼻翼两旁各10秒2、 油性肌肤，或者容易有粉刺\黑头\长痘痘的部位，也要使用高速挡，全脸上下洗2次3、 有时会出现敏感现象或皮肤肤质均匀的肌肤：一定使用低速挡，一周使用2/3次。通常情况，建议大家每次使用20-30秒，晚上使用效果更显著，如果你有粉刺或毛孔粗大，可以在这些局部的地方加强一下。敏感肌肤的女生，可以一周使用2-3次。这款洁面仪款式美观，轻巧易携带，是每个爱美女生的必备工具噢，快带一个回家吧！", "清洁 ", "一个", "经典护肤系列", "2015-05-25 09:43:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("af79ddbc36a1479abc6855ea65864e51", "402881AC4D411BBA014D411BBAF80015", "ASAP", "ASAP 面部清洁湿巾", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1404/23/c0/spcgroup/33489149_1398256573896_400x400_290x290.jpg", "￥63", "产品描述：
+光滑舒适，且持久耐用，是可降解和天然抗菌材质。可搭配洁面乳或者果酸去角质洗面乳后使用，随时随地，一步到位去除脸部杂质和化妆痕迹。
+产品功效：
+有效洁面杀菌。
+敏感性肌肤也可适用，温和无刺激，给予肌肤全方位的透彻效果。
+可机洗，摆脱传统洁面巾浪费局限。
+成分：可降解天然抗菌材质。
+适用肤质：所有肤质。", "清洁 ", "暂无", "护肤系列", "2015-05-25 09:43:39")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("38e504d11f0842249ebd5a05030d72f7", "402881AC4D411BBA014D411BBAF80015", "花酿", "花酿 洁颜清透卸妆湿巾", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1404/24/c0/spcgroup/33530656_1398343905002_400x400_290x290.jpg", "￥78.0", "杜松子萃酿精华配合花酿鲜花洁肤因子，温和轻松全方位卸除眼妆唇妆等彩妆残留污垢、空气污染导致的皮肤附着性污垢，令肌肤呼吸顺畅零残留，同时能深入肌肤净化肌芯，排出污物浊气，令皮肤净透光洁。", "清洁 ", "15p", "护肤系列", "2015-05-25 09:43:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("424d22dd4ded4dbdb7e44d6e87991af1", "402881AC4D411BBA014D411BBAF80015", "倩碧", "倩碧 声波洁面仪", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1406/30/c0/spcgroup/35805974_1404070451956_400x400_290x290.jpg", "￥980", "汲取46年皮肤学专研护肤经验，研发过程由全球顶尖皮肤学专家全程主导，更携手瑞士著名工程师，以更懂你肌肤的科技，再一次改变你的肌肤。
+每个人的脸上，有300,000个毛孔……
+双手和洁面皂，只能洗净表层的肌肤，洗不净毛孔里的油污。清洁掉毛孔里的油污残余，肌肤才能从深层回复洁净。
+声波微振科技，至柔温和的刷毛，贴合脸型的智能设计，深彻洁净每一个毛孔，毛孔轻盈通透，肌肤细腻柔滑。开启肌肤新"净"界！
+声波科技，深彻洁净：全球领先声波微振科技，每分钟逾9000次高频振动，卓效推出毛孔深层油污，去除黑头，净透立现。人体工学刷头，全面洁净无死角。创新刷头分区设计，绿色刷毛针对洁净T区、毛孔，白色刷毛温和洁净双颊，微倾刷头设计，深入T区，全脸洁净无死角。
+至柔温和，轻盈细腻：卓效声波微振原理，突破传统旋转式刷头，温柔振出毛孔深层油污，不拉扯肌肤天然结构。刷毛如羽毛般轻柔，贴面轻抚每寸肌肤。更通过过敏性测试，易敏感肌肤也可安心使用。", "清洁 ", "暂无", "净颜洁面系列", "2015-05-25 09:43:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("da3863c491bd4e68909dcb9b5f3f5916", "402881AC4D411BBA014D411BBAF80015", "玉兰油", "玉兰油 粉底海绵扑", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/12/c0/spcgroup/proportion_290x290/3044704_1423756380013_400x400.bmp", "￥9", "功效：用海绵扑沾取适量粉底，在面部均匀涂抹
+规格：玉兰油玉兰油粉底海绵扑
+使用方法：用海绵扑沾取适量粉底，在面部均匀涂抹。*大块区域如前额，脸颊，海绵扑平展使用。*眼睛，鼻子以及欲着重遮盖的地方，使用海绵扑角来涂抹。
+保养方法：经常保持海绵清洁，因为海绵不洁会不易取着粉底；当海绵变脏时，取少量中性洗涤剂溶解于水中清洗或在温水中洗净，挤净水份后请置于阴凉通风处晾干。", "清洁 ", "1个", "玉兰油基础护理系列", "2015-05-25 09:43:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a5c1cbff58e54678a1118e8f31d3efe0", "402881AC4D411BBA014D411BBAF80015", "蔻吉", "蔻吉 美肤泡沫龟/起泡球", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/16/spcgroup/proportion_290x290/12924762254022710.jpg", "￥48", "寇吉KOJI是日本第一大美妆工具品牌，以做工精细品质优良著称，深得日本时尚精致女性的宠爱！寇吉拥有专业的设计研发团队，1000款以上的单品适合有任何不同需求的您！纯手工的制作让使用它的人更赋美容创意！", "", "暂无", "其他", "2015-05-25 09:43:46")

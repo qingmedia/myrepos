@@ -1,0 +1,888 @@
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("6d3d758d000f406c84019637d6619a59", "402881AC4D4188E9014D4188E99D0017", "梵洁诗", "梵洁诗 幻彩丝柔呼吸霜（EE霜）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1407/18/c0/spcgroup/36438377_1405652981329_400x400_290x290.jpg", "￥199", "A管亮白修颜，自然贴合，缔造裸妆般细腻无瑕，自然通透的肌肤状态，保持肌肤完美哑光；非常服帖自然，细腻亮润，瞬间完美隐形毛孔，匀净肤色，遮盖瑕疵；
+有效抵御色斑及肌肤暗哑产生，如覆盖第二层肌肤般无瑕净透。B管增加其水润质感，触感柔滑润泽，伸展性好，覆盖力强，让肌肤在轻盈间尽情透气；特别的24小时全天候水感亲肤，持久保湿滋润。
+防水防汗，水过无痕；清新透气，轻盈自然。双管创意设计，两种独特配方，伸展性好，覆盖力强，双管合一极易涂抹，修颜保湿一气呵成，轻盈薄透如第二层裸肌，让肌肤自由畅快呼吸，可立即亮白肌肤，展现完美肤色，重现迷人光彩。", "遮瑕 修颜 均匀肤色 ", "40ml", "修颜护肤系列", "2015-05-25 14:19:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cb2ecf37bdd943b8a996ade613231596", "402881AC4D4188E9014D4188E99D0017", "柏氏", "柏氏 无瑕持久水粉霜（柏氏摇摇粉）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1408/22/c0/spcgroup/proportion_290x290/37728186_1408680858575_400x400.jpg", "￥139", "柏氏无瑕持久水粉霜【摇一摇，告别指尖时代】
+八效合一，一步变完美！
+秒速上妆：用前摇一摇，双手一抹，秒速上妆
+贴肤：细腻粉质瞬间融于肌肤，只见完美，不见粉痕
+无油：清爽舒适不油腻  ，整日清新舒适
+防水：防水、抗汗，平衡控油，持久不脱妆
+隐形：毛孔瑕疵隐形，肌肤均匀通透，仿佛天生无瑕
+保湿：一抹瀑水，持久保湿，呈现水嫩裸妆
+轻透：空气般轻薄、舒适、仿若无物，肌肤自由呼吸
+亮肤：均匀提亮肤色，裸妆自然无瑕，焕发晶莹光感", "防水 遮瑕 修颜 均匀肤色 ", "30ml", "护肤系列", "2015-05-25 14:19:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("36b187671dd641e090ce4025b0d10a12", "402881AC4D4188E9014D4188E99D0017", "伊蒂之屋", "伊蒂之屋 高光粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/4/spcgroup/proportion_290x290/12914609119639640.jpg", "￥99", "魔幻3D高光粉02 (高光粉) 
+* 经烘焙的粉末质地轻薄，含有闪亮的色彩，并灌入珍珠成分，让脸部看起来更时尚活泼。含有五种色彩(紫，粉红，浅褐色，薄荷，白). 
+色彩多样的腮红，让脸色红润得更自然；高光粉色彩活泼质地轻薄，倍感时尚。使用说明：
+用眼影刷沾取适量，修饰任意部位。可掩饰黑眼圈，用在前眼角处使眼睛看上去更妩媚，也可使鼻梁看起来更挺拔或涂抹在额头或下巴达到拉长脸部的效果。注意事项：重点部位逐一修饰，避免全脸涂抹。", "定妆 修颜 均匀肤色 ", "8g", "彩妆系列", "2015-05-25 14:19:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d2123fdb8825471da43521367a6095e8", "402881AC4D4188E9014D4188E99D0017", "欧珀莱", "欧珀莱 立体塑颜造型粉（4色）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/98044/spcgroup/98044-1_290x290.jpg", "￥190", "精心设计的不同质感5色组合，集合腮红胭脂色、高光色和阴影色于一体，打造透明红润，立体紧致的上妆效果，塑造“立体小脸”。
+
+四种颜色组合，呈现不同气质
+PK1粉色系                 RD1红色系               OR1橙色系             RS1玫瑰色系
+
+营造甜美印象             呈现自然肤色           尽显清新本色           展现优雅气质
+
+ —5种颜色5种质感，塑造理想“立体小脸”
+
+A~C胭脂色：呈现充满活力的自然红润的渐变胭脂色。调和三色，打造专属自己的色彩。
+
+＊多取A色，呈现艳丽色泽；多取B色，C色，呈现自然肤色。
+
+D高光色：提升肌肤光泽感的同时，演绎立体感，令腮红色与肌肤自然结合。
+
+E阴影色：阴影色打造紧致的面部轮廓，打造小脸效果。
+
+— 共同成分
+
+丝绸珠光成分：颗粒细腻的珠光成分，演绎如上等丝绸般的质感与光泽。
+
+油膜包覆色彩成分：缔造遇汗也不易变暗淡的艳丽色泽。
+
+含有护肤成分：透明质酸钠，感应型滋润保湿成分（聚季铵盐-51）。
+
+— 配有双头粉刷，令造型粉随心所欲地均匀涂抹于肌肤。
+
+—  优雅的白色花卉怡人馨香。", "", "4.8g", "彩妆系列", "2015-05-25 14:19:51")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c6f4359d1a5542b08192d56ccecac729", "402881AC4D4188E9014D4188E99D0017", "玫珂菲", "玫珂菲 清晰无痕底霜修容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20123/27/spcgroup/proportion_290x290/13328300708492400.jpg", "￥380", "•既是底霜，又是修容液！
+•此款独特的、具有护肤功效的底霜，不仅能滋润肌肤，更能吸收污染分子，保护肌肤防止外界的侵害
+•它能使肤色更均匀，底妆更持久
+•透明色具有护肤功效，其它颜色具有均衡肌肤颜色的功效
+•经皮肤科医生测试
+
+#1 绿  色 : 降低肌肤泛红现象 （红斑痤疮，酒糟鼻：脸部，尤其是鼻子和两颊上的毛细血管扩张引起皮肤呈红色或玫瑰色粉刺）
+#4 焦糖色 : 为较黑的肤色增加暖色调，健康的橄榄色光泽。
+#5 水蓝色 : 使微微偏红的肤色趋于完美。
+#6 黄  色 : 减轻发黑的面色。", "遮瑕 ", "30ml", "HD清晰无痕系列", "2015-05-25 14:19:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("29f69ec6a856486f95caefc202a8db16", "402881AC4D4188E9014D4188E99D0017", "乔治·阿玛尼", "乔治·阿玛尼 初妆亲肌修饰乳SPF12", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/03/c0/spcgroup/30242481_1388717579168_400x400_290x290.jpg", "￥580", "阿玛尼粉妆衣橱的最新杰作。传承阿玛尼时装的飘逸轻透，拥有超轻薄通透的上妆感受，仿若一袭雪纺般轻盈娇柔，宛如初妆的全新肌肤质地尽情展现。同时一分钟轻松搞定的产品特质，被人亲切的称为“懒人粉底”。", "修颜 ", "40ml", "底妆", "2015-05-25 14:20:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("34f7de702ca644c2a186c2d84ddb80bf", "402881AC4D4188E9014D4188E99D0017", "贝玲妃", "贝玲妃 超模粉红光影液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20122/6/spcgroup/proportion_290x290/13285186111702940.jpg", "￥250", "让这闪耀着珍珠粉色的提亮液，轻轻吻上你的颧骨、眉骨，她立即施展开提亮魔法---带有柔美粉红及银色云母折光粒子将使你的脸颊呈现出闪亮动人的清新光彩！
+它可是瓶子里的超级名模，闪亮银粉色让你的肌肤犹如晨露般粉嫩、自然、年轻，鼻子自然变挺，瞬间扬眉吐气，精神奕奕！是的，有了它，你就是红粉万人迷！
+
+贴心提示：
+1、将这超模与posietint花漾胭脂水搭配使用，柔粉与珍珠亮粉完美结合，脸颊闪亮光泽并且持久不掉妆！
+2、混合保湿乳或粉底使用，肌肤光泽感增强，闪耀通透魅力！
+3、在鼻梁中间画一道然后迅速抹开，鼻子立刻变挺的小秘密！
+超模粉红光影液更适合白皙肌肤使用，还有适合偏黄肌肤的月光金色光影液同步亮相！", "提亮肤色 修颜 ", "13.00ml", "彩妆系列", "2015-05-25 14:20:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("735e1f673cd642689caeee44d1744d8e", "402881AC4D4188E9014D4188E99D0017", "贝玲妃", "贝玲妃 淡粉高光修饰液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/19325/spcgroup/19325-1_290x290.png", "￥205.0", "化妆师打造健康气色的秘密法宝。光滑柔细的粉红增采霜，能使各种肤色飘逸动人。一般用在额头,眉骨,C区,鼻梁和下巴上，可以使脸部看起来立体感十足，并且有种水灵灵的感觉,健康清新，用法也一样简单，用小刷子点在眉骨，外眼角到颧骨这一圈，然后用手指晕开，人立刻显的精神好多，脸部立体感增强许多，一瓶可以用很久，是追求自然健康妆容的必备品。 用来打高光的完美产品，一般用在额头，眉骨，鼻梁和下巴上，作局部打亮，让五官更深邃迷人；也可以全脸使用，突显你的脸部轮廓，使脸部看起来立体感十足，并且有种水灵灵的感觉，健康清新！ 局部使用：眉骨、外眼角到颧骨这一圈，或其它欲打亮的部位，然后用手指晕开即可。 全脸使用：用小刷子沾取适量点在全脸，或加于粉底液中，然后推匀即可。", "提亮肤色 ", "13ml", "彩妆系列", "2015-05-25 14:20:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("421979cc9577456bab9c0cec7c42af6c", "402881AC4D4188E9014D4188E99D0017", "心机彩妆", "心机彩妆 立体光采修容粉", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/20/c0/spcgroup/16752652_1355990376085_400x400_290x290.jpg", "￥220", "重新塑造脸部轮廓，立体小脸效果的心机立体光采修容粉。光色与影色的腮红与修容色彩，精心配色的五色修容粉，打造轮廓更清晰、明锐的小脸效果。 共4种。", "修颜 ", "8g", "基础彩妆", "2015-05-25 14:20:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("434c4e2e5eee49dfa848cc768771ce42", "402881AC4D4188E9014D4188E99D0017", "谜尚", "谜尚 M完美无瑕修容霜SPF30+/PA+++", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20105/18/spcgroup/proportion_290x290/1274172915249.jpg", "￥188", "具有很强的这遮瑕能力，可有效遮盖皮肤的缺陷，演绎明亮、自然肤质。
+含皮肤锁定成分迷迭香、洋甘菊提取物、弹性成分自山毛榉树新芽提取的Gatuline  PC，保湿成分透明质酸与神经酰胺成分，维持肌肤舒适，水润。", "", "50ml 10ml", "彩妆系列", "2015-05-25 14:20:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cfc1b3e0f6cf4d64bc450150a96a23ec", "402881AC4D4188E9014D4188E99D0017", "贝玲妃", "贝玲妃 电力加倍焕采棒", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/95689/spcgroup/95689-1_290x290.jpg", "￥232.0", "帮助有效遮盖斑点、黑眼圈和脸部瑕疵；质地细腻柔滑，轻薄易涂抹；百搭柔和米色，专为中国女性量肤配色。
+使用方法：在瑕疵部位（眼周、鼻翼、嘴角或色斑等）点上适量，然后用指尖轻轻拍匀；单独使用或粉底后使用。", "遮瑕 修颜 ", "暂无", "彩妆系列", "2015-05-25 14:20:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b85edc396c1c40c187c3e98e85cdb1a0", "402881AC4D4188E9014D4188E99D0017", "凯朵", "凯朵 双彩修容饼", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/5/spcgroup/proportion_290x290/12836838321119860.jpg", "￥109", "色号：WT-2珠光白色 珠光黄肤色、RD-1红色系、OR-1橘色系、PK-1粉红色系色彩醇厚自然的粉状腮红，以清新颜色柔美双颊，使您拥有自然清澈透明的醉人腮红。通过全天然的配方带来全方位的色彩效果。配有腮红刷，令上妆过程变得简单而准确。内含轻柔的润肤剂，能保护您的肌肤，并同时将其调整至最佳状态。颊色动人塑造、勾勒、突现，更能衬托完美的脸部轮廓。深浅两色，创造脸部自然的立体感，修饰脸型。粉质细致，含微粒珠光，修饰脸部轮廓，更富透明感。使用方法： 
+把修容饼举至距鼻尖二指的距离，以此来决定腮红应该被施用于颊骨的部位。从外圈往内抹，从颊骨顶端往耳朵方向抹。切忌过于靠近鼻子或低于鼻尖。用修容刷沾取适量，于掌心轻刷融匀粉末后，轻刷于脸部。将浅色均匀刷于颧骨突出处，再将深色刷于顴骨下方，令脸部更富立体感", "", "暂无", "彩妆系列", "2015-05-25 14:20:45")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5b21ca93b8ae4120a4cee2c2c1621929", "402881AC4D4188E9014D4188E99D0017", "露得清", "露得清 细白焕采无暇修颜乳", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/85288/spcgroup/85288-1_290x290.jpg", "￥129", "打败短时遮瑕，由内而外真美白！
+瞬间焕白 长效臻白，真正多效合一，给你持久白皙无瑕美肌 
+露得清专为亚洲女性肌肤特别推出全新细白焕采无暇修颜乳，不仅即时修正暗黄不均肤色，有效遮饰脸部瑕疵，更开创性地添加全新升级的露得清Healthy White ComplexTM活性美白复合精华，深入肌肤底层，针对产生肤色不均斑点的根本，阻隔肌肤黯黑循环，打破已由暗沉墙。多效合一，令肌肤真正由内而外时刻绽现匀白的通透光彩。 
+内外同步，瞬间焕白：蕴含特别的天然亮肌矿物元素，即刻抹平面部瑕疵，微光折射效应，瞬间修饰及亮白肤色，改善肤色不均、暗沉；富含活性美白维生素C，迅速渗入肌底，活化细胞，瞬间亮泽，由内而外提亮肤色，立即绽放无瑕亮泽光彩! 
+深入肌底，长效臻白：露得清Healthy White ComplexTM活性美白复合精华，富含百合花萃取物及AA2G(高纯度稳定性维他命C)，能深入肌肤里层，阻隔肌肤黯黑循环，长效活化美白细胞，帮助提升肌肤的亮白度和通透感，淡化斑点，扫除黯黄，展现健康亮白的肤质，一天比一天更白皙无瑕。 
+不添加矿物油 ？  经皮肤专家测试 ？ 清爽温和质地
+使用方法：
+1.   早晚基础保养后，取适量均匀涂抹于全脸和颈脖处，使其充分吸收，即可展现均匀亮白肤质。
+2.   可在重点部位多次涂抹，加强明亮白皙效果。
+3.   追求自然妆容，可单独使用；追求更强遮蔽效果，可作为底霜使用，再使用粉状粉底或粉饼。", "遮瑕 ", "30ml", "细白焕采系列", "2015-05-25 14:21:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("73643023e9dd45a481ee6a2b07b213fc", "402881AC4D4188E9014D4188E99D0017", "希芸", "希芸 净颜修容底霜（象牙白）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/17/spcgroup/proportion_290x290/12847289670402740.jpg", "￥118", "丝绸般轻柔顺滑的触感，只需轻轻一抹，即可迅速与肌肤贴合，带来自然光泽与纯净剔透感，滋养肌肤同时为您打造轻盈细致的完美裸妆效果。●01# 象牙白
+●02# 自然白
+ 
+使用方法：基础护肤后，取适量一点一点地涂抹于整个脸部，并轻轻按压，使其贴合。", "", "45g", "净颜修容系列", "2015-05-25 14:21:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a3aed4302a994fbda1032c59dd06b26f", "402881AC4D4188E9014D4188E99D0017", "毛戈平", "毛戈平 光影塑颜高光粉膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1301/08/c0/spcgroup/17216947_1357575646725_400x400_290x290.jpg", "￥690", "这是你必须拥有的一款MGPIN明星产品，带给你独一无二的焕肤亮颜体验。只需涂抹在脸部需提亮部位，瞬间提升脸部立体感，塑造质感通透的脸部妆容。特别添加的保湿因子和维E、角鲨烷等营养成分，持久滋润，细致呵护肌肤。                   使用方法：用高光刷F10蘸取膏体在脸部均匀刷开，再配合打底海绵轻轻按压拍实。", "修颜 ", "14.5g", "其他系列", "2015-05-25 14:21:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ed6abc55fb6f463aaa2e0073e9a75b16", "402881AC4D4188E9014D4188E99D0017", "雅呵雅丝睿", "雅呵雅丝睿 控色裸妆修颜霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20117/21/spcgroup/proportion_290x290/13112404682137100.jpg", "￥90", "Normal
+  0
+  
+  
+  
+  7.8 磅
+  0
+  2
+  
+  false
+  false
+  false
+  
+  EN-US
+  ZH-CN
+  X-NONE
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  MicrosoftInternetExplorer4
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+
+
+商品特点：通过优异的肤色补正效果调整并遮盖肤色缺点。
+使用感舒适愉悦的控色薄膜有效调整肤色，尽享柔和（温和护理肌肤）、轻盈（轻快）的肌肤化妆。
+
+色系：
+① 果绿色
+② 紫罗兰色
+③ 蜜桃色
+④ 象牙色", "", "25g", "其他系列", "2015-05-25 14:21:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4f92181a1e7f4e13bf7f9b16c2fa644e", "402881AC4D4188E9014D4188E99D0017", "宝丽", "宝丽 维可亮彩修容饼", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20103/10/spcgroup/1268227824197_290x290.jpg", "￥250", "简单轻松地让脸庞瞬间散发迷人光彩的立体修颜粉。精心微调的粉橘彩粉可自然调节肤色，修饰脸部泛黄、暗沉等瑕疵，结合带有珍珠柔光因子的亮粉配套使用，轻松展现出美妙的立体色泽。", "", "一盒", "碧艾系列", "2015-05-25 14:21:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("39afc3748cd94b8e815235192945776e", "402881AC4D4188E9014D4188E99D0017", "Lily", "Lily Lolo", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/26/spcgroup/proportion_290x290/12933663487529550.jpg", "暂无报价", "", "", "暂无", "其他系列", "2015-05-25 14:21:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c7534af54c2340379c56cb5c5d229576", "402881AC4D4188E9014D4188E99D0017", "漂亮制造", "漂亮制造 恋爱小粉扑", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20104/20/spcgroup/proportion_290x290/1271761456625.jpg", "￥300", "仿造戀愛氣色研發出超微細棉花糖粒子，觸感就像一塊軟綿綿的棉花糖，搭配特製絲絨粉撲輕拍在臉上，隨著光線、角度變化出不同立體色澤，襯托膚色更白皙粉嫩，創造出幸福好氣色；特別添加月見草油、氨基酸等保濕成分，妝扮雙頰時也能讓肌膚不受乾燥影響，在底妝後使用能達到定妝效果，維持8小時散發透亮健康紅暈。", "", "6g", "时尚光系列", "2015-05-25 14:21:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("78093d44c1d5421bbd43053b613d67f2", "402881AC4D4188E9014D4188E99D0017", "魅惑丛林", "魅惑丛林 高光", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20104/29/spcgroup/proportion_290x290/1272516294320.jpg", "￥219", "打造太阳晒后效果很自然，高光妆效也非常自然。", "提亮肤色 修颜 ", "8.5g", "彩妆系列", "2015-05-25 14:21:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("94f635fff17947ad831f535889692f36", "402881AC4D4188E9014D4188E99D0017", "e.l.f", "e.l.f Studio系列百搭四色提亮高光盘", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/23/spcgroup/proportion_290x290/13035222447151370.jpg", "暂无报价", "产品特点：1、颜色如奶油般有质感，质地如丝般柔滑，容易匀开。有光泽，但是不是很闪的那种，非常自然！2、持久度较高，多种用途，可以用在颧骨，鼻梁，眉骨，眼角提亮；同时可以用作眼影/眼部打底，修容。3、3、包装高档，可与NARS媲美。价格白菜，性价比超高！", "", "暂无", "其他系列", "2015-05-25 14:21:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cb47c865330543faa5bec9e98927db2e", "402881AC4D4188E9014D4188E99D0017", "魅可", "魅可 魔幻星辰细粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20115/30/spcgroup/proportion_290x290/13067251601202740.jpg", "￥210", "功能闪亮细粉，可以做眼影，眼线，打高光，做腮红，跟唇膏或唇彩混在一起调色，可以混合粉底，等等。用作眼影，只要一点点就非常持久，不会堆积在双眼皮处。", "", "5g", "彩妆系列", "2015-05-25 14:21:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9cce263078b94da2962db59c6a845c81", "402881AC4D4188E9014D4188E99D0017", "毛戈平", "毛戈平 光影塑颜阴影修容饼", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1301/08/c0/spcgroup/17216901_1357575402113_400x400_290x290.jpg", "￥490", "美妆容不可缺少的修饰辅助类产品。专为亚洲女性肤质调制的自然阴影色，妆感真实，上色自然天成，有效收缩面部轮廓，塑造小脸视觉效果。超细致粉体，呈现持久妆效。
+使用方法：使用修容刷F12蘸取适量产品，修饰外轮廓，注意色彩边缘柔和过渡。粉底前后使用均可。", "", "12g", "其他系列", "2015-05-25 14:21:49")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("35b561b0ea2248779c2aad9aad0b9a42", "402881AC4D4188E9014D4188E99D0017", "兰芝", "兰芝 雪润无瑕修颜霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1301/10/c0/spcgroup/17283503_1357805851314_400x400_290x290.jpg", "￥255", "一款集蕴含雪凝精华液的3重功效水分BB霜，犹如水分凝露的润感质地，保护肌肤免受伤害，打造剔透贴服的妝容，肤色展现健康亮泽。
+--所有肌肤类型", "修颜 ", "50ml", "彩妆系列", "2015-05-25 14:21:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("785c2f4bd917476d8a32681ca4dfcead", "402881AC4D4188E9014D4188E99D0017", "植村秀", "植村秀 无色限唇颊缤纷霜（植村秀冰淇淋唇颊霜）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1405/21/c0/spcgroup/34464207_1400645819998_400x400_290x290.jpg", "￥220", "细腻红润的脸颊，露珠唇色。诱人而具革命性创新的奶油冰淇淋的质地，让唇部溢满细腻的露珠妆容效果。脸颊的自然光泽，与半哑光双唇轻松融为一体。经过多年的精心研究，植村秀推出品牌历史上第一款全新顺滑如冰淇淋般的唇颊霜。其结合创新技术来满足专业彩妆师以及现代女性对流行彩妆的需求，随心所欲创造幻变的妆容，仅此一支，即可打造柔雾般的双唇与粉嫩的双颊。轻松勾勒想要的轻薄或有层次的色彩，无论浓烈或是柔和，皆在指尖幻化成形。轻轻点缀，让冰淇淋般的唇颊霜在唇颊一触即化。", "提亮肤色 修颜 ", "5.4g", "蜷川实花限定系列", "2015-05-25 14:22:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3dd77da5cac142ba9ab97f1c4453086a", "402881AC4D4188E9014D4188E99D0017", "姬芮", "姬芮 完美修颜霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/5389/spcgroup/5389-1_290x290.jpg", "￥98", "优良的遮盖效果。细小的粉刺斑点或大范围使用，都能轻松修饰.涂抹均匀，可与肌肤完美贴合，令肤色迷人，妆容长久保持。", "", "15ml", "彩妆系列", "2015-05-25 14:22:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3ed3cbce71dc473aad588f5d92aa032f", "402881AC4D4188E9014D4188E99D0017", "谜尚", "谜尚 魅惑维他素魅力修容霜SPF20", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/17/spcgroup/proportion_290x290/12820461260111890.gif", "￥158", "实际功效：谜尚魅惑维他素魅力修容霜妆感透亮自然，有效遮盖斑点均匀肤色，妆面也不过于厚重，且肤感清爽，油性肌肤MM涂抹后，再利用蜜粉定妆，就能打造清透的裸妆。而遗憾的是防晒效果不持久，3小时后基本失去防晒效果，建议隔1-2小时适当补妆；且保湿性能较弱，涂抹前要做好保湿工作。
+推荐人群：懒懒的白领MM", "", "50ml", "彩妆系列", "2015-05-25 14:22:27")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1943bc8ae49948709c84921f50550152", "402881AC4D4188E9014D4188E99D0017", "魅可", "魅可 定制遮瑕修容组02", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/13/c0/spcgroup/30539944_1389625790034_400x400_290x290.jpg", "￥450", "由四款丝柔遮瑕膏 - NC15、NC20、NW10、NW20和两款控色膏-浅黄、浅粉组成的专业彩妆盘。富含独特的抗氧化配方，适合各种肤质，单独或搭配使用可完美匹配任何肤色。", "保湿 补水 滋润 提亮肤色 均匀肤色 ", "暂无", "专业底妆系列", "2015-05-25 14:22:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f3512846074349ddba373033426003ef", "402881AC4D4188E9014D4188E99D0017", "欧诗漫", "欧诗漫 珍珠白晶彩焕颜修容霜（自然色/珍珠白）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1302/01/c0/spcgroup/17905804_1359691675122_400x400_290x290.jpg", "￥150", "透白  触感细致柔滑，能轻盈贴合肌肤，瞬间隐退瑕疵、提亮肤色，缔造出自然通透的裸妆效果。
+亲肤  珍珠精萃复配植物精华，温和滋养，保护肌肤免于干燥与外界损伤，妆容更为持久鲜活。主要成分：珍珠粉、白花百合花提取物、牡丹根提取物、雪莲花提取物、水解大米蛋白、掌叶树提取物、姜根提取物。使用方法：
+轻点在脸上5点，均匀推开，轻拍使其更贴合肌肤。", "遮瑕 修颜 ", "50ml", "珍珠白净透系列", "2015-05-25 14:22:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d5f8243495f7431b9502be23e62a9f62", "402881AC4D4188E9014D4188E99D0017", "PHYSICIANS", "PHYSICIANS FORMULA", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/7/spcgroup/proportion_290x290/13021690573791010.jpg", "暂无报价", "", "", "暂无", "其他系列", "2015-05-25 14:22:49")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4cea78c3f77f4789b17400b7b1b52d61", "402881AC4D4188E9014D4188E99D0017", "伊蒂之屋", "伊蒂之屋 黄金比例万能脸部修饰粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/13/spcgroup/proportion_290x290/13026799544989460.jpg", "￥89", "", "", "10g", "其他系列", "2015-05-25 14:23:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("59299be1e52e47438745d6aa9c5fc2b2", "402881AC4D4188E9014D4188E99D0017", "香奈儿", "香奈儿 自然亮肌修颜粉SPF15/PA++（限量单品）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1406/13/c0/spcgroup/35246670_1402650429257_400x400_290x290.jpg", "￥475", "「自然亮肌修颜粉」实用的的三阶色彩，能满足多种妆效需求。打造 “健康光泽” 的三款色调，诠释多元、直接的全新彩妆概念。「自然亮肌修颜粉」蕴含天然棉花与玫瑰花露精华复合物，质地细腻，瞬间贴合，能有效舒缓，保护肌肤抵抗外来伤害。
+含有UVA与UVB防晒指数：SPF 15 / PA ++。使用半月刷上妆，三种颜色可以分开或混合使用于日霜、自然亮肌乳、或粉底产品之后。• 用伸缩蘑菇刷将三种颜色混合，轻刷全脸，营造健康光泽感。• 将亮色抹在需要提亮的部位：眉骨、颧骨上方与额头隆起处。• 以半月刷将腮红色调轻抹于颧骨部位，提升肤色光采。
+随心使用，满足多种妆效需求。", "", "8g", "米色亮肤系列", "2015-05-25 14:23:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("13ec08f3e31c42348955bfd503d223b3", "402881AC4D4188E9014D4188E99D0017", "魅可", "魅可 柔矿迷光双色修容饼", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u6/spcgroup/5126_s3_290x290.jpg", "￥335", "M.A.C矿物彩妆全系列「柔矿迷光Mineralize」柔˙亮上市! 无敏性保养系纯色订製钻石般独一无二绝无相似的耀眼光芒! 温柔彩妆全新体验~~~ 萃取阿尔卑斯山脉矿物水+酵母保溼菁华+24小时手工烘培奢华製作 双色修容饼+腮红+双色眼影饼创造柔炫光影层叠妆容 M.A.C早秋限量新品-柔矿迷光双色修容饼 柔矿迷光双色修容饼的多重美丽祕密 缎雾面- 用于全脸作为完妆最后一到美丽程序可打造全脸立体又自然的粉雾妆效用来固定底妆也可修饰脸型达到修容效果更可当作全天候的补妆圣品同步提供肌肤自然润饰的薄透覆盖妆感 闪亮面- 可在脸与眉部间创造强调效果或是对全脸作出超级奢华感的闪亮修饰还可用来为肩膀手臂与胸前打光为肌肤全方位打光创造带有闪光润饰效果的柔和覆盖效果 无敏性保养系彩妆- 含有维他命AE衍生物能为肌肤保湿抗老且形成天然屏障减缓环境对肌肤的侵袭另蕴含荷荷芭油镇静舒缓肌肤 适合各种肤质尤其是敏感性肤质的最佳彩妆选择 建议使用专为此款修容饼设计推出的#189专业修容粉底刷它有圆形的握柄与呈一角度的刷毛可精準地雕塑脸部线条与局部重点打亮妆效最为理想 Light Medium巧搭Natural and Shimmer 淡金米色/暖米黄色 Medium巧搭Natural and Shimmer 柔和乳米色/浅粉桃色 Medium Dark巧搭Natural and Shimmer焦糖色/浅棕褐色 Dark巧搭Natural and Shimmer 深焦糖色/黄金色 Deep Dark巧搭Natural and Shimmer 金古铜色/深古铜色", "均匀肤色 ", "9g", "彩妆系列", "2015-05-25 14:23:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("87a7c4c4ac6848a6957a9250fde93eb0", "402881AC4D4188E9014D4188E99D0017", "嘉媚乐", "嘉媚乐 柠檬草遮阳修颜液", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u31/spcgroup/3300_s3_290x290.jpg", "￥120", "糅合天然柠檬草精油乳木果油和玫瑰精油成分·阻止阳光对肌肤的伤害·均匀修饰肌肤，提供轻柔、清爽透气的自然效果●紫色：修饰偏黄肤质，塑造自然、透白的肤色●绿色：修饰偏红肤质，塑造健康、透亮光泽的肤色。●象牙白：修饰斑点瑕疵肤质，塑造无暇细腻的自然肤感。", "遮瑕 修颜 ", "30ml", "护肤系列", "2015-05-25 14:23:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("52cc88f3b6d94cfab104983ffc5ba2c1", "402881AC4D4188E9014D4188E99D0017", "Le", "Le Metier", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/15/spcgroup/proportion_290x290/12923858916829640.jpg", "暂无报价", "以蜂蜡为主要成份，易于上色，能自然地描画出丰满的眉形，特别适合眉毛稀疏人士。", "", "暂无", "其他系列", "2015-05-25 14:23:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("75cb09395b014341be5b1f2f9bfa0f62", "402881AC4D4188E9014D4188E99D0017", "美伊娜多", "美伊娜多 美伊娜多缔凡恒彩触感修饰膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/14/spcgroup/proportion_290x290/12923066839575010.jpg", "暂无报价", "触感细腻、柔滑，为肌肤提供最贴心的修饰，提亮暗沉肌肤，毫无痕迹地遮盖脸上的各类瑕疵，令倦怠痕迹隐形，使妆容完美无瑕，富有光彩；优秀护理成分的配合有效调理肌肤。 使用方法：用拇指将侧面的按钮向下推。顶盖自动被打开。", "遮瑕 提亮肤色 修颜 ", "2.4g", "面部系列", "2015-05-25 14:23:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("25b5735d92d04fc5bc5f58e75d7a1054", "402881AC4D4188E9014D4188E99D0017", "LORAC", "LORAC 修容粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/20/spcgroup/proportion_290x290/12928509289733680.jpg", "暂无报价", "这是最适合亚洲人的自然浅古铜色，在化妆后轻轻扫与额头，颧骨，鼻梁以及下巴。颜色为古铜色，有很好修饰脸型的功能，大脸变小脸。让你脸盘更立体更小巧更迷人，巨星的秘密就是这个！如同天际中太阳在你脸颊上吻出的唇印，奢华般的古铜色！", "", "暂无", "其他系列", "2015-05-25 14:23:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ad2fe213db5d488cb8e221d0ca2558c2", "402881AC4D4188E9014D4188E99D0017", "漂亮制造", "漂亮制造 立体光小脸双效修容組", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20104/20/spcgroup/proportion_290x290/1271762335079.jpg", "￥380", "BeautyMaker產品研發總監，精心打造修容打亮雙效合一的『立體光小臉雙效修容 組』，一盒融入兩種顏色，能自然修飾並打亮臉型。特地選用超微細粉末，可與妝 底自然服貼，且粉體較一般更小，能與原有膚色緊緊融合。更添加卵磷脂、甘醇醣 酵母萃取天然保濕成分，調合超微細粉末，自然貼和角質層，不易脫妝，讓妝效更持久。", "提亮肤色 修颜 ", "6.5g", "心机系列", "2015-05-25 14:23:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9f94c2f958cc44b9a717e3d5be4af93a", "402881AC4D4188E9014D4188E99D0017", "伊夫圣罗兰", "伊夫圣罗兰 流光修颜粉(2010新品)", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20104/13/spcgroup/1271164704021_290x290.jpg", "￥405", "业界著名的“蘑菇腮红”。一款包装设计小巧可爱，携带方便，易于上妆，轻松缔造肌肤自然粉嫩的妆感的独特腮红。 俏皮新色可用于打造蜜糖般的双颊。 7号N° 7 – 杏桃俏橘 Apricot", "定妆 修颜 均匀肤色 ", "4.5g", "彩妆系列", "2015-05-25 14:23:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5a73db09a4a44467acf727300eac7bac", "402881AC4D4188E9014D4188E99D0017", "伊夫黎雪", "伊夫黎雪 植物舒颜精华焕颜修饰膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20105/4/spcgroup/proportion_290x290/1272979828978.jpg", "￥220", "植物奥秘：苹果胶质 阿拉伯树胶 葡萄籽油 维他命E
+【浓缩的水解苹果胶质】？强效激活细胞，恢复细胞间的正常交流，显减浅皱纹， 提高肌肤光泽感， 肌肤紧致弹性，肤质柔软光滑细腻
+肌肤奇迹：
+瞬间隐匿岁月痕迹，焕发健康光采
+使用方法：
+取适量轻抚于脸部需要使用的地方，也可做粉底全脸使用", "", "15ml", "全效修护系列", "2015-05-25 14:23:38")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a8c0eea7f86845e98e7839188c3db6f2", "402881AC4D4188E9014D4188E99D0017", "希芸", "希芸 净颜修容底霜（自然白）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/17/spcgroup/proportion_290x290/12847290263245380.jpg", "￥118", "丝绸般轻柔顺滑的触感，只需轻轻一抹，即可迅速与肌肤贴合，带来自然光泽与纯净剔透感，滋养肌肤同时为您打造轻盈细致的完美裸妆效果。●01# 象牙白
+●02# 自然白
+ 
+使用方法：基础护肤后，取适量一点一点地涂抹于整个脸部，并轻轻按压，使其贴合。", "", "45g", "净颜修容系列", "2015-05-25 14:23:49")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c945dd3cdd1748a4a53e63bc5741a798", "402881AC4D4188E9014D4188E99D0017", "克丽缇娜", "克丽缇娜 极光亮彩霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/11/spcgroup/proportion_290x290/12947520106594320.jpg", "￥280", "令人喜爱的粉红色泽，提供神奇的亮彩效果，可轻易创造极致的苹果光感，并持久闪亮动人的妆容。", "提亮肤色 修颜 ", "3g", "色诱彩妆系列", "2015-05-25 14:23:51")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9c0f1fd4639e4a3b88c4ac211d702233", "402881AC4D4188E9014D4188E99D0017", "香奈儿", "香奈儿 都市时尚亮粉(限量)", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20118/31/spcgroup/proportion_290x290/13147940043954140.gif", "￥600", "香奈儿都会时尚亮粉的设计，受到了波普艺术的影响。这款外盒精致优雅的修容粉，印刻着“SOHO”的四个英文字母浮雕，粉质丝滑细腻，色彩清雅实用。轻抚于脸上，营造出微妙而自然的光晕。", "", "暂无", "SOHO都市情节系列", "2015-05-25 14:23:56")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b1fbaa4a974c48a1a4931bf628f0d77e", "402881AC4D4188E9014D4188E99D0017", "凯朵", "凯朵 美肌双色修容饼", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/6/spcgroup/proportion_290x290/13152833323869620.jpg", "￥129", "深浅双色，展现自然立体的双颊。共有四个色系：DR-1、PK-1、OR-1、BR-1。脸部轮廓立体鲜明，瞬间呈现立体小颜。睫具光影修饰效果的颊彩与修容饼，使脸部轮廓利落鲜明，呈现立体小颜。超细轻盈的质地超细腻粉末大小统一，粉末外的薄膜层可保护肌肤避免水分的流失和空气的污染。是款可以随意调节深浅双色腮红，自然打造立体感强、气色好的面庞。附带100%天然马毛的圆形刷，可以画出极简但精致，尽展个性美颜。亲肤裸妆，更胜无妆。", "", "正常规格", "彩妆系列", "2015-05-25 14:24:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bbf9f2b6e41b4eaaa34283d2b638cd6a", "402881AC4D4188E9014D4188E99D0017", "毛戈平", "毛戈平 高光粉膏（简装版）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/18/spcgroup/proportion_290x290/13163276674923460.gif", "￥320", "MGPIN明星产品高光粉膏珍藏版的替换内芯。", "提亮肤色 修颜 ", "10g", "其他系列", "2015-05-25 14:24:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1b39a1e649f04ee08ecee68bae7746e5", "402881AC4D4188E9014D4188E99D0017", "毛戈平", "毛戈平 光影塑颜高光修容饼", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1301/08/c0/spcgroup/17216887_1357575315703_400x400_290x290.jpg", "￥490", "一款拥有独特光线折射科技，瞬时缔造剔透立体妆效的高光修容饼，用于T字区、面颊以及下巴等部位，凸显脸部立体轮廓。创新运用超微感光因子，巧妙捕捉各个角度的光线，通过精微折射，令肌肤呈现由内而外的自然剔透亮泽。还可单独作为气色粉使用，打造明亮好气色；亦可搭配高光粉膏使用，为脸部高光区域或整脸进行定妆。
+使用方法：使用修容刷F11蘸取适量产品，修饰T字区、下巴、双颊等内轮廓。", "", "12g", "其他系列", "2015-05-25 14:24:11")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("14a0631faade45389c91d03311b41f0f", "402881AC4D4188E9014D4188E99D0017", "伊蒂之屋", "伊蒂之屋 立体俏颜提亮粉", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1406/14/c0/spcgroup/35271081_1402734204931_500x500_290x290.jpg", "￥128", "打造幼嫩滋润肌肤，光滑陶瓷高光~
+滋润亮丽陶瓷肌肤
+修复为光滑脸部线条效果
+展现多种类型的妆容", "提亮肤色 定妆 ", "9g", "彩妆系列", "2015-05-25 14:24:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b6065928dcab49648cafd4d877790dc4", "402881AC4D4188E9014D4188E99D0017", "乔治·阿玛尼", "乔治·阿玛尼 无心诱惑修颜亮彩盘（2014夏季限量）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1405/21/c0/spcgroup/34474386_1400659818860_400x400_290x290.jpg", "￥720", "饱满欲滴，盈润的弧度，栩栩如生。第一次，阿玛尼将灵动的花朵 「Bella donna」如浮雕般镌刻在彩盘上，为挚爱优雅的女性献上又一份礼赞。
+「Bella donna」，源自拉丁语，是意大利语 “裸身的少女”的意思，因其花朵在绽放时，叶子会完全掉落，只为显露它最美丽的花苞。在文艺复兴时期，「Bella donna」的汁液也曾被很多上流社会的女子用作滴眼液，只因其略带刺激性的汁液会令瞳孔放大，让眼神能散发致命诱惑的吸引力。2014年，阿玛尼以「Bella donna」为灵感，将颠茄花镌刻于限量彩盘之上。寓意：美丽的女人，生如夏花，只一瞬便惊艳，却令人久久无法忘怀。绝美的女人犹如「Bella donna」般，并非刻意诱惑，但却有着致命的吸引力，让人缱绻留恋，刻骨铭心，因此得名“无心诱惑“
+阿玛尼运用独家「Micropearl technology」，让「无心诱惑」的质地介于粉霜与蜜粉之间，独特质地不仅可用来为双颊创造自然裸粉气色，亦可用来打亮全脸甚至锁骨、颈项部位，甚至可以作为裸色眼影使用。订制极富个人风格的专属妆容。", "修颜 均匀肤色 ", "5G", "彩妆系列", "2015-05-25 14:24:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4216b982973c4c2f90534169d5744ea4", "402881AC4D4188E9014D4188E99D0017", "海肌源", "海肌源 莹亮修颜乳SPF15/PA+++", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1301/25/c0/spcgroup/17714394_1359098324684_400x400_290x290.jpg", "￥139", "Ø 质地清爽无油、水漾轻薄，打破传统BB霜的粘腻感，连触碰也无粉状物掉落；Ø 添加83%褐藻亲肤水精华和美白成分，修颜同时养肤，为肌肤带来清爽水润柔滑感受；Ø 挑选中国女性最偏好的白皙肤色效果，打造亲肤自然色配方，带来多重修颜体验，迅速平滑肌肤、修正肤色、让毛孔隐形，轻松化出大师级“净透裸妆”；Ø 按前额、脸颊、鼻子、嘴角和下巴周围的顺序，将修颜乳点于皮肤上并用手指轻推，将修颜乳涂抹均匀。", "修颜 ", "50g", "莹亮系列", "2015-05-25 14:24:23")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0dfd3776caae4bbf98eda18d8657a9b3", "402881AC4D4188E9014D4188E99D0017", "毛戈平", "毛戈平 光影塑颜立体鼻影粉", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1301/07/c1/spcgroup/17216102_1357572759760_400x400_290x290.jpg", "￥390.0", "一款专为亚洲人塑造挺拔鼻梁的专业立体鼻影粉。专业双色光影组合，凸显自然立体效果。特别设计的高光色运用适合亚洲人的淡黄色高光，运用独特光线折射，明显提升鼻梁提拔感；专为亚洲肌肤调配的柔和阴影色，塑造自然的鼻侧暗影，增加鼻梁轮廓深邃感。粉质细腻轻薄，与肌肤亲密贴合，带来真实自然的立体妆感。
+使用方法：将高光色涂抹于鼻梁高光处，并向上下晕染均匀，提亮鼻梁；将阴影色先在手背上揉开，然后涂抹于鼻梁需提升部位的两侧，修饰轮廓，注意色彩边缘柔和过渡。建议使用前咨询MGPIN彩妆师的指导，获得根据您的五官专业定制的鼻梁修饰建议。", "修颜 ", "3g", "彩妆系列", "2015-05-25 14:24:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1aea44be14194f748c25a3a3bdea2fe7", "402881AC4D4188E9014D4188E99D0017", "巴黎欧莱雅", "巴黎欧莱雅 奇焕光感修颜霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/95168/spcgroup/95168-1_290x290.jpg", "￥140", "奇焕柔珠”科技
+乳白色滋润质地，蕴含独特“奇焕柔珠”
+轻触间释放“鲜活”肤色调和因子
+白色乳霜神奇变色，自动匹配肤色，自然遮盖瑕疵
+妆效
+只需一抹，体验神奇转变
+隐匿瑕疵，肌肤油光不再，尽现匀、净、透、亮，
+莹亮美肌宛若新生
+
+专为亚洲肌肤研发", "遮瑕 修颜 ", "暂无", "奇焕光感系列", "2015-05-25 14:24:37")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("dc92b5e2a20f4d18814318722c47d24a", "402881AC4D4188E9014D4188E99D0017", "曼秀雷敦", "曼秀雷敦 新碧莹润细致修颜霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1304/12/c0/spcgroup/19792098_1365761610875_400x400_290x290.jpg", "￥79.9", "保  湿：特选植物天然保湿元素及澳洲坚果籽油，为肌肤提供饱满水分及提高锁水能力。
+遮  瑕：遮盖面部纹理及瑕疵，与肌肤色调完美融合。
+美   白：含高纯度美白成分-熊果苷，让肌肤透白亮丽。
+控  油：含吸油粉末，吸走面部多余油脂。
+抗氧化：含抗氧化成分，帮助预防肌肤老化。
+粉   底：为肌肤添加保护层，阻隔外来污染，妆容更清透自然。", "", "40g", "新碧", "2015-05-25 14:24:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("eb78a078489d4532a606407861e0f6ba", "402881AC4D4188E9014D4188E99D0017", "香奈儿", "香奈儿 米色时尚双C亮粉", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20104/12/spcgroup/1271068654399_290x290.gif", "￥470", "打开精美黑盒，奢华丝绒质感、散发珠光光泽的粉饼呈现眼前，这款亮粉适用于各种肤色。
+揉合了黄檀木、米色与棕色的修容粉饼，能使肤色更为柔和温润，彰显无比的亮泽感。珠光金色的双C图案位于星罗棋布鹅卵石般铺开的小圆点中央，而这种暖色调单色被很巧妙地烘托出来。
+配合使用附赠的大粉刷能达到更好的妆效，随意应用于需要修饰、强调的脸部，例如：双颊、眼睑，或用于全脸，提亮肤色", "提亮肤色 修颜 均匀肤色 ", "暂无", "永恒印记系列", "2015-05-25 14:24:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b45973ab4ca44f98b5cac83ce7cf17d6", "402881AC4D4188E9014D4188E99D0017", "蝶翠诗", "蝶翠诗 DHC", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/25/spcgroup/proportion_290x290/13169516823670760.jpg", "￥198", "修正肤色、遮盖肤色不均，同时兼具防晒机能（SPF30  PA  ）的多功能妆前乳。以日本国内基准上限浓度添加了辅酶Q10、美肌保护成分橄榄精华油，以及引导出肌肤透明感的α-熊果苷，同步实现护肤功效。配合DHC紧致焕肤粉底一起使用，可打造更完美的妆效。", "", "正常规格", "Q10系列", "2015-05-25 14:25:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5e35c75b7b004daa8dfc98edb837a1cb", "402881AC4D4188E9014D4188E99D0017", "娥佩兰", "娥佩兰 修容膏", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/9/spcgroup/1260335926773_290x290.jpg", "￥50", "粉红色：使肌肤具有良好的血色，健康动人充满活力，还可以作为腮红的底妆使用。 黄色：消除肤色的暗淡及黑眼圈，使肌肤更显明亮。 淡紫色：为肌肤增加透明感，使肤色更亮丽。 白色：增白肤色，并可以作为亮光使用，使面部看起来更有立体感。 可以根据各种肤色烦恼，每天的心情与状态改变肌肤的质感，因而可以随心所欲地选择称心如意的肌肤颜色，采用柔光微粒子，利用光学原理，巧妙掩饰肌肤表面的凸凹不平和毛孔。 采用通气性良好的透气微粒子，对肌肤无负担。添加配合了保持肌肤健康状态的6种天然植物萃取精华液（保湿成分）。", "", "13g", "彩妆系列", "2015-05-25 14:25:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("013a4c4586d040c3bb19a532c6cebbe7", "402881AC4D4188E9014D4188E99D0017", "菲诗小铺", "菲诗小铺 可爱甜蜜清透修容底霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20127/19/spcgroup/proportion_290x290/13426834483614800.jpg", "￥42", "含有多种植物提取物，呵护娇嫩肌肤。清新舒适，完美修容，自然柔嫩，有效吸附过剩皮脂，帮助肌肤修饰瑕疵。均匀肤色，轻松缔造甜美的动人肤质，使肌肤宛如婴儿般幼嫩光滑的修容底霜。", "遮瑕 修颜 ", "40g", "可爱甜蜜底妆系列", "2015-05-25 14:25:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a767028368ac4e83a988433cd754e73e", "402881AC4D4188E9014D4188E99D0017", "蔚丽莱", "蔚丽莱 百花多效养颜修容霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1408/28/c0/spcgroup/proportion_290x290/37977248_1409213587340_400x400.jpg", "￥320", "天然矿物微分子色粉和活性花卉植物焕颜精粹精心构成这款轻薄、水润、防水防汗“DD”霜，轻易渗透，通透裸体妆功效。
+
+“十合一”的六个护肤和四个美妆功效，在养颜的同时修容遮瑕。
+
+六个护肤养颜功效包括：
+
+1.轻质乳霜，保湿滋润
+
+2.活性植物精粹，醒肤养颜
+
+3.隔离防护，对抗污染
+
+4.多种花卉，多效合一
+
+5.细致肌理，柔滑贴合
+
+6.控油舒缓，净化肌肤
+
+四个美妆修容功效包括：
+
+• 遮盖黯沉斑点，均匀提亮肤色
+
+• 防水防汗
+
+• 清薄通透，无瑕裸妆
+
+• 天然矿物因子，打造柔焦妆效
+
+主要成分：
+
+水、辛基聚甲基硅氧烷、环五聚二甲基硅氧烷、二氧化钛、丁二醇、环聚二甲基硅氧烷、氯化钠、北美金缕梅花水、玫瑰花提取物、茉莉花等
+
+质地：
+
+霜状
+
+使用方法：
+
+每天早上，用于面霜以后，均匀涂抹于面部即可。", "修颜 ", "40ml", "彩妆系列", "2015-05-25 14:25:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fcebde36d42045a2b077b7425e8211dd", "402881AC4D4188E9014D4188E99D0017", "香奈儿", "香奈儿 阳光修饰粉霜", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u18/spcgroup/19824_s3_290x290.jpg", "￥450", "如沐浴阳光后的健康光泽。 营造夏日健康仿晒效果，让肤色一整个夏季都均匀一致，即使暑假过去，仍拥有美丽的夏日回忆。 结合凝露与乳霜的质地，并含有丰富的珠光修饰剂，脸部呈现的是天鹅绒般的细致妆容，并且持久性强。容量：30g 展现健康的光泽，强调颊骨与眉骨部位。若欲让晒后肌肤更均匀，则轻抚脸部所有肌肤，也别忘颈部肌肤。可以运用化妆绵或指尖涂抹。", "", "30g", "彩妆系列", "2015-05-25 14:25:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5eafe7d05c994682abdc2159e70c80d4", "402881AC4D4188E9014D4188E99D0017", "魅可", "魅可 修容粉", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u7/spcgroup/11128_s3_290x290.jpg", "￥290", "粉质细腻跟皮肤和贴合，小麦色皮肤或者皮肤白皙的MM可以采用此粉来作为散粉", "", "12G", "彩妆系列", "2015-05-25 14:26:02")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("52ed605591be4b3d8be6751518bd8204", "402881AC4D4188E9014D4188E99D0017", "安娜苏", "安娜苏 魔幻蔷薇保湿无瑕乳", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1407/28/c0/spcgroup/36778454_1406519451123_400x400_290x290.jpg", "￥230", "3种顏色有效隐藏不想被看见的疤痕或是暗沉斑点，柔焦粉末使肤色均匀，细滑无瑕，兼具超薄透与超高遮瑕力，创造出无瑕的完美妆容。完整呈现自然肤色，好推不结块。", "修颜 ", "15ml", "彩妆系列", "2015-05-25 14:26:09")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4f8b40f028f1489c8fc882a06e4b645b", "402881AC4D4188E9014D4188E99D0017", "伊夫圣罗兰", "伊夫圣罗兰 流光修颜粉", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/14/spcgroup/1260770359758_290x290.jpg", "￥405", "YSL圣罗兰流光修颜粉，一款全新概念的腮红产品，在包装设计上精制实用，令人使用愉快。修颜粉置于金色的盒子内，上面配有温和柔软的海绵粉饼，修颜粉通过粉扑，涂于皮肤上。打开盖子，有内置镜可供使用。盒子的底部是透明玻璃制成，可以直接看到内部彩妆的颜色。粉扑可以按个人需要配备及清洗。 创新的粉扑设计，让上妆过程变得犹如孩提时代的玩乐嬉戏。质感超细致的海绵粉扑，可释放出最适量的粉末，轻松完成腮红的上色。以轻压方式上妆，仿佛恋人最亲密的爱抚。精巧镶嵌的时尚圆镜，方便你随时补妆。 质地超细致柔滑的粉末，让你轻松创造出自然薄透的妆效。独创的光影反射粒子，为脸部线条增添都会摩登的立体质感，棕红反射粒子可让双颊更深邃有型，而金黄反射粒子则可打亮颧骨部位。细致的粉末能与肌肤紧密结合，让颊彩持久不脱妆，你将会发现皮质变得更粉嫩动人，同时闪耀着清新明亮的光彩。", "修颜 均匀肤色 ", "4.5g", "彩妆系列", "2015-05-25 14:26:38")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d96a5fd4715a4b7b831894a1013ab4c9", "402881AC4D4188E9014D4188E99D0017", "迪奥", "迪奥 底妆必备", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20101/28/spcgroup/1264683702514_290x290.jpg", "￥290", "全新上市的“底妆必备”，造就自然明亮肤色，一扫脸部疲惫痕迹。独特的笔刷设计，启迪自Dior迪奥高级时装秀后台彩妆大师的专业秘诀。百搭的柔米色适用于各种肤色基调，让你的面庞生机重现，飞扬出健康红润的好气色及天鹅绒般的精致质感。
+用法简单随意，来自彩妆大师后台的使用秘诀是：轻涂在“高光点”，随时随地，为自己平添一抹亮色，亦可用于日常护理之后、粉底产品之前，取一滴Dior迪奥修容底霜于手背之上，与粉底产品充分互融，随后均匀涂于全脸起到打底作用，绽放肌底光彩，更可用于眼部底霜，打造熠熠生辉的明眸。", "提亮肤色 修颜 ", "一套", "彩妆系列", "2015-05-25 14:26:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("12df5449127e43aeba34f335f7e13b16", "402881AC4D4188E9014D4188E99D0017", "玫珂菲", "玫珂菲 晶钻炫彩液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/6/spcgroup/proportion_290x290/12916332289656200.jpg", "￥420", "独特工艺配方，内含珍贵的超细珍珠贝母粉，能瞬间缔造性感、华丽的金属妆容，并突显个人魅力• 可营造出星光闪耀的效果，是所有女性在时尚派对中必不可少的一款必需品• 用途广泛，可单独使用或调和在任何一款液状粉底产品中搭配使用，瞬间展现出亮丽的肤色。可以在上完底妆之后，用在想突出妆容的部分（如脸部或肩颈部）", "提亮肤色 修颜 ", "30ml", "彩妆系列", "2015-05-25 14:27:13")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b7c81b8e79f34acc9515642c7dbab3de", "402881AC4D4188E9014D4188E99D0017", "美体小铺", "美体小铺 紫苏水份美白重点修护笔", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/22/spcgroup/proportion_290x290/12851585449904350.gif", "￥239", "经皮肤科专家测试能重点修护、美白肌肤，主要针对沉淀黑色素，有效减淡雀斑及色斑，使肌肤回复净白亮采。其独特走珠式设计，能涂抹最合适份量于局部位置。蕴含双倍维他命C天然成份，主要针对减淡肌肤黑色素，让肌肤更显净白亮丽", "", "10ml", "紫苏水分美白系列", "2015-05-25 14:27:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f1f22da7335749ba8911ab2f4dbc7cc6", "402881AC4D4188E9014D4188E99D0017", "卡姿兰", "卡姿兰 亮颜拍拍粉", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20102/4/spcgroup/1265294620612_290x290.jpg", "￥65", "采用法国全新纳米技术，配合珠光丝成分。粉质微闪细腻、薄贴通透，细致的粉末与肌肤紧密结合，使妆容闪亮迷人，持久定妆，令肌肤焕发亮泽光彩。
+质感细致的海绵粉扑，可释放出最适量的粉末，轻松完成上妆。 
+新颖的粉扑设计，只需拍一拍，轻松缔造完美妆容，随时展现迷人风采。", "提亮肤色 修颜 ", "3g", "彩妆系列", "2015-05-25 14:28:02")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e8a53c3e4fac4e21aed0b3d89afd729e", "402881AC4D4188E9014D4188E99D0017", "雅诗兰黛", "雅诗兰黛 嫣然修容饼", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u23/spcgroup/11939_s3_290x290.jpg", "￥350", "色彩醇厚自然透明的粉状腮红。通过全天然的配方带来全方位的色彩效果。配有超级腮红刷（Super-plush brush）令上妆过程变得简单异常.", "", "10.3g", "彩妆系列", "2015-05-25 14:28:13")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("36a7ae4ed0e349b0b9c25586c198c9b9", "402881AC4D4188E9014D4188E99D0017", "植村秀", "植村秀 肤色调节液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/24/c0/spcgroup/14629291_1351069316224_400x400_290x290.jpg", "￥280", "感觉清新宜人，肌肤滋润舒适
+
+功能：令肤色均匀，自然剔透，根据个人肤质调配。
+
+质地：滋润乳霜质地", "滋润 均匀肤色 ", "暂无", "彩妆系列", "2015-05-25 14:28:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d15abc6b2f9d46b7bfdbb5bd4fbe5b7b", "402881AC4D4188E9014D4188E99D0017", "巴黎欧莱雅", "巴黎欧莱雅 奇焕光感多效提亮修饰乳", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/95169/spcgroup/95169-1_290x290.jpg", "￥140", "巴黎欧莱雅第一支神奇“变色”BB霜，专为亚洲肌肤研制，完美诠释精致裸妆，开启“BB”焕颜新纪元。 
+
+运用“奇幻柔珠”科技，乳白色滋润质地，轻触间释放“鲜活”调肤因子，自动匹配肤色，自然隐匿肌肤瑕疵，令色斑、暗沉无处躲藏，有效均匀肤色，平滑肤质，立现匀、净、透、亮清感妆容。 
+
+只需一抹，轻松应对十大肌肤难题。质感清透，持续保湿，隔离UVA/UVB、灰尘、辐射等外在刺激，全面呵护娇嫩美肌，时刻展现完美妆容。同时淡化细纹，收紧毛孔，平衡抗有光，明显改善肤质，调理肌肤健康，由内而外焕发莹亮光感。 
+
+粉色设计，时尚高雅，为追求高性价比的您带来独一无二的奢华体验！", "遮瑕 提亮肤色 修颜 ", "暂无", "奇焕光感系列", "2015-05-25 14:28:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4604f0af6064437198593600fc766b47", "402881AC4D4188E9014D4188E99D0017", "香奈儿", "香奈儿 金缕谜情彩粉", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u18/spcgroup/20194_s3_290x290.jpg", "￥445", "散发着金缕般光泽的固体金粉，用在脸庞弧形处，闪现阳光般的健康肤色与雕刻般的完美轮廓。", "", "暂无", "彩妆系列", "2015-05-25 14:28:29")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c11d0a25dde64c0898c2602b75f76052", "402881AC4D4188E9014D4188E99D0017", "迪奥", "迪奥 彩妆盒", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/3041/spcgroup/3041-1_290x290.jpg", "￥520", "感光底妆混合四种色彩轻扫颧骨、额头和眉骨，肌肤散发健康光泽，惊现本季最流行的感光底妆效果，让你成为无可争议的焦点；修饰轮廓用化妆刷边缘提亮鼻子和下巴，可重塑面部轮廓，或修饰双颊，让脸部更有立体感和层次感；点缀眼部本款亮粉还可以塑造迷人双眼，用刷子边缘勾勒眼睑，顿生迷离之感；或以扁平一面在眼窝处扫上较深的色彩，让双眸呈现最微妙的眼影效果。", "修颜 ", "1.1g*2", "彩妆系列", "2015-05-25 14:28:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e0d15e3767f8444fa74cf5885f13c022", "402881AC4D4188E9014D4188E99D0017", "佳丽宝", "佳丽宝 盈透纷泽颊彩", "http://i4.3conline.com/images/pclady/brand/brand_logo/20097/27/1248682118773.gif", "￥210", "再次提升高纯度透明肌肤级别的新款彩粉。
+仿佛从深处闪耀的美丽发光色彩，呈现散发光辉的立体妆容。1 轻轻一拍，即刻在肌肤上呈现富有光彩的颜色和立体感，粉扑和粉粒连体化。
+2 无需高难的化妆技巧，即可轻松自在地调节颜色的浓淡深浅。
+3 几乎感觉不到粉粒存在般，质感纤巧而细腻，为肌肤装饰华美色彩。", "", "3.8g", "彩妆系列", "2015-05-25 14:28:47")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("51ff59b36bcd49b9816c572540f65b1a", "402881AC4D4188E9014D4188E99D0017", "卡姿兰", "卡姿兰 超炫星钻亮彩粉", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20102/2/spcgroup/1265123618582_290x290.jpg", "￥49", "含高密度珠光亮彩微粒，无比的璀璨闪耀 
+色泽鲜活，璀璨闪耀，立体缤纷，超强服帖持久不脱色，并有多款不同色彩配全时尚多变的你 
+可按需要涂抹在任何部位，创造晶莹炫丽的彩妆效果", "提亮肤色 定妆 修颜 ", "2g", "彩妆系列", "2015-05-25 14:28:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("49c33f04549349efbfff083037fcff85", "402881AC4D4188E9014D4188E99D0017", "雅诗兰黛", "雅诗兰黛 彩妆靡恋巧克力旋彩盘", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200910/19/spcgroup/1255959143767_290x290.gif", "￥280", "这款极其清透而且完全服贴的亮粉是以令人迷惑的牛奶巧克力混合白巧克力后再佐入少许金色颜料调配而成，三色螺旋造型粉饼不仅可以单独使用当作修容粉饼以及打造更立体的脸型外，更可以做多层次的混搭，营造出自然红润的光采肌肤，只要在脸庞、肩颈，与裸露的肌肤刷上一层淡淡的柔滑细致亮粉，肌肤将倍显健康与灿烂耀眼。", "定妆 修颜 ", "暂无", "彩妆系列", "2015-05-25 14:28:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4da3c49193934582a7494eb6d3767e45", "402881AC4D4188E9014D4188E99D0017", "雅诗兰黛", "雅诗兰黛 柔美粉漾修容饼", "http://i5.3conline.com/images/pclady/cosme/product/z2/200905111941201169_s3.jpg", "￥390", "颊色动人,以清新颜色柔美双颊，更能衬托高颧骨。粉质颗粒细小轻盈，为你塑造真实自然的色彩。现在是时候浅吻颊色柔美。 齿轮设计，使刷子更容易沾上粉末。", "", "暂无", "彩妆系列", "2015-05-25 14:29:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ad9b1b1699c14f789a17aa4ca1e76860", "402881AC4D4188E9014D4188E99D0017", "心机彩妆", "心机彩妆 心机美人幻颜四色修容盒", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u15/spcgroup/12793_s3_290x290.jpg", "￥740", "胭脂和光影粉，随心所欲，肌肤由内至外透亮红润，演绎光彩和阴影效果。
+立体感自然生动，缔造美丽动人的脸庞。
+四色塑颜粉，用于胭脂；塑造鼻影；额头，鼻梁，下巴的高光粉；颧骨以下的暗影位，统统为你条配好，使你的轮廓更清晰，五官更标致！
+1. 持有可配合目的的质感的4色4质感的粉末、不但给与肌肤生动活泼的立体感并可创造出美好脸庞的face-powder。 
+2. 引发出肌肤内部的光、洁净的自然且清晰的表现感。 
+3. 柔软纤细的粉末像被吸进肌肤般的滑溜的密着、有和肌肤一体感的表现感。 
+4. 即使时间经过也不会皱褶和暗沉、持续刚擦上时的美好。 
+5. 防止肌肤的干燥和暗沉、导引至美好素肌的调理效果。 
+色调：和肌肤调和并表现出自然立体感的色调。
+本品有四色供选择，可根据使用的眼影或唇膏色来搭配。", "", "暂无", "重点彩妆", "2015-05-25 14:29:07")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("978267a99cb24d2d980ce7a3081f8a2f", "402881AC4D4188E9014D4188E99D0017", "佳丽宝", "佳丽宝 诱彩修容粉", "http://i2.3conline.com/images/pclady/brand/brand_logo/20097/27/1248680848578.gif", "￥140", "用自然的光泽和明亮清晰的颜色
+塑造立体妆容的“光泽立体腮红”。1 近乎通透的光感和润泽赋予肌肤自然的光泽感，呈现富有立体感的妆容。
+2 亲肤性佳的微细粉粒温和贴服且颜色自然，为肌肤增添自然红润。
+3 轻柔而紧密地附于肌肤之上，重复涂擦也不会有掉渣感，呈现与肌肤一体的无瑕妆容。○无香料
+◆加配透明珠光
+金炫光灿 诱彩修容粉 4色 各140RMB 3.5g　
+金炫光灿 诱彩修容刷 35RMB　
+金炫光灿 诱彩修容盒 70RMBRS-17  青色系色调营造出华贵成熟女性的稳重气质，芬芳玫瑰色。
+PK-22  轻俏柔软的颜色明净可喜，纯粉红色。
+OR-22  让肌肤显出自然红润、营造鲜活健康印象的珊瑚甜橙色。
+BE-15  金色珠光令肌肤展现自然的立体感，塑造优雅简约印象的时尚米色。", "", "3.5g", "彩妆系列", "2015-05-25 14:29:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a88a04562c6745229f77857b00c42a26", "402881AC4D4188E9014D4188E99D0017", "嫒色", "嫒色 菁华美颜修颜乳", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20101/14/spcgroup/1263453690242_290x290.jpg", "￥250", "brown：赋予肌肤自然的阴影缔造出紧凑的妆容涂于面部轮廓线。white：赋予肌肤明朗的光芒，缔造出具有明亮度和立体感的妆容。涂于T区、下颌和眼部下方等部位。pink：赋予肌肤血色感，白里透红的健康妆容。涂于颧骨的高处部分。green：抑制泛红，缔造出具有透明感的妆容，涂于面颊和粉刺痕迹等有泛红烦恼的地方。", "遮瑕 提亮肤色 修颜 ", "15g", "菁华美颜系列", "2015-05-25 14:29:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d746a6fee94a4e2f985c9ed908ae8034", "402881AC4D4188E9014D4188E99D0017", "佳丽宝", "佳丽宝 金炫光灿诱彩修容粉", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20102/7/spcgroup/1265473726362_290x290.jpg", "￥140", "以自然的光泽和明亮、清透的显色营造立体感妆容的“光泽立体高光”商品特点：几近通透的光感和润泽赋予肌肤自然的光泽感，呈现富有立体感的妆容。加配透明珠光，亲肤性佳的微细粉粒温和贴服且显色自然，为肌肤增添自然的明亮光彩。轻柔而紧密地附于肌肤之上，重复涂抹也不会有粉感，呈现于肌肤一体的无瑕妆容。EX-05
+　　淡淡的粉红基调中柔和闪耀着优雅光泽的棉花糖粉红。", "", "暂无", "彩妆系列", "2015-05-25 14:29:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d5c142ad80014ba09421747cace843b6", "402881AC4D4188E9014D4188E99D0017", "乔治·阿玛尼", "乔治·阿玛尼 底妆升华液（修颜液）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1209/05/c0/spcgroup/13627008_1346817392251_400x400_290x290.jpg", "￥550", "与众不同的特殊产品，帮助你立刻告别平淡无味的面部印象，获得玲珑剔透的立体面部轮廓。10款丰富色调，调和特别细致而卓越的感光微粒。可与柔亮自然粉底液以1:3比例用阿玛尼紫貂毛粉底刷调和使用，通过色彩与质地的无限组合，精致贴合各种肤色，塑造明亮水润的通透妆效，也可选取浅色款用于T区提亮肤色，深色款于两颊，鼻翼等需要修饰处，重新打造面部轮廓。其中，07号因为具有绝佳气色提升效果而倍受欢迎，10号是打造阴影轮廓的必备款。专业上妆技巧配合绝佳轻薄质地，让每一个渴望如明星般光彩照人的女人从这一刻开始梦想成真。", "", "30ml", "底妆", "2015-05-25 14:29:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("dbb05c7f215f430ea5fd167c213294dd", "402881AC4D4188E9014D4188E99D0017", "雅蔻", "雅蔻 闪亮喷雾", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20102/8/spcgroup/1265620356862_290x290.jpg", "￥150", "", "提亮肤色 修颜 ", "75ml", "彩妆系列", "2015-05-25 14:29:39")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0c3fb8b711c749b28b3ec151df6140f6", "402881AC4D4188E9014D4188E99D0017", "奥比虹", "奥比虹 柔滑修颜液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20102/10/spcgroup/1265769578188_290x290.jpg", "￥336", "专为粗糙、干燥、肤色暗淡无光而设计的化妆粉底液，有效调整肤色、肤质回复肌肤的亮泽活力，修补凹凸洞使皮肤易于上妆，使妆效保持自然通透。
+ 【使用方法】
+在防晒霜之后使用，一泵用量，均匀涂抹脸部。", "", "50g", "清新保湿系列", "2015-05-25 14:30:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2488bb2033354fe08f7ab49e1d5c8c83", "402881AC4D4188E9014D4188E99D0017", "玫珂菲", "玫珂菲 钻石闪粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20123/27/spcgroup/proportion_290x290/13328399983900250.jpg", "￥280", "•仿钻石切割技术细微颗粒，涂抹感觉细腻均匀
+•可均匀的涂抹在唇部，眼部，身体等任何想突出的部位，瞬间展现最独特的化妆效果
+•适合任何妆容、任何场合使用，为您带来独一无二的星光气质
+•共有10个颜色可供选择，可与现有产品搭配使用，满足不同需求", "修颜 ", "2g", "圣诞彩妆系列", "2015-05-25 14:30:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("57ee9704d72d4187aabbf2e7238f44ff", "402881AC4D4188E9014D4188E99D0017", "奥蜜思", "奥蜜思 毛孔拜拜修饰霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/24/c0/spcgroup/proportion_290x290/3230825_1424786529470_400x400.jpg", "￥92", "适度的润色效果，能瞬间融入肌肤，隐藏粗大毛孔与黑头，内含光散乱粉体，柔焦效果能修饰肌肤，让毛孔隐形，让粉底更加服贴，能有效遮盖毛孔黑头、面部瑕疵，抑制油光，保持清爽肌肤。光散乱粉体=棱镜有色粉 
+含皮脂吸收成分：皮脂遮断粉底 
+含植物性紧致成分：北美金缕梅水", "防水 滋润 修颜 ", "12g", "彩妆系列", "2015-05-25 14:30:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fc8cdac19b344242b05a499654b00988", "402881AC4D4188E9014D4188E99D0017", "泉润", "泉润 臻白美肌无瑕粉底液（象牙白）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/18/spcgroup/proportion_290x290/12847966382785310.jpg", "暂无报价", "主要成分：Ｓ５矿泉舒活因子　、去离子水、红石榴多酚、芦荟萃取精华、 超细珍珠粉末等美丽功效：蕴含精纯植物靓肤菁华和多种营养成分，能自然修饰肌肤色黄、色浅、肤色不匀等现象，并能有效保湿，呈现肌肤靓丽光彩，明艳动人的魅力。", "", "暂无", "香薰臻白美肌系列", "2015-05-25 14:30:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("42d15a0598754c51b8da394a86071efd", "402881AC4D4188E9014D4188E99D0017", "泉润", "泉润 臻白美肌无瑕粉底液（自然美）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/18/spcgroup/proportion_290x290/12847967210897680.jpg", "暂无报价", "主要成分：Ｓ５矿泉舒活因子　、去离子水、红石榴多酚、芦荟萃取精华、 超细珍珠粉末等
+适用肌肤：晦暗、肤色深等肌肤
+美丽功效：蕴含精纯植物靓肤菁华和多种营养成分，能有效修饰晦暗、色黑等肌肤，并能长效保湿，保持妆色自然持久，呈现肌肤靓丽光彩，明艳动人的魅力。
+美丽方法：润肤后取适量轻拍于面部。", "", "暂无", "香薰臻白美肌系列", "2015-05-25 14:30:29")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("defb7e97dda24994b89540afde14f058", "402881AC4D4188E9014D4188E99D0017", "伊蒂之屋", "伊蒂之屋 魔幻高光粉", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/27/c0/spcgroup/proportion_290x290/3315496_1425036360607_400x400.jpg", "￥56", "经烘焙的粉末质地轻薄，含有闪亮的色彩，并灌入珍珠成分，让脸部看起来更时尚活泼。含有五种色彩(紫，粉红，浅褐色，薄荷，白). 色彩多样的腮红，让脸色红润得更自然；高光粉色彩活泼质地轻薄，倍感时尚。", "提亮肤色 ", "8g", "彩妆系列", "2015-05-25 14:30:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d023d97322264b17a54617d0213384ad", "402881AC4D4188E9014D4188E99D0017", "Pop", "Pop Beauty", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/19/spcgroup/proportion_290x290/12901292577383690.jpg", "￥238", "本产品暂无中文介绍。Evenoutyourskintonewithmagicpowder-concealcorrectorall-in-onecake.Fiveconcealingandcorrectivemineralpowdersinanall-in-onecake.E", "", "暂无", "其他系列", "2015-05-25 14:30:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7402c7c4915b4dfa9669bb409654d832", "402881AC4D4188E9014D4188E99D0017", "羽西", "羽西 三色多用阴影粉", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/14/c0/spcgroup/12908085_1344930371677_400x400_290x290.jpg", "￥200", "专为中国女性的多种化妆需要而设计，轻松打造立体轮廓；三种经典颜色搭配三把精巧的刷子，满足妆容的不同需求。
+使用方法
+高光：用作提亮，用在眉骨下方、眼头和鼻梁处；
+轮廓：打造立体轮廓，用在眉头下方，眼窝和太阳穴；
+阴影：修饰脸型，可与轮廓色混合使用，还可作眼线和眉粉", "修颜 ", "5.5g", "彩妆系列", "2015-05-25 14:30:38")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("27586d49c196439f81b4c48143ce7ed0", "402881AC4D4188E9014D4188E99D0017", "肌肤之钥", "肌肤之钥 亮彩柔肤粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20126/29/spcgroup/proportion_290x290/13409671769529020.jpg", "￥700", "精美奢华的修容粉,注入全新灵动光感科技,完美修饰轮廓,闪耀肌肤光彩使用手法TIPS：
+1.用专配粉刷沾取适量粉末并充分融合；
+2.呈微笑表情，从脸颊上方处沿颧骨刷涂；
+3.用刷头前端再次沾取粉末，从颧骨上方朝太阳穴的位置叠刷，凸显闪耀效果。", "遮瑕 提亮肤色 ", "10g", "彩妆系列", "2015-05-25 14:30:47")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c8a6dc8d00a94474b86605a3e3ffcdfc", "402881AC4D4188E9014D4188E99D0017", "心机彩妆", "心机彩妆 亮白精华修颜乳SPF30PA+", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20127/6/spcgroup/proportion_290x290/13415483337513020.jpg", "￥280", "毛孔、暗沉如同隐形般看不见。轻轻一抹，呈现柔滑细致、通透肤质的精华液妆前隔离乳，特别添加亮白精华*，能提升粉底贴合度与持妆度，亲融肌肤浑然天成。此外，出色防晒功效帮助阻挡紫外线，防御外来伤害。实现盈白娇柔的亮丽肌肤。 
+* 亮白精华：草莓虎耳草提取物、香姜、透明质酸钠、甘油", "", "30ml", "基础彩妆", "2015-05-25 14:31:13")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8212d32f16d147b981b3cd331d687951", "402881AC4D4188E9014D4188E99D0017", "露华浓", "露华浓 保湿修颜霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1211/15/c0/spcgroup/15782371_1352962052146_400x400_290x290.jpg", "￥168", "多效合一，立现“钻石般”剔透美肌！
+集保湿霜、妆前乳、隔离、粉底以及防晒霜多重功效于一体
+蕴含活性保湿因子LIPIDURE，2倍于透明质酸保湿能力，有效滋润肌肤
+采用双倍柔焦技术，淡化肌肤细纹、毛孔，遮掩肌肤瑕疵，缔造女性自然健康无瑕妆容
+涂抹后，质地轻薄舒适，不堵塞毛孔，立现“钻石般”剔透的健康光泽
+均匀贴合肌肤，带来自然健康肤色，完美妆容持久不变
+无滑石粉、不油腻、无香味配方
+高等级紫外线保护
+
+使用方法：
+在每日正常护肤步骤后使用
+取适量沿着皮肤纹路均匀、延展涂抹
+可单独使用，也可在粉底或粉饼前作为底霜使用", "修颜 ", "30ml", "彩妆系列", "2015-05-25 14:31:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("326162f5400b45f3a82c7897b4a15435", "402881AC4D4188E9014D4188E99D0017", "纪梵希", "纪梵希 柔光修颜笔", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20125/24/spcgroup/proportion_290x290/13378508804986740.jpg", "￥300", "这款基础修颜笔拥有全新闪亮的月光白色，让脸部散发珍珠般的迷人光彩。
+月光白色 73＃", "", "暂无", "粉妆系列", "2015-05-25 14:31:39")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a74bff1195034eeabfbcaf0f7237a539", "402881AC4D4188E9014D4188E99D0017", "色彩地带", "色彩地带 高光粉", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/5/spcgroup/1260013405607_290x290.jpg", "￥48.0", "含微细感光微粒的智能粉体随光线角度变换提亮局部光泽，使轮廓立体清晰，米白色微细感光粒子轻易塑造自然高光，改善视觉效果。", "", "1.5g", "彩妆系列", "2015-05-25 14:31:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("19e6c0f5592241e8898335b04d1ffdd5", "402881AC4D4188E9014D4188E99D0017", "芭比波朗", "芭比波朗 眼部光亮焕颜霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20123/6/spcgroup/proportion_290x290/13310291313290450.jpg", "￥360", "即使你是BOBBI的忠实粉丝，这样的体验你也一定没有尝试过：即使是裸妆也不能忽略对眼妆的突出，没有瑕疵的光亮眼妆是完美裸妆的一大亮点；以肤色作为基调色的唇蜜中，闪烁的粒子在一瞬间就点亮裸色的双唇。", "", "7ml", "底妆系列", "2015-05-25 14:31:49")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7ecaab2ecc34464ea854b24bd67b7ef3", "402881AC4D4188E9014D4188E99D0017", "法国娇兰", "法国娇兰 金钻修颜明彩笔", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20125/15/spcgroup/proportion_290x290/13370732513101860.jpg", "￥390", "消除岁月印记的艺术家，施展金色光芒的魔法师 这款便于携带的粉刷，是新生代的魔杖，它唤醒肌肤的青春与光彩，同时消除所有的疲劳痕迹和时光的侵袭。和两款金钻修颜底妆产品一样，金钻修颜明彩笔的配方中蕴含奢华的24K金钻粉末和肌肤再生珍奇没药树胜肽复合物，日复一日帮助肌肤重现青春光彩。 只需轻轻开启并以扁平的刷头轻柔地扫过，鼻子四周的暗淡部位、嘴唇周围的细纹和表情纹都能显著消除。黑眼圈减淡，双眼恢复迷人活力。这款明彩笔似乎能施展魔法，它重塑脸部线条，令鼻子、下巴和颧骨更具立体感。 两款魔力色调 米色和淡金色能细致搭配各种肤色和金钻修颜粉底液的六款色调。 三种方法塑造青春光泽 将金钻修颜明彩笔用于鼻侧以及下巴的凹陷处。 淡化皱纹：用于眉间的表情纹、鱼尾纹和嘴唇四周的细纹。 消除疲劳痕迹：用于颧骨上方的黑眼圈或眼袋。脸庞沐浴在金色的光晕下，焕发青春光泽", "", "1.5ml", "彩妆系列", "2015-05-25 14:31:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7e627410d68545489498349fb2da475f", "402881AC4D4188E9014D4188E99D0017", "红地球", "红地球 珍珠光感彩液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/12/spcgroup/1260549425834_290x290.jpg", "￥235", "珍珠光感彩液是一个创新的产品，它质地非常透明，具有光泽感，还含有特别细小的珍珠光感微粒，使用后您将会拥有完美、自然且具有光泽的肌肤。 高含水量和高容脂度使珍珠光感彩液很容易于其他物质融合。氢氧化物能保证肌肤一整天都保湿、滋润。在化妆完成后使用珍珠光感彩液，能起到提亮效果，使脸部更具立体感 用手指指腹或海绵涂抹即可。单独使用珍珠光感彩液，能帮您塑造一种健康、自然的效果。在粉底液之后使用可使你的肌肤呈现透明的光泽感。用在眉骨与颧骨处，可使脸部轮廓更加明显，增加立体感。珍珠光感彩液还可和粉底混合使用，达到您所渴望的晶莹剔透的效果。", "提亮肤色 修颜 ", "30ml", "彩妆系列", "2015-05-25 14:32:07")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("985e29af0016457d89b38f6339c0a272", "402881AC4D4188E9014D4188E99D0017", "蓝秀", "蓝秀 流光炫彩亮粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/11/spcgroup/proportion_290x290/12920636836990550.jpg", "暂无报价", "细致轻盈的晶钻粉质，提升璀璨闪耀度，增强通透感及突显轮廓，展现迷人闪亮妆容。", "", "暂无", "其他系列", "2015-05-25 14:32:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b85917be6baf4992a93e14f3d788bf5a", "402881AC4D4188E9014D4188E99D0017", "奥蜜思", "奥蜜思 幻彩光影粉（修容粉）", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/24/c0/spcgroup/proportion_290x290/3230114_1424774053866_400x400.jpg", "￥125", "无香料 不使用易氧化的油份 含提高附着性成份：色彩服帖因子 含提高质感成份：水晶纱面貌粉 含保湿成份：角鲨烷、透明质酸钠 使用特殊处理珍珠", "补水 提亮肤色 修颜 均匀肤色 ", "5g", "彩妆系列", "2015-05-25 14:32:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("03a3889b604d48f19b2b600b21247fb9", "402881AC4D4188E9014D4188E99D0017", "雅呵雅润希", "雅呵雅润希 韵容焕肤隔离修颜霜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1209/21/c0/spcgroup/13995905_1348199228765_400x400_290x290.jpg", "￥160", "轻松实现「润泽保湿」「有效防护」「调整肤色」梦想的具有优异性能的修颜霜。
+【滋养护肤效果】清爽舒适的水润触感，令肌肤透明滋润有弹性。
+配合成分:药蜀葵提取物（植物由来）、桃核仁提取物（植物由来）、甘草酸铵
+配合舒适滋润成分：乙基葡糖苷（植物关联成分）
+配合肌肤弹性成分：楔基海带提取物（海藻由来）、乙酰壳糖胺
+配合肌肤保湿成分:可溶性胶原 
+【防晒隔离效果】切实预防导致暗沉、色斑、皱纹等光老化现象的紫外线(UVA、UVB)，保护肌肤不受外界环境的侵害。
+配合防紫外线成分:SPF29 PA++
+【遮瑕亮白效果】轻薄透气质地，肌肤轻松无负担，修饰暗沉及肤色不均，遮盖毛孔，展现自然亮白肤质。
+配合修饰毛孔成分:平滑细肤粉末(聚甲基硅倍半氧烷)
+不需卸妆
+使用一般洗颜产品即可轻松洗净，繁忙时迅速再现洁净肌肤。", "修颜 ", "50g", "韵容焕肤系列", "2015-05-25 14:32:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ac7cb9c074f8483ab6f989d5bff24f65", "402881AC4D4188E9014D4188E99D0017", "色彩地带", "色彩地带 纤颜魔粉", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/5/spcgroup/1260016359532_290x290.jpg", "￥66", "深浅两色组合，深色当暗影，浅色作高光，立体明暗晕染，重塑脸部立体轮廓；独特微细感光粒子，轻易改善视觉效果，令你呈现完美小脸妆效。", "", "3.2g", "彩妆系列", "2015-05-25 14:32:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7329d9944f6d45c5bccd8f9d9a820750", "402881AC4D4188E9014D4188E99D0017", "希思黎", "希思黎 清透保湿润色乳", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1209/27/c0/spcgroup/14167947_1348728372827_400x400_290x290.jpg", "￥730", "健康光泽自然展现 
+完美自然光泽，保持一整天。清透保湿润色乳融合护肤霜的卓越功效与自然彩妆的晶莹光泽。持久保湿：源自植物甘油与锦葵精华。
+    极致舒适：肌肤得到葵花油、植物角鲨烯与梅子油的滋养，柔嫩光滑。
+    控油效果：控油微粉吸收多余皮脂，避免出现油光，令妆容清爽细腻。质地柔和轻盈，帮助抚平肌肤细纹，掩盖肌肤瑕疵。
+
+
+	
+2款颜色可供选择，适合所有肌肤类型。 
+
+美容秘诀 
+将清透保湿润色乳涂抹在充分清洁后的脸部和颈部，轻柔晕开。为了营造最佳舒适感受，请在日霜后使用。", "控油 遮瑕 ", "40ml", "面部系列", "2015-05-25 14:32:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3218c7fd0e894c3595fa5a0379a85bc1", "402881AC4D4188E9014D4188E99D0017", "娥佩兰", "娥佩兰 容彩", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/8/spcgroup/1260248441804_290x290.jpg", "￥25", "100%珍珠散粉的多用途容彩。
+    纤细的色彩及闪光使妆容更具魅力。
+    能自由自在地与其他彩妆产品搭配使用。
+    单独使用，或与调理影彩搭配使用，
+    •••使眼部妆容更具立体感，使肌肤增加透明感。
+    与口红，唇彩，唇膏搭配使用，
+    •••使唇部饱满，富有立体感
+    与透气蜜粉混合用于真个面部或高光部位，
+    •••使肌肤富有光泽感，透明感及立体感
+    用于手臂，腿部，胸前
+    •••利用身体彩妆，高光效果是您的手臂和腿部显得纤细苗条", "提亮肤色 修颜 ", "2g", "彩妆系列", "2015-05-25 14:32:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("71de2d44ff1e4ca38c05a90ab2b8ada9", "402881AC4D4188E9014D4188E99D0017", "舒琪", "舒琪 神奇超V修容小脸妆组", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20098/3/spcgroup/1249301200155_290x290.jpg", "￥130", "『SUKI渐层式光灿修容饼』一盒四色让您大胆玩色画出个人风格彩妆~ 添加细微珠光因子，柔软纤细的粉末像被吸进肌肤般的滑溜&hellip 彷佛从肌肤内部透出的透明感与红润感般自然～！！漂亮渐层的珠光色泽塑造出完美的光彩效果，透过四个颜色交叠运用&hellip轻易创造红润、明亮、白皙、打亮等效果，轻刷在微笑肌上就变得迷人又可爱‥呈现超自然生动的立体感，打造美丽的五官印象，就靠SUKI渐层式光灿修容饼使用方法：立体双色修容饼：用内附粉刷，利用浅色区刷再在脸上较突出的T字部位，用来强化五官的集中三维效果，让脸蛋看上去会更立体；再利用深色区从耳际开始打在脸的四周外围制造阴影，使脸看起来有视觉上变小、变瘦的效果。以粉刷轻扫4种粉嫩色彩，轻刷在额头、双颊、鼻子和下，让肤色亮泽有透明感。刷腮红时，沿着双颊笑肌上方往两侧发际处斜刷上。可单色或混色使用。成份：云母粉、滑石粉、硬脂酸镁、羊毛油、ZEHP、白腊油、A115 
+ 
+产品类型：其他魅力彩妆类", "修颜 均匀肤色 ", "1组", "彩妆系列", "2015-05-25 14:32:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("20978c38a20f4c20bb3056ffdbb0d74f", "402881AC4D4188E9014D4188E99D0017", "欧菲姿", "欧菲姿 魅颜修容饼（双色）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/11/spcgroup/proportion_290x290/12894889910337000.jpg", "￥89", "采用天然特柔超细粉粒，完美的色彩修饰
+ 
+效果。
+    
+•
+卖点：弥补和塑造面部立体效果，完美修饰脸
+ 
+型，让轮廓更立体。独特的定妆因子，控制多余
+ 
+油脂和汗水，让妆容持久。", "", "16g", "其他系列", "2015-05-25 14:32:45")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1461589326304e97adc2d651deaaec6c", "402881AC4D4188E9014D4188E99D0017", "伊丽莎白雅顿", "伊丽莎白雅顿 花漾亮采修容盘", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/06/c0/spcgroup/28381584_1383730722446_400x400_290x290.jpg", "￥950", "轻盈矿物粉体，丝般光滑，并添加抗氧化成分维他命E、坚果油及必需脂肪酸油酸及亚麻仁油酸，上妆同时可滋养肌肤。以内附的半圆刷均匀混合粉色、金色、古铜色，可全脸或局部使用，打造自然光采好气色。
+伊丽莎白雅顿2013限量秋妆「花漾亮采系列」，以纽约初秋美丽的自然风景为灵感，推出「花漾亮采眼影盘」及「花漾亮采修容盘」，结合暖金色、大地色、蓝 绿色等生气勃勃的色彩，同时缀以花朵图案浮雕，如同捕捉初秋纽约万物活力光采的万花筒，为女性打造自然美丽的时尚妆容。「花漾亮采眼影盘」包含绽紫、漾绿两款色彩组合，可自由搭配珠光、金属光及雾面效果，再以「花漾亮采修容盘」修饰局部打亮T字、C字带，为初秋妆容点缀上如暖阳般的细致光采，营造出专属于秋季的写意氛围。", "修颜 均匀肤色 ", "10g", "花漾亮采系列", "2015-05-25 14:32:52")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("067fb8e9e9b64b09870259f708cdb77b", "402881AC4D4188E9014D4188E99D0017", "毛戈平", "毛戈平 光影塑颜高光伴侣", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1309/17/c0/spcgroup/25796595_1379406733635_400x400_290x290.jpg", "￥320", "高光的完美伴侣，令高光更润泽，涂抹更加流畅舒适。
+上妆同时由内而外令肌肤润泽保湿，拒绝妆后干燥现象。
+净化提亮肤色并帮助肌肤抵御环境伤害，令肌肤更加透白光润，细腻柔软。
+三种天然草本精萃，高科技小分子配方，迅速吸收，一次性解决干性肌肤上妆的三大困扰。
+ 天然植物保湿精萃，令底妆润泽服贴
+ 虎耳草及葡萄果精粹，帮助肌肤抵御环境伤害，净化提亮肤色并改善肤色暗黄黯沉，令肌肤更加透白光润，细腻柔软。
+ 马齿苋精萃抵御氧化。
+使用方法：
+ 滴于高光粉膏中：滴约1/3滴管的量，以刷子调匀，再用刷子上妆。
+ 滴在湿海绵上按压：在用刷子上完底妆后/高光后，滴约1/3滴管的量高光伴侣于湿润海绵光滑面，轻弹。", "提亮肤色 修颜 均匀肤色 ", "15ml", "彩妆系列", "2015-05-25 14:33:02")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4c2b21ae55aa48759c83292b647185c2", "402881AC4D4188E9014D4188E99D0017", "芮谜", "芮谜 花漾幻彩修容粉", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/7/spcgroup/1260165198854_290x290.jpg", "暂无报价", "赋予肌肤自然明亮与透明感；遮盖暗沉,给予肌肤透明感；无香料添加", "", "5.5g", "彩妆系列", "2015-05-25 14:33:07")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f2413e7de47a407d8c764189e8d0ba59", "402881AC4D4188E9014D4188E99D0017", "韩后", "韩后 茶蕊嫩白修颜霜（靓白色）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/21/c0/spcgroup/24712078_1377070501566_400x400_290x290.jpg", "￥158", "功效 ：丝质般的柔滑质地，融化般延展于肌肤之上，清透无感，有效遮盖细纹、色斑，修饰晦暗肌肤。添加橄榄果、白茶等植物的提取精华，具有良好的肌肤保养功效，演绎如BB般光滑细腻的肌肤。
+使用方法：肌肤基础保养后，取适量本品点涂于脸颊、额头、鼻子、下颚等并轻拍涂匀全脸，均匀贴合肌肤。
+保存方式：请放置阴凉处，尽量避免光、热、潮；建议开瓶后六个月内使用完毕。
+注意事项：避免幼儿误食，请置于幼儿无法取拿之处；使用后如有不适，请暂停使用并咨询。", "保湿 祛斑 滋润 遮瑕 提亮肤色 ", "40g", "茶蕊嫩白系列", "2015-05-25 14:33:15")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8676afab75e042438d30802387a7bd89", "402881AC4D4188E9014D4188E99D0017", "红地球", "红地球 丝滑魅惑修容粉", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/11/spcgroup/1260513667828_290x290.jpg", "￥285", "乳粉状的质感使肌肤保持顺滑光泽。刷于T字部位、眉骨和眼袋位置，即可修饰肤色，还能增强面部的立体感。 独特黑色丝绒盒包装，奢华精致；保护盖上还印有产品使用指导，贴心又实用。", "", "暂无", "彩妆系列", "2015-05-25 14:33:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8633221c9d704b458caf4e1f52ee3684", "402881AC4D4188E9014D4188E99D0017", "VOV", "VOV 亮彩啫喱", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/26/spcgroup/1261796766172_290x290.jpg", "￥50", "闪亮闪亮的，清爽的身体妆饰品VOV shin flash pearl是可以同时局部化妆和身体化妆的产品，涂在肩膀，手臂，腿及其它露出部位，闪亮而华丽。清爽的凝胶型，附着在皮肤上，幻想闪光感令露出部位具有立体感。", "", "30ml", "其他系列", "2015-05-25 14:33:33")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7cb6fce34cff4619a33bdfa01cd387d3", "402881AC4D4188E9014D4188E99D0017", "艾杜纱", "艾杜纱 立体修容霜", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20101/19/spcgroup/1263830553916_290x290.jpg", "￥520", "霜状的打亮色,即使是乾荒粗糙的肌肤也能紧密贴合!能自在操控光泽的微妙闪耀效果.打亮轮廓最上手!", "", "暂无", "彩妆系列", "2015-05-25 14:33:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9957bee58afb47a5be08710a7d95c268", "402881AC4D4188E9014D4188E99D0017", "艾杜纱", "艾杜纱 立体修容彩", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20101/19/spcgroup/1263830650399_290x290.jpg", "￥580", "使用粉扑的粉状打亮色,纤细珠光粒子,与肌肤完美密合,呈现出自然的立体感与光泽.珍珠的光泽纤细诱人.", "", "暂无", "彩妆系列", "2015-05-25 14:33:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c9d191127cd44eb88023044a48fdf55e", "402881AC4D4188E9014D4188E99D0017", "纪梵希", "纪梵希 魅力蜜彩修容饼", "http://i3.3conline.com/images/pclady/cosme/product/u31/11905_s3.jpg", "￥218", "时髦的Passionate Red No.06(多情红)，能让你的双颊展现最流行的红润妆感。粉嫩红、咖啡红、橙黄红、亮彩红，不同色调的红色，让双颊自然红润，只要控制用量，就可以呈现柔和的红、个性红或时髦的红脸颊。", "", "6ml", "粉妆系列", "2015-05-25 14:33:47")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("58c41d5b7b554cdc87afa978c52ac0fc", "402881AC4D4188E9014D4188E99D0017", "黛珂", "黛珂 黛珂茵缇修容饼", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20103/10/spcgroup/1268233042088_290x290.jpg", "暂无报价", "Cosme Decorte黛珂茵缇修容饼简介：Cosme Decorte黛珂茵缇修容饼 
+建议售价各563元（粉心 各356元） 
+ 
+自然阴影、光泽、充满透明感、轻盈。
+缠绕着空气般膨软的轻盈触感，如融入肌肤般服贴。由肌肤内侧透出微微红晕般，纯净呈色的修容饼。满溢光泽感的晶澈盈透色泽，持续自然生动表情。
+※添加高透明感的智能型素材「炫彩粉粒」。 以少　量的油质均匀地涂于粉体外层，表面能呈现均匀薄　膜的完妆感", "", "5色", "茵缇彩妆系列", "2015-05-25 14:33:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("76b84fbb11ce4c90b940684f6636e84f", "402881AC4D4188E9014D4188E99D0017", "思亲肤", "思亲肤 眼部提亮粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20125/30/spcgroup/proportion_290x290/13383469701049930.jpg", "￥68", "独特的变色效果，涂抹后呈现出优雅的贝壳粉色，可以单独使用在整个眼窝部位，也可以在搭配其他眼影使用。让眼妆散发出迷人的优雅质感。", "", "2g", "彩妆系列", "2015-05-25 14:33:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("24480681431e4a5093b5fe4978d5deb6", "402881AC4D4188E9014D4188E99D0017", "巧迪尚惠", "巧迪尚惠 亮采修颜液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20102/14/spcgroup/1266118570021_290x290.jpg", "￥108", "主要功效：尚惠研发中心的高新科技--亮采科技，针对东方女性而设计，蕴含纯天然植物精华和亮采光学因子，滋润保湿，清新透气；可修饰肤色，显现透明质感，令肌肤轻盈透气，有效隔离污染环境对肌肤的侵害。使用方法：取适量修颜液，均匀涂抹于脸部及颈部。", "", "暂无", "护肤系列", "2015-05-25 14:34:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bbd263d9e64141b889d75f8e38fd0eff", "402881AC4D4188E9014D4188E99D0017", "Paul", "Paul &", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1412/28/c0/spcgroup/proportion_290x290/1222397_1419771138492_400x400.jpg", "￥250", "轻轻一点，即可为任何妆容增添轮廓深度及提升立体感！PAUL & JOE全新亮采轮廓修护笔，捕捉面部轮廓微妙的光影效果，塑造精致美丽的妆容，兼具保湿及护肤作用。 蕴含香槟金微粒、光泽诱人的secret d’or 闪金配方，配合色彩调控微粒及粉红高亮微粒，互相融和映照，形成薄薄一层光膜，发挥超强的轮廓修饰效果，折射出自然而亮丽的光芒。 基底配方顺滑易推匀，妆感像露水般轻盈水嫩清新，当中的主要成份，例如透明质酸及多种保湿因子，有效修护肌肤，改善肤质及提升弹滑感。独特的配方，不会结块或因氧化而变得暗沉，更有助防止过量汗水或油脂分泌而导致脱妆。只需轻轻一涂，即可化出完美底妆，令脸庞整日显得亮采细致！", "修颜 ", "2g", "彩妆系列", "2015-05-25 14:34:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("82a826ffcbd74e93b189a446ef33fc8d", "402881AC4D4188E9014D4188E99D0017", "希金诺", "希金诺 橙花净白活肤修颜乳", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20103/17/spcgroup/1268826439549_290x290.jpg", "￥170", "特有净白活肤配方，含橙花、薏米、桑树等天然萃取精华，质地清爽不油腻。特有净白活肤配方，含橙花、薏米、桑树等天然萃取精华，质地清爽不油腻，滋养调理同时改善肌肤暗哑、偏黄现象，帮助抑制黑色素形成，从而淡化色斑，针对性地调整肤色；紫色乳液状质地轻透柔滑，极易匀开，能均匀遮盖脸部瑕疵，提升肤色亮泽度，使肌肤显现自然白皙的柔滑质感。日间于润肤产品后、化妆前使用，取适量本品均匀涂抹于脸部和颈部。", "", "30ml", "女士护理系列", "2015-05-25 14:34:13")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("6f09db6878564b6c88158ca2f5a062c6", "402881AC4D4188E9014D4188E99D0017", "珍珂儿", "珍珂儿 知玟莹润无暇修容霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/7/spcgroup/proportion_290x290/12917140316379880.jpg", "￥128", "韩国知名的自然粉底遮瑕产品、2重效果化妆品（美白 改善皱纹）适合任何肤质使用，使皮肤看起来白亮，呈现出自然光泽有弹性的肌肤。本产品时结合改善细致、美白和保护肌肤功能，使用简单，细腻柔和的彩妆产品。", "", "50ml", "护肤系列", "2015-05-25 14:34:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2eddb536f5ca494cbd5edb82a6d4a290", "402881AC4D4188E9014D4188E99D0017", "魅可", "魅可 魔幻星辰高光粉雾", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/31/spcgroup/proportion_290x290/12937896266375620.gif", "暂无报价", "2011年1月推出柔情香槟系列色号：玫瑰金色、银绿色", "", "暂无", "Cham Pale香槟光影彩妆系列", "2015-05-25 14:34:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e4682937217e45af9254d336d0990288", "402881AC4D4188E9014D4188E99D0017", "漂亮制造", "漂亮制造 水蜜桃好气色魔法盒", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20104/20/spcgroup/proportion_290x290/1271761266333.jpg", "￥350", "水蜜桃超輕透粉體：採用水蜜桃超輕透粉體，不論是作為全臉定妝或腮紅，都能修正黯沈膚色，襯出好氣色。柔美保濕機制：含有大量珍貴蠶絲粉末，純蠶絲是由氨基酸所組成，與肌膚天然保濕因子近似，遇到體溫會瞬間化開，形成保濕機制，讓妝效更為服貼持久。", "", "6.5g", "心机系列", "2015-05-25 14:34:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("90633c5c558b4bceb642e08adcbb3fbf", "402881AC4D4188E9014D4188E99D0017", "蕾克蕾", "蕾克蕾 闪亮多用途化妆笔", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/30/spcgroup/proportion_290x290/12831774879819130.jpg", "￥255", "", "提亮肤色 修颜 ", "2.88g", "彩妆系列", "2015-05-25 14:34:45")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("acbdab227b5347dc97fb42e47ee77497", "402881AC4D4188E9014D4188E99D0017", "蕾克蕾", "蕾克蕾 眼部脸部闪粉笔(银色,金色)", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/30/spcgroup/proportion_290x290/12831787421865270.jpg", "￥15", "", "提亮肤色 修颜 ", "2.5g", "彩妆系列", "2015-05-25 14:34:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("85eee546e1c54f968502d293ca484674", "402881AC4D4188E9014D4188E99D0017", "泉润", "泉润 臻白美肌无瑕修颜液（清新绿）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/18/spcgroup/proportion_290x290/12847965236263450.jpg", "暂无报价", "主要成分：Ｓ５矿泉舒活因子　、去离子水、红石榴多酚、芦荟萃取精华、  超细珍珠粉末等美丽功效：蕴含精纯植物靓肤菁华和多种营养成分，能自然修饰红血丝、青春痘等肌肤，并能有效保湿，保持妆色自然持久，令肌肤亮丽光彩，明艳动人。美丽方法：润肤后取适量轻拍于面部，如再配上象牙白粉底液使用修饰效果更", "", "暂无", "香薰臻白美肌系列", "2015-05-25 14:35:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3e8cbc4de2224f3a979072973e22ae28", "402881AC4D4188E9014D4188E99D0017", "泉润", "泉润 臻白美肌无瑕修颜液（梦幻紫）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/18/spcgroup/proportion_290x290/12847965838716870.jpg", "暂无报价", "主要成分：Ｓ５矿泉舒活因子　、去离子水、红石榴多酚、芦荟萃取精华、  超细珍珠粉末等美丽功效：蕴含精纯植物靓肤菁华和多种营养成分，能自然修饰黑黄、晦暗、色斑等肌肤，并能有效保湿，保持妆色自然持久，令肌肤亮丽光彩，明艳动人。美丽方法：润肤后取适量轻拍于面部，如再配上自然色的粉底液使用修饰效果更佳。", "", "暂无", "香薰臻白美肌系列", "2015-05-25 14:35:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d667ca029a6348ab8b16b5779251b5bd", "402881AC4D4188E9014D4188E99D0017", "克丽缇娜", "克丽缇娜 极光亮彩粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/11/spcgroup/proportion_290x290/12947519128781360.jpg", "￥280", "含微晶聚合真实色彩科技，采用乳化压粉技术，使粉质呈现丝缎般优雅质感。完妆后使用于眼部及颧骨立体部位，使妆感明亮，瞬间提升肌肤光彩。", "", "2.8g*2", "色诱彩妆系列", "2015-05-25 14:35:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("47266427b4e549bba2f5ab68c31944f0", "402881AC4D4188E9014D4188E99D0017", "Jordana", "Jordana 专业四色修容饼", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/30/spcgroup/proportion_290x290/12963964550795180.gif", "暂无报价", "白色\肤色\咖啡色\深咖啡功能:用于人两腮的妆前打底,并遮盖脸上原有的瑕疵达到美丽动人的自然效果,防水持久型配方,使你更显青春亮丽的风采.", "", "暂无", "其他系列", "2015-05-25 14:35:29")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cd49ab156cbe4ea4b128235c0675ac14", "402881AC4D4188E9014D4188E99D0017", "Jemma", "Jemma Kidd", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/30/spcgroup/proportion_290x290/12963964550795180.gif", "暂无报价", "许多提亮产品都太过银色或粉色，但粉金色的JemmaKiddMakeUpSchoolRadianceCrèmeinRoseGold亮肤霜就不同了，它具有烛光色的粉色闪光效果，非常讨巧。", "提亮肤色 修颜 ", "暂无", "其他系列", "2015-05-25 14:35:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cb947a39f21548178dd9fe6b621e4fd8", "402881AC4D4188E9014D4188E99D0017", "珍爱", "珍爱 莹彩苹果高光笔", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/27/spcgroup/proportion_290x290/12961054295796690.jpg", "暂无报价", "苹果光笔是创造新潮立体妆感不可或缺的工具，可以运用在脸上任何部位做打光及强化效果，让妆感更立体、更具青春朝气，双色设计粉、白双色呈现不同效果，具珠光色之白色端部份可运用在眼睛，让眼睛呈现更大更加明亮效果，或是打亮T字、下巴、眼头及眉骨部位，粉色端部份则打亮颧骨上方及唇峰部位", "提亮肤色 修颜 ", "暂无", "其他系列", "2015-05-25 14:35:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a2df108e1194489b8afd50dcc249cbdc", "402881AC4D4188E9014D4188E99D0017", "珍爱", "珍爱 护眼修饰膏", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/27/spcgroup/proportion_290x290/12961055044049240.jpg", "暂无报价", "护眼修饰膏这是一种优质的眼部护理遮暇产品，在修饰黑眼圈的同时亦有改善的功能，内含维他命K可以帮助澹化黑眼圈、均匀肤色、滋润细緻的眼週，同时也可以用来做化妆修饰明亮的处理。修饰黑眼圈#1号是暖色系、#2号是冷色系。依黑眼圈的性质不同可调和成附合自己肤色的色泽来使用", "", "暂无", "其他系列", "2015-05-25 14:35:38")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("06042965057a4df69536824a2a82ff43", "402881AC4D4188E9014D4188E99D0017", "韩粉世家", "韩粉世家 多效修容霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/13/spcgroup/proportion_290x290/13000077624206970.jpg", "暂无报价", "防晒指数：SPF13~15之间使用流程：基础护理 毛孔隐形妆前霜 多效修容适合肤质：任何肤质（敏感性肤质）主要成分：马齿苋提取物、春黄菊提取物、天然海洋水、透明质酸钠、库拉索芦荟胶主要功效：美白肌肤、修复再生，增加皮肤弹性、并改善肌肤敏感现象", "", "暂无", "其他系列", "2015-05-25 14:35:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("622438c1e54049818694d189a5f248b0", "402881AC4D4188E9014D4188E99D0017", "韩粉世家", "韩粉世家 泡沫隔离修容霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/13/spcgroup/proportion_290x290/13000078521720120.jpg", "暂无报价", "防晒指数：SPF15~18适合肤质：油性、混合性、夏季使用使用流程：基础护理 泡沫BB霜 护肤系列底妆主要成分：天然海洋水、活泉水、生育酚、蜂蜜提取物、甜菜碱、柳树皮提取物、金缕梅提取物。主要功效：收缩毛孔、减轻皮肤负担、排毒淡化黑色素。", "", "暂无", "其他系列", "2015-05-25 14:35:47")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d0b2a28deba7453ebfb2104764346b8f", "402881AC4D4188E9014D4188E99D0017", "By", "By Terry", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20107/14/spcgroup/proportion_290x290/12790859615761910.png", "暂无报价", "By Terry Touche Veloutee彩光笔的产品信息：
+
+曾替Yves Saint Laurent推出王牌“彩光笔”的Terry de Gunzburg，擅长光影技术，令妆效呈现珍珠般圆润无痕的光泽。特别适用于颧骨与眼肚，扫尽疲倦晦暗的脸色。", "", "暂无", "护肤系列", "2015-05-25 14:35:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("57f6e8b67c514b288f85353e31daf7d2", "402881AC4D4188E9014D4188E99D0017", "NARS", "NARS 无所畏岁月隐形霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20106/11/spcgroup/proportion_290x290/12762534290658430.jpg", "暂无报价", "只要一個步驟，就能輕鬆遮掩細紋與毛孔，讓您的臉部肌膚看起來更柔嫩光滑，打造一個無瑕且服貼的妝容，同時也能讓肌膚保濕舒適。
+在飾底乳前使用，可打造完美柔嫩的臉部肌膚，達到最佳的彩妝效果。特殊保養配方，內含礦物粉末及抗氧化成分，全天候保濕並保護肌膚避免外在環境造成的細紋與毛孔問題，讓臉部保持青春神采。", "", "7.5g", "彩妆系列", "2015-05-25 14:35:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b34d54ffee9149b9a0ddf0774ec13e2f", "402881AC4D4188E9014D4188E99D0017", "塞巴斯汀", "塞巴斯汀 腮红高光双色修容粉霜饼", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/12/spcgroup/proportion_290x290/12868547449693270.jpg", "暂无报价", "实用双色设计，深色部分为玫瑰粉色，以海绵扑涂于面部双颊等处，塑造犹如肌底透出红润的自然效果，能够令脸部看起更元气！浅色部分为带微闪的浅粉高光，以海绵扑涂于鼻梁、额头及下巴，打造立体光感，令五官更突出，更完美！其特殊的乳霜设计，在涂抹于肌肤的瞬间，完美与皮肤融合，绝对不会浮粉", "", "暂无", "其他系列", "2015-05-25 14:36:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("38a1a933b45f442d9bfd751a93aca218", "402881AC4D4188E9014D4188E99D0017", "茜尔珂", "茜尔珂 矿物修颜粉SPF15", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/13/spcgroup/proportion_290x290/12869389242336370.jpg", "暂无报价", "这是一款能呵护您肌肤的矿物修颜粉。它的配方集防晒、抗衰老、粉底和定妆功能于一身。它的遮暇效果无与伦比，只需在肌肤上轻轻涂抹薄薄的一层，就可以起到完全遮瑕的功效，且效果自然。简单几步即可让您的妆容完美无暇，光彩熠熠。并且矿物粉中的氧化钛是纯天然的防晒剂，还能减轻紫外线", "", "暂无", "其他系列", "2015-05-25 14:36:13")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7160004cc24a4e4fa61858e535f0f874", "402881AC4D4188E9014D4188E99D0017", "丰靡美姬", "丰靡美姬 修颜粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/13/spcgroup/proportion_290x290/12869389242336370.jpg", "暂无报价", "", "", "暂无", "护肤系列", "2015-05-25 14:36:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2020f8768cea4b9eb7b229495964e5b9", "402881AC4D4188E9014D4188E99D0017", "玻儿", "玻儿 笑脸3D矿物颊彩", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/8/spcgroup/proportion_290x290/13022728664381460.jpg", "暂无报价", "规格：3.6g  参考价：69 元 
+ 
+神奇小脸的＂立体魔术师＂，轻盈丝质粉末，均匀又服贴，让你的脸庞更显通透红润。３Ｄ珍珠粉末，增加面部立体感，多角度调整面部轮廓,让你快速晋级＂３D小脸＂女孩。采用美国研发的天然有机植物淀粉调配，不刺激肌肤、不阻塞毛孔，粉质细致，均匀修饰肌肤纹理。", "", "暂无", "其他系列", "2015-05-25 14:36:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("46010b18a5994fcd9fe1d3588bbfc802", "402881AC4D4188E9014D4188E99D0017", "石泽研究所", "石泽研究所 哭泣眼线液笔（深黑）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/27/spcgroup/proportion_290x290/13012147091208650.jpg", "暂无报价", "", "", "暂无", "其他系列", "2015-05-25 14:36:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("82b08515b6c84840bbc1b9a8a97bed59", "402881AC4D4188E9014D4188E99D0017", "白大夫", "白大夫 白瓷肌色控修颜蜜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20115/22/spcgroup/proportion_290x290/13060521941450510.jpg", "暂无报价", "营造白瓷感光，“秒杀”一路目光！
+        
+    
+
+主要成分：
+
+    
+        
+            蕴含北美金缕梅、红没药醇、氧化铁类；
+        
+        
+             
+        
+        
+            产品功效：
+        
+        
+            护肤与遮瑕二合为一，紧密贴合肌肤，自然遮盖色斑、雀斑等肌肤瑕疵，塑造完美妆容；
+        
+        
+             
+        
+        
+            产品特点：
+        
+        
+            所含复合植物精华，滋润美白肌肤，令肌肤更白皙光滑；
+        
+        
+             
+        
+        
+            使用方法：
+        
+        
+            每日于乳/霜后使用，以指尖轻沾适量，由内而外沿着肌肤纹理均匀涂抹整脸即可。", "", "38g", "其他系列", "2015-05-25 14:36:33")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("da172dedbff64f82b8d851a7fb0f8fac", "402881AC4D4188E9014D4188E99D0017", "露诗", "露诗 神采光影宝宝(光影粉)", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1207/31/c0/spcgroup/12626818_1343706731597_400x400_290x290.jpg", "暂无报价", "具有多种功能的神采光影宝宝，可作定妆蜜粉、眼部底妆、加强面部轮廓的光影粉及修饰妆容的闪粉。蕴含极滋润的有机荷荷巴油，可在肌肤外层形成保护膜，加上卓越的软化作用，令肌肤柔软平滑；呈珍珠光泽的云母能制造闪烁效果，同时备有轻微防晒作用，阻挡部分紫外线。不含防腐剂的神采光影宝宝是透澈光泽妆容的最佳伙伴，更是化妆袋中的万能法宝！", "修颜 ", "8g", "心灵彩妆系列", "2015-05-25 14:36:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e2833ae1be404625b5a8f70bf5e7a7fd", "402881AC4D4188E9014D4188E99D0017", "日月晶采", "日月晶采 立体塑颜粉", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/15/c0/spcgroup/12931185_1345013754595_400x400_290x290.jpg", "￥240", "突出优美的轮廓曲线，演绎肌肤立体感的3色组修颜粉。
+可自由调和颜色深浅，
+适用于脸部轮廓和鼻部，
+打造富有鲜明张力的妆容。共一种 240元
+粉 盒 105元
+蜜粉刷 70元", "修颜 ", "暂无", "彩妆系列", "2015-05-25 14:36:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0533d908fadc42ad837508e55966111e", "402881AC4D4188E9014D4188E99D0017", "玫珂菲", "玫珂菲 星光亮粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/18/spcgroup/proportion_290x290/13242081120835040.jpg", "￥150", "产品功效:
+1.MAKE UP FOR EVER闪粉，提供闪亮耀眼的效果，可吸引众人目光的绚烂色彩。
+2.展现最独特的化妆效果，可用在唇上、脸颊、眼部、身体或头发，缔造星光效果。
+3.可以干湿两用，用湿的方式会看起来更亮更细致。
+4.人体彩绘时可於最后立体效果之修饰使用。", "锁色 遮瑕 ", "2.8g", "彩妆系列", "2015-05-25 14:37:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4df50c61a09c407b81fbd9236d855c92", "402881AC4D4188E9014D4188E99D0017", "蝶翠诗", "蝶翠诗 魅幻光影修容粉", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/27/c0/spcgroup/14708299_1351320089064_400x400_290x290.jpg", "￥280", "白桃色系色彩，肌肤融合度佳，增添自然的透明感和光泽感。哑光、珠光、亮片，质感不同的三种粉末，根据调和方法，优雅的半哑光肌、华丽的光泽肌任你选择。在颧骨、鼻梁等面部较高部位涂抹，使轮廓自然凸显，立刻提升面部立体感。切实对抗汗水和皮脂，持久保持刚上完妆时的明亮感。配合橄榄精华油、玻尿酸等保湿成分，防止肌肤干燥。", "滋润 修颜 ", "5g", "彩妆系列", "2015-05-25 14:37:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5192127e292c442bbea107c87054ef36", "402881AC4D4188E9014D4188E99D0017", "高姿", "高姿 闪亮修容霜SPF30", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/18/c0/spcgroup/14494047_1350542551560_400x400_290x290.jpg", "￥135", "质地清透易延展，可自然修饰色素沉积、肤色不均匀及细纹等瑕疵，仅需轻轻一抹，即可立现自然明亮的无瑕裸妆效果；
+含有钻石闪亮型微粉，给暗哑的皮肤以闪亮华丽的质感，呈现透亮光泽的肤色；
+针对亚洲女性肌肤所设计的自然色调，不仅可作为妆前底霜，亦适合单独使用或用于粉底前，打造一整天透亮无瑕的完美妆容。", "美白 遮瑕 修颜 ", "45g", "8重新生焕白系列", "2015-05-25 14:37:17")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8a8b40e2afc742a799d8901f1395e9cd", "402881AC4D4188E9014D4188E99D0017", "法国娇兰", "法国娇兰 金钻靓白哑光修颜喷雾", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20127/9/spcgroup/proportion_290x290/13418260778205720.jpg", "￥490", "Guerlain娇兰金钻靓白哑光修颜喷雾，法国娇兰运用先进的科技，成功地在水基溶液中，完美混合两种极其细微的奢华白色粉末，令你能够亲眼目睹它们的功效。当它们同时作用于肌肤时，就即刻展现出双重魔力。吸油粉末持续吸收多余的皮脂和汗水，控制令人讨厌的油光，令肤色即刻呈现丝般柔滑。柔焦粉末具有神奇的弹性，能紧贴肌肤表面，改善肤质，隐藏毛孔和不平整肌肤，带来明澄无瑕，平滑非凡的肤色。", "修颜 ", "30ml", "彩妆系列", "2015-05-25 14:37:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1439c3e1e6a34308abc49d638ee2432c", "402881AC4D4188E9014D4188E99D0017", "芭比波朗", "芭比波朗 脸部光亮焕颜棒", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1211/07/c0/spcgroup/15434070_1352274156920_400x400_290x290.jpg", "￥380", "专为创造脸部立体感所设计的立体感光笔。独家研发的超细珍珠微光粉粒，能随光线反射为脸部营造犹如"液体星纱颜彩盘"般细腻璀璨的光泽感。特殊乳霜状材质及按压式笔刷，可完全服贴在肌肤上，呈现柔顺完美的肌肤质感。3种颜色、多种使用方法，快速打造面部轮廓及立体感！", "提亮肤色 修颜 ", "6.3 ml", "彩妆系列", "2015-05-25 14:37:23")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2df695e780944d4db8c9aebe976ed3f2", "402881AC4D4188E9014D4188E99D0017", "芭比波朗", "芭比波朗 星纱颜彩珊瑚粉蜜系列", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1211/07/c0/spcgroup/15433968_1352274020051_400x400_290x290.jpg", "￥480", "这款星纱颜彩盘可点缀于腮红之上，带来柔和的珊瑚橘色光泽。适合搭配中性色调及橘色调腮红。上妆方法：上完腮红后，使用匀脸刷混合蘸取颜彩盘5个颜色，并轻扫于颧骨最高处，将色泽点缀于腮红之上。注意要将珠光扫于颧骨最高处，可自然提升面部轮廓，令你看起来容光焕发。", "提亮肤色 修颜 ", "10.3g", "彩妆系列", "2015-05-25 14:37:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5b6a2d6b18244d30b3a57a1f0a9268c3", "402881AC4D4188E9014D4188E99D0017", "杨桑", "杨桑 莹彩双色修容粉", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1301/07/c0/spcgroup/17186860_1357491470852_400x400_290x290.jpg", "￥49", "独创反光微粒—独有的轻柔反光微粒，让肌肤更为透明亮泽。双色组合—完美的双色组合（咖啡色+棕肤色），可自由混合使用，创造最理想的深浅效果。粉质细腻—超细腻的粉质能与肌肤完美的融合在一起，给肌肤轻松透气感，呈现自然妆效。", "提亮肤色 修颜 ", "2.6g*2", "彩妆系列", "2015-05-25 14:37:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("99b06950d941428f810d483d76dbe9ed", "402881AC4D4188E9014D4188E99D0017", "毛戈平", "毛戈平 光影塑颜高光提亮笔", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1301/07/c1/spcgroup/17216067_1357572655988_400x400_290x290.jpg", "￥200", "质地轻盈细薄，细滑的延展性，轻扫面部，瑕疵微掩，肤色瞬间提亮，倦怠容颜自然隐藏，肌肤即刻光泽动人！配合裸妆打造时,可用于快速提亮T字部位，亦可直接用作修饰暗沉肤色。
+使用方法：轻旋容器尾部推出适量液体，直接涂在需提亮部分，用海绵或手指将其轻轻拍开推匀，使边缘过渡自然柔和。", "遮瑕 提亮肤色 ", "1.7g", "彩妆系列", "2015-05-25 14:37:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3c8951e1618d43f6b97a2ff2136f3944", "402881AC4D4188E9014D4188E99D0017", "毛戈平", "毛戈平 高光莹透精华伴侣", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1301/07/c1/spcgroup/17216033_1357572467211_400x400_290x290.jpg", "￥300", "这一款拥有密集护肤功效，专为高光粉膏搭配设计的高光精华伴侣，令高光涂抹更加流畅舒适，并持久润泽服帖，享受细腻呵护的上妆体验。莹透精华质地，蕴含透明质酸等丰富高效保湿成分，上妆同时由内而外令肌肤润泽保湿；虎耳草及葡萄果精粹，帮助肌肤抵御环境伤害，净化提亮肤色并改善肤色暗黄黯沉，令肌肤更加透白光润，细腻柔软。
+持续搭配高光使用，你的肌肤，你的妆，日益莹透白皙美若天成。
+使用方法：取1-2滴精华伴侣滴至光感塑颜高光粉膏中，用搭配的刷子将二者均匀调和后，薄薄沾取高光上妆", "滋润 提亮肤色 修颜 ", "15ml*3", "彩妆系列", "2015-05-25 14:37:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4c097653803c43cea36be251549b3c2a", "402881AC4D4188E9014D4188E99D0017", "百丽多华", "百丽多华 晶钻乳", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/21/c0/spcgroup/24685364_1377016406351_400x400_290x290.jpg", "暂无报价", "富含玻尿酸，维生素E，软磷脂，珍珠贝母粉
+玻尿酸：又叫透明质酸，是一种迄今发现的最好的天然保湿物质，能增强皮肤的保水能力，使皮肤有弹性，有光泽，原本它存在皮肤内，但随着年龄的增长，它会慢慢流失，所以要通过外在补充。
+维生素E：滋润皮肤，延缓衰老
+软磷脂：是一种天然的解毒剂，帮助皮肤排毒，并有效改善色斑和痘痘。
+特点：
+质地轻盈，含丰富的珍珠贝母粉，是您展现独特3D立体光泽，与粉底液或粉底膏调和使用，令皮肤通透，有光泽，有立体感，也可直接擦于面部T区，锁骨，肩膀，手臂用于提亮，营造晶莹剔透的晶钻效果。", "提亮肤色 定妆 ", "暂无", "彩妆系列", "2015-05-25 14:37:51")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("870e554841ce4ff3a267634970fb718b", "402881AC4D4188E9014D4188E99D0017", "奇可俏可", "奇可俏可 甜心双效修容", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/26/c0/spcgroup/proportion_290x290/40165113_1414331270209_400x400.jpg", "￥920", "明亮度与质感不同的两色组合，可以单色使用也可混刷使用。深浅双色轻轻刷上让肌肤呈现自然光泽感，赋予肌肤好气色。超细緻珠光粒子粉质，大小不同的颗粒排列，可使肌肤纹理平滑。外盒轻巧，内附专属刷具100%天然马毛，刷毛柔软、舒适。", "保湿 补水 防水 ", "4.5g", "彩妆系列", "2015-05-25 14:37:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c5a402516b194e20b6c062850193c1f1", "402881AC4D4188E9014D4188E99D0017", "奇可俏可", "奇可俏可 水感颊彩冻", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/26/c0/spcgroup/proportion_290x290/40164716_1414330695884_400x400.jpg", "￥500", "能融入肌肤，呈现自然的绝佳融合感，轻鬆表现甜美、健康的妆彩。使用后，能赋予肌肤平滑光泽感，舒爽的水感冻状配方。在任何肤色都能完美呈现不同妆感的5种色调。含有丰富的修护成分，在呵护肌肤的同时给予肌肤充分的滋润。", "保湿 防水 均匀肤色 ", "10.5g", "彩妆系列", "2015-05-25 14:38:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0d175a8b43154a538ac6cc4cdc8ae06e", "402881AC4D4188E9014D4188E99D0017", "诺曼姿", "诺曼姿 植物胶原防护修颜液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1405/01/c0/spcgroup/33758682_1398928475759_400x400_290x290.jpg", "￥87", "主要成份：
+乳香：一级抗衰老、抗皱、赐与老化皮肤新生命、抚平皱纹的功效卓越、真正的护肤圣品
+维生素C：美白、淡斑
+依兰：平衡油脂分泌、美白、保湿、淡化细纹，柔软身体肌肤、使人精神欢愉
+胶原蛋白：延衰美肤、八效合一，保湿、滋养、亮肤、紧肤、防皱、修复、营养、美白
+霍霍巴油：富含天然维他命、蛋白质等，深层滋养、水油平衡、收缩毛孔、增加弹性
+透明质酸：是最好的皮肤保湿剂，改善暗沉老化肌肤、抚平细纹
+主要功效：
+修饰肤色，防护隔离
+紫色的极细感粉质、水感轻薄质地、修饰肤色、使肌肤明亮白皙，并且散发出植物般柔和舒缓的淡淡幽香，令肌肤焕发净白无瑕的神采；
+有效保护肌肤、免受环境污染等侵害；
+也是一款效果优异的化妆底液、可修饰肤色、展现均匀细致裸妆效果；
+结合植物精油与植物精华的美容功效、清新的香味、舒缓肌肤、时刻充满愉悦心情。", "美白 定妆 修颜 ", "30g", "植物胶原蛋白保湿系列", "2015-05-25 14:38:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("39ca4fa4ed9248f682a45f0f7df1b6fc", "402881AC4D4188E9014D4188E99D0017", "诺曼姿", "诺曼姿 舒润防护修颜液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1405/01/c0/spcgroup/33760500_1398931867588_400x400_290x290.jpg", "￥85", "主要成份：
+葡萄柚：富含维生素C，美白，淡化色素，愉悦心情
+檀香精华：适合干燥及缺水皮肤，可淡化细纹、滋润肌肤，补水、收细毛孔
+海藻提取液：富含矿物质成分，舒缓过敏，修复肌肤
+霍霍巴油：富含天然维他命、蛋白质等，深层滋养、水油平衡、收缩毛孔、增加弹性
+主要功效：
+调整肤色、保护肌肤
+绿色极细腻粉质、水感轻薄质地有效改善斑点及明亮肤色，增加肌肤的光泽及明亮度，有裸妆的效果；
+消除疲惫痕迹、平滑细纹、减少瑕疵、均匀肤色，给予自然持久妆效、并令肌肤柔嫩、同享润泽保护；
+能防止缺水现象，保护肌肤受外来环境空气污染的侵袭和紫外线的伤害；
+特殊宜人的天然植物清香、帮助肌肤减少外界压力，恢复其平衡状态；", "遮瑕 提亮肤色 定妆 修颜 均匀肤色 ", "30ml", "宁静悠然舒适系列", "2015-05-25 14:38:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("10d2f0f321bf41a09de3bed65946bc00", "402881AC4D4188E9014D4188E99D0017", "植萃集", "植萃集 御白纯粹修颜笔", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1312/27/c0/spcgroup/30066838_1388158237675_400x400_290x290.jpg", "￥128", "适合肤质：任何肤质
+功效：独特的设计，轻轻一扫，魔幻般带走面部瑕疵，轻柔遮盖面部斑点，细纹粗大毛孔，令肤色更显明亮细致，配合独特美白精华，修颜的同时令肌肤享受细腻美白呵护，日复一日，肌肤持续绽放健康润白光彩。", "保湿 补水 均匀肤色 ", "3ml", "御白纯粹系列", "2015-05-25 14:38:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7e0f9878fe024159aa289b6341cf8df0", "402881AC4D4188E9014D4188E99D0017", "漂亮制造", "漂亮制造 立体小脸修容盒", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/29/c0/spcgroup/30950602_1391009583030_400x400_290x290.jpg", "￥350", "《立体小脸修容盒》有精心设计的三色，一色打亮，两色深浅修容，任何人皆可轻易上手，创造像韩国女星般完美的V型上镜脸！【苹果光感粉末】利用极细致的珠光，产生完美的光线折线，立即提亮
+眼下、苹果肌、T字山根、下巴，创造充满净肤光感的肌肤，与丰润饱满的苹果肌。【小脸阴影修容粉】深浅两色设计，配合超服贴卵磷脂、芦荟、酵母萃取保湿配方，让粉末完美融入肤色之中，修容、阴影超自然，创造上镜V型脸。【黄金修容比例】三色的比例为精心设计1：2：3，最符合使用者的需求，一盒达到完美打亮与自然的阴影小脸修容。【超完美斜面刷】刷毛切面呈现独特的完美角度，可以完美贴合脸颊两侧的角度。刷毛宽度经过精心设计，一次就能沾取深浅两色修容，创造超自然的修容小脸效果，毫不费力。", "保湿 补水 修颜 ", "6.5g", "其他系列", "2015-05-25 14:38:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4a57d73e1b5048469f257b13e45e68a5", "402881AC4D4188E9014D4188E99D0017", "欣蔓", "欣蔓 焕颜眼部裸妆修颜笔", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/15/c0/spcgroup/30601222_1389797280707_400x400_290x290.jpg", "￥360", "首款透明的眼部护肤修颜啫喱，1分钟提亮平滑眼周。即时消退黑眼圈、消除眼周暗沉、改善眼部皱纹和细纹、长期使用抗衰抗皱、由内之外防护肌肤免受污染侵害。
+产品卖点：
+1.	短期效果：1分钟提亮平滑眼周、消退黑眼圈，平滑皱纹和细纹，自然裸妆妆容效果
+2.	长期效果：使用后4周效果* 平滑皱纹及细纹15.5% ，减退浮肿20.6%，淡化黑眼圈13.6%
+主要成分&功效：
+Urban 
+Advance都市活性复合物：SAMPAR特有的都市抗污染专利配方成分，抗污染的“防护面具”，是唯一一种以消除诸如一氧化碳、氯化物、尼古丁等污染
+物质对皮肤的负面影响为目标的配方。能够中和任何由于污染造成的皮肤失衡情况，增强肌肤的天然防御机制，从细胞深层激发肌肤重焕活力。
+MIB 复合物：强化皮肤毛细血管，同时具有防感染及消水肿的功效，从而帮助减退浮肿，淡化黑眼圈。
+超微光学微粒：具备新一代柔焦光学技术，修补面上皱纹和细纹，平滑肤质，均匀肤色，同时消除瑕疵，焕发眼周神采。
+燕麦萃取物：呈现光学质感，瞬时提升肌肤。
+微脂囊透明质酸：击退肌肤内部皱纹和细纹，丰满肌肤从而长效抗皱，还原眼部年轻轮廓。", "补水 防水 遮瑕 提亮肤色 ", "10ml", "其他系列", "2015-05-25 14:38:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("91c5e2fa6d05458ba1533b63b8aa0c8b", "402881AC4D4188E9014D4188E99D0017", "黛珂", "黛珂 明采修颜膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/16/c0/spcgroup/32135102_1394942940854_400x400_290x290.jpg", "￥420", "含硅粉体的修颜膏，致密贴合肌肤，遮饰晦暗及黑眼圈。采用硅系皮膜形成剂，即使到了易显肤色疲惫晦暗的傍晚，也能持续拥有匀亮的妆容。具高光效果，涂抹于T区、颧骨脸颊的突出位置，能帮助肌肤闪耀立体光泽感。每次的用量简明，配合以无比柔软的球状绒布刷头。即使是易干燥的眼角唇际也能得以持续滋润。使用纯天然香氛精华油，散发抚慰身心的馨香。", "滋润 遮瑕 提亮肤色 定妆 修颜 均匀肤色 ", "暂无", "AQMW系列", "2015-05-25 14:38:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1192835d26084d14a5b2beded6c4b7f6", "402881AC4D4188E9014D4188E99D0017", "SUQQU", "SUQQU 双色修容盘", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/20/c0/spcgroup/30735739_1390221139282_400x400_290x290.jpg", "￥500", "可强调脸颊立体感与层次感的2色腮红盒。 
+腮红色与明亮色的巧妙搭配，可强调自然的立体感和透明亮丽的光泽感。", "遮瑕 提亮肤色 定妆 修颜 ", "5g", "彩妆系列", "2015-05-25 14:38:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("150fe68f719d42cdab48391fea414275", "402881AC4D4188E9014D4188E99D0017", "梦妆", "梦妆 花运扑扑修饰阴影粉", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1404/05/c0/spcgroup/32829883_1396706206499_400x400_290x290.jpg", "￥100", "美化额头曲线，打造饱满发型的秘诀.轻轻拍涂，即可修饰不平整的发迹边缘", "锁色 提亮肤色 定妆 修颜 均匀肤色 ", "4g", "腮红/修颜系列", "2015-05-25 14:38:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("221bbedc82804530b8449827c206eede", "402881AC4D4188E9014D4188E99D0017", "花印", "花印 素肌感莹透无瑕修容霜（皙白色）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1309/18/c0/spcgroup/25827103_1379476267151_400x400_290x290.jpg", "￥223", "这是一款在日本极具人气，让肌肤自由呼吸的BB霜！其分子格外细小，质地细腻柔滑，能与肌肤完美贴合，不堵塞毛孔。含有多种保养成分和保湿因子，保湿补水，修护肌肤，抵御外界伤害。打造完美裸妆，一整天，无油光烦恼，宛如新生般动人！", "保湿 滋润 遮瑕 修颜 ", "50g", "底妆系列", "2015-05-25 14:38:47")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8d85ec5883ad4d4eb3154d18890ef93d", "402881AC4D4188E9014D4188E99D0017", "Duwop", "Duwop 古铜色修饰乳SPF15", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/22/c0/spcgroup/27834731_1382445099663_400x400_290x290.jpg", "暂无报价", "能够令你的肌肤焕发古铜光彩，本品快干，不会弄脏你的衣服。", "补水 锁色 提亮肤色 均匀肤色 ", "150ml", "其他系列", "2015-05-25 14:38:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("653fda83dfdd423f94524098f4d5d0e0", "402881AC4D4188E9014D4188E99D0017", "Coastal", "Coastal Scents", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/05/c0/spcgroup/26912614_1380981489580_400x400_290x290.jpg", "￥283", "Normal
+  0
+  
+  7.8 磅
+  0
+  2
+  
+  false
+  false
+  false
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  MicrosoftInternetExplorer4
+ 
+
+
+	使用这个多功能细致轮廓修容盘就能轻松地塑造出理想的轮廓。这个具备有九种色调的修容盘可同时帮您遮瑕，描绘及突出轮廓。无论您想修细鼻子还是突出您的颧骨，这个修容盘都是您理想的工具，让您轻松地变得明艳照人。这个修容盘适合任何肤色及面型的人仕使用。
+
+
+ 
+ 
+
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}", "定妆 ", "暂无", "彩妆系列", "2015-05-25 14:38:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3bf151df4f4540d6b2db6f353766394e", "402881AC4D4188E9014D4188E99D0017", "Coastal", "Coastal Scents", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/05/c0/spcgroup/26924609_1380988292357_400x400_290x290.jpg", "￥133", "这款革命性的四色修肤霜可以掩盖与调和任何皮肤上的瑕疵，便于携带，可与任何遮瑕刷配合使用。
+薄荷绿色用于调和红色瘢痕，如酒糟鼻、痤疮或双颊及鼻部周围的毛细血管等。
+浅黄色用于修补偏黑、蓝或紫色皮肤，如青肿部位等。
+淡紫色用于遮盖偏黄与橄榄色皮肤，并可平衡整体色调，让皮肤焕发健康光泽。
+天蓝色用于掩盖因过度暴晒而产生的黄褐斑。", "遮瑕 提亮肤色 定妆 修颜 ", "暂无", "彩妆系列", "2015-05-25 14:39:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("af1a0336f19749149c251eb252f707cc", "402881AC4D4188E9014D4188E99D0017", "倩碧", "倩碧 俏比立体轮廓修容棒", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/26/c0/spcgroup/proportion_290x290/3284941_1424962411942_400x400.jpg", "￥178", "可用来加强所需区域的深邃感及轮廓线条。
+a.修饰鼻型，直挺修长：使用「俏比立体轮廓修容棒」两侧涂抹鼻翼两侧，再将「俏比立体轮廓亮采棒」涂抹於鼻梁上。运用指尖让產品与肌肤完美融合。
+b.勾勒下巴，完美弧度：将「俏比立体轮廓修容棒」沿著下巴的轮廓轻点在肌肤上，并使其与肌肤完美融合。", "遮瑕 修颜 ", "6g", "彩妆系列", "2015-05-25 14:39:11")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("413208bd957b4bd8be2f8f6e2e12760e", "402881AC4D4188E9014D4188E99D0017", "倩碧", "倩碧 小脸修色颊彩盘", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/26/c0/spcgroup/proportion_290x290/3283037_1424957682824_400x400.jpg", "￥194", "若要加强突显脸部特徵，使用全新小脸修色颊彩盘「Sculptionary Cheek Contouring Palettes」，让妆容更加美丽。色彩长效持久的粉状彩妆可展现丰润、持久、真实且与肌肤融為一体的色彩，打造自然的红晕及美丽醒目的骨骼轮廓。
+效果原理：
+分开使用三色压缩修色颊彩中的个别顏色来润色、修容与提亮。亦可同时混用三色快速、轻鬆营造自然光泽。使用方式：
+1.快速上妆：利用「时尚抗菌腮红刷」同时使用三色。刷在两颊的凸出处，打造鲜明的双颊形状与亮丽光采。
+2.强化立体双颊：使用「时尚抗菌晕色刷」在颧骨高处刷上打亮色。然后用乾净的「时尚抗菌晕色刷」将修容色刷於颧骨下方。使用「时尚抗菌晕色刷」刷过三色，刷在颧骨的高处，使其与肌肤自然融合。", "修颜 ", "9g", "彩妆系列", "2015-05-25 14:39:15")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0dd375cbad4f46219502cc4c16cc43ff", "402881AC4D4188E9014D4188E99D0017", "倩碧", "倩碧 俏比立体轮廓亮采棒", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1502/26/c0/spcgroup/proportion_290x290/3286033_1424962680786_400x400.jpg", "￥179", "内含珍珠般闪亮的光线反射色粒子，能為肌肤增添闪亮光泽，突显美丽优点，非常适合用来强化颧骨。
+a.轻轻一笔，凸显特色：将「俏比立体轮廓亮采棒」轻点在两边颧骨上，或妆点T字部位向下延伸至鼻梁、眉心、下巴中央。运用指尖让產品与肌肤完美融合。
+b.脸型立体，双颊丰弹：将「俏比立体轮廓亮采棒」涂抹於颧骨上，延伸至颧骨最高处，然后搭配「俏比立体轮廓修容棒」涂抹於颧骨下方。运用指尖让產品与肌肤完美融合。", "修颜 均匀肤色 ", "6g", "彩妆系列", "2015-05-25 14:39:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("355d7c470d504f25a16fb9272c5a35f6", "402881AC4D4188E9014D4188E99D0017", "芭妮兰", "芭妮兰 感性亮彩修容霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/25/c3/spcgroup/proportion_290x290/2333093_1422191277507_400x400.jpg", "￥280", "水润性质地，演绎水嫩光泽白红透红的陶瓷肌肤； 
+可改善松弛且肤色暗淡的肌肤现象，逐步呈现亮白紧致的肌肤；
+在芭妮兰BB霜系列中，遮瑕力属适中，特别适合20~35岁中干性肤质人群使用； 
+Classic Beige：喜欢亮白透明妆人群
+Pink Beige：适合于肌肤暗沉，偏黄，苍白人群，演绎透亮粉嫩妆", "补水 抗氧化 修颜 ", "35ml", "彩妆系列", "2015-05-25 14:39:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0f4c39e5f99b4ec28f98998a34fa9502", "402881AC4D4188E9014D4188E99D0017", "芭妮兰", "芭妮兰 幻彩保湿修颜膏", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/25/c3/spcgroup/proportion_290x290/2333426_1422193023155_400x400.jpg", "￥280", "硅油聚合物的网格构造，能隐盖毛孔及凹凸肌肤，且有效控油保持肌肤清新爽滑； 
+更强的皮脂吸附功能，可局部涂抹T区和鼻梁周边，防止浮粉脱妆现象，提高妆容持久度； 
+在脱妆需要补妆时，可直接涂抹的妆前产品，特别适合夏季使用，及混合、油性肌肤、毛孔粗大人群；
+使用贴士
+用配备的粉扑取适量，涂抹于油脂分泌多的部位； 
+非常适合补妆的妆前产品，且包装大小更便于携带；", "补水 遮瑕 提亮肤色 修颜 ", "20g", "彩妆系列", "2015-05-25 14:39:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0205735d0aef4b328297ee2ec61c1b50", "402881AC4D4188E9014D4188E99D0017", "芭妮兰", "芭妮兰 幻彩哑光修颜液", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/25/c3/spcgroup/proportion_290x290/2335719_1422197166802_400x400.jpg", "￥260", "硅油聚合物的网格构造，能隐盖毛孔及凹凸肌肤，且有效控油保持肌肤清新爽滑； 
+比Primer classic更强的皮脂吸附功能，可局部涂抹T区和鼻梁周边，防止浮粉脱妆现象，提高妆容持久度； 
+适合混合、油性肌肤；
+使用贴士
+为了妆前乳快速附着和吸收，最好使用手(体温)涂抹；
+打圈的的方式，局部涂抹于毛孔粗大、油脂多的地方；", "补水 防水 滋润 修颜 ", "30ml", "彩妆系列", "2015-05-25 14:39:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e1402a7072834be2966fc20a8f00729d", "402881AC4D4188E9014D4188E99D0017", "芭妮兰", "芭妮兰 蕾丝梦幻修容霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/25/c3/spcgroup/proportion_290x290/2328610_1422191403704_400x400.jpg", "￥280", "Matte哑光型：脱离暗淡不均匀的肤色，调节皮脂的多孔粉末，让良好的遮瑕力持续表现打造无瑕妆容，特别适合敏感肌、混合偏油肌肤使用； 
+Moist保湿型：透明质酸、芦荟成分给予干燥肌肤一整天喝饱水分，使肌肤水嫩亮白；特别适合敏感肌、混合偏干肌肤使用；
+使用贴士
+用粉底刷展开涂抹于整个脸部； 
+干性肌肤可与CC霜 或 保湿妆前乳primer 或 闪亮珠光修容霜混合使用；", "补水 防水 提亮肤色 均匀肤色 ", "35ml", "彩妆系列", "2015-05-25 14:39:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c9abda522dab413ea65b89484a001e5a", "402881AC4D4188E9014D4188E99D0017", "芭妮兰", "芭妮兰 幻彩保湿修颜液", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/25/c3/spcgroup/proportion_290x290/2333422_1422191904393_400x400.jpg", "￥260", "硅油聚合物的网格构造，能隐盖毛孔及凹凸肌肤，且有效控油保持肌肤清新爽滑； 
+修颜液中最保湿补水，肌肤犹如做过保湿面膜般水光滋润，且抚平毛孔及小细纹，打造最佳妆前肌肤； 
+适合任何肌肤；
+使用贴士
+为了妆前乳快速附着和吸收，最好使用手(体温)涂抹； 
+打圈的的方式，局部涂抹于毛孔粗大、油脂多的地方；", "保湿 补水 提亮肤色 均匀肤色 ", "30ml", "彩妆系列", "2015-05-25 14:39:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b08101d69b3f454aa79aca28dfe61ea6", "402881AC4D4188E9014D4188E99D0017", "芭妮兰", "芭妮兰 清透修容霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/25/c3/spcgroup/proportion_290x290/2333099_1422193150613_400x400.jpg", "￥280", "深层补水临近无油配方，涂抹无粘腻感，呈现自然清透美肌； 
+"还原白皙亮泽的羽衣草提取物，达到清新透亮底妆效果； 
+适合干性肌肤、混合偏干肌肤在夏季使用；
+适合混合偏油肌肤在冬季使用；
+使用贴士
+微笑，从发际线开始斜扫苹果肌，重复动作； 
+再点亮面部高光点,肌肤展现阳光亲触般的光彩；", "补水 提亮肤色 修颜 ", "35ml", "彩妆系列", "2015-05-25 14:39:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f493a51abfe44776a6ff726939a0c1da", "402881AC4D4188E9014D4188E99D0017", "芭妮兰", "芭妮兰 闪亮修容膏", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/25/c3/spcgroup/proportion_290x290/2335992_1422197455877_400x400.jpg", "￥230", "含蔷薇果油，形成保护膜锁住水分，令肌肤滋润清透；
+使用贴士
+为干燥肌肤而设计；", "保湿 补水 遮瑕 提亮肤色 均匀肤色 ", "11g", "彩妆系列", "2015-05-25 14:39:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("35e5c3d16eb249d8b9a0b1dde7e85070", "402881AC4D4188E9014D4188E99D0017", "芭妮兰", "芭妮兰 爱眼眼部修颜膏", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/25/c3/spcgroup/proportion_290x290/2335571_1422196765802_400x400.jpg", "￥180", "质地轻柔，柔化眼部肌肤，均匀眼周纹理及色彩，为之后的眼部彩妆做准备；
+使用贴士
+用手指或眼部大刷子均匀涂抹；", "均匀肤色 ", "2.5g+1.8g", "彩妆系列", "2015-05-25 14:39:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cc953f9a753644179a56979bd1e3d45b", "402881AC4D4188E9014D4188E99D0017", "芭妮兰", "芭妮兰 闪亮珠光修容霜", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/25/c3/spcgroup/proportion_290x290/2335797_1422197623721_400x400.jpg", "￥220", "利用多角度反光效果，提亮脸部轮廓； 
+含芦荟、马齿笕提取物成分的补水滋润效果； 
+折射自然光的散装式珠光，很符合滋润光感妆容的需求；
+使用贴士
+妆前使用，做为隔离彰显健康光泽底妆； 
+妆中使用，与CC霜 或粉底 或BB霜 或遮瑕膏混合，附着力强，呈现自然滋润的多种底妆效果； 
+妆后使用，可代替高光产品涂抹在需提亮的部位(T区、眼底、下巴、颧骨等部位)，令肌肤更加光彩夺目；", "锁色 遮瑕 提亮肤色 均匀肤色 ", "35ml", "彩妆系列", "2015-05-25 14:40:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0ee6bba76ff144aa9ede0d1c79701eaa", "402881AC4D4188E9014D4188E99D0017", "RMK", "RMK 经典修容N", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1412/29/c0/spcgroup/proportion_290x290/1272283_1419866785430_400x400.jpg", "￥216", "经典修容N推出春天限定新2色。与肌肤融合感绝佳的粉红混合银色亮片，诞生春天般轻盈感的珊瑚色。缠绕闪耀动人的光芒同时轻盈渲染出盛开花朵般的玫瑰色调。2款色系都能衬托出耀眼的亮片光芒，引出甜美浪漫的表情。
+■EX-06光泽珊瑚
+肌肤融合感绝佳的粉红混合银色亮片呈现春天般轻盈妆感。
+■EX-07光泽玫瑰
+缠绕闪耀亮片的绝美玫瑰色调呈现女性化妆容。
+※2014 A/W发售的经典修容N (EX-04橘金色)、(EX-05粉红金色) 将会废止，由以上全新2色取代。", "补水 滋润 定妆 均匀肤色 ", "2.6g", "彩妆系列", "2015-05-25 14:40:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2b152746dda0474cbe42809977577195", "402881AC4D4188E9014D4188E99D0017", "巧迪尚惠", "巧迪尚惠 晶钻亮颜修容粉", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20102/14/spcgroup/1266126127089_290x290.jpg", "￥58", "主要功效：多彩变幻粉末，超细粉质，闪亮因子全方位折射光线，巧妙遮盖脸部瑕疵，跟随色彩的调配衍生晶莹剔透的美感，展现肌肤亮丽神采，缔造变幻无穷的妆容。使用方法：沾取少量修容粉轻扫于眼睛下方及顴骨上方，以向上提拉式的手法达到亮肤效果。", "修颜 ", "6g", "晶钻系列", "2015-05-25 14:40:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0efb06e21fe649c48cd439406ed521cd", "402881AC4D4188E9014D4188E99D0017", "Sleek", "Sleek 修容高光腮红脸部套组", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1305/29/c0/spcgroup/21415601_1369808480862_400x400_290x290.jpg", "￥220", "Sleek修容腮红完美脸妆组是其修容和腮红产品的组合升级版，包含深色哑光阴影粉、浅色珠光高光粉以及腮红。修容组阴影粉修正脸部轮廓，珠光质感的高光粉提亮的同时能打造光感透亮的妆容，粉质轻薄，容易驾驭。修容组打造立体底妆，玫瑰粉金腮红修饰气色。", "", "20g", "其他系列", "2015-05-25 14:40:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cce87ea23d034bcca93cee7f677d3e85", "402881AC4D4188E9014D4188E99D0017", "凯朵", "凯朵 3D立体光影笔", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1407/06/c0/spcgroup/36032061_1404655127421_400x400_290x290.jpg", "￥81", "", "修颜 均匀肤色 ", "2.0g", "彩妆系列", "2015-05-25 14:40:17")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d3819b43cc6c4f369953b241590806ce", "402881AC4D4188E9014D4188E99D0017", "花印", "花印 素肌感莹透无瑕修容霜（自然色）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/19/c0/spcgroup/24618359_1376877246150_400x400_290x290.jpg", "￥223", "让肌肤自由呼吸的日本防水型BB霜！修护，保养，遮瑕!这是一款在日本极具人气，让肌肤自由呼吸的BB霜！其分子格外细小，质地细腻柔滑，能与肌肤完美贴合，不堵塞毛孔。含有多种保养成分和保湿因子，保湿补水，修护肌肤，抵御外界伤害。打造完美裸妆，一整天，无油光烦恼，宛如新生般动人！【使用方法】基础护肤后，取适量用指尖均匀展开至整个面部。", "保湿 滋润 遮瑕 修颜 ", "50g", "底妆系列", "2015-05-25 14:40:20")

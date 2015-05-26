@@ -1,0 +1,222 @@
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2de8e353ec2c426c90517eed62d76315", "402881AC4D411BBA014D411BBAF80016", "嘉媚乐", "嘉媚乐 芬芳抗氧黑头导出液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1402/11/c0/spcgroup/31158874_1392099269294_400x400_290x290.jpg", "￥69", "含有薰衣草油、北美金缕梅提取物、好望角芦荟叶提取物、洋甘菊油、木瓜果提取物等天然植物成分。丰富的营养物质能有效软化黑头，引导黑头向外导出，清洁肌肤内藏污垢和油脂，使黑头自行浮出皮肤表层。配合金缕梅毛孔收细精华素使用，在清洁黑头的基础上细致肌肤毛孔，防止不洁物进入，预防黑头形成", "", "30ml", "护肤系列", "2015-05-22 20:44:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0a82a039916144a7b5f74a5afbb69198", "402881AC4D411BBA014D411BBAF80016", "CE本草", "CE本草 白芷黑头导出液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20116/21/spcgroup/proportion_290x290/13086452591757350.jpg", "￥67", "摄取自白芷天然美容功效的白芷黑头导出液，能够深入肌肤内部，柔化肌肤角质层和脂肪颗粒，松动顽固黑头，令黑头自然浮出，使肌肤能够更贴近自然，畅快呼吸，宛若江边白芷，萌动芳馨。同时草本精华供给肌肤必要的水分与养分，给肌肤注入新生活力，有效均匀肤色，改善问题肌肤，提升肌肤嫩白度，收敛毛孔，紧致肌肤。摆脱了黑头的困扰，肌肤由内而外呈现自然光泽，通透天然，实现真正的完美无瑕。
+
+	使用方法
+
+
+	洁面后，用热毛巾热敷需要清理黑头的部位，将浸有黑头导出液的化妆棉敷在鼻子等需要清理黑头的部位；8-10分钟后，用暗疮针轻轻刮下松动、浮出的黑头，（或配合白芷黑头净膏使用，使浮出的黑头随面膜轻松拔出）；清洁面部，再拍上爽肤水即可。", "控油 清洁毛孔 收缩毛孔 去黑头 ", "30ml", "特别修护系列", "2015-05-22 20:45:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("346c44e12e704f1dadf15324c7e26160", "402881AC4D411BBA014D411BBAF80016", "杰忱镜花缘", "杰忱镜花缘 祛痘去印去黑头收缩毛孔美白万能膏面霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/23/spcgroup/proportion_290x290/13245715299581840.jpg", "暂无报价", "商品描述
+
+ 
+祛痘、祛印、去黑头、收缩毛孔", "收缩毛孔 去黑头 ", "暂无", "其他系列", "2015-05-22 20:45:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7ddcc66c936349e5ad8d625ff77fad51", "402881AC4D411BBA014D411BBAF80016", "李医生", "李医生 吸黑头鼻贴/男士型/活性竹炭吸净配方", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1503/18/c0/spcgroup/proportion_290x290/4032824_1426646051275_400x400.jpg", "￥9.9", "功效：深层吸净配方，添加天然竹炭活性成分，清除顽固黑头，并预防黑头粉刺再生。含薄荷因子，肤感清凉舒爽。透气鼻贴膜，植物性水溶胶剂，遇水释放丰富原生质，游离阻塞毛孔的顽固黑头并集中吸附在贴膜上，轻轻一揭，黑头便能连根拔出。（加大尺寸设计，贴合男士鼻型） 缺货
+
+    
+        
+             
+        
+        
+            ·促销装使用方法: 洁面后，用清水彻底沾湿鼻子，以鼻贴中央对准鼻梁，将光滑面贴于鼻上，和肌肤紧密贴合。10－15分钟，待鼻贴干透，从两侧向鼻梁方向把鼻贴轻轻撕", "去黑头 ", "5片", "护肤系列", "2015-05-22 20:45:07")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4269506a861147c7a59a55765893f822", "402881AC4D411BBA014D411BBAF80016", "蜜菓", "蜜菓 芦藻海源舒柔柔肤露", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1409/23/c0/spcgroup/proportion_290x290/38878584_1411409123310_400x400.jpg", "￥49", "成分：水、库拉索芦荟（ALOE BARBADENSIS）叶提取物、甘油、丁二醇、黄瓜（CUCUMIS SATIVUS）果提取物、藻提取物、海水、甘草酸二钾、银耳（TREMELLA FUCIFORMIS）子实体提取物、透明质酸钠、聚 γ-谷氨酸钠、叶酸、双-二乙氧基二甘醇环己烷1,4-二羧酸酯、DMDM 乙内酰脲、碘丙炔醇丁基氨甲酸酯、甲基异噻唑啉酮功效：精选库拉索芦荟精华和海藻萃取物，舒缓修护肌肤，添加深海海水精萃与黄瓜果精华，注入丰沛矿物微量元素和营养成分，使肌肤柔软有光泽。使用方法：早晚清洁肌肤后，在掌心或化妆棉取适量产品，避开眼周适用于脸部肌肤。", "保湿 补水 舒缓肌肤 ", "120ML", "芦藻海源舒柔系列", "2015-05-22 20:45:09")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d169f2d82faf4625ad433c869b1d64db", "402881AC4D411BBA014D411BBAF80016", "上山采药", "上山采药 粉刺XP3去黑头套装", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20123/3/spcgroup/proportion_290x290/13307452485065140.jpg", "￥139", "由粉刺黑头水、毛穴隐形面膜、毛孔细致凝霜三支产品组成。先软化粉刺，拔除粉刺，后紧致收缩毛孔。拔除粉刺前先软化粉刺，更容易清除毛孔的粉刺黑头，拔除后及时收缩毛孔，不会使肌肤毛孔增大。", "去黑头 ", "暂无", "其他系列", "2015-05-22 20:45:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f22896da25f14fb19d8dc925dc9777ff", "402881AC4D411BBA014D411BBAF80016", "魔法森林", "魔法森林 魔法森林白色鸡蛋去黑头啫喱", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/25/spcgroup/proportion_290x290/12827219554874590.jpg", "暂无报价", "产品成分：蛋清，山茶花萃取物产品功效：蛋清萃取物能够深层清洁，去除老化肌肤角质，能有效的进行皮脂管理，专业管理毛孔，收缩扩张，控制毛孔内清洁不堵塞。蛋清和魔力胶囊混合物可以直达毛孔深层清洁，有效去除多余油脂，白头和黑头，清洁皮肤，去除老化肌肤角质。", "深层清洁 保湿 控油 去黑头 ", "30ml", "其他系列", "2015-05-22 20:45:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d4c7ccda240242b999228ed75acdec5c", "402881AC4D411BBA014D411BBAF80016", "膜法世家1908", "膜法世家1908 绿豆竹炭去黑头鼻贴膜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/26/spcgroup/proportion_290x290/13248781807672980.jpg", "￥83", "功效：1、排毒防痘，细致毛孔；2、去除黑头，强力吸附；3、深层清洁，软化角质；4、控油美白，加速老废角质细胞更新，令肌肤恢复紧致细腻！", "", "25g", "其他系列", "2015-05-22 20:45:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5100f696568445528791395d1e59f01f", "402881AC4D411BBA014D411BBAF80016", "膜语", "膜语 去黑头鼻膜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/21/spcgroup/proportion_290x290/13244527215139340.jpg", "暂无报价", "膜语去黑头鼻膜单片装！超强吸附力，深层清洁黑头粉刺，缩小粗大毛孔，令肌肤倍感通透净爽！让你和草莓鼻say goodbye！", "去黑头 ", "29.8", "其他系列", "2015-05-22 20:45:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("10b3703a248f4bd9bccc1c3917b0785c", "402881AC4D411BBA014D411BBAF80016", "男性主义", "男性主义 去黑头(2+1)", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/14/spcgroup/proportion_290x290/12922590020491330.jpg", "暂无报价", "[MENSPLUS]德国男性主义产品,是基于昆布藻萃取精华(M.P)成分的特殊功效，昆布藻精华[M.P]成分,为科学界所认可和支持,
+因为他极具亲肤性,具有卓越的调控油水平衡,以及舒缓肌肤的能力。它的活性成分以及富含的微量元素有益肌肤健康。
+通过卓越的控油、平衡能力，使产品对男性肌肤的健康保养更加有效。", "去黑头 ", "2 1", "其他系列", "2015-05-22 20:45:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("661441a32015412db51a234444195e73", "402881AC4D411BBA014D411BBAF80016", "亚蓝卡", "亚蓝卡 薰衣草去黑头套装", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20126/21/spcgroup/proportion_290x290/13402866634395190.jpg", "￥108", "", "", "80g/ml", "薰衣草舒爽抑油系列", "2015-05-22 20:45:23")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cf2d1dee698e424db081551bf7524b6b", "402881AC4D411BBA014D411BBAF80016", "莱妮雅", "莱妮雅 深海黑碳泥去黑头面膜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/23/spcgroup/proportion_290x290/13246167355822650.png", "暂无报价", "能帮助深层清洁黑头粉刺和缩小粗大的毛孔，让肌肤干净舒爽；有助改善油脂分泌，预防毛孔被油脂堵塞，防止黑头形成。", "", "60ml", "其他系列", "2015-05-22 20:45:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("191e750e25994f74bb1e87da629e77db", "402881AC4D411BBA014D411BBAF80016", "李医生", "李医生 超级去黑头导出精华液全套", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20121/30/spcgroup/proportion_290x290/13279088644487900.jpg", "￥89.9", "深入清洁毛孔，带走多余的油脂污垢，预防毛孔阻塞，帮助清除导致黑头、粉刺的油脂及污垢，肌肤重现清透，不绷紧。·水润配方：在洁面同时锁紧肌底水分，令肌肤水滴清透，不绷紧。祛除深藏于毛孔内的油脂污垢，深层净化肌肤。深入毛孔，充分软化松动和导出长期堆积于毛孔内的顽固黑头及油脂污垢，令毛孔呼吸畅通无阻,粗糙肌肤瞬间回复光滑。吸黑头配方，直接吸附于T字部位，深入清除毛孔内顽固黑头，同时收敛毛孔，肌肤更细致。·持续发挥收敛作用，吸除黑头后，可令肌肤在短时间内回复细滑。
+·将黑头完全软化，通过毛孔排出，肌肤变得干净清透。", "深层清洁 清洁毛孔 去黑头 ", "五件套", "护肤系列", "2015-05-22 20:45:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b0456f4eb29c4d4982e77b0ae25d74dd", "402881AC4D411BBA014D411BBAF80016", "李医生", "李医生 吸黑头鼻贴/温和杏仁滋润配方", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/3/spcgroup/1259841695708_290x290.jpg", "￥9.9", "·功效：温和滋润配方，水润保湿，细致并镇静舒缓敏感肌肤。透气鼻贴膜，植物性水溶胶剂，遇水释放丰富原生质，游离阻塞毛孔的顽固黑头并集中吸附在贴膜上，轻轻一揭，黑头便能连根拔出。　　　缺货
+        
+    
+
+
+    
+        
+             
+        
+        
+            ·使用方法: 洁面后，用清水彻底沾湿鼻子，以鼻贴中央对准鼻梁，将光滑面贴于鼻上，和肌肤紧密贴合。10－15分钟，待鼻贴干透，从两侧向鼻梁方向把鼻贴轻轻撕起。", "控油 收缩毛孔 去黑头 ", "5片", "洁面系列", "2015-05-22 20:45:29")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4fcb4a2f9c4a419c97040e3528d5bc32", "402881AC4D411BBA014D411BBAF80016", "FREEDAY", "FREEDAY Skin", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/z10/spcgroup/200905112103445621_s3_290x290.jpg", "￥98", "植物有效成分能够迅速渗入毛孔，软化黑头，强力吸附并导出黑头，独有的螺旋导出方式，可迅速彻底排出毛孔内沉积的油垢污物，使黑头自行浮出皮肤表层，增强毛孔排异功能；配合FREEDAY skin细致毛孔收敛水使用，在清理黑头的基础上，收缩毛孔，防止不洁物的进入，预防黑头粉刺生成，使肌肤净透健康。初次使用黑头导出液，会有稍稍的刺激感，去除黑头效果彻底。 使用方法：洁肤后，用脱脂棉浸润本品敷于黑头部位3分钟左右取下，用暗疮针尾部轻轻刮出浮出的黑头；清洁干净后，配合使用FREEDAY skin纯植物毛孔收敛水，促进毛孔收敛。建议每周使用一次。", "控油 清洁毛孔 收缩毛孔 去黑头 ", "暂无", "护肤系列", "2015-05-22 20:45:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("40fabdae4c1a47efabe4bf7e8410f140", "402881AC4D411BBA014D411BBAF80016", "雅丽洁", "雅丽洁 去黑头凝胶", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/17/spcgroup/proportion_290x290/13241080238185580.jpg", "￥13", "T区护理分类: 其它T区护理产品
+    化妆品规格: 正常规格
+    品牌: Yalget/雅丽洁
+    T区护理单品: 去黑头凝胶
+    适合肤质: 油性肤质", "去黑头 ", "55ml", "其他系列", "2015-05-22 20:46:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f1927aef8fc14f4ca107e355b3e82b15", "402881AC4D411BBA014D411BBAF80016", "可贝尔", "可贝尔 茶树油黑头修护组合", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/5/spcgroup/proportion_290x290/12915583562744140.png", "￥99", "Normal
+0
+
+7.8 磅
+0
+2
+
+false
+false
+false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MicrosoftInternetExplorer4
+
+
+
+
+
+
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:普通表格;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-parent:"";
+mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+mso-para-margin:0cm;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;}
+
+针对面部常见黑头、毛孔粗大的肌肤问题推出一款全面解决的产品，在祛黑头的同时对毛孔起到直接的修复作用。洁净并细致收紧毛孔，平衡油脂分泌，令肌肤清爽自然，恢复健康中性肌。", "", "组合装", "其他系列", "2015-05-22 20:46:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("921a3a199b3942ab9dd6e43d4fe979d2", "402881AC4D411BBA014D411BBAF80016", "朵拉朵尚", "朵拉朵尚 去黑头收缩毛孔精油", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201110/9/spcgroup/proportion_290x290/13181689544883140.gif", "￥79", "成份：天竺葵、柠檬、广藿香、葡萄籽油。
+ 
+功效：以独特的精油分子淡化肌肤表皮沉淀的色素，轻松达到美白及护肤的效果，净化毛孔、促进新陈代谢、防皱、深层滋养肌肤、改善橘皮组织、收缩微血管。渗透肌肤底层，达到紧致美肤功效，使暗沉的肌肤净白红润。
+ 
+用法：洁肤后，取适量本品与相应部位按摩10-15分钟至吸收，无需清洗。
+ 
+注意事项：日光浴之前请勿使用。", "收缩毛孔 去黑头 ", "10ml", "其他系列", "2015-05-22 20:46:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0b07a12458df428da8262e161304da10", "402881AC4D411BBA014D411BBAF80016", "赫拉", "赫拉 去黑头去角质按摩啫喱", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/15/spcgroup/proportion_290x290/13001959668955190.jpg", "暂无报价", "适用肤质：利用油的柔和使用感，不流动为其特点。去除多余角质，调理黑头为疲劳的肌肤给予充分休息，使肌肤亮白，有光泽，打折清爽肌肤。按摩后用水也能冲洗干净。并有洁面油的功效，使用非常方便。使用方法：每周1～2次，取适量于手掌上搓揉后，涂抹于全面部及颈部轻轻按摩2～3分钟后", "清洁毛孔 去黑头 ", "暂无", "其他系列", "2015-05-22 20:47:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8c9158edd985494bb2a75f073ca89063", "402881AC4D411BBA014D411BBAF80016", "菲诗小铺", "菲诗小铺 黑莓竹炭EX去黑头鼻膜(管)", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/15/spcgroup/proportion_290x290/13160962147073080.jpg", "￥35", "深层清洁同时保湿使肌肤干净柔软，任何肌肤,温和不刺激皮肤", "清洁毛孔 去黑头 ", "50ml", "其他系列", "2015-05-22 20:47:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e0a1cf94ad43489b8f79b5597d3bac2e", "402881AC4D411BBA014D411BBAF80016", "李医生", "李医生 吸黑头鼻贴/清爽绿茶控油配方", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1503/18/c1/spcgroup/proportion_290x290/4068491_1426683467152_400x400.jpg", "￥9.9", "·功效：清爽控油配方，清凉舒爽，收缩毛孔，有助减少鼻部多余油脂分泌。透气鼻贴膜，遇水释放丰富原生质，游离阻塞毛孔的顽固黑头并集中吸附在贴膜上，轻轻一揭，黑头便能连根拔出。 缺货
+        
+    
+
+
+    
+        
+             
+        
+        
+            ·使用方法: 洁面后，用清水彻底沾湿鼻子，以鼻贴中央对准鼻梁，将光滑面贴于鼻上，和肌肤紧密贴合。10－15分钟，待鼻贴干透，从两侧向鼻梁方向把鼻贴轻轻撕起。", "去黑头 ", "5片", "面膜护理系列", "2015-05-22 20:47:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b75b22caa8b143b5992fe18b7f1e93ac", "402881AC4D411BBA014D411BBAF80016", "迪梵", "迪梵 黑头清理乳液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1207/24/c0/spcgroup/12526435_1343126750054_400x400_290x290.jpg", "￥245", "纯洁的皮肤、亮丽匀净的色泽，触摸时犹如丝缎般光洁。", "保湿 净化排毒 去黑头 ", "50ml", "其他系列", "2015-05-22 20:47:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fc91bddba2b447358667813fc9723125", "402881AC4D411BBA014D411BBAF80016", "静佳", "静佳 T区专用清洁凝胶", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/6/spcgroup/proportion_290x290/12916441472689420.jpg", "暂无报价", "T区护理分类: 其它T区护理产品
+    化妆品规格: 正常规格
+    化妆品容量: 30g/ml
+    品牌: jplus
+    T区护理单品: Jplus T区专用清洁凝胶...", "清洁毛孔 去黑头 ", "30g", "护肤系列", "2015-05-22 20:47:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("171361c0f01b49b1b61834da39fc67b9", "402881AC4D411BBA014D411BBAF80016", "泽平", "泽平 除痘印去黑头精华套装", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/20/spcgroup/proportion_290x290/12928570792072380.jpg", "暂无报价", "", "去黑头 ", "暂无", "其他系列", "2015-05-22 20:47:12")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("24e07105f9e543b0b2c1b9a18d68f624", "402881AC4D411BBA014D411BBAF80016", "清芝", "清芝 黑头净缩毛孔三件套装(超强神奇去黑头)", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/18/spcgroup/proportion_290x290/12953587367721040.jpg", "暂无报价", "规格：黑头导出精华液30ml   黑头紧附吸出膜60ml   黑头紧附吸出膜30ml
+
+产品介绍：
+告别草莓第1步：黑头导出精华液 30ml 
+功 能：乳化黑头，使深藏于油脂位的黑头、白头、油脂粒自然浮出皮肤表面，并能抑制黑头再次生长的速度，无痛楚，不红肿。
+用 法：取适量本品打湿化妆棉，在鼻上黑头集中部位按摩1-2分钟，然后再紧紧贴敷约3分钟后可见黑头明显浮出后揭开。亦可用在嘴角、下巴白头处，使用时间可适当减短。
+
+注：皮肤特别敏感者或有破皮伤口者，请勿使用。
+少数人使用有轻微刺激感属正常，如刺激感加重请立即停用。
+黑头导出精华液停留时间视肤质而定，肤质较干较薄者时间可稍短，皮肤较油较厚者时间可稍长。
+
+告别草莓第2步：黑头紧附吸出膜 60ml 
+功 能：天然植物粘液提纯成份，将紧紧吸附使用完黑头导出液后浮出的黑头、白头、老死角质和油脂粒，并将其清除干净。
+用 法：使用完黑头导出精华液后无须洁面，直接取本品均匀涂于鼻翼周围及面部黑头集中部位，请尽量涂厚、涂均匀，待15-20分钟左右干透后，将面膜从左到右轻轻撕下即可。
+注：因膜的吸附力强，才能保证将黑头、白头大量吸附及祛除，正因此，当膜揭下时，鼻部会有轻微发红现象，此属正常，只需注意揭下时动作轻柔即可，轻微发红现象将很快消失。
+
+告别草莓第3步：收细毛孔精华液 30ml 
+功 效：珍贵植物收敛配方，高效收缩黑头祛除后的粗大毛孔，修护肤质，令肌肤回复紧致细滑，毛孔越来越紧致。
+用 法：使用完黑头紧附吸出膜后无须洁面，直接取适量打湿化妆棉，紧紧贴敷于祛黑头部位约10分钟后揭去。亦可作日常护肤单独使用，两天一次收毛孔护理，持续使用，毛孔收缩的效果会令您喜出望外！
+套装有减缓黑头生长速度的作用，因此，在第一个月一周使用用一次，第二个月始两周使用一次即可。", "", "暂无", "其他系列", "2015-05-22 20:47:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7d7c7ea50bb54bbf9ead9300bf8a6740", "402881AC4D411BBA014D411BBAF80016", "奶奶的百草堂", "奶奶的百草堂 中药美白去黑头鼻膜粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/18/spcgroup/proportion_290x290/12900849601535400.gif", "暂无报价", "产品介绍：【规格】：6-8次的使用量，约四十多克【成份】：白芷当归等【功效】：鼻部美白．祛黑头．收毛孔【用法】：取一袋的六分之一，用温水调匀，20-30分钟后洗去，一周三次．一袋可以用两周．[温馨提醒]:去黑头原理：软化黑头—溶解黑头—清除黑头不同于撕拉鼻膜一次见效果", "去黑头 ", "暂无", "其他系列", "2015-05-22 20:47:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("034df9de18304b46a15c67d43e289764", "402881AC4D411BBA014D411BBAF80016", "凡茜", "凡茜 黑莓去黑头磨砂颗粒", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/24/c1/spcgroup/13185105_1345816036178_400x400_290x290.jpg", "￥19", "莓纯植物精华，迅速渗入毛孔，深层净化顽固黑头、同时去除老化角质、油垢、污垢。使毛孔清洁不阴塞，半净的肌肤充满健康活力。成分：核桃壳微粒：拥有天然间隙，吸附尖垢杂质、去除死皮，平滑肌肤。墨角藻颗粒：中和油脂、强力吸取黑头、对抗暗疮粉刺。", "清洁毛孔 去黑头 ", "50g", "其他系列", "2015-05-22 20:47:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("46cfbe692f074390ac9a669ce881c4d2", "402881AC4D411BBA014D411BBAF80016", "恋妆", "恋妆 强效祛黑头鼻贴", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/21/spcgroup/proportion_290x290/13244786809479520.jpg", "￥106", "特有植物精华成份有限地软化鼻子。下巴等顽固的皮脂使其自然地脱落。适用感柔和不刺激肌肤，清楚皮脂的同时有效调节皮脂分泌，预防黑头再次形成。", "去黑头 ", "暂无", "其他系列", "2015-05-22 20:47:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("81a36ab0a39d4235a404f9b744e4d1c9", "402881AC4D411BBA014D411BBAF80016", "城野医生", "城野医生 去黑头果酸去角质啫喱", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/24/c1/spcgroup/13184517_1345813414037_400x400_290x290.jpg", "￥168", "天然橙子精油将毛孔中堆积的皮脂浮出，杏核磨沙粒将其排掉。此外，果酸（柠檬果汁，猕猴桃精华）将肥厚角质软化，将毛孔的大敌一扫而净。主要成分：杏核(scrub剂)，橘子油，混合植物提取物(9种植物的混合提取物)，enmeisouekisu，柠檬果汁提取物等。", "", "120ml", "其他系列", "2015-05-22 20:47:23")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b116209f07f446a08decb0f7d2ffefda", "402881AC4D411BBA014D411BBAF80016", "李医生", "李医生 去黑头毛孔紧致套装", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1503/17/c0/spcgroup/proportion_290x290/4012652_1426600444183_400x400.jpg", "￥62", "去黑头面膜的吸黑头配方，直接吸附于T字部位，深入清除毛孔内顽固黑头，同时收敛毛孔，肌肤更细致。能持续发挥收敛作用，吸除黑头后，可令肌肤在短时间内回复细滑。并将黑头完全软化，通过毛孔排出，肌肤变得干净清透。毛孔细致水清爽的水油平衡配方，水润收敛毛孔，清新洁净肌肤，补水保湿，改善肌肤水油平衡，逐步收敛毛孔，肌肤由内而外清新爽洁，细致平滑！·温和软化角质，深入净化毛孔，并及时清走毛孔内的油脂污垢，肌肤保持干净清透。·平衡油脂与水分的均衡，细致毛孔，肌肤回复细腻平滑！·持久锁水保湿，深层滋养同时改善肌肤粗糙及干燥，肌肤光泽细腻，紧实有弹性！", "收缩毛孔 ", "套装", "护肤系列", "2015-05-22 20:47:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("954368f76ff1404eb29331ced269274e", "402881AC4D411BBA014D411BBAF80016", "泽平", "泽平 去黑头套装", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/20/spcgroup/proportion_290x290/12928539406362510.jpg", "暂无报价", "原价：37.00元本品富含从天然植物中萃取的黑头消溶(HTX)浓缩精华液,丰富爽滑的深层洁肤泡沫,能迅速荡涤堵塞在毛囊口上的黑头、油腻和污垢，平衡皮脂分泌，洁净肌肤。洗后令肌肤爽滑、滋润和通透。
+                        
+                        使用方法：1.用温水润湿面部，取本品适量于手心，揉搓起泡沫，敷于面部。
+                        2.黑头部位施以打圈按摩的方法，按摩2-3分钟至起丰富的泡沫。
+                        3.温水洗净泡沫，拭干即可。
+                        
+                        配合“泽平黑头消溶修护乳”或“黑头一揭净胶膜贴”使用，效果更佳。原价：88.00元
+                        
+                        本品是将人参、田七等富含黑头消溶因子（HTX）的6倍天然浓缩精华液与进口高级胶膜成型成分科学结合而成。具有快速吸附黑头、溶解黑头及皮脂粒的功能。轻轻一揭，黑头没有了，皮肤变得洁净、紧致、细腻、光泽又平滑！卓越作用：具有快速吸附黑头、溶解黑头及皮脂粒的功能。轻轻一揭，黑头没有了，皮肤变得洁净、紧致、细腻、光泽又平滑！使用方法：用“泽平黑头消洁面爽”洗净面部、拭干。取本品适量，均匀涂抹于黑头皮肤部位（不可太厚或太薄），10-15分钟轻轻揭去已经成型的胶膜即可。配合“泽平黑头消溶修复乳”使用，会收到更佳的效果。本品精选人参、田七、当归、川芎等富含溶解黑头成分的天然名贵原料，采用现代科技萃取出黑头消溶因子（HTX），与水杨酸、果酸等活肤、嫩肤成分科学复配而成。具有快速溶解堵塞在毛囊口上的黑头，消除毛孔内的皮脂粒及污垢，紧致粗大的毛孔、改善黑黄晦暗的肤色，能够由外到内的深层修护，令肌肤清爽通透、紧致细嫩、光泽又平滑！
+                         
+                        卓越作用：本品富含从天然植物中萃取的黑头消溶(HTX)浓缩精华液,能迅速荡涤堵塞在毛囊口上的黑头、油腻和污垢，平衡皮脂分泌，洁净肌肤。洗后令肌肤爽滑、滋润和通透。 
+                        
+                        使用方法：用“泽平黑头消洁面爽”洗净面部，拭干。取本品适量，均匀涂抹于黑头皮肤部位，按摩片刻至吸收。每日2-3次。顽固黑头，反复无常。给你推荐个长久去黑头的妙方：用泽平“去黑头三件套”，纯中药成分，药效持久，黑头不反复。", "去黑头 ", "暂无", "其他系列", "2015-05-25 09:44:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8fd305c60b514f32aab5356f38b153da", "402881AC4D411BBA014D411BBAF80016", "泽平", "泽平 祛痘去黑头修护精华套装", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/20/spcgroup/proportion_290x290/12928569323566510.jpg", "暂无报价", "", "去黑头 ", "暂无", "其他系列", "2015-05-25 09:44:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("949e8ffec7ad4a4c86d3da1472dc2bc8", "402881AC4D411BBA014D411BBAF80016", "泽平", "泽平 黑头消融修护乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/20/spcgroup/proportion_290x290/12928575412403120.jpg", "暂无报价", "本品富含从天然植物中萃取的黑头消溶(HTX)浓缩精华液,能迅速荡涤堵塞在毛囊口上的黑头、油腻和污垢，平衡皮脂分泌，洁净肌肤。洗后令肌肤爽滑、滋润和通透。【使用方法】
+        
+        
+            
+            
+                
+                    
+                        
+                        用“泽平黑头消洁面爽”洗净面部，拭干。取本品适量，均匀涂抹于黑头皮肤部位，按摩片刻至吸收。每日2-3次。
+                        
+                        
+                    
+                
+            
+            
+        
+        
+             
+        
+        
+            【产品简介】
+        
+        
+            
+            
+                
+                    
+                        
+                        本品精选人参、田七、当归、川芎等富含溶解黑头成分的天然名贵原料，采用现代科技萃取出黑头消溶因子（HTX），与水杨酸、果酸等活肤、嫩肤成分科学复配而成。具有快速溶解堵塞在毛囊口上的黑头，消除毛孔内的皮脂粒及污垢，紧致粗大的毛孔、改善黑黄晦暗的肤色，能够由外到内的深层修护，令肌肤清爽通透、紧致细嫩、光泽又平滑！", "", "40ml", "其他系列", "2015-05-25 09:44:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("23eda83299714f14b7fbde7fbe2f1743", "402881AC4D411BBA014D411BBAF80016", "膜法世家1908", "膜法世家1908 绿豆酵素去黑头导出液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20122/8/spcgroup/proportion_290x290/13287122760216590.jpg", "暂无报价", "天然绿豆萃取液和绿豆酵素：软化、溶解黑头，软化皮肤角质层，扩张毛孔，溶解毛孔中的油脂阻塞物，促使黑头白头浮出；甘醇酸： 促使黑头脱落，加速老废角质细胞更新，让毛孔周围的角化油脂栓易于脱落，畅通毛囊。", "去黑头 ", "30ml", "其他系列", "2015-05-25 09:44:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9745c22afcac48ca8a6e230491b0c28f", "402881AC4D411BBA014D411BBAF80016", "清一同方堂", "清一同方堂 西藏红花竹炭去黑头导出液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/1/spcgroup/proportion_290x290/13227215399102440.png", "暂无报价", "产品名称：清一同方堂 黑头导出液
+    T区护理分类: 黑头导出液
+    化妆品规格: 正常规格
+    化妆品容量: 120g/ml
+    品牌: 清一同方堂
+    T区护理单品: 黑头导出液
+    适合肤质: 混合型肤质", "", "120ml", "其他系列", "2015-05-25 09:44:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a8bbe975b3d14767aecd00dc6c7d0ffb", "402881AC4D411BBA014D411BBAF80016", "肌情", "肌情 橄榄净透黑头导出液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/02/c0/spcgroup/28245744_1383378399674_400x400_290x290.jpg", "￥78", "产品说明：蕴含丰富橄榄精华，可深入毛孔，净化肌肤、软化角质并具有极佳的溶解与软化功效，令深藏的黑头自动浮出皮肤表面，轻松导出，并能抑制黑头再次生长的速度。完美收细毛孔，让细滑肌肤从内而外呈现净透、亮白。
+主要成份：油橄榄果提取物、乳酸、水解弹性蛋白、柠檬酸
+使用方法：洁面后，先用热毛巾热敷T区部位2分钟，以便黑头更易导出。用化妆棉蘸取适量导出液敷于T区部位，2-3分钟后，取下化妆棉并用化妆棉轻柔擦干T区部位的导出液，可明显看出黑头、白头和污垢浮出毛孔。每周使用一次，配合火山泥T区黑头膜和毛孔紧致精华，效果更佳。
+适用肌肤：任何肤质，尤其适合黑头顽固、毛孔粗大的肤质。", "深层清洁 清洁毛孔 收缩毛孔 去黑头 ", "30ml", "护肤系列", "2015-05-25 09:44:27")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e12853c186f941ceaabe911153ae1dff", "402881AC4D411BBA014D411BBAF80016", "肌情", "肌情 火山泥吸T区黑头膜", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/02/c0/spcgroup/28245905_1383378644071_400x400_290x290.jpg", "￥58", "产品说明：蕴含火山泥矿物精华，具有深度清洁毛孔内污垢和迅速软化、溶解黑头等作用，收细毛孔，全面净化肌肤，营造肌肤的洁净、通透的健康状态；橄榄精华可以抗氧化减少肤色暗沉、毛孔粗大、收细粗糙肌肤的毛孔。并在肌肤表面形成防护层减少外界环境对肌肤刺激，肌肤净澈呈现，与黑头说拜拜。
+主要成份：油橄榄果提取物、水解弹性蛋白、火山泥。 
+使用方法：使用黑头导出液后，取适量本品涂于T区部位，10-20分钟干透后，由左往右轻柔撕去，配合橄榄毛孔紧致精华，效果更佳。
+适用肌肤：任何肤质，尤其适合黑头顽固、毛孔粗大的肤质。", "清洁毛孔 收缩毛孔 去黑头 ", "25ml", "护肤系列", "2015-05-25 09:44:29")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("29e443d307f245ad8ad0fec6e23d431f", "402881AC4D411BBA014D411BBAF80016", "安植", "安植 黑头护理套组", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/28/c0/spcgroup/25023600_1377699888456_400x400_290x290.jpg", "暂无报价", "成份： 牛蒡根提取液、蛋白溶解酶、茶树精油、金缕梅提取液 功效： 天然植物提取液，有效软化角质帮助粉刺、黑头代谢正常。能乳化油脂及分泌物，使其自然伏出表面，自动平衡肌肤 PH 值，令肌肤更细致、更光洁。 产品组成： 黑头护理液　　　　 肌肤紧致精华液　　 适用肤质：专门针对“T”字部位之黑头、粉刺、毛孔粗大。", "祛粉刺/祛痘 收缩毛孔 去黑头 ", "暂无", "净化清痘系列", "2015-05-25 09:44:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e94368373a8742a4b8cafb75f3766b9b", "402881AC4D411BBA014D411BBAF80016", "悦诗风吟", "悦诗风吟 济州岛火山岩泥毛孔清洁鼻贴(6片)", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1310/16/c0/spcgroup/27584541_1381928041932_400x400_290x290.jpg", "￥20", "运用济州岛火山岩泥吸出毛孔深层隐藏的黑头，是使毛孔清爽平滑的毛孔清洁鼻贴。
+适用人群：鼻部肌肤暗沉不光，需要去除黑头的消费者，以及额头，下巴部位因皮脂分泌过剩而毛孔突起不平滑的消费者。", "深层清洁 清洁毛孔 清洁 ", "6p", "济州岛火山岩泥系列", "2015-05-25 09:44:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("6799739c31b0427a8d9cd068762a545c", "402881AC4D411BBA014D411BBAF80016", "瓷肌医生", "瓷肌医生 清肌净颜黑头导出液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1309/03/c0/spcgroup/25227889_1378214841469_400x400_290x290.jpg", "￥179", "独有的木瓜蛋白分解酶，能迅速渗入毛孔，有效软化黑头“栓”样物，使其自动浮出皮肤表面，彻底清理黑头的同时，避免了鼻贴、挤黑头等手段的“强硬式”清理方式，使毛孔避免损伤。", "保湿 补水 清洁毛孔 收缩毛孔 清洁 ", "100ml", "去黑头系列", "2015-05-25 09:44:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4d1ac0a9b2cf4d40bc4ab9d6764a8869", "402881AC4D411BBA014D411BBAF80016", "比度克", "比度克 去黑头导出液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1401/28/c0/spcgroup/30919243_1390877447945_400x400_290x290.jpg", "￥90", "产品功效:迅速软化皮肤角质，令堵塞毛孔的黑头，油脂栓松动，浮出，使其更容易清理。 
+ 
+使用说明:首先用洗面奶将鼻子或需要使用的皮肤清洁干净，将黑头导出液喷在化妆棉上，化妆棉敷在鼻子上5分钟，可配合热敷使用效果更佳（热敷：将毛巾放在热水中浸湿，水温不要太高，略高于皮肤温度，40度左右即可），5分钟后拿掉化妆棉，黑头会浮在皮肤表面，用暗疮针圆圈的一头迅速轻轻刮下，不要太用力，以免弄伤皮肤，再用洁面膏清洁下，最后用毛孔细致精华帮助收缩毛孔，再用其他日常护肤品。去黑头的使用频率为一周一次。
+ 
+ 
+小比推荐:吸盘式清洁生物技术，清除细微处黑头。360度零死角！三维立体导出深层黑头，更彻底！ 
+ 
+小贴士:护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！", "去黑头 ", "30g", "其他系列", "2015-05-25 09:44:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("226eca39a54745048051e854b2b1dc3e", "402881AC4D411BBA014D411BBAF80016", "Mario", "Mario Badescu", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20101/18/spcgroup/1263802085246_290x290.jpg", "暂无报价", "清除堵塞于毛孔的污垢，对去除黑头尤其有效。更能控制T字位的油脂分泌，减少油脂粒的出现。用法：以温水洗脸拭干后，以温水拭湿棉花，轻轻点于速效吸油去黑头粉中，再轻按于T字位及黑头位置，待15分钟，用温水洗净便可。", "去黑头 ", "29g", "其他系列", "2015-05-25 09:44:44")

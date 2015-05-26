@@ -1,0 +1,90 @@
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7151c173803147b18082c84c2ced024e", "402881AC4D4188E9014D4188E99D0002", "澳蕾丝", "澳蕾丝 定妆嫩肤安瓶", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20127/23/spcgroup/proportion_290x290/13430404144552540.jpg", "￥108", "主要成分：去离子水，胶原蛋白，小分子透明质酸，RHODODENDRON EXTRACT，海藻提取物 
+ 
+          使用方法：洁面后取适量产品于全脸颈部涂擦轻拍吸收后即可  功效作用：能迅速渗透肌肤，瞬间紧致紧肤，           收缩毛孔，保湿补水，持久定妆", "", "10ml", "彩妆系列", "2015-05-25 14:57:45")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("11e78a261b4c4aa99214526823766a11", "402881AC4D4188E9014D4188E99D0002", "印象之美", "印象之美 定妆粉", "http://i1.3conline.com/images/pclady/brand/brand_logo/20098/26/1251278450079.jpg", "￥490", "最后的王牌，至臻无上的质感。最大限度激活粉底上妆度及附着力，重整肌肤纹理，使肌肤更加细腻，增加透明感。保持妆容，更加持久。", "", "30g", "彩妆系列", "2015-05-25 14:57:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fa13eb961e0b489fab876e926dca38df", "402881AC4D4188E9014D4188E99D0002", "盈彩可伊", "盈彩可伊 定妆粉饼（三色）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/23/spcgroup/proportion_290x290/13008606685518900.jpg", "￥82", "INKOII定妆粉饼 :含天然植物精毕萃取,马齿苋,维生素,天然矿物粉末,珍珠细粉末,令妆容更加明亮白皙,并含特殊配方令肌肤更加透气,清透,持久不脱妆.", "", "15ml", "彩妆系列", "2015-05-25 14:57:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("743d9b85e02741259ffc64af79b67e1a", "402881AC4D4188E9014D4188E99D0002", "澳蕾丝", "澳蕾丝 定妆控油安瓶", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20127/23/spcgroup/proportion_290x290/13430403062864430.jpg", "￥108", "主要成分： 水，1.3丁二醇，纤维素，薄荷醇，卡波姆，马齿苋，透明质酸，葡萄酵素等 
+          使用方法： 洁面后，直接涂擦于脸部，颈部轻拍至吸收后即可 
+          功效作用：能迅速被皮肤吸收，针对油脂分泌过多的部位迅速控油，是皮肤干爽清新，
+          使粉底妆和皮肤更加贴服，持久。", "", "10ml", "彩妆系列", "2015-05-25 14:58:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("be790d9bed9448c1a170f46692994732", "402881AC4D4188E9014D4188E99D0002", "罗拉玛斯亚", "罗拉玛斯亚 定妆醒肤乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/18/spcgroup/proportion_290x290/12926404845796270.jpg", "暂无报价", "完成整个妆容后，最后以定妆醒肤乳SecretFinish迅速轻拍于全脸或脸上显得疲惫及干燥位置，尤其是眼部周围肌肤。质地轻柔清爽，蕴含极幼细的米淀粉成分，于彩妆上形成柔焦效果及保护膜，卓越的保护及抗氧化幼纂A令肌肤清新富光泽，不泛油光。", "提亮肤色 活肤焕采 ", "暂无", "其他系列", "2015-05-25 14:58:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9dd275c7e6f8421b9f8fb5c34f802adb", "402881AC4D4188E9014D4188E99D0002", "霞飞", "霞飞 完美亚光定妆粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/13/spcgroup/proportion_290x290/12816958321056620.jpg", "暂无报价", "轻盈舒爽的清新感受，粉质细腻，不堵塞毛孔，令肤色更白皙自然，均匀柔滑。 
+吸收多余油脂，防水防汗，保持全天完美妆容。", "", "暂无", "彩妆系列", "2015-05-25 14:58:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("62223d0b24c24bcf8c7deb4a8f9881b0", "402881AC4D4188E9014D4188E99D0002", "蝶翠诗", "蝶翠诗 眉睫修护定妆液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/23/c0/spcgroup/14603540_1351004445398_400x400_290x290.jpg", "￥178", "防止眉妆与睫毛膏脱落、晕染，持久保持美丽妆效的定妆液。含有“定妆保护成分”的速干性全透明凝露，可迅速于眉毛、睫毛表面形成保护膜。出色的防水、防皮脂效果，能切实阻挡皮脂、汗液、泪液、水与摩擦。此外，采用了不会使眉毛、睫毛变硬的“柔软维持配方”，质感轻柔。妆效自然，无粘腻感。柔软的刷头，不但能均匀地涂抹眉毛和睫毛，且不会给肌肤增加负担。添加了獐牙菜精华、泛醇和水解蚕丝等修护成分。无油、无香料。·含有“定妆保护成分”，可迅速于眉毛、睫毛表面形成保护膜，无 油光、不粘腻，有效防止外界刺激导致的晕染与脱妆。并采用“柔软维持配方”，保持睫毛和眉毛的自然度，实现了几乎令人忘记存在的轻柔质感。·不仅含有改善眉睫生长环境、保持眉毛、睫毛健康的獐芽菜精华、泛醇，还添加了赋予眉睫柔软与强韧的水解蚕丝。上妆同时，实现了对眉毛与睫毛的温柔呵护。·柔软刷毛，连纤细的眉毛也能根根“捕捉”。优化配比的刷毛密度和毛量，可切实贴合每根睫毛，均匀地涂刷。触感舒适，不会给肌肤增加负担。", "", "6.5g", "其他系列", "2015-05-25 14:58:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9bb027657ca1489789bafac702bb8535", "402881AC4D4188E9014D4188E99D0002", "依琳娜", "依琳娜 完美无痕定妆液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/24/c1/spcgroup/13183200_1345806133823_400x400_290x290.jpg", "￥68", "成分：小麦胚芽油、霍霍巴油、高效保湿因子、超微细粉粒。特点：超强的亲肤性，能使彩妆持久自然，达到完美效果，独有的防水、防汗功能，即使在夏季也不需要时时补妆，令肌肤白皙润泽。用法：日间洁肤、护肤后、取适量本品均匀涂抹于面部，使用前必须搭配基础保养品。", "修颜 均匀肤色 ", "30ml", "其他系列", "2015-05-25 14:58:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7cba836a382148b588b72f7c551ced89", "402881AC4D4188E9014D4188E99D0002", "玫珂菲", "玫珂菲 持久定妆水", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20123/27/spcgroup/proportion_290x290/13328202610455670.jpg", "￥250", "•这款轻盈、舒适的持久定妆水可固定妆容，在皮肤表面形成轻盈无痕的保护膜
+•使用后能长时间的保护妆容以及肌肤免受外界的刺激（如环境的污染和温度的变化)。萃取天然的活性保湿成分使肌肤在毫无察觉中得到保护
+•使用在妆容结束之后或粉底之后，只需喷射一次或重复用在蜜粉、眼影、腮红上", "提亮肤色 活肤焕采 ", "125ml", "彩妆系列", "2015-05-25 14:58:37")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("78cc8cfd032a4e82b73c9f5b273471b9", "402881AC4D4188E9014D4188E99D0002", "BECCA", "BECCA 闪光塑型液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/22/c0/spcgroup/24768827_1377172682096_400x400_290x290.jpg", "￥260", "What it is:
+A sheer liquid highlighter and moisturizer that veils skin in a soft， pearly glow. 
+
+What it does:
+Luminous and water-light， this sheer liquid achieves a lustrous radiance with ultra-fine， light-reflecting particles that subtly highlight the face and diffuse uneven tone. Broad-spectrum sun protection and antioxidants keep skin looking fresh， young， and healthy. 
+
+What else you need to know:
+This product has been dermatologically tested.", "修颜 ", "50g", "彩妆系列", "2015-05-25 14:58:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("91ccc1264771444ea90801a895541601", "402881AC4D4188E9014D4188E99D0002", "韩律", "韩律 紫云保湿镇定膏", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1402/26/c0/spcgroup/31590268_1393403445868_400x400_290x290.jpg", "￥102", "《来自星星的你》中，化妆师手中的小红盒原来就是韩律紫云保湿镇定膏。如果你想问这化妆品好不好用，看看剧中那底朝天的盒子就知道啦！这是一款多功能保湿膏，在韩国一上架疯狂贩售。该款保湿膏适合在干燥的季节使用，你身体所有只要感觉干和敏感的部位都可以用，拥有超好的保湿和修复作用。主要成分有紫草提取物（皮肤镇定）、莲花胚芽提取物（皮肤安定）。", "活肤焕采 修颜 均匀肤色 ", "20g", "彩妆系列", "2015-05-25 14:58:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5bdb55e14dc74eddb04b1eaf02fbfce9", "402881AC4D4188E9014D4188E99D0002", "霞飞", "霞飞 轻柔亚光定妆粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/13/spcgroup/proportion_290x290/12816997451651170.jpg", "￥30", "防水特质，上妆持久，即使流汗也不用担心脱妆，吸取面部多余油光。 
+特别添加了防水特质和闪亮因子，上妆后皮肤极具透明感，即使出汗也不怕，莹透细腻，带给肌肤自然的光泽。 
+有4种颜色可选 
+自然色适合白皙健康的肤色，绿色可以遮盖红血丝。紫色可提高黯淡无光的肤色。", "", "暂无", "彩妆系列", "2015-05-25 14:59:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("955014a2f0204a5c99b9464869f09c9b", "402881AC4D4188E9014D4188E99D0002", "Aromaleigh", "Aromaleigh 天然矿物瓷娃娃定妆粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20106/25/spcgroup/proportion_290x290/12774423007791090.jpg", "暂无报价", "适合萝莉造型，略偏灰蓝色。根据面部的活动，会随角度变化显现出有柔和的光泽及非常精巧的微闪，让您的脸庞如精巧的瓷娃娃般细腻。天然矿物成分能够吸收肌肤分泌的油分，但不会令皮肤干燥，妆面持久完美。 
+用于粉底粉或粉底液后定妆，尤其适合搭配Aromaleigh的哑光粉底粉，打造如瓷娃娃效果哦。 
+敏感肌肤也可使用", "", "暂无", "其他系列", "2015-05-25 14:59:12")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("709d2887ec8140c38a9c3e79b88d3a26", "402881AC4D4188E9014D4188E99D0002", "色彩地带", "色彩地带 彩颜定妆粉珠", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/5/spcgroup/1260018598703_290x290.jpg", "￥105", "全新色彩原理配方，采用变幻多色的粉珠，细腻粉质，从多方位折射不同光线，巧妙遮盖脸部瑕疵，展现肌肤迷人光彩，打造亮丽白皙的完美妆容。", "遮瑕 ", "30g", "彩妆系列", "2015-05-25 14:59:15")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5fc053d65fe14655a835f4fa38c43eb1", "402881AC4D4188E9014D4188E99D0002", "欧菲姿", "欧菲姿 亲柔透气定妆粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/11/spcgroup/proportion_290x290/12894885630407060.jpg", "￥219.0", "◆使粉底效果更细腻均匀，防止花妆、掉妆；
+ 
+◆透气超微粒子，不堵塞毛孔，肌肤全无负担，柔和修饰
+ 
+肌肤表面，用感细腻自然；
+ 
+◆能抑制多余的油脂，持久保持肌肤不泛油光，清爽舒
+ 
+适，使粉底效果更加持久。
+ 
+☆明星产品重点推荐：起到定妆的效果，粉质细腻，透气性强不堵
+ 
+塞毛孔，能有效抑制油脂，让肌肤更清爽，使妆面保持不出油，是完
+ 
+美妆面的不二之选", "", "暂无", "其他系列", "2015-05-25 14:59:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8e887da363d14511915eff933500a400", "402881AC4D4188E9014D4188E99D0002", "荘能子", "荘能子 雪蜜透亮定妆粉", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/28/c0/spcgroup/16972583_1356698916223_400x400_290x290.jpg", "￥500", "两种微细粉粒，轻柔涂抹，使肌肤呈现顺滑效果；微粉细腻精致，如丝般的面纱，使肌肤看起来更美；防止汗液，皮脂造成的暗沉，使肌肤细腻精致，晶莹剔透。在发挥底妆色泽的同时，让肌肤更显美丽", "", "30g", "底妆系列", "2015-05-25 14:59:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("89d41c18bdae4dbcb8a045b14058df70", "402881AC4D4188E9014D4188E99D0002", "澳蕾丝", "澳蕾丝 持久嫩滑定妆安瓶", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20122/14/spcgroup/proportion_290x290/13292160465889720.jpg", "￥108", "【产品特性】主要成分为蒸馏水水，透明质酸，胶原蛋白，多糖酶。在人体皮肤表皮下有一层较厚的真皮组织，其中90%是胶原成分；而胶原是构成皮肤肌腱，骨骼等的纤维状蛋白质，而当人体随着岁月的累积，渐渐体内之非水溶性胶原蛋白增加而水溶性胶原减少，肌肤弹性降低，网状组织纤维变硬，使肌肤老化速度加快，而产生皱纹，松弛，下垂；当皮肤缺少胶原蛋白质时皮肤就开始产生老化现象；所以胶原针对老化肌肤有卓越改善效果， 并针对伤口愈合效果绝佳 。 
+【产品功效】因胶原蛋白具有促进肌肤再生功能，所以当肌肤出现老化现象，缺少弹性及光泽时（如眼角及嘴角出现皱纹）或皮肤不易上妆时，可使用本产品增加皮肤之弹性及光泽，使肤质更加紧致；定妆安瓶选用小分子胶原蛋白，易于为皮肤吸收，与皮肤融合性强，保证了皮肤胶原蛋白的足量供应，长期使用可保持皮肤滋润、有弹性。 
+【适用对象】适用于任何肤质，特别是受损及老化肌肤 
+【用法】 洁肤后打开瓶盖，套上滴头，滴出适量于面部或颈部即可（配合超声波导入仪效果更佳）
+【备注】本产品为化妆品级，仅供外用，不得用于注射", "提亮肤色 活肤焕采 ", "暂无", "其他系列", "2015-05-25 14:59:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("80b97b0e23dd42e68e67e904e76dd9e2", "402881AC4D4188E9014D4188E99D0002", "赫拉", "赫拉 定妆粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/15/spcgroup/proportion_290x290/13001938936173830.jpg", "暂无报价", "", "", "暂无", "其他系列", "2015-05-25 14:59:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ac0b6d36bdf947cb916358a108502ddc", "402881AC4D4188E9014D4188E99D0002", "贝玲妃", "贝玲妃 定妆眼影底霜", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20099/29/spcgroup/1254223957731_290x290.jpg", "￥240", "这是专门防止眼皮出油、让眼影持久不脱妆的眼影底膏。沿着眼皮轮廓涂上这款杏桃色的眼影底膏， 能够让眼皮更加柔软光滑。 热爱彩妆、眼影容易脱妆、容易泛油光产生皱褶的女性的最佳帮手！ 使用小技巧：用手指在整个眼睑部位均匀涂抹。一点点就够。每天上妆后或单独使用都可以。", "", "7.0g", "伪装系列", "2015-05-25 14:59:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d7098fa24c6e4e8b8abb2aee0c78cb33", "402881AC4D4188E9014D4188E99D0002", "贝玲妃", "贝玲妃 she-laq神奇防脱妆定妆水", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u17/spcgroup/15803_s3_290x290.jpg", "￥510", "不得不介绍的一款非常神奇液体，内含4个刷子分别可以用在脸上任何地方。在化妆之前用这个可以使妆容保持更持久，也具备了防水防汗功能，以后涂睫毛膏就不怕黑眼圈了，眼影也不怕掉了。而且用这个之后非常好上妆，脸上不再有油的感觉。有了she-laq,你不必再为防水犯愁。它可以为眼影、眼线、睫毛膏和唇膏穿上一层坚实的外衣，自带的4个迷你型刷子使用方便。游泳前用she-laq，这样下水前不必特意卸妆,而游完泳后眼妆依然鲜亮，不会有一点晕开,真的是很神奇。所有的睫毛膏都成了超级防水的偶到现在只用了睫毛部分,感觉比睫毛雨衣更加的防水，其他还没用主要不到夏天也不需要防水什么的。", "", "15ml", "其他系列", "2015-05-25 15:00:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("de9d14ad16a644139fa13adff5248f9c", "402881AC4D4188E9014D4188E99D0002", "嘉魅儿", "嘉魅儿 360度立体定妆粉珠", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20104/29/spcgroup/proportion_290x290/1272544853999.jpg", "￥138", "产品功效：
+            
+            创新科技产品，独创360度立体包裹技术。内载空心球形粉体，较传统粉体更轻盈、服帖有弹性。配合粉扑滚动涂抹，令上妆更均匀持久，肤质更自然剔透。", "", "18g", "其他系列", "2015-05-25 15:00:11")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a66e009f61a849c8916505aef1f430cf", "402881AC4D4188E9014D4188E99D0002", "贝玲妃", "贝玲妃 Stay", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1402/12/c0/spcgroup/31190062_1392188206559_400x400_290x290.jpg", "￥310", "Stay Flawless无瑕持久定妆底霜则是可以像磁铁般牢牢锁住妆容，让你从容应对约会，派对，见客户等各种突袭，一举告别补妆烦恼，妆容清新如初一整天！
+
+Stay Flawless无瑕持久定妆底霜包装延续了Hello Flawless完美无瑕底妆系列的同时又新加了波点元素，显得更加俏皮可爱；独创旋转棒设计，方便适量使用，随时随地轻松上妆；创新柔滑配方，质地轻薄无色，让你在轻松拥有无瑕肌肤的同时又能打造自然的妆效，尽情享受一整天的无瑕妆感。想从此告别脱妆的尴尬，彻底告别因补妆带来的厚重感？想让脸色更生动，让肤色更健康？STAY FLAWLESS无瑕持久定妆底霜绝对是你打造持久无瑕妆效无可替代的美妆法宝。再配合HELLO FLAWLESS无瑕家族盈氧亮泽的粉底液，和完美无瑕粉饼同时试用，肌肤愈显完美健康，自然润泽，简直无懈可击，无可挑剔。", "遮瑕 ", "15.5g", "完美无瑕粉饼系列", "2015-05-25 15:00:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c0da757b60eb48e386633e3fa7695551", "402881AC4D4188E9014D4188E99D0002", "阿尔法", "阿尔法 绝配无暇矿物质定妆提亮粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20106/16/spcgroup/proportion_290x290/12766589674571100.jpg", "￥12", "柔和天然感光粒子，与肌肤和谐交融，自然遮瑕修饰肌肤暗沉，有效吸收多余的油脂，突出彩妆的立体感和焦点部位，粉球的细小粉粉让你演出隐隐约约的色彩，用于脸颊。额头，鼻尖，身体头发，造型使用，突出脸部轮廓，提亮暗哑肌肤展现明艳新姿彩。", "", "10g", "其他系列", "2015-05-25 15:00:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("dcc706acf54941a2a47c46fe598e5506", "402881AC4D4188E9014D4188E99D0002", "安婷", "安婷 童颜净白定妆液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/28/spcgroup/proportion_290x290/13250561115703010.jpg", "￥89", "还原肌肤自然光泽！
+产品说明：
+净白亮丽：自然滋润贴合肌肤，柔滑易抹，上妆后纹理细致，能遮盖肤色的暗沉和不匀，令肌肤焕发自然光泽和弹性质感，更亮丽清透。
+均匀遮盖：滑顺轻盈的乳液质感，延展均匀，保持水润细嫩、柔滑平衡，使妆容细致光透、明亮焕彩！
+使用方法：轻点在脸上，再轻轻推开，运用指腹以画小圆的动作上妆，或是以海棉上妆，从脸部中央往两侧轻轻推匀。
+任何肤质：任何肌肤", "", "30g", "童颜净白系列", "2015-05-25 15:00:33")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ebda38358f284ee6b876baa2ef0b6e9e", "402881AC4D4188E9014D4188E99D0002", "克丽缇娜", "克丽缇娜 极光润色妆后乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20111/11/spcgroup/proportion_290x290/12947520921469240.jpg", "￥260", "专业彩妆吸引众人目光！ 富含新一代水溶性纳米微晶矿分子及保湿光彩因子，可瞬间提供肌肤水分、提亮肌肤光泽，无论在熬夜后肌肤疲惫，或需迅速补妆等状态，皆能立即提供晚宴所需的华丽妆感。", "提亮肤色 均匀肤色 ", "20ml", "色诱彩妆系列", "2015-05-25 15:03:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("39e6ecb9b28e4a0ebdd49ca46f4ade89", "402881AC4D4188E9014D4188E99D0002", "欧菲姿", "欧菲姿 柔嫩细致定妆粉", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/11/spcgroup/proportion_290x290/12894889215934090.jpg", "￥108", "•主要成分与作用：
+    
+采用纳米级粉质与珍珠贝壳粉末，使底妆更加靓丽剔透、
+ 
+打造凹凸有致的面部轮廓，作为T区提亮效果较佳", "", "暂无", "其他系列", "2015-05-25 15:03:51")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cc6c3bc5c55e447285c7375a958d398b", "402881AC4D4188E9014D4188E99D0002", "娜丽斯", "娜丽斯 莲花定妆精华液粉底露（晶透蓝）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/21/spcgroup/proportion_290x290/12903186354941380.jpg", "暂无报价", "适合肌肤类型：任何肌肤类型均可使用，肌肤干燥缺水无光泽，希望补水同时能修正肤色的尤其适合使用。此款为LASARA莲莲花胚芽精华美容液润色隔离乳，结合3种天然植物：莲花胚芽、山栀子、十药萃取精华等等成分制成，美容液兼粉底乳，遮盖粗大毛孔、掩饰凹凸不平，呈现健康肌肤肤色！", "", "暂无", "其他系列", "2015-05-25 15:03:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ff42f68ee3dd4fee9f6318fcc8f47d7a", "402881AC4D4188E9014D4188E99D0002", "玫珂菲", "玫珂菲 眼妆固定液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20123/27/spcgroup/proportion_290x290/13328204338589310.jpg", "￥260", "•可使所有眼部产品转变为防水性产品（如MAKE UP FOR EVER闪粉、眼颊彩、眼线饼、钻石闪粉、亮片、双用彩笔等）
+•无酒精配方，不会刺激肌肤，使用时闭上双眼
+•用眼妆固定液稀释、湿润彩色粉末，可将粉末转化成眼线或持久的防水彩妆产品
+•眼妆固定液会使色彩变得更强烈
+•只需一滴即可迅速产生效果", "提亮肤色 均匀肤色 ", "12ml", "彩妆系列", "2015-05-25 15:04:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f52a48b1709b4485aef59ac6ff098abc", "402881AC4D4188E9014D4188E99D0002", "angle", "angle eneland安琪儿", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/15/spcgroup/proportion_290x290/13160593106789520.jpg", "￥25", "成份：含玫瑰精华，透明质酸，洋甘菊萃取液，红没药醇，婴肌修复因子
+功能：瞬间在皮肤表面形成抗敏保护膜，补充水份让粉妆更持久，不易脱妆，形成优质底妆。", "提亮肤色 活肤焕采 ", "3ml/支，4支/盒", "彩妆系列", "2015-05-25 15:04:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9c2f79eb75d0494d8b34e9db9502f4d2", "402881AC4D4188E9014D4188E99D0002", "蝶翠诗", "蝶翠诗 紧致焕肤保湿定妆粉饼专用粉扑", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/22/c0/spcgroup/14571958_1350920058451_400x400_290x290.jpg", "￥20", "植绒加工的柔软粉扑表面，适当沾取粉饼，提高粉质上妆功效。", "", "正常规格", "彩妆系列", "2015-05-25 15:04:13")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("75b1a493f956400d8657e1c6f9394a20", "402881AC4D4188E9014D4188E99D0002", "兰瑟", "兰瑟 亲肤无痕保湿定妆喷雾", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1504/21/c0/spcgroup/proportion_290x290/5751313_1429622512182_400x400.jpg", "暂无报价", "喷雾定妆、轻盈保湿、妆容持久
+
+
+	革新定妆喷雾，在皮肤表面形成轻盈无痕防护膜，令妆容持久帖服不脱妆；蕴含葡萄柚萃取成分，迅速补充水分、舒缓肌肤干燥，轻盈舒适，呵护滋养肌肤。", "活肤焕采 ", "120ml", "彩妆系列", "2015-05-25 15:04:19")

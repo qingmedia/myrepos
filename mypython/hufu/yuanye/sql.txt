@@ -1,0 +1,463 @@
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8721203697d24b3ba0a0fd2bdb32f5ed", "402881AC4D411BBA014D411BBAF80013", "欧诗漫", "欧诗漫 珍珠白精萃美白原液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1302/01/c0/spcgroup/17906176_1359692150996_400x400_290x290.jpg", "￥198.0", "焕白    高倍凝萃的珍珠精华，轻松渗透肌肤底层，预先阻断黑色素生成途径，从源头开启肌肤美白潜能。
+淡斑    复配两项专利淡斑成分，深入淡化肌肤内部隐藏色斑，使肌肤由内而外重现纯净无瑕。
+去黄    天然温和、易于吸收，宛如一股美白甘泉，赶走干燥与黯黄，令肌肤状态日胜一日，白皙光采自然绽放。主要成分：水解珍珠、雪莲花提取物、白花百合花提取物、牡丹根提取物、水解大米蛋白、掌叶树提取物、神经酰胺 2、氢化卵磷脂。使用方法：
+1.使用柔肤水后，取适量美白原液（轻压喷头2-3次）2.以掌心温度将其微微加热（可加入少量珍珠粉）3.沿着肌肤纹理，由内而外均匀涂抹于整个面部4.需着重美白的部位，可再取少量原液，以无名指腹轻轻点按10-15秒", "美白 ", "30ml", "珍珠白净透系列", "2015-05-22 20:13:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ef2f267085824e2492bf7a6d732ff280", "402881AC4D411BBA014D411BBAF80013", "百雀羚", "百雀羚 水能量焕颜美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/12/c0/spcgroup/28569923_1384244733801_400x400_290x290.jpg", "￥138", "水能量焕颜美容液优选红景天、益母草、忍冬花、灵芝、野丹参等天然草本精华，触感清爽，有效舒缓柔软肌肤，均匀肤色和帮助抗氧化，令肌肤更水润透亮，同时提升肌肤对后续护肤产品的吸收力", "保湿 舒缓肌肤 抗氧化 ", "90ml", "水能量系列", "2015-05-22 20:13:48")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fe21f13fca304e049e50065c2bae183e", "402881AC4D411BBA014D411BBAF80013", "印象之美", "印象之美 修护美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/17/spcgroup/proportion_290x290/12820489269648630.gif", "￥1,480", "全面作用于干燥、粗糙及毛孔等肌肤烦恼的抗老化高功能药用美容液。
+集中解决各种肌肤烦恼的抗老化高功能药用美容液。水润醇厚的美容液柔滑延展于肌肤之上，并迅速渗入角质层。缔造由内而外透出水润与弹性的肌肤。新配方肉碱HCI，促进表皮的能量代谢，有效抑制角质代谢功能降低，调理紊乱肌理。帮助肌肤焕然新生，缔造肌理整齐、充满弹性及通透感的端正肌肤。", "保湿 抗衰老/抗皱 收缩毛孔 ", "40ml", "其他系列", "2015-05-22 20:13:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("82f503c4cfcc47d2b5ac2b1f3c9fff68", "402881AC4D411BBA014D411BBAF80013", "迪奥", "迪奥 水动力精萃美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/29227/spcgroup/29227-1_290x290.jpg", "￥420", "水润丰盈的精萃美容液，让你即刻体验超凡清新的感觉。使用过后，肌肤瞬感细腻柔滑，亮泽倍至。其配方采用“融入精华原液”技术，可即刻渗入肌肤表皮层，从肌肤各细胞层面上促进高效活性成分的吸收，重获水润年轻光采。Dior迪奥建议：每日早晚涂抹于脸部与颈部。用化妆棉或直接用手适当地轻压涂抹，为后续美妍程序作好充分准备。", "补水 ", "200ml", "水动力精粹系列", "2015-05-22 20:13:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("070d39db95c64b31929fde9c74e8538f", "402881AC4D411BBA014D411BBAF80013", "美伊娜多", "美伊娜多 灵芝盈白美容液", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/z9/spcgroup/200905112036222147_s3_290x290.jpg", "￥280", "用于日、晚间肌肤护理。建议：与灵芝盈白保湿水、灵芝盈白保湿乳配套使用效果尤为出众。容量:35ml", "保湿 美白 滋润 ", "35ml", "其他系列", "2015-05-22 20:13:56")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a7ece8950fa947e2b7b562f087bcc7f4", "402881AC4D411BBA014D411BBAF80013", "水之印", "水之印 美白美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1306/09/c0/spcgroup/21868999_1370773871952_400x400_290x290.jpg", "￥158", "资生堂AQUA LABEL水之印自上市以来，所倡导的“导入式护肤”理念受到了消费者广泛的喜爱。2010年3月春季美白季，水之印再次出击，导入全新的美白美容液，对抗既存色斑？潜在色斑，给予肌肤双重呵护。该款美容液上市后，在日本和台湾引起广泛关注和好评，不但马上成为日本最大化妆品口碑网站「@COSME」上的热评产品，更获得台湾知名美容节目《女人我最大》的最好用产品推荐。因首次在同等价位产品中添加美白精华成分，迅速成为各大传媒争相报道的对象。出众的美白效果和舒适的使用感，在短短时间内便赢得了众多女性的支持。
+对于既存色斑，水之印的独家见解是——有色斑的部位存在肌肤干燥和慢性炎症现象，而对于潜在色斑，色斑会在色斑肌肤周围不断蔓延且显得肌理紊乱，这款美白美容液就是针对上述问题而特别开发的。为了实现双重对抗既存色斑与潜在色斑，AQUA LABEL水之印首次在同类价格带的美白产品中填加了氨甲环酸成分（资生堂美白明星产品HAKU臻白无瑕中的重要成分），缓解慢性炎症并防止色斑蔓延。为了更好的达到美白效果，水之印还添加了调整肌肤保湿状态的成分（透明质酸、高保湿锁水成分、甘草酸二钾），能够调整肌肤保湿环境，帮助肌肤再生，缔造肌理细致、晶莹通透的美肌，同时“亲水渗透成分Aqua synergy” 切实作用于角质层，确保有效成分更加切实导入。
+经过了冬天的洗礼，在春季肌肤特别容易出现色斑、干燥粗糙、难以吸收保养品等问题，AQUA LABEL水之印啫喱状的美白美容液在轻松被推开的同时快速渗透作用于干燥色斑部位，令肌肤变得细腻柔软，这个春天，就让肌肤感受未有过的细致水润、晶莹通透！", "保湿 美白 ", "45", "晶澄美白系列", "2015-05-22 20:14:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b7c025c96266493f81ffd16be35c2b08", "402881AC4D411BBA014D411BBAF80013", "真百代", "真百代 主动美白再生乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20107/24/spcgroup/proportion_290x290/12799428473849830.jpg", "暂无报价", "主动美白提升，同步发挥弹力效果
+商品特长：主动美白提升系统，全面提升肌肤自身美白更新能力，能防止皮肤变黑，赋予通透的皮肤，体现美白效果；让肌肤保持润泽的同时，将受到紫外线等伤害的而硬化的肌肤加以柔软，创造充满饱满的弹力感与白净的肌肤。
+使用方法：用过化妆水后，倒1元硬币大小的量于掌心，均匀涂抹于脸部与颈部肌肤。", "保湿 补水 美白 滋润 ", "120ml", "EL奢华系列", "2015-05-22 20:14:02")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("182df0e2abeb4641a9afa90f37f5b3ee", "402881AC4D411BBA014D411BBAF80013", "巴黎欧莱雅", "巴黎欧莱雅 清润抗油光冰净哑光爽活液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20105/17/spcgroup/proportion_290x290/1274086937782.jpg", "￥100", "巴黎欧莱雅护肤中心首推欧莱雅清润冰净哑光爽活液，立即冰爽泛油光肌肤，并呈现哑光效果。作用：
+-重获清新的肌肤明显纯净，并被充分滋润，好像“水润有弹性”，感觉更柔软、哑光。
+-肌肤更细致、柔软，看起来更健康，充满光彩！", "保湿 补水 滋润 ", "暂无", "清润系列", "2015-05-22 20:14:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ca80a59adce84273b08c4e4e399d2a92", "402881AC4D411BBA014D411BBAF80013", "高丝艾文莉", "高丝艾文莉 硕硕鲜果美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/11/c0/spcgroup/16520305_1355214593605_400x400_290x290.jpg", "￥120", "配有7种水果提取液的清爽型美容液，使用感清凉剔透，创造清爽、不粘腻、具透明感的理想肌肤！瞬间补给水分，抑制皮脂过剩，令肌肤细腻，水油均衡。", "保湿 补水 滋润 ", "50g", "其他系列", "2015-05-22 20:14:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("912904c04cf848c498981ff2f200709f", "402881AC4D411BBA014D411BBAF80013", "牛尔娜露可", "牛尔娜露可 水仙雪耳多效修护美肌液（夜用／保湿型Ⅰ）", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1207/27/c0/spcgroup/12576980_1343381544642_400x400_290x290.jpg", "￥120", "水仙雪耳多效修护美肌液(夜用／保湿型Ⅰ）」，具有卓越加倍的保湿修护能力，添加高于日用保湿露浓度的雪耳萃取及玻尿酸，藉由丰富的黏多醣体以及独特的保湿因子，让肌肤获得长效且高效保湿，能发挥深入滋养与修护的效果，内含Phytoferulin®专利复合物和精选的水仙花球茎萃取，透过完美添加比例，提高肌肤抵抗力，卓越对抗第二天的外界环境压力。
+拥有好吸收不黏腻的水润凝露质地，使用后立刻拥有化妆水与精华液叠擦的滋润保湿效果，迅速将养分渗透至肌肤，更有助于后续修护成分吸收，特别适合给白天过度曝露在污染、烟害、气候变化多等环境的肌肤使用，能强化角质层的保水能力，改善粗糙及黯沉的肤况，调理肌肤更新活化，发挥保湿、亮白柔肤的效果。
+除了洗脸后，以轻擦、轻拍的方式进行化妆水基础保养外，建议可以善加运用化妆棉，藉由湿敷的方式，加强深层修复，提升肌质的规律化及健康化，亦推荐敏弱肤质或是混合性肌肤使用。", "保湿 美白 ", "150ml", "水仙肌源修护系列", "2015-05-22 20:14:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c59834ad533c47e2a62870c5ee8b14ee", "402881AC4D411BBA014D411BBAF80013", "靓妃", "靓妃 深层醒肤美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/7/spcgroup/proportion_290x290/12917306747400350.jpg", "暂无报价", "本品蕴含丰富的植物萃取精华，可有效提供肌肤深层所需营养及水分，使肌肤滋润、保湿，延缓衰老，并可增加肌肤弹性，能够有效缓解面部表情纹、干纹、皱纹等，令肌肤保持长时间舒适、水润的触感。使用后，令肌肤润泽而富有弹性。", "保湿 补水 ", "110ml", "植物精纯系列", "2015-05-22 20:14:11")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b995a025e9604764ad557155ee047eec", "402881AC4D411BBA014D411BBAF80013", "田缘舞沙", "田缘舞沙 左旋Vc美白净化原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/11/spcgroup/proportion_290x290/13157351415187340.png", "￥28", "产品介绍： 
+精纯的
+>>请勿抄录闺蜜网
+左旋Vc是唯一可被人体吸收的维他命C，可修复自由基及紫外线对肌肤所造成的伤害，帮助肌肤夜间还原色素，预防肌肤松弛，使肌肤柔嫩润白！迅速减少并淡化色素沉淀，让肌肤恢复细腻柔嫩，白晳靓丽。 
+
+适用肤质：除敏感皮肤外的其他肤质适用。 
+
+使用方法：洁面，用化妆水后，取适量原液均匀涂于皮肤。（建议初次使用1m
+>>闺蜜网（女性消费社区）
+l/次，一周后酌情减量），然后取乳、霜为皮肤锁水。
+>>闺蜜网欢迎你光临)", "美白 舒缓肌肤 ", "10ml", "其他系列", "2015-05-22 20:14:14")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d831384d242149678c53d761ad2d78d3", "402881AC4D411BBA014D411BBAF80013", "高丝艾文莉", "高丝艾文莉 萃籽活颜纯白美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/19/c0/spcgroup/16728009_1355909860242_400x400_290x290.jpg", "￥280", "循着对自然和美的精深理解，艾文莉品牌在中国提出了独具匠心的新理念，矢志将源远流长的汉方本草，转化为中国女性肌肤之美的不竭锦囊。因为，艾文莉深信当下越来越多的女性更需要天然的“膳待”和用心的呵护。2012年3月，将品牌定义为「肌肤膳养师」的艾文莉，为广大中国女性带来了至为值得期待的新品——萃籽活颜 纯白美容液。这款新品，将美白的理论简明阐述为「白加·黑减」这一四字法则，通过减少黑色麦拉淋色素、增加肤色麦拉淋来实现美白。不仅减少了色斑的生成几率，也同步让已生成的色斑获得改善，真正成就纯白美肌。萃籽活颜纯白美容液中所添加的核心美容成分——小麦胚芽提取物和小果咖啡籽提取物，能直击色素发生源、彻底还原美白肤色，并促进黑色素细胞正常代谢，防止黑色素堆积成团，分解淡化已显现于肌肤表面的黑斑，缔造不宜长色斑的美白肌质。同时，美容液中所含的多种植物种子精华以及渗透性良好的油分，确保感触醇厚的美白润泽膜能妥帖地密着于肌肤，持续实现美白滋润的补给。色斑无影踪，清透纯白肌。萃籽活颜纯白美容液，正是肌肤膳养师——艾文莉于清夏为肌肤所呈献的美白全新杰作。", "美白 滋润 ", "30ml", "萃籽活颜系列", "2015-05-22 20:14:15")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a77f79ceda97431d9bb047d98269efbe", "402881AC4D411BBA014D411BBAF80013", "田缘舞沙", "田缘舞沙 胶原蛋白弹力紧致原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/11/spcgroup/proportion_290x290/13157329448883550.png", "￥41", "产品介绍：随着年龄的增长，皮肤胶原蛋白的缺失，出现皮肤缺少弹性、毛孔粗大、皱纹、松弛等皮肤问题。胶原蛋白原液选用小分子胶原蛋白，易于为皮肤吸收，与皮肤融合性强，保证了皮肤胶原蛋白的足量供应，长期使用可保持皮肤滋润、有弹性。
+适用肤质：适用于各种肤质，特别针对干性，松弛皮肤。使用方法：洁面，用化妆水后，取适量原液均匀涂于皮肤。（建议初次使用1ml/次，一周后酌情减量），然后取乳、霜为皮肤锁水。", "补水 滋润 ", "10ml", "其他系列", "2015-05-22 20:14:17")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b5316d323cb04c2f9e887c3b9b293065", "402881AC4D411BBA014D411BBAF80013", "田缘舞沙", "田缘舞沙 薰衣草控油祛痘原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/11/spcgroup/proportion_290x290/13157351480457250.png", "￥118", "产品介绍： 
+薰衣草
+请勿抄录闺蜜网
+又名“万用香草”，清新优雅的气味，一直被作为经典的香型。对油腻、痘痘、痘印、毛孔粗大，疤痕等多种皮肤问题功效卓著。薰衣草原液为高浓度的薰衣草精华，其水性质地对皮肤的亲和力更好，经常使用可以保证皮肤自内而外的洁净、细致。 
+
+适用肤质：本品特别适用于油性、混合性、痘痘、暗疮类皮肤。 
+
+使用方法：洁面，用
+>>闺蜜网版权所有
+化妆水后，取适量原液均匀涂于皮肤。（建议初次使用1ml/次，一周后酌情减量），然后取乳、霜为皮肤锁水。
+>>欢迎光临闺蜜网", "祛粉刺/祛痘 控油 ", "5ml*7", "其他系列", "2015-05-22 20:14:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c7a8a778b7ec41d3a03358cc82e0be11", "402881AC4D411BBA014D411BBAF80013", "凯蕾梵思", "凯蕾梵思 玻尿酸保湿原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/22/spcgroup/proportion_290x290/13244836502019540.jpg", "￥108", "功效: 提亮肤色 补水 保湿 提拉紧致
+    化妆品规格: 正常规格
+    化妆品成分: 其它成分
+    适合肤质: 中性及干性肤质
+    化妆品容量: 30g/ml
+    品牌: 凯蕾梵思
+    面部精华单品: 100%玻尿酸保湿原液", "保湿 提拉紧致 ", "30ml", "其他系列", "2015-05-22 20:19:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5536e4fcf2d8470697c7c1fe8b672024", "402881AC4D411BBA014D411BBAF80013", "露得清", "露得清 活采皙白嫩肤乳液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/55779/spcgroup/55779-1_290x290.jpg", "￥239.0", "露得清活采皙白嫩肤乳液，针对女性因年龄增长而急剧变化的肌肤需要，将护肤专业美容技术引进并研发出Vital-Ions™矿物离子科技，为肌肤注入活力与补充水份，帮助击退黯沉及不均匀肤色等多种顽固美白问题，持续使用，帮助达到持久美白效果，重获新生般的亮白光彩。蕴含Vital-Ions™矿物离子科技，该科技可为肌肤注入活力，让肌肤更加白皙明亮。蕴含天然活性美白成份百合花提取物，配合AA2G*(稳定性维生素C)，其成分能渗入肌肤深处，打破肌肤的黯黑循环，让肌肤更为白皙明亮，帮助提升肌肤通透度，令肌肤重获新生般透白光彩。水润质地轻盈透薄，不添加矿物油，有效保湿配方更容易渗透肌肤里层，美白同时补充肌肤水份，改善缺水粗糙的问题，让肌肤时刻水嫩透白。不添加矿物油 ?  经皮肤专家测试 ? 不阻塞毛孔使用用法：每天早晚使用完洁面乳、调理水和精华霜之后，取少量均匀涂抹于面部和颈部。", "保湿 补水 美白 滋润 ", "40ml", "活采皙白系列", "2015-05-22 20:19:37")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("cfbd9c8844d04cd19087a6718fc1bce0", "402881AC4D411BBA014D411BBAF80013", "臻美", "臻美 嫩透白魔奇派对", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/21/spcgroup/proportion_290x290/13244771354445530.jpg", "￥326", "简单成份：富含天然抗氧化剂、LAURIC ACID月桂酸、快乐因子、B内啡肽合成的蛋白质Hd、天然保湿因子、透明质酸、 胶原蛋白、 左旋VITAMIN C、*玫瑰花瓣凝露臻美嫩透白魔奇派对，独有的珍油和基底活性水渗透优势，是持久柔嫩的奥秘：改善面部松弛、皱纹和色素沉着,清除肌肤毒素沉积，修护肌肤、还原光采，还原肌肤，更年轻、光滑、柔嫩、细腻、有弹性、健康的外表，使皮肤恢复年轻态。
+ 
+【规格】6派对
+ 
+【产地】上海", "抗衰老/抗皱 滋润 ", "6派对", "护肤系列", "2015-05-22 20:19:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f22d5c463c114c569a27958b3e85a5a5", "402881AC4D411BBA014D411BBAF80013", "臻美", "臻美 凝肌无痕原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/21/spcgroup/proportion_290x290/13244772511566790.jpg", "暂无报价", "【简单成份】焕肤溶晶EXFOCELLIA、大豆肽、小球藻Dermochlorella、胶原蛋白。
+【功效】温和去角质，收敛毛孔。小球藻修复、重组、保护皮肤，促进细胞外间质的品质，恢复疤痕或老化组织，使皮肤细致、平滑与紧实。
+温和祛除肌肤老废角质，收缩毛孔、促进细胞外间质品质，恢复疤痕或老化组织，使肌肤细致、平滑、紧致。", "抗衰老/抗皱 舒缓肌肤 去印 ", "246", "护肤系列", "2015-05-22 20:19:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("745dd487cb094d2ea7bac1982d143412", "402881AC4D411BBA014D411BBAF80013", "臻美", "臻美 清油紧致原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/21/spcgroup/proportion_290x290/13244785610257490.jpg", "￥246", "【简单成份】焕肤溶晶EXFOCELLIA、金缕梅提取液、小黄瓜提取液等。
+【功效】焕肤溶晶EXFOCELLIA，规律油脂分泌，收敛毛孔；肌肤回复清透细嫩。平衡油脂分泌、预防毛孔粗大、收敛、柔软、镇静肌肤、清新滋养紧肤，同时有效促进血液循环，细嫩肌肤。", "舒缓肌肤 提拉紧致 ", "7ml*3", "护肤系列", "2015-05-22 20:19:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5cbab88713194cb2ba28a2d634bec735", "402881AC4D411BBA014D411BBAF80013", "美肤堂", "美肤堂 汉草养肤皱纹消原液（补水/改善皱纹）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/21/spcgroup/proportion_290x290/13244817914258100.jpg", "￥78", "成分：去离子水、1.3-丁=醇、透明质酸、紧实肽、金盏花萃取液、红花子油、苯氧乙醇、香精等。功效：
+.糅合红花子油等多种汉草萃取养肤成分，迅速滋润补充营养和水分，唤醒肌肤，令肌肤快速进入最佳生理状态，并促使核糖核酸及胶原蛋白合成，舒展肌肤，淡化因表情或岁月所造成的肌肤细胞。
+.特含多聚糖，并促进皮肤血液微循环，能有效改善皱纹肌肤，令松弛的肌肤重获弹性，促使肌肤线条更加柔软细致。
+用法：洁肤后，取适量涂抹于整个脸部，顺着皮肤纹理轻轻按摩至均匀吸收。
+适合任何肤质。", "抗衰老/抗皱 提拉紧致 活肤焕采 ", "30ml", "其他系列", "2015-05-22 20:19:45")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("30c7351d9e834f1fb32f6333d9901901", "402881AC4D411BBA014D411BBAF80013", "Eight", "Eight Relovery", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/5/spcgroup/proportion_290x290/12915351635560200.jpg", "暂无报价", "8倍水紧致保湿美容液
+Firm Ageless moisturizing Toner
+清润补水 紧致毛孔
+A．进一步清洁肌肤，软化角质
+B．收紧毛孔的同时给予肌肤充分水分
+C．增加肌肤弹力，重现健康光彩
+ 
+适用：内含各种肌肤所需养分，软化角质，可促进肌肤的新陈代谢、维持皮肤光滑细致，收紧毛孔的同时给予肌肤充分水分，还能给予肌肤保湿与紧致的能力，增加肌肤弹力，让肌肤有光泽。
+
+成分：角鲨烷、弹性蛋白、透明质酸钠
+
+
+用法：洁面后，取适量在面部轻拍，或倒于化妆棉上擦拭面部。如配合使用8倍水系列凝霜使用，效果更佳。", "提拉紧致 ", "暂无", "护肤", "2015-05-22 20:19:47")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ca75fa88f3604299bc992956366c62dc", "402881AC4D411BBA014D411BBAF80013", "臻美", "臻美 多元修复原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/21/spcgroup/proportion_290x290/13244755851309580.jpg", "￥232", "【简单成份】高效性细胞修复因子TCRF，卵磷脂，透明质酸，14种氨基酸，蛋白质等．
+【功效】作用于皮肤修复、营养、平衡三大系统，提高细胞的修复功能，均匀肤色，防止水分流失，延缓皮肤衰老。用于晒后、斑后、痘后、衰老及敏感肌肤的修复。激活细胞新陈代谢能力，提高细胞再生修复功能，修复受损皮肤及防衰。", "补水 舒缓肌肤 损伤修复 ", "7ml*3", "护肤系列", "2015-05-22 20:19:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1edd4174489449b3aa6c266be5745f40", "402881AC4D411BBA014D411BBAF80013", "东方季道", "东方季道 四时美肌原液-秋令", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/18/c0/spcgroup/16708382_1355841973947_400x400_290x290.jpg", "暂无报价", "秋季天气以急，地气以明，肌肤滋润减少。秋令润肌原液，丰沛滋养肌肤，令秋季肌肤温润细嫩。1. 每日晨夜使用。取适量“金风玉露润肌原液”于掌心或指尖，以柔和力度轻轻涂于面部及颈部，避免用力牵拉皮肤。2. 摩擦双手至掌心温热，闭目，以手掌轻拍按压面部30秒，促进有效成分之吸收。1. 夜间护肤后，建议闭目聆听四时舒缓音乐15分钟，效果更佳。2. 配合产品使用点按面部穴位，促进气血运行，实现美肌好气色。建议于秋季使用，不同地区及肤质可根据自身状况适当调节。", "保湿 抗衰老/抗皱 提拉紧致 滋润 ", "正常规格", "四时调养系列", "2015-05-22 20:19:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("80aa086a5e01490ba884d19f416daf92", "402881AC4D411BBA014D411BBAF80013", "清妍", "清妍 水份保湿润肤露", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/10/spcgroup/proportion_290x290/12866896036209040.gif", "暂无报价", "清爽的乳液配方，极易被肌肤吸收。富含维他命原B5及均衡的PH配方，整天滋润肌肤，保持肌肤柔美润滑。适合中性及中性偏油性肌肤使用成分：维他命B5；维他命E;金缕梅。", "保湿 补水 ", "暂无", "其他系列", "2015-05-22 20:19:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f8b7b42aa0da485686750781e7ebfad1", "402881AC4D411BBA014D411BBAF80013", "圣迪卡洛", "圣迪卡洛 艾地苯细胞活化注氧原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/21/spcgroup/proportion_290x290/13244635734672530.jpg", "暂无报价", "产品功效：蕴含多种植物提取液，性质温和。丰富的营养保湿成分能迅速渗入肌肤底层，维持肌肤足够的湿润平衡，恢复肌肤水嫩细腻。有效改善黄气，晦暗，枯燥，粗糙无光泽等肌肤状况，令肌肤水嫩柔滑，健康美白使用方法：洁面爽肤后，取适量本品均匀涂于面部轻轻按摩至吸收适用人群：需要保养肌肤或改善肌肤滋润度、白晰度者", "抗衰老/抗皱 提拉紧致 滋润 ", "30ml", "其他系列", "2015-05-22 20:19:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1d78b241d17d409aae846acbe7741aab", "402881AC4D411BBA014D411BBAF80013", "东方季道", "东方季道 四时美肌原液-夏令", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/18/c0/spcgroup/16708366_1355841873417_400x400_290x290.jpg", "暂无报价", "夏季天地气交，万物华实，肌肤表现活跃。夏令清肌原液，活化清透肌肤，令夏季肌肤清莹透白。1. 每日晨夜使用。取适量“荷颜月色清肌原液”于掌心或指尖，以柔和力度轻轻涂于面部及颈部，避免用力牵拉皮肤。2. 闭目，以手指指肚敲击按压面部及颈部30秒，促进有效成分之吸收。1. 夜间护肤后，建议闭目聆听四时舒缓音乐15分钟，效果更佳。2. 配合产品使用点按面部穴位，促进气血运行，实现美肌好气色。建议于夏季使用，不同地区及肤质可根据自身状况适当调节。", "保湿 抗衰老/抗皱 活肤焕采 ", "正常规格", "四时调养系列", "2015-05-22 20:19:59")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5b71480acf5f4c6e82522746ddc041d9", "402881AC4D411BBA014D411BBAF80013", "芊滋", "芊滋 木瓜原浆液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/23/spcgroup/proportion_290x290/13246073747196790.png", "￥120", "", "保湿 美白 ", "30ml", "其他系列", "2015-05-22 20:20:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a69be7742bec46ea9bde1432c249d3ed", "402881AC4D411BBA014D411BBAF80013", "东方季道", "东方季道 四时美肌原液-冬令", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/18/c0/spcgroup/16708433_1355842071751_400x400_290x290.jpg", "暂无报价", "冬季水冰地坼，无扰乎阳，肌肤缺乏滋养。冬令补肌原液，活颜紧致润泽，令冬季肌肤如玉肌雪颜。1. 每日晨夜使用。取适量“玉肌雪颜补肌原液”于掌心或指尖，以柔和力度轻轻涂于面部及颈部，避免用力牵拉皮肤。2. 摩擦双手至掌心温热，闭目，以手掌轻拍按压面部30秒，促进有效成分之吸收。1. 夜间护肤后，建议闭目聆听四时舒缓音乐15分钟，效果更佳。2. 配合产品使用点按面部穴位，促进气血运行，实现美肌好气色。建议于冬季使用，不同地区及肤质可根据自身状况适当调节。", "保湿 抗衰老/抗皱 舒缓肌肤 ", "正常规格", "四时调养系列", "2015-05-22 20:20:08")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3f51071a345c4760b2fa27f592785eae", "402881AC4D411BBA014D411BBAF80013", "珊娜", "珊娜 豆乳极白系列药用美白保湿美容液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/17/spcgroup/1261049559787_290x290.jpg", "￥290", "08年最新SANA豆乳极白系列，保护肌肤的同时给予肌肤美白，最直接的改善你的肌肤，价格优惠适中,值得推荐!此系列一上市就勇夺药妆排行前三！ 这一系列是SANA为了满足顾客在滑润肌肤的同时也淡化斑痕彻底美白的愿望,于2008年2月21开始贩卖的新系列.其中加入有效美白成分アルブチン ,这是一种与大豆精华性情相配的美白成分，SANA豆乳系列在日本一直保持高销售量,这次的新产品更是值得期待! 添加豆乳发酵液，不仅保湿，更是类似女性荷尔蒙的美肌圣品！与水溶性骨胶原等保湿成分相配合，滋润柔肤效果一流，营养滋润到肌肤最深层还能使肌肤充满弹性！", "保湿 美白 滋润 ", "30g", "护肤系列", "2015-05-22 20:20:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2d6754dda2db42bc94906b895eddf6cc", "402881AC4D411BBA014D411BBAF80013", "赫莲娜", "赫莲娜 维生素A焕肤修护系统美容液", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/z3/spcgroup/200905111946589933_s3_290x290.jpg", "￥480", "含精纯维他命A，舒展肌肤，帮助更好地吸收维他命A系列的其他产品", "保湿 滋润 ", "125ml", "皮肤护理精致修颜系列", "2015-05-22 20:20:17")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c5a78de4ac354ca3874cf7351b5c43d4", "402881AC4D411BBA014D411BBAF80013", "美谛高丝", "美谛高丝 焕采美容液", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u15/spcgroup/10617_s3_290x290.jpg", "￥680", "有效锁紧水分，形成弹力保湿网，犹如肌肤能抵御重力一般给予肌肤即效的张力感，回复角质层的柔软和弹性。从融合于肌肤的瞬间开始，就能切实地感受到肌肤内侧所充盈的张力。长期使用后能使滞重、松弛的面部线条获得显著的提升，重现紧致、突出的轮廓。", "保湿 补水 净化排毒 抗衰老/抗皱 提拉紧致 滋润 ", "40ml", "基础系列", "2015-05-22 20:20:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5efb230ef2f240fe9164025b9d491309", "402881AC4D411BBA014D411BBAF80013", "娜丽斯", "娜丽斯 美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/7/spcgroup/proportion_290x290/12916936650328300.jpg", "￥229", "本品为高保湿美容液，所含滋润成分可被肌肤充分吸收，令肌肤充满活力;
+配合α硫辛酸、辅酶Q10、胶原蛋白、透明质酸四种高保湿滋润成分， 可充分渗透于皮肤角质层，防止肌肤干燥粗糙，令肌肤水润并富有弹性；无香料、无色素，产品香味源于含有滋润成分的天然甜橙油。维持肌肤年轻状态，减缓细纹等现象对肌肤造成的伤害。
+产品特点：添加辅酶Q10成分，令肌肤能量再生，保持肌肤活力。
+辅酶Q10：被称为肌肤的动力之源，具有卓越的抗氧化作用。起到维持肌肤丰润弹性的作用，可以促进新陈代谢，调节肌肤再生周期正常运行，使肌肤永葆年轻。多次上榜日本时尚期刊，引领护肤时尚，获得顾客赞誉。使用方法
+使用化妆水调理肌肤后，取适量（按压1-2次所取得的美容液）于掌心，轻柔涂抹于面部，直至水分被肌肤吸收。
+1、初次使用需要按压泵头数次后才能将美容液压出；
+2、每次使用后请将泵头擦拭干净。", "保湿 提拉紧致 ", "50ml", "其他系列", "2015-05-22 20:20:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c94c2ffd10ce446e99534e0c0e34920d", "402881AC4D411BBA014D411BBAF80013", "靓妃", "靓妃 全效生命原液（全效极品）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/7/spcgroup/proportion_290x290/12917315866211300.jpg", "暂无报价", "本品来自西非国家的珍贵植物“生命之树”，采用天然植物萃取技术精心研制而成，蕴含丰富的“女人黄金”、HA生物保湿因子、维他命C、纳米维他命E等精华成份。 “女人黄金”具有天然滋润肌肤和有效减少皱纹、美白、保湿、营养等多重功效，毫不夸张的说，它对女性美容是全方位的，是全效的。它的效果超越了以前我们任何一种含天然植物成份或化学合成剂的美容品。含多种珍贵精华物质协同作用，对女性肌肤延缓衰老特别有效，长期使用能使衰老肌肤变白、变嫩，如婴儿般的肌肤细腻、光滑、有光泽，是一种自然美容佳品，国际美容界推崇为美容圣品。", "保湿 补水 ", "暂无", "女人黄金系列", "2015-05-22 20:20:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("81652923b5f7461d80356f1fd9cf18cc", "402881AC4D411BBA014D411BBAF80013", "名门闺秀", "名门闺秀 精养润肌乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20105/11/spcgroup/proportion_290x290/1273582921285.jpg", "￥170", "主要成份：
+            
+            精养活肌丹、 褐藻精华ALGUARD 、大豆、 甘草、 橡树皮、 霍霍巴酯 
+             
+        
+        
+            
+            产品功效：
+            
+            ● 深入调养，令气血旺盛，防止肌肤衰老
+            ● 在肌肤表层形成滋润保护膜，防止肌肤粗糙暗沉
+            ● 充分滋润，使干燥的肌肤变得柔滑细润
+            ● 清雅本草香型", "抗衰老/抗皱 滋润 ", "100ml", "其他系列", "2015-05-22 20:20:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("89fd1364c82040ba89808a5678621b20", "402881AC4D411BBA014D411BBAF80013", "上海", "上海 咏梅奶液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/25/spcgroup/proportion_290x290/12854208472842880.jpg", "暂无报价", "", "保湿 补水 ", "暂无", "咏 梅", "2015-05-22 20:20:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("eece6a15fce648799fc0883c185dd5da", "402881AC4D411BBA014D411BBAF80013", "植物语", "植物语 分子钉锁水原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/13/spcgroup/proportion_290x290/12896233501148630.gif", "暂无报价", "【中文名称】分子钉锁水原液【英文名称】CeramideRepairEssence【适合皮肤】所有肤质、推荐干燥及角质受损肌肤加强使用【功效介绍】存在于角质之间的脂质屏障－－分子钉，能将角质细胞紧密接和，防止肌肤角质受损，修护肌肤干燥、脱皮问题，加强维持肌肤水分平衡。", "保湿 ", "暂无", "其他系列", "2015-05-22 20:20:27")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7e0dad7705f145d6ae5624d8e749df4e", "402881AC4D411BBA014D411BBAF80013", "蕊莉芙", "蕊莉芙 菲雪菁华醒肤乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/17/spcgroup/proportion_290x290/12872883196109740.jpg", "￥330", "兼具美容精华液的功效，柔滑的触感，尽心呵护每一寸肌肤，快速调整肌肤的状态，驱除肌肤的疲劳，提高肌肤的滋润感和弹性度。创造出无倦意、富有光泽和活力的肌肤。以植物精华为主，无香料、无色素配方的环保产品，莼菜精华能给予肌肤充足的水分，并具有优秀的保水力，防止因缺水而产生干燥和暗淡现象，提高肌肤的自我保护能力。甜瓜根精华能快速提高肌肤的机能，激发肌肤的活力，调整疲劳的肌肤走向健康。", "保湿 滋润 ", "40ml", "菲雪系列", "2015-05-22 20:20:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("acf284118d464b7ebd96d000c6ee607f", "402881AC4D411BBA014D411BBAF80013", "高丝", "高丝 艾文莉萃籽活颜柔活美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/6/spcgroup/proportion_290x290/12915655448552200.png", "￥184", "能柔软滋润干燥变硬肌肤的美容液,令肌肤水嫩莹润，展现成熟健康的活力肌肤", "补水 美白 滋润 ", "正常规格", "其他系列", "2015-05-22 20:20:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ac17c8fa0533408b9f275b936c0fc2cd", "402881AC4D411BBA014D411BBAF80013", "FREEDAY", "FREEDAY Skin", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/4/spcgroup/proportion_290x290/12914657886786530.png", "暂无报价", "莹白植物成分和保湿因子的充分融合，使皮肤获得充分滋养，迅速补充肌肤水分，提供深层持久保湿；植物营养成分的有效渗入能够提亮肤色，使肌肤呈现亮白光泽，展现完美瓷肌。洁面后，取适量本品轻拍于面部直至吸收即可，配合FREEDAY skin净颜无瑕系列其他产品使用效果更佳。", "保湿 提亮肤色 ", "暂无", "护肤系列", "2015-05-22 20:20:33")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3f025c79d7b74f7abca597bc3dae021f", "402881AC4D411BBA014D411BBAF80013", "真皙", "真皙 复活草超水嫩润泽原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/9/spcgroup/proportion_290x290/13234219755567810.jpg", "￥66", "功效: 提亮肤色  补水 ...
+    化妆品规格: 正常规格
+    适合肤质: 混合型肤质
+    化妆品容量: 30g/ml
+    品牌: Jensy/真皙
+    面部精华单品: 复活草超水嫩润泽原液", "保湿 补水 滋润 嫩肤 ", "30ml", "复活草超水嫩润泽护理系列", "2015-05-22 20:20:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b3b0d9654c774c2791fe2d0b00106b40", "402881AC4D411BBA014D411BBAF80013", "芙丽芳丝", "芙丽芳丝 纯白凝皙尽润美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1211/13/c0/spcgroup/15728687_1352799731886_400x400_290x290.jpg", "￥280.0", "抑制黑色素生成，防止由日晒引起的色斑、雀斑。
+    水润的美容液与肌肤轻盈融合，集中呵护由日晒引起的色斑、雀斑，防止紫外线对肌肤的损伤。
+    在给予水分的同时美白肌肤，使肌肤透明亮丽。
+    严格选取优质而低刺激性的原料，不给柔嫩的肌肤添加任何负担。", "保湿 美白 ", "30ml", "纯白凝皙系列", "2015-05-22 20:20:38")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bf3e4562ed404dd5aa35697a1510a07b", "402881AC4D411BBA014D411BBAF80013", "芊滋", "芊滋 紫葡萄原浆液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/23/spcgroup/proportion_290x290/13246079404498260.png", "￥158", "", "保湿 补水 美白 ", "30ml", "其他系列", "2015-05-22 20:20:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5255a2b0a83c4ea2bbe6726955232295", "402881AC4D411BBA014D411BBAF80013", "秀匣", "秀匣 蜂毒平衡原液", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1501/06/c0/spcgroup/proportion_290x290/1549264_1420535527404_400x400.jpg", "￥158", "作用概述：平衡原液特含鲜活蜂毒，其组分蜂毒肽、托肽平和蜂毒明肽等具有明显的亲神经性。能调整物质代谢，减轻皮损部位的不适感，令肌肤无“毒”更靓丽。
+起效核心成分取自新西兰麦芦卡蜜蜂，从蜜蜂尾部毒腺分泌的毒液中萃取出来的多种物质对皮肤进行灭菌排毒，蜂毒明肽通过与深层皮肤的融合，能刺激皮肤胶原再生，恢复皮肤平滑性和弹性，起到祛痘、消痘印、平痘坑的作用。对粉刺、座疮、白头痘、黑头痘、脓包、红肿都具有良好的作用。
+莲叶提取物富含荷叶生物碱、荷叶黄酮、柠檬酸、草酸等，有清热解暑，升发清阳，凉血止血的功效，来源于睡莲科植物莲的干燥叶提取物。
+适用肤质：任何肤质，尤其皮脂旺盛、粉刺、青春痘、暗疮印痕肌肤。
+主要成分：蜂毒、莲叶提取物。
+使用方法：早、晚洁肤、爽肤后，将适量蜂毒平衡原液滴于手心并涂于面部即可，可整脸使用亦可在T区或粉刺、暗疮多发区重点涂抹。
+注意事项：富含蜂毒及鲜嫩莲叶提取物，针对痘痘肌肤，可改善皮脂分泌，令肌肤水油平衡，具有疏通毛孔、排毒净颜的作用，与适合的洁肤、面膜产品搭配，作用更加显著。", "深层清洁 祛粉刺/祛痘 净化排毒 抗菌消炎 控油 清洁毛孔 ", "30ml", "美白系列", "2015-05-22 20:20:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("84d3288a38224d87aed3b579a38a7ae3", "402881AC4D411BBA014D411BBAF80013", "娇韵诗", "娇韵诗 日间焕彩美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20123/30/spcgroup/proportion_290x290/13330896563723430.jpg", "￥360", "适用于：所有女性--任何年龄任何肌肤类型。特点：早晨肌肤喝的第一杯植物“美容果汁”，1-2-3启动肌肤；超浓缩的植物精华，即刻带给肌肤清新、活力、光彩的好气色；提高后续日间护肤产品的吸收。", "保湿 提亮肤色 ", "100ml", "焕彩系列", "2015-05-22 20:20:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3b05fb7840bc447b82a7c31bb8692605", "402881AC4D411BBA014D411BBAF80013", "FREEDAY", "FREEDAY Skin", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/5/spcgroup/proportion_290x290/12915270010306680.jpg", "暂无报价", "天然植物保湿精华能够渗透到皮肤底层，淡化皮肤瑕疵，缔造瓷白肌肤效果，集中修复各种肌肤问题，令肌肤白嫩细腻；深层补水因子，可充分润泽肌肤，使其柔软弹性富有光泽。", "保湿 补水 美白 柔肤 ", "暂无", "护肤系列", "2015-05-22 20:20:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c8d75611792340c692cc3fc55aaae80c", "402881AC4D411BBA014D411BBAF80013", "娇韵诗", "娇韵诗 晚间舒活美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20123/30/spcgroup/proportion_290x290/13330897931401000.jpg", "￥360", "适用于：任所有女性--任何年龄任何肌肤类型。特点：肌肤即将爱上的第二杯美容魔晚上肌肤喝的第一杯植物“美容燕窝”，3-2-1肌肤安神睡觉 超浓缩的植物精华，即刻带给肌肤滋润、光滑、柔软的效果，恢复明亮 提高后续晚间护肤产品的吸收。", "保湿 提亮肤色 ", "100ml", "焕彩系列", "2015-05-22 20:20:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0a919e17be654c6583f076eee91b3eb4", "402881AC4D411BBA014D411BBAF80013", "芊滋", "芊滋 胶原蛋白溶液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/23/spcgroup/proportion_290x290/13246068062480770.png", "￥158", "", "保湿 抗衰老/抗皱 收缩毛孔 提拉紧致 ", "30ml", "其他系列", "2015-05-22 20:20:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fabb7ca80a004566906c7040d17a1e2c", "402881AC4D411BBA014D411BBAF80013", "水之印", "水之印 脸部紧致美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20124/12/spcgroup/proportion_290x290/13341990403399590.jpg", "￥138", "含亲水渗透成分（Aqua synergy）使用量：双颜使用量为两粒米粒大小，全脸使用为1颗珍珠大小。用手心用画圈的方式均匀涂抹全部，并轻轻向上提升（重复3次）", "保湿 美白 提拉紧致 ", "30g", "弹力保湿系列", "2015-05-22 20:20:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("af31731c6a1e484fbc34957a8806e8e3", "402881AC4D411BBA014D411BBAF80013", "宫灯", "宫灯 金典杏仁保湿美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/11/spcgroup/proportion_290x290/13156755649226730.jpg", "暂无报价", "能给肌肤补充足够的水份和养分平，同时促进人体自身对皮脂的调理达到平衡状态，滋润面部干燥部位，清新柔软。质地柔润轻薄，宛如凝露，吸收迅速，均衡肌肤水分代谢，增加透明感及弹性，令肌肤长时间保持清爽水润、帮助实现均匀肤色，令水嫩越发持久。", "保湿 滋润 ", "40ml", "其他系列", "2015-05-22 20:21:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("10801820030d4637b73695812209c48b", "402881AC4D411BBA014D411BBAF80013", "茚象泉", "茚象泉 细胞能量修复原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201111/23/spcgroup/proportion_290x290/13220539425739070.gif", "￥69 已退市", "内含母菊花、黄瓜果、海藻糖等植物成分，具有活化细胞、细致毛孔、抗衰老、保护表层细胞膜结构、加速新陈代谢，促进细胞新生的功效，是MM们秋季滋养肌肤的救星，敏感性肌肤的MM也是可以使用的，清爽水润，要想Hold住你的无龄肌，赶紧行动吧！", "保湿 补水 抗衰老/抗皱 舒缓肌肤 损伤修复 活肤焕采 ", "暂无", "其他系列", "2015-05-22 20:21:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a59d15cce875467391c32ee6ac77d467", "402881AC4D411BBA014D411BBAF80013", "东方季道", "东方季道 四时美肌原液-春令", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/18/c0/spcgroup/16708336_1355841640849_400x400_290x290.jpg", "暂无报价", "春季天地俱生，万物以荣,肌肤易娇弱敏感。应掌握春令之气升发舒畅之特点，春令养肌原液，安养舒缓肌肤，令春季肌肤面若桃花。四时珍贵本草：人参、绿茶、贯叶连翘、常春藤1. 每日晨夜使用。取适量“面若桃花养肌原液”于掌心或指尖，以柔和力度轻轻涂于面部及颈部，避免用力牵拉皮肤。2. 闭目，以手指指肚敲击按压面部及颈部30秒，促进有效成分之吸收。1. 夜间护肤后，建议闭目聆听四时舒缓音乐15分钟，效果更佳2. 配合产品使用点按面部穴位，促进气血运行，实现美肌好气色建议于春季使用，不同地区及肤质可根据自身状况适当调节。", "保湿 抗衰老/抗皱 滋润 活肤焕采 ", "正常规格", "肌质调养系列", "2015-05-22 20:21:07")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("daf254a2e50545509aa978a71f1c72ac", "402881AC4D411BBA014D411BBAF80013", "蝶翠诗", "蝶翠诗 卵壳精华美容液", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/z7/spcgroup/200905112015259477_s3_290x290.jpg", "￥300", "DHC卵壳精华美容液为水溶性蛋白质原液美容液，可以有效促进各种胶原蛋白的生成。所使用的蛋白质来源于卵壳膜，是从孕育守护新生命的卵壳膜中分解而得到的纯粹的优质水溶性蛋白质。是充满生命力的100%原液美容液。它可使肌肤从深处透出年轻与柔软，塑造更完美的肌肤。", "保湿 滋润 ", "25mL", "原液美容液", "2015-05-22 20:21:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("6f98254645a241518a227f667ace844b", "402881AC4D411BBA014D411BBAF80013", "美谛高丝", "美谛高丝 全然修复美容液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200911/19/spcgroup/1258616040312_290x290.jpg", "￥800", "西洋李萃取液能作用于麦拉淋色素中的消化酵素，淡化色斑，持续使用就能发现肌肤的明亮度与白皙度获得明显增加。", "保湿 补水 滋润 ", "30g", "基础系列", "2015-05-22 20:21:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a01edbc935584424893650027a05de41", "402881AC4D411BBA014D411BBAF80013", "屈臣氏", "屈臣氏 Watsons美丽加芬左旋VC原液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20103/14/spcgroup/1268558475325_290x290.jpg", "暂无报价", "左旋VC会让皮肤容易产生依赖性，一旦你开始使用，皮肤就要开始在固定时刻寻找它了，一旦不用，据说会变得不如使用的时候好。左旋VC有光感性，白天不能用，晚上用之前一定记得关灯，早上起来要洗的干净一些，不然黑色素容易变本加厉的沉积。注意到这些事项后，左旋VC还是一个好东西，对于美白效果很棒，而且还能修复自由基对皮肤的伤害，所以日间的时候注意加上防晒霜防晒，要不然晚上的功夫太浪费了。", "保湿 美白 滋润 ", "暂无", "其他系列", "2015-05-22 20:21:23")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bfa3b04ff60e4410aa438d2f37911f1a", "402881AC4D411BBA014D411BBAF80013", "雅芳", "雅芳 控油美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/27/spcgroup/proportion_290x290/12933884450826240.jpg", "￥3.5", "【产品名称】avon_雅芳美容沙龙控油美容液功效：可使控油能量充分渗透至肌肤的基底层，有效提亮晦暗肤色。亮点：展现肌肤白皙透亮本质，令您轻松拥有柔白细腻的亮丽肌肤。在做完所有的美容程序,即敷完面膜后，涂爽肤水，再涂这个美容液，最后涂润肤霜,效果很不错.", "保湿 控油 ", "3ml", "新活系列", "2015-05-22 20:21:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d7bbd3a17b984b7d90c1f60a1a27d72d", "402881AC4D411BBA014D411BBAF80013", "安婷", "安婷 维美柔白亮肤乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20105/29/spcgroup/proportion_290x290/1275120997921.jpg", "￥58", "含多种营养成分，补充肌肤所需的维他命和矿物质，深层滋润肌肤，能支持和加强美白效果，有助改善暗黄肤质，令肌肤白皙光洁，健康光泽。", "补水 滋润 ", "100g", "天然呵护系列", "2015-05-22 20:21:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5d24fbd836394ac39bb7e10c564d6611", "402881AC4D411BBA014D411BBAF80013", "高丝艾文莉", "高丝艾文莉 本草凝粹欣白倍护美容液（日用）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/6/spcgroup/proportion_290x290/12915654007186060.png", "￥139", "在美白的同时，有效防止紫外线的日间用美容液。延展时触感水润，调理出滋润光滑的肌
+肤。", "补水 晒后修护 滋润 ", "40g", "本草凝粹基础系列", "2015-05-22 20:21:29")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("28bea75675424f04a02653d84939b765", "402881AC4D411BBA014D411BBAF80013", "UNES", "UNES 玻尿酸原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/1/spcgroup/proportion_290x290/13227379003197420.jpg", "￥78", "产品功效：适用于任何肤质，特别是干性缺水肌肤。适合肤质：补水保湿，有保湿天后之称，增加皮肤水分、保持湿润。", "保湿 抗衰老/抗皱 提拉紧致 ", "10ml", "其他", "2015-05-22 20:21:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b618ab7b70524075a892bc46124a16f8", "402881AC4D411BBA014D411BBAF80013", "高丝艾文莉", "高丝艾文莉 萃籽活颜柔活美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/19/c0/spcgroup/16726288_1355906704063_400x400_290x290.jpg", "￥230", "让干燥的肌肤于转瞬之间变得柔软，艾文莉 萃籽活颜柔活美容液有这样的自信！与众不同的柔活美容液，除了保有该系列不可或缺的关键成分：龙眼籽提取物和月见草籽提取物，更蕴涵了被誉为“植物活化石”的银杏叶提取物，通过加强抵御氧化作用，让肌肤尽可能保持正常的代谢周期。使用后，肌肤柔软度获得大幅度提升，顷刻，干燥粗糙的肌肤变得宛如天鹅绒般柔嫩细致。 
+
+使用方法： 
+请于早晚保养时使用，直接使用于洗颜后的清洁肌肤。每次请取按压喷头3-4次的量于掌心，浓厚以打圈的方式涂抹并按摩于全脸肌肤。", "保湿 滋润 ", "40ml", "萃籽活颜系列", "2015-05-22 20:21:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f134a2cb9a964c90acb1f264e363b556", "402881AC4D411BBA014D411BBAF80013", "菲莎妮丝", "菲莎妮丝 柔颜紧致弹力原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/18/spcgroup/proportion_290x290/13241969184149980.jpg", "暂无报价", "功能说明:长效性的深层补水及加倍滋润保湿效果，可促进角质层新陈代谢，保护肌肤纤维弹性与活力，刺激胶原纤维母细胞的增生，强化肌肤自我更新能力及弹性，令肌肤细致柔滑有光泽。使用方法:取适量均匀涂抹全脸，并顺肌肤纹理方向轻柔向上抹匀至吸收。", "保湿 抗衰老/抗皱 美白 舒缓肌肤 ", "30ml", "其他系列", "2015-05-22 20:21:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("196dab95364a402cb29e10e2a99a049d", "402881AC4D411BBA014D411BBAF80013", "迪奥", "迪奥 花蜜活颜精粹美容液", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/z5/spcgroup/200905111955289514_s3_290x290.jpg", "￥820", "清洁后，花蜜活颜精粹美容液使肌肤水润丰盈，均衡肤色，协助后续产品更好地发挥护肤功效。更添加了100%精纯的珍稀花蜜。", "保湿 补水 净化排毒 滋润 ", "220ml", "花蜜活颜系列", "2015-05-22 20:21:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0a142bb1ef4a40e2b6e8c36c5a8e8434", "402881AC4D411BBA014D411BBAF80013", "高姿", "高姿 芯瑞焕颜紧致美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20119/11/spcgroup/proportion_290x290/13156729959369280.jpg", "暂无报价", "蕴含高浓度的紧致修护成分－提拉紧致因子和长效滋润成分，加速新陈代谢，不仅可以调理和柔软肌肤，更能让后续产品更好的吸收，使保养效果更明显；同时具有多重保养功效，兼具修护和滋润功效，焕颜护肤效果十分出色。", "舒缓肌肤 滋润 ", "120ML", "其他系列", "2015-05-22 20:21:48")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("59d2e4f546974fb5a042cf4abc6a7ee6", "402881AC4D411BBA014D411BBAF80013", "芙丽芳丝", "芙丽芳丝 锁润美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1211/14/c0/spcgroup/15755287_1352878893481_400x400_290x290.jpg", "￥230", "迅速护理表面角质起皮与粗糙，调整肌肤肌理 ，强化防御功能，防止水分蒸发，长时间保持肌肤滋润。包含6种天然植物的萃取精华（大枣、陈皮、金银花、山栀子、桃仁、薏苡仁）", "保湿 滋润 ", "50ml", "防老化修护系列", "2015-05-22 20:21:49")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("172ca61dc06d4198885ad03363db8bb3", "402881AC4D411BBA014D411BBAF80013", "芊滋", "芊滋 西洋参原浆液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/23/spcgroup/proportion_290x290/13246077207959650.png", "￥128", "", "保湿 补水 美白 ", "30ml", "其他系列", "2015-05-22 20:22:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d18a111706bb4b88b8ae129989731c40", "402881AC4D411BBA014D411BBAF80013", "兰蔻", "兰蔻 青春优氧美容液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200911/11/spcgroup/1257930691909_290x290.jpg", "￥480", "微妙的补水配方，在简单的日常护理中，重塑肤质，使肌肤倍感纯净柔嫩，并有效帮助保养成分的吸收。 
+有两种质地可供选择： 
+滋润－适用于所有肌肤类型 
+非常滋润－适用于中性及干性肌肤", "保湿 补水 滋润 ", "200ml", "青春优氧系列", "2015-05-22 20:22:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("278aa8cdcd164f49919fdaf95132bf2e", "402881AC4D411BBA014D411BBAF80013", "迪奥", "迪奥 花蜜活颜卸妆乳霜和滋养美容液", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u7/spcgroup/9884_s3_290x290.jpg", "￥750", "两款相辅相成的洁面产品,温卸除彩妆,带来愉悦感受.卸妆乳霜:质地盈润丰美,彻底清洁肌肤,轻松卸去彩妆和粉尘污垢.肌肤重新找回纯净.爽滑. 美容液:触感清新光滑.有着淡雅的花蜜芬芳,超凡润泽的滋养美容液,完整整个洁面步骤", "保湿 补水 抗衰老/抗皱 滋润 ", "200ml", "花蜜活颜系列", "2015-05-22 20:22:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("baeba1ad992347338fed6158ff03f4ed", "402881AC4D411BBA014D411BBAF80013", "苏菲娜", "苏菲娜 日间保湿美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1305/27/c0/spcgroup/21348866_1369642352581_400x400_290x290.jpg", "￥1,575", "时刻滋润你的眼部肌肤，修护眼部细胞，达到平衡。", "保湿 滋润 ", "20ml", "保湿系列", "2015-05-22 20:22:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d618b054ff254bf9ae1f2bc0e31dacaa", "402881AC4D411BBA014D411BBAF80013", "水之印", "水之印 调整皮脂美白美容液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20096/9/spcgroup/1244535636123_290x290.jpg", "￥138", "含亲水渗透成分（Ａqua synergy)，集中对抗成人粉刺，能预防粉刺生成及对抗痘痕。
+１．阻止造成痤疮菌产生的脂肪酶的活性化，防止粉刺的产生和增加
+⇒岩白菜提取物（预防粉刺的产生，降低对肌肤的刺激）
+２．阻隔弹性酶的活性化，对抗痘痕，防止肌肤凹凸不平
+⇒岩白菜提取物（对抗由于粉刺引起的痘痕及肌肤凹凸不平）
+３．阻隔酪氨酸酶的活性化，防止粉刺部位色素沉淀⇒岩白菜提取物（防止粉刺部位的黑色素沉淀）
+４．抑制过剩皮脂分泌所造成的痤疮菌的激增，维生素B６衍生物（调整皮脂）
+５．预防粉刺⇒甘草精华（消炎？预防粉刺）
+６．抑制黑色素的生成，防止色斑以及粉刺部位的色素沉淀⇒持久稳定型维生素C衍生物　（美白）
+７．软化因干燥而变硬的肌肤，导入充沛滋养和有效美肌成分，持久切实发挥效用⇒亲水渗透成分Aquasynerg
+８．紧贴皮肤形成一层滋润保护膜⇒高保湿锁水成分LIPIDURE
+９．补充随着加龄而渐渐失去的弹力及保湿成分　⇒胶原蛋白？透明质酸
+１０．无香料？经过防过敏性测试？经过防粉刺测试", "保湿 祛粉刺/祛痘 美白 ", "30g", "美白系列", "2015-05-22 20:22:09")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a2d45a52a93e4251b661d9102e545200", "402881AC4D411BBA014D411BBAF80013", "阿芙", "阿芙 橙花纯露", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1412/04/c0/spcgroup/proportion_290x290/239394_1417708503491_400x400.jpg", "￥158", "取自摩洛哥苦橙花精油蒸馏时的原液，原液中含丰富的亲水性精华。温和亲肌，重塑肌肤活力；改善干燥，使肌肤水润柔嫩。", "美白 ", "125ml", "精油系列", "2015-05-22 20:22:11")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a14c56f929d44ac48054a0d0bfa1a998", "402881AC4D411BBA014D411BBAF80013", "佳丽宝", "佳丽宝 保湿修护美容液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/20097/21/spcgroup/1248140175220_290x290.jpg", "暂无报价", "这款产品适时的出现，既符合当下美容护肤的潮流趋势，又滋润肌肤。其独有的海藻精华NMF天然保湿因子，能如融入般渗透易干燥粗糙的肌肤，令每一寸肌理都充满水分。与此同时，它独有的桃仁、薏苡仁、金银花等严格选取优质而低刺激性的原料，还能促进面霜的吸收，为肌肤提供全方位的滋润。", "保湿 滋润 ", "50ml", "面部系列", "2015-05-22 20:22:13")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2472a71e6e814157bf77d663c898f489", "402881AC4D411BBA014D411BBAF80013", "资生堂", "资生堂 美白美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/4729/spcgroup/4729-1_290x290.jpg", "￥257", "致力研究黑色素形成过程的发现熊葡萄叶素具有惊人美白效果，能在黑色素形成过程中不断发挥功效，令美白效果得到前所未有的升华。SHISEIDO美白美容液，独有的熊葡萄叶素传送系统，令有效成分迅速渗透到所需的部位，令皮肤恢复嫩白细致。", "保湿 补水 净化排毒 美白 ", "30g", "其他系列", "2015-05-22 20:22:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bb5319e2a69343e39b173d6d57a725d7", "402881AC4D411BBA014D411BBAF80013", "碧欧泉", "碧欧泉 橄榄青春蛋白美容液", "http://i4.3conline.com/images/pclady/brand/brand_logo/200910/13/1255441512314.gif", "￥380", "一款能够紧实平滑肌肤的美容乳。 淡绿色轻柔质地，打通细胞吸收管道， 帮助导入精华素， 令吸收效果加倍提升， 帮助增加肌肤光泽度和通透感。 具有超强抗氧化橄榄精华， 搭配白柳树和山毛榉树中提取的精华， 激活三种肌肤青春蛋白 PTPTM矿泉活细胞因子， 给予肌肤更多抵抗力与完美质感：润泽、紧致，焕发光泽。早晚在化妆水之后，精华素及面霜之前使用珍珠大小，涂抹于脸部五点延肌肤纹理延展，直至吸收。", "舒缓肌肤 提拉紧致 ", "200ml", "橄榄青春蛋白系列", "2015-05-22 20:22:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("aa21fe2fb46346fba583a937c3aac713", "402881AC4D411BBA014D411BBAF80013", "印象之美", "印象之美 隔离美容液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200910/20/spcgroup/1256032765974_290x290.jpg", "￥580", "保护肌肤远离紫外线的侵扰，同时积极护理肌肤的高机能日用美容液。 
+隔离生活紫外线的同时，修护受损肌肤， 
+缔造充满张力与透明感的高机能日用美容液。 
+沿用印象之美的独特配方，重视肌肤内部细胞与组织间理想的粘合状态。 
+不仅隔离紫外线，而且保护肌肤远离空气污染等外部压力， 
+避免干燥引起的肤色黯淡、粗糙、肌理紊乱等综合性肌肤问题， 
+打造富有张力的水润肌肤。 
+紫外线隔离成分与润滑油的绝妙平衡配方， 
+完美融合于肌肤，实现如牛奶般的润滑质地。", "舒缓肌肤 ", "40ml", "护肤系列", "2015-05-22 20:22:20")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ad31010c246d4ab4984146723d425b6a", "402881AC4D411BBA014D411BBAF80013", "蝶妆", "蝶妆 防敏感乳液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200911/25/spcgroup/1259150237896_290x290.jpg", "暂无报价", "蕴含Dipotassium成份、生物活性水、胶原蛋白、芦荟精华、海藻提取精华素作　　用
+             
+            能迅速给肌肤细胞提供充足能量，活化细胞，增强肌肤活力和弹性，形成透气保护膜，锁住水分。
+            
+            
+        
+    
+
+
+    
+        
+            使用方法
+             
+            取适量均匀涂于面部，按摩吸收。
+            
+             
+        
+    
+
+
+    
+        
+            
+            适合干性、敏感性肤质", "保湿 补水 抗敏感 抗衰老/抗皱 ", "110ml", "护肤系列", "2015-05-22 20:22:23")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a607ea5da6974919be0f550c27390402", "402881AC4D411BBA014D411BBAF80013", "珊娜", "珊娜 蜂润肌毛穴紧致保湿精华美容液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/17/spcgroup/1261049292218_290x290.jpg", "￥100", "乳白色的100%蜂王浆精华萃取液，含有丰富的胺基酸及维生素多种美肌成分，滋润肌肤，让肌肤恢复弹力。 100%蜂王浆萃取精华保湿成分配合，让肌肤充满弹力感！添加蜂蜜精华成分，紧致毛孔。西印度樱桃萃取精华，除了含有丰富维他命C之外，更含有维他命A、维他命B，肌肤润泽有弹性。无香料，无矿物油。", "美白 舒缓肌肤 滋润 ", "15ml", "护肤系列", "2015-05-22 20:22:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8a8f289021e44ffa9589ce663bce1c4e", "402881AC4D411BBA014D411BBAF80013", "珊娜", "珊娜 樱花美容液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/17/spcgroup/1261049709886_290x290.jpg", "暂无报价", "淡淡樱花气氛，植物性胶原蛋白，高保湿成分精华美容液，紧致肌肤弹性快速渗透滋养，在肌肤上形成保护薄膜，眉间、额头、眼尾鱼尾纹、眼睛下方、嘴角等，充分得到持续性滋润。 淡粉红樱花办软管，携带方便，随时帮助您做好保湿滋润防止细纹的保养！搭配SANA樱花花瓣细纹滋养膜，双重持续加强滋润保养。 使用方法：适用于各种肌肤，早晚洗脸上化妆水后，取适量涂抹在脸及颈部肌肤，轻拍按摩于脸部帮助美容液完全吸收！ 注意事项：1.请置于幼儿无法取得处。2.有伤口、湿疹、红肿等异常时请勿使用。3.使用中、或使用后有红肿、刺激等异常时请暂停使用。", "保湿 滋润 ", "暂无", "护肤系列", "2015-05-22 20:22:33")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("3161c45c83dc4d43978e2c552ce08938", "402881AC4D411BBA014D411BBAF80013", "宝丽", "宝丽 维他命C战痘无痕美肌美容液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/18/spcgroup/1261148109261_290x290.jpg", "￥75", "维他命C战胜痘疤预防痘痘来袭薏仁精华抵抗黑色素沉淀。美肌焕发净白光芒柑橘花控油保湿超有效。 油水平衡嫩肌不爆痘，添加维他命C 诱导成份并配合玫瑰、柑橘花水精华，能平衡过度乾燥的肌肤，让你拥有水嫩有透明感的美肌。神奇的清爽配方及控油调理，能快速直达深层肌肤，给你高机能的肌肤保养！光亮透明感 100 %。 使用方法：洗脸及化妆水之後，取适量擦於脸部肌肤即可。", "保湿 补水 美白 ", "50ml", "护肤系列", "2015-05-22 20:22:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e3cf69211f834a11bfc77b9a27bb6559", "402881AC4D411BBA014D411BBAF80013", "香缇卡", "香缇卡 罗马洋甘菊纯露", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u26/spcgroup/3631_s3_290x290.jpg", "￥450", "一般市售的纯露，大多是精油产品制作过程中的副产物，精油制作由高温将植材中的菁华逼出来之后，油水分离现象产生，上层浮着的是精油主产物，而下层的液态纯露也成为销售的产品，同样具有植物保养疗效，但是因为此过程以高温高压蒸馏，主要目的在取得精油，纯露的质量难以控制且不稳定。", "保湿 滋润 ", "暂无", "其他系列", "2015-05-22 20:22:37")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("60d7d4374f43436abd9a456f2b582a6c", "402881AC4D411BBA014D411BBAF80013", "婵真", "婵真 营养液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1207/29/c0/spcgroup/12601982_1343567860426_400x400_290x290.jpg", "￥228", "强化肌肤自我调节功能，含植物成分，令肌肤更年轻、有弹性。* 肌肤自身调节功能: 强化肌肤自身调节功能，令肌肤更年轻、有弹性。* 含植物成分: 因外部刺激容易受累的肌肤，变得更柔和，有弹性。* 供给水分: 含有幼根皮萃取物等保湿成分，令肌肤滋润。", "保湿 舒缓肌肤 滋润 ", "35ml", "护肤系列", "2015-05-22 20:22:39")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7f697a71bca947d2950aa4c797690789", "402881AC4D411BBA014D411BBAF80013", "水之印", "水之印 弹力保湿防护液SPF18", "http://imgrt.pclady.com.cn/images/upload/upc/tx/lady_cosme/1410/22/c0/spcgroup/proportion_290x290/39974782_1413947857985_400x400.jpg", "￥145", "将美肌成分“推”进肌肤深层，令有效成分充分渗透、吸收并可保护肌肤免受紫外线伤害的保湿防护液。含亲水渗透成分（Aquasynergy）1.即使加龄引起的干燥变硬肌肤，有效成分也能充分渗透，令毛孔细腻、肌肤光滑—含强化透明质酸（透明质酸+野玫瑰精华）—含海藻糖2.赋予肌肤弹力，令肌肤柔润饱满—含强化胶原蛋白（胶原蛋白+氨基酸）3.切实保护肌肤", "保湿 净化排毒 提拉紧致 ", "30ml", "弹力保湿系列", "2015-05-22 20:22:41")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("598d30ee36d3483d956feac9672dee14", "402881AC4D411BBA014D411BBAF80013", "十二月坊", "十二月坊 绿泥焕颜美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/25/spcgroup/proportion_290x290/12932439878623870.jpg", "暂无报价", "蕴含丰富的矿物能量，补充各种肌肤所需，更能有效保护皮脂膜，维持肌肤的水分平衡及弹性，令肌肤柔软清爽，充满活力生气，更可提升后续保养品之功效。
+ 
+Efficiency: Richly contain minerals, strengthen the function of sebum membrane, balance water, maintain skin firmness, make skin soft, refreshing and energetic, enhance the effect of skin care products used later.", "保湿 补水 ", "暂无", "面部护理系列", "2015-05-22 20:22:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("48ca59ee061f4596a45256e9bc779d07", "402881AC4D411BBA014D411BBAF80013", "艾天然", "艾天然 维他命充电美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20105/23/spcgroup/proportion_290x290/1274623708425.jpg", "￥285", "初期抗老的一款美容液，给细胞注入维他命等营养，恢复细胞的活力，同时也有着attenir的强项---很好的保湿功能，还能预防肌肤疲劳。", "保湿 ", "30ml", "其他系列", "2015-05-22 20:22:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c24e77fc1af14f498ed03cc137567ca5", "402881AC4D411BBA014D411BBAF80013", "爱琪美", "爱琪美 润泽洁肤液（豆蔻素洁肤液）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20105/24/spcgroup/proportion_290x290/1274701704747.jpg", "暂无报价", "主要成份：豆蔻素，橡树液精华，活性抗敏成份。产品介绍： 
+性质温和，有净白功能。含豆蔻素及橡树液精华，有效清除化妆及污垢，更能深入毛孔内清除油脂、酒米、黑头等积聚物。其活性抗敏成份，更可预防及强化肌肤抵抗能力，加快细胞组织的重组。使用方法： 
+以适量涂匀面部及颈部，加打圈方式轻轻按摩，再以纸由抹去污垢或以温水洗净", "收缩毛孔 ", "250ml", "其他系列", "2015-05-22 20:22:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("6fb0a795cd40459784409e93ff3c6fd2", "402881AC4D411BBA014D411BBAF80013", "雅呵雅丝睿", "雅呵雅丝睿 透白润肤乳", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1209/12/c0/spcgroup/13814523_1347439011712_400x400_290x290.jpg", "￥145", "有效成分在抑制黑色素形成的同时，将充足水分紧锁在肌肤。不在肌肤贮留导致色斑生成的紫外线损伤，展现晶莹剔透的水嫩肌肤。●美白有效成分与桃仁精华共同作用，抑制酪氨酸酶活性，抑制黑色素的生成和沉积。
+【美白有效成分：维生素C衍生物(抗坏血酸葡糖苷)】
+【酪氨酸酶活性抑制成分：桃仁精华(桃核仁提取物)】●水分调控技术「高效保湿双对离子」可将肌肤深层的新鲜水分汲取至角质层。将新鲜水分充满角质层的每个细胞，提升肌肤透明感。
+【高效保湿双对离子成分：乳酸杆菌/豆浆发酵过滤液】
+【透明质酸钠】●根据肌肤特性、季节及嗜好提供的2种类型。
+Ⅰ：无粘腻感的清爽型
+Ⅱ：柔润光滑型（不含酒精）", "保湿 美白 ", "100ml", "WT系列", "2015-05-22 20:22:48")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f51d1ae43f984e8190d89500adee1552", "402881AC4D411BBA014D411BBAF80013", "泊妮", "泊妮 深层激活美疗液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20107/18/spcgroup/proportion_290x290/12793951018973250.jpg", "暂无报价", "主要成份： 
+深海精华、大豆蛋白、原活力素、天然保湿成份NMF。 
+产品功效： 
+在深层补充肌肤所需要水分的同时更给予肌肤充足的营养，激活疲惫细胞，不断将营养、水分源源不断地输送到肌肤每个细胞内，瞬间焕发活力。 
+使用方法： 
+早晚用全新水润洁面乳清洁肌肤后，倒数滴深层激活美疗液于掌心（或倒出湿透化妆棉）涂于面部，轻轻拍打至完全吸收", "美白 ", "暂无", "其他系列", "2015-05-22 20:22:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ff2dedfb002b4add81ab92bf6c9fa0d4", "402881AC4D411BBA014D411BBAF80013", "米洛医生", "米洛医生 清爽平衡乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20107/22/spcgroup/proportion_290x290/12798036865268370.jpg", "暂无报价", "◇全效抑黑因子有效吸附游离的自由基，将黑色素层层阻断，精准减少脸部色块，斑点及改善肤色不均◇桑葚浓缩酸基胺醣有效消除正在形成的微小色斑，全效破解从初期色斑到形成年龄斑的各种肌肤问题，加速死皮细胞和肌肤表面残留碎屑的脱落◇高分子脂膜技术阻止肌肤氧化过程，修护角质层、减退色斑、提亮肌肤◇针对肌肤代谢周期设计，能有效抑制肌肤中的黑色素生长，祛除过厚角质层细胞，保持肌肤持续美白·产品通过权威专家及敏感肌肤测试，适用于所有肌肤类型。适于每天使用。【用法】每日于精华使用后，取适量均匀涂抹于脸部后，用手掌包裹脸部，手掌的温度促进乳液迅速的吸收。配合米洛医生面霜使用，全面保养效果更佳。·BRC是来自Beauty Research Center医学美肌研发中心的专业研发成果，进入BRC健康、安全、实效的医学护肤世界令你重获完美肌肤。", "保湿 控油 ", "300ml", "其他系列", "2015-05-22 20:22:52")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7e917a51cd4748978e35c5645cac6955", "402881AC4D411BBA014D411BBAF80013", "蕾莉欧", "蕾莉欧 甘菊调理滋养液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/5/spcgroup/proportion_290x290/12915338812176020.jpg", "暂无报价", "含甘菊花萃取液，针对干燥肌肤，立即补充所需的水分，滋润以及清爽肌肤，给于肌肤光滑的外表用法：脸部清洁后，以化妆棉沾湿，或者直接使用喷头喷于脸部，轻拍舒缓，保湿脸部肌肤。适用对象：干性肌肤", "保湿 滋润 ", "暂无", "其他系列", "2015-05-22 20:22:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("553f8c75f6c646ad9c50f67c0af9ec42", "402881AC4D411BBA014D411BBAF80013", "高伦雅芙", "高伦雅芙 修护液（日用）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/28/spcgroup/proportion_290x290/12882422601020180.gif", "暂无报价", "温和的抑痘配方适合用于整个面部。深层净化毛孔、加速老废角质脱落，抑制多余油脂分泌，令肌肤清爽水嫩不油腻。消炎抑菌、镇静舒缓并加强肌肤防御能力，抑制青春痘恶化并预防青春痘再生。[有效成分]水杨酸、Melaleuca茶树油、维生素A棕榈酸酯和洋甘菊提取", "保湿 ", "暂无", "其他系列", "2015-05-22 20:22:56")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8afe9122019942baac0b3435ca0366a6", "402881AC4D411BBA014D411BBAF80013", "老中医", "老中医 祛螨本草液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/1/spcgroup/proportion_290x290/12911731351322190.jpg", "￥58.0", "产品成份：百部、苦参提取物、多醣体萃取液、透明质酸、维生素E.
+产品说明：螨虫、暗疮、粉剌、毛孔粗大、皮肤粗糙等。", "保湿 补水 祛粉刺/祛痘 ", "50g", "痘清系列", "2015-05-22 20:22:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("374a5ebfebc44b3880e259427322efb2", "402881AC4D411BBA014D411BBAF80013", "老中医", "老中医 痘清修护液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/1/spcgroup/proportion_290x290/12911732062736290.jpg", "￥68.0", "产品成份：薰衣草、金银花、丹参、芦荟等提取物。
+产品说明：本品性质温和，平衡皮脂分泌，淡化痘印。
+使用方法：洁面后，取本品用指腹轻轻拍于脸上，吸收即可。", "保湿 补水 祛粉刺/祛痘 ", "100ml", "痘清系列", "2015-05-22 20:23:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("161d5ccb1bd448edb26ba765507c9633", "402881AC4D411BBA014D411BBAF80013", "老中医", "老中医 宛丽虫草液(老品）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/1/spcgroup/proportion_290x290/12911738843219680.jpg", "暂无报价", "成份：冬虫夏草、人参、银杏、甘草等中草药提取物。
+特    点：宛丽虫草液充分吸收了中医的传统理论，通过国际先进的二氧化碳超临界萃取技术，萃取多种名贵中药精华，防止色斑的产生，让肤色保持明净，均匀，含热感应调节配方，使肌肤很快适应各种温度，肌肤舒适自然，肤色均匀亮泽。
+使用方法：洁面后，挤按适量本品，用指尖轻拍于脸上。早晚一次。", "保湿 补水 美白 祛斑 ", "100ml", "祛斑系列", "2015-05-22 20:23:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b22c5fd711a64be49902cf0b7ab6a64d", "402881AC4D411BBA014D411BBAF80013", "可贝尔", "可贝尔 cobor胶原雪肤原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/5/spcgroup/proportion_290x290/12915519206051920.png", "￥160", "Normal
+0
+
+7.8 磅
+0
+2
+
+false
+false
+false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MicrosoftInternetExplorer4
+
+
+
+
+
+
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:普通表格;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-parent:"";
+mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+mso-para-margin:0cm;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;}富含胶原蛋白、保湿因子等高效保湿成份，细致毛孔，强力补水，有效美白肌肤，补充皮肤所需胶原蛋白增强肌肤弹性，在皮肤表面形成高效保湿膜，令肌肤自然、水嫩、晶莹剔透。", "保湿 补水 美白 收缩毛孔 滋润 ", "18ml", "其他系列", "2015-05-22 20:23:07")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("76498a0816e4466faef4efd5bdec1f9a", "402881AC4D411BBA014D411BBAF80013", "Dermaviduals", "Dermaviduals 芦荟萃取液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20115/6/spcgroup/proportion_290x290/13046975587287720.gif", "暂无报价", "主要成份Aqua、Glycerin、Sorbitol、AloeBarbadensis、XanthanGum產品特性芦薈具引流堵塞的淋巴液作用，促进水份循环及血液循环，其中也含有可去除肌肤上坏死细胞的酵素，紧实肌肤，增加肌肤弹性，减少皱纹產生；芦薈更有防止发炎效果。", "保湿 舒缓肌肤 滋润 ", "暂无", "其他系列", "2015-05-22 20:23:10")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0670d7d7714a4291a4e125ac00aa3198", "402881AC4D411BBA014D411BBAF80013", "UNES", "UNES 红酒多酚原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/1/spcgroup/proportion_290x290/13227387100438490.jpg", "￥108", "功效: 美白  补水  保湿 ...
+    化妆品规格: 正常规格
+    化妆品容量: 30g/ml
+    品牌: UNES
+    面部精华单品: 红酒多酚保养型原液", "保湿 抗敏感 美白 ", "30ml", "其他", "2015-05-22 20:23:11")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("27d17bbcd8b6468eb3bf7468ceb72ca9", "402881AC4D411BBA014D411BBAF80013", "艾杜纱", "艾杜纱 ettusais渗透导入液", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u10/spcgroup/12131_s3_290x290.jpg", "￥165", "在疏水性的肌肤打造水份导入信道，将滋润及修护成份导入至角质深层，消除暗疮的源头&mdash暗疮菌。当中的促进渗透精华能深入毛孔，预防暗疮在毛孔之中恶化。○ 迅速与肌肤相融，将保湿水当中的滋润和修护成份导入至肌肤深层，令肌肤柔软。○ 打造一条短暂的「导入信道」予水溶性成份通过原本属疏水性的角质层。○　蕴含保湿成份及油份，赋予角质层异常丰富的水份平衡，提升屏障锁水能力。○　透过赋予角质滋润，促进老化角质脱落，防止厚化变硬，保持肤色剔透。○　促进角质的屏障保护效能，预防暗疮菌大量繁殖，达致防暗疮功效。○　蕴含AC control oil防暗疮油份，通过皮肤科医生测试、不含香料、不含色素、弱酸性", "补水 抗衰老/抗皱 提拉紧致 ", "85ml", "暗疮护理系列", "2015-05-22 20:23:15")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("257845eed5094ed0a11afd14fad2a8eb", "402881AC4D411BBA014D411BBAF80013", "碧欧泉", "碧欧泉 净颜清痘特护凝露", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200910/14/spcgroup/1255500384320_290x290.gif", "￥260", "随时使用，快速消除痘痘炎症。 超浓缩凝胶, 可方便在妆前妆后均可使用。", "祛粉刺/祛痘 抗菌消炎 ", "15ml", "净颜清痘系列", "2015-05-22 20:23:17")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e8159e3e7ae74bf6b294f054e1e8c50c", "402881AC4D411BBA014D411BBAF80013", "爱琪美", "爱琪美 细纹修护液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20105/24/spcgroup/proportion_290x290/1274701582019.jpg", "暂无报价", "一种有效的细纹修护液，有效减退表情纹，蕴含丰富的活性成份，能减退皱纹及细纹，提供肌肤必需的滋润，让肌肤回复柔软。迅速重整暗哑及过于劳累的肌肤，让肌肤回复柔软光滑、柔韧及亮白。适合所有肌肤使用。使用方法： 
+于日间或晚间涂搽于表情纹位置，使用其它护肤品前使用效果更佳", "抗衰老/抗皱 滋润 ", "暂无", "其他系列", "2015-05-22 20:23:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("25b4f963481144f3b7317b37b5ef6ca2", "402881AC4D411BBA014D411BBAF80013", "UNES", "UNES 胶原蛋白原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201112/1/spcgroup/proportion_290x290/13227378419566080.jpg", "￥50.0", "功效: 其他功效
+    化妆品规格: 正常规格
+    适合肤质: 中性及干性肤质
+    化妆品容量: 10g/ml
+    品牌: UNES
+    面部精华单品: 胶原蛋白原液", "保湿 滋润 ", "10g", "其他", "2015-05-22 20:23:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("049e42c9842040198684d22b864718e1", "402881AC4D411BBA014D411BBAF80013", "高丝艾文莉", "高丝艾文莉 本草凝粹角质优化美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/14/c0/spcgroup/16595697_1355458250012_400x400_290x290.jpg", "￥158.0", "升级后的本草凝粹角质优化美容液倡导&ldquo去除角质+柔软肌肤&rdquo的角质护理概念，能更温和地去除肌肤晦暗（老化角质），柔和调理容易变硬的肌肤，给您优质健康的肌质。
+新添加了自古以来便作为汉方有效成分的红花提取液，配合更浓缩的人参根、芍药根、黄芩根、当归、薏苡仁、黄龙胆根等天然本草配方，使肌肤达到快速而有效的深层净化，令晦暗、疲乏的肌肤活性化，绽放亮丽的透明感。
+与肌肤相同的弱酸性，无刺激。", "保湿 补水 净化排毒 提拉紧致 ", "120ml", "本草凝粹基础系列", "2015-05-22 20:23:24")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a41e333c9b254a2fbd5ad57bed621836", "402881AC4D411BBA014D411BBAF80013", "如新", "如新 活颜弹力青春原液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/5/spcgroup/1259995025760_290x290.jpg", "￥975", "活颜弹力青春原液让您的脸部肌肤与轮廓回复紧致，充满青春弹力，再现年轻光彩！此修容原液蕴含专利成份Ethocyn易色新，能阻隔肌肤中防碍弹力蛋白生成的信号，弹力蛋白从而再度活跃，重现青春肌肤的紧致弹性。", "补水 抗衰老/抗皱 滋润 ", "60颗 8ml", "面部保养系列", "2015-05-22 20:23:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4add35433a1346798805ff5bb5c3ae84", "402881AC4D411BBA014D411BBAF80013", "迪奥", "迪奥 雪晶灵保湿美容液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200911/5/spcgroup/1257388409581_290x290.jpg", "￥490", "乳白色的美容液，质地丰盈、舒适，给予肌肤完美滋润，显著增强肌肤光泽。为下一步终极透白体验准备好。", "补水 美白 滋润 ", "200ml", "雪晶灵焕白亮采系列", "2015-05-22 20:23:28")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4c0c24377c614e858c6020d06a5fa730", "402881AC4D411BBA014D411BBAF80013", "美谛高丝", "美谛高丝 润采莹白晶透之秘美容液", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u13/spcgroup/2601_s3_290x290.jpg", "￥350", "引领肌肤进入前所未达的美白新境地 美白新角度——如同为肌肤注射黑色素预防疫苗，具美白保湿双重护理效果的先驱型美容液。", "补水 美白 滋润 ", "80ml", "润采莹白系列", "2015-05-22 20:23:30")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("054b7404e57d4f7aabcb79f13ca99ad5", "402881AC4D411BBA014D411BBAF80013", "兰蔻", "兰蔻 净白修护美容液", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/u20/spcgroup/11956_s3_290x290.jpg", "￥400", "净白修护美容液1：专门针对油性肌肤，具有收敛洁净的作用含有北美金缕梅精华成份，有效清洁肌肤，吸除油脂，收缩毛孔", "保湿 控油 美白 收缩毛孔 ", "200ml", "美白肌肤", "2015-05-22 20:23:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f9ce0840c942466b9204ffe42d7d221d", "402881AC4D411BBA014D411BBAF80013", "印象之美", "印象之美 深层美白美容液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200910/20/spcgroup/1256032861060_290x290.jpg", "￥1,080", "有效解决综合性肌肤烦恼，
+缔造充满张力与透明感肌肤的高机能美白美容液。有效抑制黑色素过剩生成，预防褐斑、色斑。
+防止因紫外线等外部环境侵扰而引发的肤色黯淡、粗糙
+及肌理乱等综合性肌肤问题，
+赋予肌肤张力与弹性，使之充满水嫩的透明感。
+卓越的渗透力，赋予因干燥引起小细纹
+或有肤色不匀等烦恼的肌肤以及时滋润，
+长时间锁住水分，
+令肌肤如新生一般柔嫩。<p>※通过易融于肌肤的微分子构造，<br>
+&nbsp;&nbsp;&nbsp;&nbsp;令美白成分有效渗透至角质深处的深层美白配方。</p>
+<p>●JCT控油配方(保湿)<br>
+●SBG精华配方(保湿)</p>", "保湿 美白 ", "40ml", "护肤系列", "2015-05-22 20:23:35")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e9f9dd1e4f4c4689bebec6c65f666c33", "402881AC4D411BBA014D411BBAF80013", "美谛高丝", "美谛高丝 毛孔柔细美容液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200911/19/spcgroup/1258615949909_290x290.jpg", "￥420", ""美容液+遮瑕膏"的双重效果,让毛孔粗大的问题肌肤呈现细致的高莹透感.防止毛孔周围角层的多层化，消除毛孔明显的美容液。在延展到肌肤的瞬间，能即刻令毛孔变得不明显的卓越遮盖效果。持续使用，能从肌肤内侧到毛孔周围的肌肤饱满，改善毛孔明显问题。使用方法：于早上化妆前使用，能令持妆效果长久", "保湿 收缩毛孔 ", "30ml", "基础系列", "2015-05-22 20:23:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("73a3987e57b04e9a94887e21138fdded", "402881AC4D411BBA014D411BBAF80013", "碧修堂", "碧修堂 凝世金颜新活乳液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20107/14/spcgroup/proportion_290x290/12791015027927250.jpg", "暂无报价", "添加珍贵精华成分，同时注重亮白与保湿功能，让肌肤维持饱满的弹性与活力。", "保湿 补水 ", "200ml", "其他系列", "2015-05-22 20:23:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fc341291ef3f460f9a5ef8d4b7d05585", "402881AC4D411BBA014D411BBAF80013", "雅邦", "雅邦 红酒透白美肌养颜乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20106/23/spcgroup/proportion_290x290/12772741487538090.jpg", "暂无报价", "【产品功效】具有卓越的亲和能力可使肌肤自然吸收多种营养成份至真皮，促进新陈代谢。蕴含的植物精华成份能力和分解和淡化表皮的色素，自然美白，令肌肤白皙细腻有光泽，娇嫩可人，独特微细保湿成分渗透于皮肤深处补充水份，深层滋润，并在皮肤外层成保护膜，紧锁水份，防止水分流失，持久保持肌肤滋润状态。
+【主要成份】红酒精华、植物活肤精华、维生素c、 熊果苷、透明质酸。
+【使用方法】洁肤后爽肤后，取适量均匀涂于面部，轻轻按摩至完全吸收即可。", "保湿 补水 美白 ", "150ml", "护肤系列", "2015-05-22 20:23:44")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7ec8b42c2007464cb4fc33f158bbb69a", "402881AC4D411BBA014D411BBAF80013", "蕊莉芙", "蕊莉芙 雪颜晶白润肤乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/17/spcgroup/proportion_290x290/12872891580548300.jpg", "￥160", "性质柔滑，充分亲和肌肤，为肌肤注入丰富的美白及活力元素，深入提高肌肤的美白机能，净化肌肤，排除肌肤上的瑕疵，同时在肌肤表面形成一道保护屏障，锁住肌肤水分及养分，保护肌肤免受外界环境的伤害，让肌肤在均衡、白皙中呈现健康的光彩。", "滋润 ", "110ml", "雪颜晶白系列", "2015-05-22 20:23:45")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("91c6b91eefec47399b2867c9c5c6656f", "402881AC4D411BBA014D411BBAF80013", "雪肌丽", "雪肌丽 活肌紧肤再生液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/9/spcgroup/proportion_290x290/12866258481473180.gif", "暂无报价", "商品特点：独特的活细胞治疗产品特性：PH6.51.含高浓缩且稳定的活性细胞，数分钟明显拉紧肌肤，使肌肤立即除皱拉皮；2．具高度活化肌肤功能的复合元素，促进细胞更新，重拾生机及光彩；3．滋润保湿,保护细胞组织,使肌肤回复均衡健康,娇柔嫩滑。4．特别推荐给疲惫、晦暗、凹洞、松弛", "保湿 提拉紧致 ", "暂无", "其他系列", "2015-05-22 20:23:46")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("a9b7d5d5f8bc44e0ab0a50b90a04aaed", "402881AC4D411BBA014D411BBAF80013", "路易维娜", "路易维娜 粉刺液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/27/spcgroup/proportion_290x290/12908619321375120.jpg", "暂无报价", "成份：NORMASEB、蜂王浆控油因子、无色金缕梅、AC抗粉刺精华、北美绣线菊活性精华、红藻精华、氨基酸保湿剂AM-20、M3矿物鸡尾酒、透明质酸、柑桔提取液、橄榄叶提取液。功效：专为暗疮、粉刺肌肤而设计，抑制旺盛的油脂分泌,退红、平复暗疮、消除粉刺、收敛粗大毛孔、抑制黑头", "祛粉刺/祛痘 ", "暂无", "其他系列", "2015-05-22 20:23:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ffa1d7c984044733a7b974975c249d72", "402881AC4D411BBA014D411BBAF80013", "奈碧", "奈碧 活力营养霜", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/25/spcgroup/proportion_290x290/12906910661995950.jpg", "暂无报价", "1.天然植物复合体，由瑞士COSMETOCHEM研究所开发，是ENPRANI株式会社独家使用的独特成分。2.Phyelene:6种植物花卉中精致的花卉萃取成分，缓解皮肤刺激和炎症。3.马齿苋萃取物，给皮肤提供水分，缓解刺激，保护皮肤。4.郁金萃取物，皮肤保湿效果优异。", "保湿 美白 ", "暂无", "其他系列", "2015-05-22 20:23:52")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("91373fc5c6f14dfe945fe1776e346aac", "402881AC4D411BBA014D411BBAF80013", "高丝", "高丝 艾文莉萃籽活颜弹润美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/7/spcgroup/proportion_290x290/12916918124205510.png", "￥211", "润泽、弹性，从源头阻止肌肤干燥及“老龄”困扰！", "保湿 补水 美白 滋润 ", "30ml", "其他系列", "2015-05-22 20:23:53")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ffa00cae971e452192c2e3009e974392", "402881AC4D411BBA014D411BBAF80013", "维健美", "维健美 深层美白玉液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/27/spcgroup/proportion_290x290/13012276858453310.jpg", "暂无报价", "规格：30ml  参考价：162 元 
+ 
+蕴含高效美白元素及超浓缩维生素C，独特高效者喱状配方，能迅速渗透肌肤底层，深入平衡皮肤内的黑色素细胞，显著改善色素沉淀，淡化褐斑，活化肌肤，重现美白光采。早晚涂于洁面上，尤其针对色斑部位。适合各类肌肤使用。主要成分：美白元素Clariskin、胺基酸、维生素C。", "保湿 美白 ", "暂无", "其他系列", "2015-05-22 20:23:55")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("eed8cfa6563040bd8be4d08066308e8d", "402881AC4D411BBA014D411BBAF80013", "贝泉", "贝泉 玻尿酸原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20113/29/spcgroup/proportion_290x290/13014035407728100.gif", "￥58", "玻尿酸的保水能力之高为自然保湿因子之首，其1g可集1000g的水成凝胶状，使用于皮肤上使皮肤水份丰富而滑润，柔细的玻尿酸水溶液具有粘度，它来自多醣尿酸，具有强效保湿作用，以及其水溶性高分子特性，能提高皮肤水份保持能力与皮脂的形成，使皮肤透皙，光泽的皮肤不因为年纪，环境等因素而老化。
+    皮肤的缺水是现代人最大的问题，如冷气、保湿机、阳光都在无形中使您的肌肤越来越干而提早老化，而玻尿酸能补给肌肤水份，赋予润泽预防纤维组织老化，避免皱纹出现，且可修复细胞改善血液循环，促进代谢。玻尿酸具有保湿能力，能增加皮肤水份，保持湿润，抵御氮化物对皮肤的伤害，修护受损的肌肤，快速补充营养，促进肌肤血液循环，帮助排除老死角质，使肌肤更显光滑平顺，帮助肌肤活性化，再造完美肌肤。", "抗衰老/抗皱 提拉紧致 ", "10mk", "其他系列", "2015-05-22 20:23:56")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f0b6acfa0ca543cea7d6e6c88eefd228", "402881AC4D411BBA014D411BBAF80013", "资生堂", "资生堂 臻白无瑕美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1301/17/c0/spcgroup/17483502_1358405396425_400x400_290x290.jpg", "￥750", "该产品添加了全新美白成分m-Tranexamic Acid，第一次将医疗领域使用的美白有效成分使用在了化妆品中，并获得了专利。", "抗敏感 美白 滋润 ", "45g", "臻白无暇系列", "2015-05-22 20:23:58")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fe840a65eee84c6b88767c61298cc46b", "402881AC4D411BBA014D411BBAF80013", "碧欧泉", "碧欧泉 莹白美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1311/11/zz/70926/spcgroup/70926-1_290x290.jpg", "￥500", "温和的白色乳液质地，更易于被肌肤吸收。
+赋予肌肤柔软的丝绸般润泽触感，回复均匀通透的肤质，同时牢牢锁住精华成分，令肌肤全天候白皙透亮。
+亚特兰大海藻，抑制色素在肌肤底层扩散，保持源头透明。
+C 配糖和甘醇酸，加速表皮黑色素脱落，回复纯净。
+复合排浊配方帮助中和自由基，排除肌肤毒素，去除暗哑。
+PTP矿泉活细胞因子，保湿更新肌肤，使肌肤亮泽程度更上一个台阶。
+精华之后，取适量产品点于脸部五点，沿肌肤纹理均匀延展开，直至被吸收。", "保湿 美白 ", "125ml", "莹白系列", "2015-05-22 20:24:01")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2c415efa49174675aad85364b1d09d7e", "402881AC4D411BBA014D411BBAF80013", "赫莲娜", "赫莲娜 智能完颜细肤美容液", "http://imgrt.pconline.com.cn/images/pclady/cosme/product/z4/spcgroup/200905111949384729_s3_290x290.jpg", "￥580", "针对肌肤问题 毛孔粗大，肌肤下垂引起的椭圆型毛孔及油脂分泌旺盛引起的圆形毛孔 角质层过于肥厚 肤质粗糙，不平滑 HR先端科技 Y- perfector complex均衡调理复合物 可以有效的去除角质，收紧毛孔，净化肌肤和控制油脂分泌，这个革新成分明显减少各种原因引起的毛孔问题，圆形毛孔和椭圆型毛孔及深度缺水引起的毛孔干裂扩张。 产品介绍 清爽的液体质地，散发淡淡的果香味道，极其清新，毫无粘腻感，带给肌肤柔软和舒适的感觉，明显收紧毛孔，使肌肤更加柔软和平滑 更多信息 使用方法： 用棉片轻柔擦拭，从中心到四周，避开眼周", "保湿 补水 控油 收缩毛孔 滋润 ", "200ml", "智能完颜系列", "2015-05-22 20:24:03")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("33388dba34fc47738054030328acbb2c", "402881AC4D411BBA014D411BBAF80013", "Dermaviduals", "Dermaviduals 海藻萃取液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20115/6/spcgroup/proportion_290x290/13046975587287720.gif", "暂无报价", "主要成份Aqua、Sorbitol、FucusVesiculosus、XanthanGum產品特性含有多种醣、蛋白质、胺基酸、植物贺尔蒙、丰富矿物质成份、微量元素等，有收敛作用和抗菌抑制病菌成长。并含有多醣类和胺基酸，增加皮肤水份，保持皮肤湿润。", "保湿 滋润 ", "暂无", "其他系列", "2015-05-22 20:24:04")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7988e0541244460eb6a921553bb8a467", "402881AC4D411BBA014D411BBAF80013", "颜庄", "颜庄 嫩白修饰液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20105/26/spcgroup/proportion_290x290/1274854021891.jpg", "暂无报价", "【产品功效】
+独特防水持久配方，超细美白粉体，全面隔离，美白肌肤，调控肤色，有效遮盖斑点及细纹，改善粗黄、暗哑肤质。滋润成份瞬间修护肌肤，深层保湿，令肌肤白嫩细滑。
+【主要成份】
+氨基酸美白因子、超细美白粉体、透明质酸、水解珍珠精华、UVA、UVB紫外线过滤剂、牛油果油、海鲛油
+【使用方法】
+清洁肌肤，取适量擦于面部及颈部，按摩至完全吸收。", "保湿 补水 美白 ", "30g", "嫩白系列", "2015-05-22 20:24:06")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("5e4c8d4f302d4c8fa08cf9a5c7ae515e", "402881AC4D411BBA014D411BBAF80013", "蝶翠诗", "蝶翠诗 平皱美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1210/27/c0/spcgroup/14706848_1351316759958_400x400_290x290.jpg", "￥328", "是专门改善因皮脂分泌减少、干燥引起的小细纹而设计的细纹护理美容液。配合了具有高效保湿效果、保持肌肤柔滑的透明质酸和弹力蛋白，防止娇嫩的眼部和口周的干燥。具有涂抹时滋润、吸收后又十分清爽的使用感受，为容易干燥的部位增添滋润的同时，充分发挥肌肤的活力，缔造出充满弹性的水嫩肌肤。清晨涂抹便可保持一整天的润泽。如果小细纹已经悄然出现，请尽早护理。", "保湿 抗衰老/抗皱 滋润 ", "20ml", "原液美容液", "2015-05-22 20:24:11")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("2b2174b0109d44519989a074f2351f0e", "402881AC4D411BBA014D411BBAF80013", "拉格贝尔", "拉格贝尔 自然高保湿乳液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/26/spcgroup/proportion_290x290/12933396129758580.jpg", "暂无报价", "给肌肤充足的水分，在皮肤表层形成保护膜，使皮肤变得水润柔滑。适合于干性皮肤使用的高浓缩乳液。使用方法：在润肤水，精华素后，取1元硬币面积大小的本品于掌心，按照肌肤纹理均匀涂抹按摩至吸收。", "保湿 ", "暂无", "其他系列", "2015-05-22 20:24:13")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("bf0b3982bd974bff8e93ff5e903a129f", "402881AC4D411BBA014D411BBAF80013", "Shills", "Shills 左旋C活氧美白安瓶", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20105/12/spcgroup/proportion_290x290/1273655205960.jpg", "￥45", "三重集中强效净白网，全面扫除表里的所有黑色素，再也不堆积暗沉，真正由肌底散发纯白无暇的肤色，如同大S所说的日光灯白肌，光从肌底投射出来 
+一、突破：天然维他命C群，突破暗黄色块，将精纯的白皙能量注入肌底，即刻甩开灰暗肌色，全面均匀肤色 
+二、吸收：最新的奈米熊果素技术，包裹成奈米微囊分子，淡化斑点、并紧实抗老，与维他命C持续提供白晰弹力能量 
+三、发光：强效左旋C完整封锁三重净白精华，扑灭麦拉宁黑色素根源，并能增加弹性及抗氧力，真正绽放晶灿光亮，肌肤如同日光灯般散发白色透亮的光芒，将净白全写在脸上!", "美白 ", "7ml", "其他系列", "2015-05-22 20:24:15")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8a5334efbcc84bc58465891db97733a3", "402881AC4D411BBA014D411BBAF80013", "彦部秀", "彦部秀 亲肤补水粉液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/12/spcgroup/proportion_290x290/12816234033942350.jpg", "暂无报价", "成 分：II、III型胶原蛋白，Aquaregul’K(水通道蛋白保湿剂)，小麦胚芽油，维生素E醋酸酯，玉米仁提取物，纳米二氧化锌等。作 用：Aquaregul’K水通道蛋白保湿剂，作用于表皮层的创新保湿机制。通过促进水通道蛋白（一种水通道分子）的产生增加水循环，迅速摆脱缺水烦恼，带来激动人心的保湿效果！配合胶原蛋白，长效补水，高度保湿，避免肌肤过度干燥，遮盖面部瑕疵，使肌肤细嫩有光泽，效果透明自然。粉质细腻自然，含小麦胚芽等有效滋养成份，轻松拥有自然、均匀的妆容。透气微囊，上妆后形成一层透气薄膜，有效抵御外界的侵害，轻柔、剔透、均匀、清爽。用 法： 需要时取本品黄豆粒大小于指尖，柔和均匀地涂抹在面部及颈部直到完全吸收。", "保湿 补水 滋润 ", "40g", "其他系列", "2015-05-22 20:24:17")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("8c4b9408029f4f65a4852b65bb8b3730", "402881AC4D411BBA014D411BBAF80013", "丝菲", "丝菲 无痕祛痘液（祛痘精华素）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/28/spcgroup/proportion_290x290/12856436494242510.jpg", "￥198", "丝菲Scarfree无痕祛痘液帮你解决祛痘问题。网络畅销的SCARFREE的抗痘产品——scarfree祛痘精华素，是通过对皮肤专家上十年研究结论分析，针对祛痘难题，严格标准皮肤安全配方，浓缩萃取植物及天然草药精华，重现肌肤活性、光彩所研制的一款突破性科研成品。", "保湿 补水 祛粉刺/祛痘 净化排毒 抗菌消炎 ", "10ml", "其他系列", "2015-05-22 20:24:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e6ea5851d59f46edb899afdb825af7d5", "402881AC4D411BBA014D411BBAF80013", "世纪丽人", "世纪丽人 植物保湿美白乳液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/4/spcgroup/proportion_290x290/12835773800915670.jpg", "暂无报价", "", "保湿 补水 美白 滋润 ", "暂无", "绿色经典系列", "2015-05-22 20:24:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("05cebc6088d749feb75ebe4440b497cc", "402881AC4D411BBA014D411BBAF80013", "有情", "有情 蒲公英肤色修正液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20108/19/spcgroup/proportion_290x290/12822094296198270.jpg", "暂无报价", "主要成分：蒲公英、天然抗氧化剂、透明质酸、珍珠粉等。功效：柔和自然粉底，细致调整肤色，透氧保湿，遮掩皮肤微小瑕疵。于肌肤表层
+形成保护膜，同时有效增强肌肤透明质感，细致光滑、晶莹剔透的肤色丽若天生。
+粉质细腻，亲肤性强，上妆自然、不易掉妆，可兼作美容霜和粉底使用。", "保湿 ", "35g", "蒲公英系列", "2015-05-22 20:24:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d2c3695967a94a57b8e0189bb2160219", "402881AC4D411BBA014D411BBAF80013", "JUJU", "JUJU 天然有机芦荟保湿滋润乳液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/26/spcgroup/proportion_290x290/12880885529129220.jpg", "暂无报价", "使用100%有机栽培的芦荟原液，保湿浸透肌肤深层，从底层透出自然光感，水嫩滋润。＊无香料、无着色、无添加矿物油＊弱酸性成分，温和不刺激肌肤。＊采用温和、贴近肌肤的天然芦荟保湿素材，水灵的湿润感！", "保湿 ", "暂无", "其他系列", "2015-05-22 20:24:29")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ef64feec2e354cc2897c5c46cb3aab5c", "402881AC4D411BBA014D411BBAF80013", "郁美净", "郁美净 AOLAI晒后修护乳", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1208/20/c0/spcgroup/13041522_1345392157218_400x400_290x290.jpg", "￥58", "作用：镇静，修复因紫外线和外部刺激所引起的肌肤氧化，抑制肌肤发红发烫的症状，恢复细胞活力。清爽，盈润，无黏腻感，迅速吸收，防晒同时令肌肤现出白皙和润泽。适合人群：适合所有肌肤使用方法：晚间洁肤→爽肤水→晒后修护乳（取适量均匀涂抹于晒后肌肤，轻柔按摩直至吸收）", "晒后修护 ", "150ml", "AOLAI系列", "2015-05-22 20:24:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("26ecdc074c7e43d7b9a702f488b55dc6", "402881AC4D411BBA014D411BBAF80013", "露蔻", "露蔻 玻璃包装美白型雪颜嫩白乳液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/6/spcgroup/proportion_290x290/12863563497044500.jpg", "￥68", "能迅速渗透至肌肤内层，深层滋润美白，补充肌肤所需营养；长时间保湿，防止干燥及细纹的产生。增强肌肤的弹性，改善晦暗肤色，让肌肤  晶莹剔透，自然美白。
+【主要成分】主要成份：去离子水、天然橄榄提取液、蜂蜡、液蜡、甘油单硬脂酸酯、凡士林、N-18酰基谷氨酸钠、二氯乙酸、二异丙基胺、   抗坏血酸磷酸酯镁、吐温-80、尼泊金甲、丙酯、香精等。
+【使用方法】洁面后，取适量本品均匀抹于面部，轻轻按摩至完全吸收即可。", "保湿 美白 嫩肤 ", "100ml", "纯净活颜系列", "2015-05-22 20:24:33")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("0094def1887b4a54890fe012a00fd5cf", "402881AC4D411BBA014D411BBAF80013", "柏氏", "柏氏 醋疗肌肤重整露", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/5/spcgroup/proportion_290x290/12889426525103860.jpg", "暂无报价", "全面发挥强劲美白力量，迅速净白肌肤，深层淡化瑕疵，改善黑黄、晦暗、不均匀肤色。加速细胞自我更新修护功能，增强皮肤透明度及弹性，令肌肤持久纯美晶莹、白皙无暇。成效实证1：激白去黄极为卓著成效实证2：更能促进肌肤弹性成效实证3：无限亮白更持久注", "保湿 补水 ", "暂无", "其他系列", "2015-05-22 20:24:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e161109d7ac94b5b93797e731be22d79", "402881AC4D411BBA014D411BBAF80013", "高伦雅芙", "高伦雅芙 修护液（夜用）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/28/spcgroup/proportion_290x290/12882422995529520.gif", "暂无报价", "温和抑痘配方适用于整个面部肌肤。调理油脂分泌，收缩毛孔，加速肌肤新陈代谢，在睡眠的同时修护受损肌肤细胞，加强肌肤自然修复能力，减轻阳光辐射对肌肤造成的伤害。复合维他命成份帮助分解色素沉淀，淡化痘痕，令肌肤恢复爽洁细致。[有效成分]水杨酸、视黄醇、夏威夷核果油和洋甘菊提取", "保湿 ", "暂无", "其他系列", "2015-05-22 20:24:37")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("736c1f29733243548f5ee4f663c9a90d", "402881AC4D411BBA014D411BBAF80013", "老中医", "老中医 祛痘本草液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/1/spcgroup/proportion_290x290/12911728771608330.jpg", "￥58", "产品成份：百部、苦参提取物、多醣体萃取液、透明质酸、维生素E等。
+产品说明：消除暗疮、粉刺、淡化痘印。
+使用方法：洁面后，用化妆棉，在长痘的部位，擦上少量本品即可。", "保湿 补水 祛粉刺/祛痘 ", "50ml", "痘清系列", "2015-05-22 20:24:40")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("06372ca9d62a4eb486fd093258acf6a0", "402881AC4D411BBA014D411BBAF80013", "老中医", "老中医 宛丽虫草液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/1/spcgroup/proportion_290x290/12911737962623760.jpg", "￥68", "规格： 100ml
+产品成份：冬虫夏草、人参、银杏、甘草等中草药提取物。
+产品说明：具有保持肤色明净、均匀，内含热感应调节配方，使肌肤快速适应各种温度，令肤色均匀亮泽。
+使用方法：洁面后，在面部喷洒适量本品", "保湿 补水 美白 祛斑 ", "100ml", "祛斑系列", "2015-05-22 20:24:42")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d3c798c344034b9694d7b79a27ed8eea", "402881AC4D411BBA014D411BBAF80013", "嫒碧知", "嫒碧知 滋肤亮颜美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1212/01/c0/spcgroup/16266149_1354374758479_400x400_290x290.jpg", "￥700", "促进肌肤血液循环，使肌肤红润、健康、富有透明感。〇配合能促进血液循环，强化毛细血管的烟酸生育酚酯和橙皮苷，提高肌肤整体功能。〇轻轻涂抹按摩就能促进血液循环的保湿美容液。〇强化毛细血管的功能，确保后续产品的有效成分输送到肌肤内部。〇排除易积聚的老废物，塑造明亮透彻肌肤。能有效改善脸部浮肿以及黑眼圈。〇适合偏干性，没有血色，呈现灰色暗沉的肌肤。在清化妆水之前取按压2-3次的量2ml于手心，轻轻涂抹至全脸后，使用指腹由内而外的轻柔滑过眼周，边涂边按摩。", "保湿 活肤焕采 ", "27g", "护肤系列", "2015-05-22 20:24:43")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("b274a095daf24dd9992800d635f28ea2", "402881AC4D411BBA014D411BBAF80013", "可丽扶", "可丽扶 黄钻浓缩滋润胎盘美容液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/11/spcgroup/proportion_290x290/13024967739336210.jpg", "暂无报价", "*独特的使用感觉*「浓缩长效滋润美容液」的最大特点是配含又湿较强的高分子多糖类成分。美容液本身成白色啫哩状。把它涂抹在肌肤上会迅速渗透,在角质层形成水网膜,把马胎盘素,微量胶原蛋白等营养成分封锁,并形成水分网膜,到达长久保湿。", "保湿 抗衰老/抗皱 提拉紧致 滋润 ", "30g", "其他系列", "2015-05-22 20:24:48")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("edbc8c4f6b334d708935df2cc6027502", "402881AC4D411BBA014D411BBAF80013", "高丝", "高丝 润肌精活妍紧颜美容液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1309/18/c0/spcgroup/25838674_1379489568006_400x400_290x290.jpg", "暂无报价", "高丝 润肌精活妍紧颜美容液，广为中国女性所熟知并喜爱的润肌精活妍系列的最新成员，于初秋时节活力登场。这款全新产品，延续活妍系列娴熟睿智地应用东方汉方精华和西方草本力量的特质，在缔造保湿肌质的基础上注入了对抗重力的概念，让肌肤自此挣脱年龄的桎梏和束缚。素来讲求“打造无惧重力之弹润美肌”概念的润肌精活妍系列，在中国内地市场销售一周年之际，特别推出以缔造张力感肌肤为指向的紧颜美容液，这款努力不让肌肤输给岁月的精华，着实值得期待。
+
+秋季，众所周知，正是干燥问题开始暴露的季节。而干燥恰恰也是真皮胶原蛋白流失所引致的老化问题的前兆。此际全新登场的润肌精活妍紧颜美容液采用母菊、玉露茶等汉方植物精华及库拉索芦荟叶、射干提取物、腺苷等多种美容成分，通过对肌肤表皮和真皮的综合作用，来实现改善、提升肌肤自身张力的目的。除此之外，还特别添加艳山姜叶和野蔷薇果两大精华成分，让美容液功效直击眼袋、毛孔松弛、脸颊横纹、法令纹、嘴角纹、双下巴六大肌肤老化问题。提取自玉桃树叶的艳山姜叶提取物，具有抑制弹性蛋白分解的效果，强化真皮弹性蛋白纤维，提升、激发肌肤自身的张力。而野蔷薇果提取物的紧致效果（蛋白凝集效果），能有效收紧松弛的毛孔，让肌肤更为细腻平滑。由内而外向上提拉般赋予肌肤张力的美容液，润泽的集中倾注。肌肤因之而不再松弛，焕发充满生命力的年轻态！
+
+润肌精活妍紧颜美容液的包装设计，沿袭了活妍系列所关注的效果感，以局部的金色传递成熟印象。清雅的汉方图案、温柔的圆角设计等细节无不是对品质感的完美印证。
+
+焕现岁月无痕的灿然，引导上乘张力，润肌精活妍系列，为你而生。", "补水 抗衰老/抗皱 提拉紧致 滋润 ", "50ml", "润肌精系列", "2015-05-22 20:24:50")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1b1a992e91ea419985947da9190bff14", "402881AC4D411BBA014D411BBAF80013", "宝丽", "宝丽 滋润温和美溶液", "http://imgrt.pconline.com.cn/images/pclady/brand/brand_logo/200912/20/spcgroup/1261300906646_290x290.jpg", "￥120", "保存方法: 请置于阴晾处,开封后请尽早使用完毕.每日早晚于化妆水后取适量均匀涂抹于脸部肌肤,可轻轻按摩加速肌肤吸收.", "保湿 补水 抗敏感 滋润 ", "55g", "护肤系列", "2015-05-22 20:24:52")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("65a43f8a998c47f9acf51c7634d9e587", "402881AC4D411BBA014D411BBAF80013", "巴黎雪完美", "巴黎雪完美 去痘无印精华液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20104/27/spcgroup/proportion_290x290/1272342850124.jpg", "￥49.8", "创新雪完美去痘无印神仙水，融合巴黎雪完美美容护肤研究中心最新科技，揉合多重深海精华、VITAMIN A及去豆精华ACE，有效舒缓肌肤红印及护理豆豆，迅速消除豆豆印痕。
+＊多重深海精华能控制过量油脂分泌，令毛孔回复畅通，防止豆豆的出现。
+＊含有Vitamin A能温和去除老化角质，促进肌肤细胞更新，使肌肤看起来更清透，更柔嫩。
+＊不含油脂，不阻塞毛孔，并经过敏感测试。
+＊含清凉薄荷因子，清凉舒缓肌肤红印及护理豆豆，为肌肤带来清新焕发的感觉。SEWAME，PARIS.与青春同步
+巴黎雪完美美容护肤研究中心致力于探索将肌肤持于健康美丽的最佳方法，以达到肌肤清新焕发的理想状态。巴黎雪完美美容护肤研究中心专为年轻亚洲女性最新研发的去痘无印系列，速效去除青春痘，不留痘痘痕迹，清凉舒爽并令肌肤重现光洁柔嫩。系列功效:
+* 有效调理毛囊皮脂腺，平衡油脂分泌，增强肌肤自身抵抗力，可预防痘痘再次发生
+* 清凉舒缓肌肤红印及护理豆豆
+* 去除表面老化角质及印痕，加速伤口愈合的作用
+* 促进新细胞生长，迅速回复清透健康肌肤核心成份：去痘精华ACE
+去痘无印神仙水含有巴黎雪完美美容护肤研究中的第三代去痘精华ACE，特别强效针对易复发的痘痘皮肤，能迅速有效平衡油脂分泌，加速痘痘的新陈代谢，深入清除躲藏于毛孔的细菌，提升肌肤的自然免疫力，令肌肤不断释放活性氧，抑制导致痘痘生成的细菌滋生，彻底解决反复的“痘骚扰”。使用方法
+洁肤后，用化妆棉或棉棒取适量雪完美去痘无印神仙水涂于豆豆患处。早晚使用，效果更佳。配合雪完美去痘无印系列产品使用，去豆除印效果更理想。透悉去痘全过程
+去痘无印洁面泡沫/洁面露      去痘无印爽肤液      去痘无印神仙水/膏 (特殊护理：去痘无印神奇贴)注意事项：
+避免幼儿误食，请置于幼儿无法取得之处。若产品进入眼睛，请用清水彻底洗净。
+对本品过敏者极其微少，如涂搽部位皮肤出现红肿僵硬、热痛等不正常现象，可能是对本品过敏，请立即停止使用", "祛粉刺/祛痘 控油 舒缓肌肤 去印 ", "50ml", "去痘无印系列", "2015-05-22 20:24:54")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("7e2dc9b352f24355ab74b45ee5b5bb30", "402881AC4D411BBA014D411BBAF80013", "泊妮", "泊妮 鲜橙美白活肤液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20107/20/spcgroup/proportion_290x290/12796350375866490.jpg", "暂无报价", "主要成份： 
+鲜橙精华、柠檬汁、透明质酸。 
+产品功效： 
+鲜橙等多种鲜果精华能够深入皮肤，净化美白皮肤，抑制色素产生，恢复白皙亮丽。 
+使用方法： 
+早晚皮肤清洁后，取适量轻拍于面部至吸收", "保湿 补水 ", "暂无", "其他系列", "2015-05-22 20:24:56")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("e7b8094e7f7d401fb4121ae8ea39a3ee", "402881AC4D411BBA014D411BBAF80013", "诗狄娜", "诗狄娜 花瓣润肤液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20109/19/spcgroup/proportion_290x290/12849018168227040.jpg", "暂无报价", "油性皮肤为油性肌肤提供水分。更新暗沉肤色同时控油。含柠檬及佛手油。舒缓及刺激感官。性质轻盈及迅速渗透入肌肤。激发自信及自我肯定。", "保湿 滋润 ", "50ml", "其他系列", "2015-05-22 20:24:57")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("18cb3d772e9e4922b935811fbaeff592", "402881AC4D411BBA014D411BBAF80013", "庆琇", "庆琇 保湿嫩肤液（庆琇保湿液）", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201010/26/spcgroup/proportion_290x290/12880771587857310.jpg", "￥35", "产品本质功效： 
+1、 面部：解决皮肤衰老问题（止皱）、消除紫外线引起的黑色素（嫩白）。 
+2、 身体：消除粗糙、干燥 
+3、 手脚：消除干裂 
+产品辅助功效：持续使用，皮肤不会出现老龄斑，面部黑色素、黄褐斑减轻。在配合口维生素C效果更佳（夏季避免强日光照射、出门携带遮阳帽或遮阳伞，避免反弹） 
+产品营养成分：中西医结合，创新止皱配方，内含多种维生素、氨基酸、维他命E......", "保湿 补水 ", "100ml", "其他系列", "2015-05-22 20:25:00")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f4c87cc83c4d4e89b583f78f26beaeb8", "402881AC4D411BBA014D411BBAF80013", "娜丽斯", "娜丽斯 优物语莱芙丝紧肤乳液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201011/21/spcgroup/proportion_290x290/12903146191013780.jpg", "暂无报价", "产品说明适用人群：28-45岁，可提高紧致肌肤，令肌肤细腻光滑、紧致润泽。产品特点：含有人体所需的I型胶原蛋白，使肌肤细胞丰满，从而使肌肤水润充盈。I型胶原蛋白：“肤中之肤，骨中之骨”，不仅使肌肤保持弹性，更能牢牢抓住水分，令肌肤水润通透。连续十年畅销，深受消费者信赖。", "保湿 提拉紧致 ", "暂无", "其他系列", "2015-05-22 20:25:05")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("c8739e524ea646e7894c1cef9c6f565d", "402881AC4D411BBA014D411BBAF80013", "树语", "树语 玫瑰保湿盈润乳", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/1/spcgroup/proportion_290x290/12911705633887960.jpg", "￥105", "水润晶莹、清爽瞬透的保湿乳液，轻触间，仿佛置身于玫瑰花园般芬芳怡人；赋予肌肤润泽通透的完美质感，有效缓解肌肤干燥缺水的现象；任外界瞬息幻变，肌肤始终柔嫩丰盈。", "补水 美白 滋润 ", "100ml", "玫瑰盈润保湿系列", "2015-05-22 20:25:09")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("ca1c952680834643b1637013435d1af0", "402881AC4D411BBA014D411BBAF80013", "老中医", "老中医 止痘精华修护液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/1/spcgroup/proportion_290x290/12911733083318090.jpg", "￥105", "产品成份：熏衣草、薄荷、芦荟等提取物。
+产品说明：平衡皮脂过度分泌，软化痘印，适宜油性肤质及各类暗疮肤质。
+使用方法：洁面后，取本品用指腹轻拍于脸上，吸收即可。", "保湿 补水 祛粉刺/祛痘 ", "150ml", "其他系列", "2015-05-22 20:25:11")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("523880b1fa68498cbf771ded40aa46df", "402881AC4D411BBA014D411BBAF80013", "老中医", "老中医 止痘修复液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/201012/1/spcgroup/proportion_290x290/12911734555881280.jpg", "￥158", "适应范围：适宜各类轻重痤疮、青春痘肤质、油性肤质。
+成      分：熏衣草精油、薄荷、芦荟等植物提取物。
+特      性：水性配方制作，不含酒精，不刺激皮肤。
+使用方法：早晚使用止痘洗面奶清洁皮肤后，将本品涂抹在有痘的部位。", "保湿 补水 祛粉刺/祛痘 ", "150ml", "止痘系列", "2015-05-22 20:25:16")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("73f0bb98f70f42cf86e4ba01c642afbe", "402881AC4D411BBA014D411BBAF80013", "Dermaviduals", "Dermaviduals 金光菊萃取液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20115/6/spcgroup/proportion_290x290/13046971800308070.gif", "暂无报价", "主要成份Aqua、Glycerin、Sorbitol、Echinaceapurpurea、XanthanGum產品特性紫锥花属紫苑家簇，生於北美草原地区。大量研究证实，紫锥花能增强及刺激人体免疫系统，有助消炎杀菌，抵抗病毒。", "保湿 美白 滋润 ", "暂无", "其他系列", "2015-05-22 20:25:18")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("4d9133badb054e22891094b8013a5c9d", "402881AC4D411BBA014D411BBAF80013", "Dermaviduals", "Dermaviduals 金缕梅萃取液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20115/7/spcgroup/proportion_290x290/13046999654615460.gif", "暂无报价", "主要成份Aqua、Glycerin、Sorbitol、HamamelisVirginiana、XanthanGum產品特性金缕梅含丰富的丹寧酸(tannin)对静脉血管收缩很有效。丰富的黄硷素(flavonid)提供重要的维他命P，对降低渗透毛细血管和加强微血管壁的的承受功能", "保湿 控油 滋润 ", "暂无", "其他系列", "2015-05-22 20:25:19")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fa89c6adafcd4a68a75a7b37a0b5c9fb", "402881AC4D411BBA014D411BBAF80013", "Dermaviduals", "Dermaviduals 酵母浓缩液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20115/7/spcgroup/proportion_290x290/13047002532821220.gif", "暂无报价", "主要成份Aqua、Sorbitol、Lecithin、YeastExtract、DisodiumPhosphate產品特性酵母含高单位的蛋白质、矿物质及维他命B群，可促进皮肤及黏膜的细胞机能，增加养份穿皮吸收率及增加新陈代谢率，帮助肌肤活化再生。", "保湿 滋润 ", "暂无", "其他系列", "2015-05-22 20:25:21")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("9275265f80974eb7b2305e44077e1f67", "402881AC4D411BBA014D411BBAF80013", "Dermaviduals", "Dermaviduals 微脂囊玻尿酸原液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20115/7/spcgroup/proportion_290x290/13047013103456130.gif", "暂无报价", "主要成份Aqua、PentyleneGlycol、Glycerin、Sorbitol、SodiumHyaluronate、XanthanGum、hydroxyethylcellulose產品特性一种存於脊椎动物之结缔组织凝胶状物质，通常取自於鸡冠的天然成份，具有保湿增黏效果", "保湿 抗衰老/抗皱 提拉紧致 ", "暂无", "其他系列", "2015-05-22 20:25:22")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("f6b6dc8611ef416fb2bfa40307f7c002", "402881AC4D411BBA014D411BBAF80013", "幽蔻", "幽蔻 W-40美白保湿液", "http://imgrt.pclady.com.cn/images/pclady/brand/brand_logo/20114/14/spcgroup/proportion_290x290/13027832334242250.jpg", "暂无报价", "", "保湿 美白 ", "暂无", "其他系列", "2015-05-22 20:25:25")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("d0afb7b79cbc49a596a2c68e89095fa8", "402881AC4D411BBA014D411BBAF80013", "伊贝诗", "伊贝诗 玻尿酸保湿原液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/22/c0/spcgroup/32338571_1395460944409_400x400_290x290.jpg", "￥198", "蕴含黄金保湿成分——玻尿酸， 1滴即可让肌肤瞬间喝饱水，并整天锁紧水分，深度滋养，使肌肤由内而外呈现柔嫩莹润。
+滴滴珍稀海洋植物精萃，储水锁水，活肤调理，舒缓柔嫩肌肤，使肌肤清润自然。", "保湿 补水 柔肤 活肤焕采 ", "30g", "海洋植物原液系列", "2015-05-25 09:40:26")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("16c460898b114e59ad68c9f4ec8b5028", "402881AC4D411BBA014D411BBAF80013", "伊贝诗", "伊贝诗 深海凝萃弹润醒肤液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/22/c0/spcgroup/32340374_1395465067051_400x400_290x290.jpg", "￥128", "富含高保湿锁水成分透明质酸，集补水、保湿、滋润于一体，通过加强肌肤的锁水屏障，双倍提升肌肤含水量，重塑肌肤保湿能力，令肌肤盈润饱满。
+纯天然海茸萃取精华蕴含海藻多酚、海藻胶原蛋白，唤醒肌肤活力，促进养分吸收，增强肌肤弹力，令肌肤弹、润、嫩、滑。
+ 
+重点成分介绍：海藻胶原蛋白，萃取自深海黄金—海茸，能渗入肌肤深层修护，形成锁水网，从源头赋活肌肤新生机能，增强肌肤弹性，时刻唤醒肌肤弹润光彩。", "保湿 提拉紧致 滋润 柔肤 活肤焕采 嫩肤 ", "130ml", "深海凝萃弹润系列", "2015-05-25 09:40:29")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("55b0b16712ce49cba342f1641193165e", "402881AC4D411BBA014D411BBAF80013", "伊贝诗", "伊贝诗 EGF修护原液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/22/c0/spcgroup/32338516_1395460800405_400x400_290x290.jpg", "￥198", "超越一般精华的至奢EGF修复因子，让受损的表皮肌肤得以即时修复，增强肌肤抵御外界侵害的能力，令肌肤恢复光洁平滑，柔嫩新生。 
+臻取深海藻活能精粹，促进胶原蛋白合成，增强肌肤弹性、淡化细纹。", "抗衰老/抗皱 提拉紧致 损伤修复 柔肤 活肤焕采 嫩肤 ", "30g", "海洋植物原液系列", "2015-05-25 09:40:31")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("fbab73f072534b5b91791f2aae2e93d0", "402881AC4D411BBA014D411BBAF80013", "伊贝诗", "伊贝诗 深海之谜恒润新生原液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/22/c0/spcgroup/32338797_1395461387111_400x400_290x290.jpg", "￥288", "富含10倍高浓缩胶原蛋白复合因子，迅速注入肌芯，带给肌肤充沛奢华营养，润白肌肤，改善肌肤松弛、暗沉、色斑等微老迹象，回复肌肤新生记忆。
+萃取自有“海底燕窝”美誉的血珊瑚的天然活性酵素，搭载韩国最新萃取科技，对抗游离自由基，修复环境刺激造成的伤害，延缓肌肤老化，回复紧实平滑，令肌肤由内而外绽放年轻光彩。", "祛斑 提拉紧致 滋润 损伤修复 提亮肤色 柔肤 活肤焕采 嫩肤 ", "30g", "深海之谜恒润新生系列", "2015-05-25 09:40:32")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("1dfc99ce92ac4f1f8eca62ad7c88fb76", "402881AC4D411BBA014D411BBAF80013", "伊贝诗", "伊贝诗 水漾剔透滋养液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1403/23/c0/spcgroup/32371109_1395558643509_400x400_290x290.jpg", "￥58", "独特海洋水分循环保湿配方，持续保湿滋润、细致毛孔，赋予肌肤光泽和弹力，防止因氧化引起的肌肤老化；
+迅速修护干燥缺水的肌肤，软化角质层，舒缓肌肤，倍添肌肤年轻活力。", "保湿 补水 收缩毛孔 舒缓肌肤 去角质 抗氧化 活肤焕采 ", "100g", "珍爱海洋系列", "2015-05-25 09:40:34")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("305f728c9b7c4395816e8a2040633a29", "402881AC4D411BBA014D411BBAF80013", "韩律", "韩律 人参精华导入液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1402/26/c0/spcgroup/31590504_1393403840835_400x400_290x290.jpg", "暂无报价", "", "抗衰老/抗皱 抗氧化 ", "暂无", "护肤系列", "2015-05-25 09:40:36")
+insert into qm_product (id,category_id,brand,name,product_img_url,price,description,effect,weight,product_series,creation_time) values("aec11530ceea43509a26fd0de3ef1152", "402881AC4D411BBA014D411BBAF80013", "安植", "安植 皙白更肤液", "http://imgrt.pconline.com.cn/images/upload/upc/tx/lady_cosme/1308/28/c0/spcgroup/25023035_1377698877755_400x400_290x290.jpg", "暂无报价", "成份： 酵母精华、苹果酸、PHA 美白因子、麴酸 功效： 活性酵母精华，击散黑色素群，有效淡化色斑，去除暗沉；甘菊精华，抑制新的黑色素群形成，使肌肤匀净明亮，焕然一新。 用法： 夜间洁面调理后，取本品适量轻涂色斑部位至吸收，请配合皙白更肤霜使用。 适用肤质：色素沉着肌肤。", "美白 祛斑 ", "20ml", "美白匀色系列", "2015-05-25 09:40:37")
